@@ -1,0 +1,32 @@
+<bill session="109" type="hc" number="64" updated="2014-12-10T13:45:37-05:00">
+  <state datetime="2005-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-15"/>
+  </status>
+  <introduced datetime="2005-02-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the Congress that there should be established a National Teacher Appreciation Day.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Special days"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2005--Introduced.
+Calls for a National Teacher Appreciation Day.</summary>
+</bill>

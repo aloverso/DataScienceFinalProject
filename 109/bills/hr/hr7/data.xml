@@ -1,0 +1,17 @@
+<bill session="109" type="h" number="7" updated="2014-12-10T13:43:41-05:00">
+  <state datetime="2005-01-04">INTRODUCED</state>
+  <status>
+    <introduced datetime="2005-01-04"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title type="official" as="introduced">Reserved.</title>
+  </titles>
+  <sponsor id="400169"/>
+  <cosponsors/>
+  <actions/>
+  <committees/>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

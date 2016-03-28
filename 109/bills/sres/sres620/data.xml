@@ -1,0 +1,40 @@
+<bill session="109" type="sr" number="620" updated="2014-12-10T13:45:51-05:00">
+  <state datetime="2006-11-16">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2006-11-16"/>
+  </status>
+  <introduced datetime="2006-11-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating November 2006 as "National Lung Cancer Awareness Month".</title>
+  </titles>
+  <sponsor id="300021"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2006-11-16" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11103" label="consideration"/>
+      <reference ref="CR S11103" label="text as passed Senate"/>
+      <reference ref="CR S11076-11077" label="text of measure as introduced"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sr" number="617"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorations"/>
+    <term name="Georgia"/>
+    <term name="Health education"/>
+    <term name="Lung cancer"/>
+    <term name="Medical research"/>
+    <term name="Medical tests"/>
+    <term name="Science, technology, communications"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2006--Passed Senate without amendment.
+Designates November 2006 as National Lung Cancer Awareness Month.
+
+Reaffirms the Senate's commitment to: (1) advancing lung cancer research and early detection, particularly the Lung Cancer Alliance of Georgia's goal of significantly increasing the 5-year survival rate of individuals diagnosed with lung cancer in the United States to 50% within 10 years; and (2) working with all federal agencies involved in cancer research to develop a coordinated road map for accomplishing that goal.</summary>
+</bill>

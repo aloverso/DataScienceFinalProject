@@ -1,0 +1,36 @@
+<bill session="109" type="h" number="247" updated="2014-12-10T13:43:48-05:00">
+  <state datetime="2005-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-06"/>
+  </status>
+  <introduced datetime="2005-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Increase in Numerical Limitation for Asylees Adjustment Act of 2005</title>
+    <title type="official" as="introduced">To increase the numerical limitation on the number of asylees whose status may be adjusted to that of an alien lawfully admitted for permanent residence.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-01-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Immigrants"/>
+    <term name="Refugees"/>
+    <term name="Right of asylum"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2005--Introduced.
+Increase in Numerical Limitation for Asylees Adjustment Act of 2005 - Amends the Immigration and Nationality Act to increase the annual limitation on the number of asylees who may adjust to permanent legal resident status.</summary>
+</bill>

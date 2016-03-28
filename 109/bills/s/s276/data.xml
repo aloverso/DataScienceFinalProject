@@ -1,0 +1,120 @@
+<bill session="109" type="s" number="276" updated="2014-12-10T13:46:00-05:00">
+  <state datetime="2005-09-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-09-21"/>
+  </status>
+  <introduced datetime="2005-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Wind Cave National Park Boundary Revision Act of 2005</title>
+    <title type="short" as="reported to senate">Wind Cave National Park Boundary Revision Act of 2005</title>
+    <title type="short" as="passed senate">Wind Cave National Park Boundary Revision Act of 2005</title>
+    <title type="short" as="enacted">Wind Cave National Park Boundary Revision Act of 2005</title>
+    <title type="official" as="introduced">A bill to revise the boundary of the Wind Cave National Park in the State of South Dakota.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2005-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S982"/>
+    </action>
+    <action datetime="2005-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S982" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2005-02-16" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2005-03-08">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-21.</text>
+    </action>
+    <calendar datetime="2005-03-08" calendar="Senate Legislative" under="General Orders" number="32">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2005-07-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9027" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on National Parks.</text>
+    </action>
+    <action datetime="2005-09-13T14:48:00-04:00">
+      <text>Mr. Fortuno moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-09-13T14:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7829-7830" label="consideration"/>
+    </action>
+    <action datetime="2005-09-13T14:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 276.</text>
+    </action>
+    <action datetime="2005-09-13T14:52:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-09-13T19:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7834" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="467" datetime="2005-09-13T19:20:00-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 295 - 106 (Roll no. 467).</text>
+      <reference ref="CR H7829-7830" label="text"/>
+    </vote>
+    <action datetime="2005-09-13T19:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2005-09-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-09-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-09-21" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-71" type="public" datetime="2005-09-21">
+      <text>Became Public Law No: 109-71.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="546"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agriculture and food"/>
+    <term name="Boundaries"/>
+    <term name="Caves"/>
+    <term name="Grazing"/>
+    <term name="Land transfers"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Licenses"/>
+    <term name="National parks"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/2005--Public Law.
+(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)
+
+Wind Cave National Park Boundary Revision Act of 2005 - Authorizes the Secretary of the Interior to acquire specified land or interests for addition to the Wind Cave National Park in South Dakota. Requires the Park's boundaries to be adjusted to reflect the acquisition of land.
+
+Requires the Secretary to: (1) administer acquired land as part of the Park; and (2) transfer administrative jurisdiction over the land from the Director of the Bureau of Land Management to the Director of the National Park Service.
+
+Authorizes the Secretary to: (1) allow the continuation of livestock grazing on such acquired land at the level existing on the date on which it is acquired; and (2) purchase the outstanding portion of, or accept the voluntary termination of, a grazing permit or lease on such land.</summary>
+</bill>

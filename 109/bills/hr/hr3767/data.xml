@@ -1,0 +1,100 @@
+<bill session="109" type="h" number="3767" updated="2014-12-10T13:44:50-05:00">
+  <state datetime="2005-10-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-10-04"/>
+  </status>
+  <introduced datetime="2005-09-14"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 2600 Oak Street in St. Charles, Illinois, as the "Jacob L. Frazier Post Office Building".</title>
+  </titles>
+  <sponsor id="400169"/>
+  <cosponsors>
+    <cosponsor id="400631" joined="2005-09-14"/>
+    <cosponsor id="400027" joined="2005-09-14"/>
+    <cosponsor id="400082" joined="2005-09-14"/>
+    <cosponsor id="400093" joined="2005-09-14"/>
+    <cosponsor id="400120" joined="2005-09-14"/>
+    <cosponsor id="400126" joined="2005-09-14"/>
+    <cosponsor id="400163" joined="2005-09-14"/>
+    <cosponsor id="400192" joined="2005-09-14"/>
+    <cosponsor id="400198" joined="2005-09-14"/>
+    <cosponsor id="400207" joined="2005-09-14"/>
+    <cosponsor id="400222" joined="2005-09-14"/>
+    <cosponsor id="400228" joined="2005-09-14"/>
+    <cosponsor id="400630" joined="2005-09-14"/>
+    <cosponsor id="400252" joined="2005-09-14"/>
+    <cosponsor id="400350" joined="2005-09-14"/>
+    <cosponsor id="400360" joined="2005-09-14"/>
+    <cosponsor id="400373" joined="2005-09-14"/>
+    <cosponsor id="400429" joined="2005-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-09-14" state="REFERRED">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2005-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2005-09-15" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2005-09-21T11:08:00-04:00">
+      <text>Mr. Gutknecht moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-09-21T11:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8177-8178" label="consideration"/>
+    </action>
+    <action datetime="2005-09-21T11:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3767.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2005-09-21T11:13:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8177" label="text"/>
+    </vote>
+    <action datetime="2005-09-21T11:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-09-22">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2005-09-27" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10480" label="consideration"/>
+    </vote>
+    <action datetime="2005-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-09-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-10-04" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-85" type="public" datetime="2005-10-04">
+      <text>Became Public Law No: 109-85.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Illinois"/>
+    <term name="Names"/>
+    <term name="National Guard"/>
+    <term name="Officer personnel"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/2005--Public Law.
+Designates the facility of the United States Postal Service located at 2600 Oak Street in St. Charles, Illinois, as the "Jacob L. Frazier Post Office Building."</summary>
+</bill>

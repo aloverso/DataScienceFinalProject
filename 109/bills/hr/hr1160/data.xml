@@ -1,0 +1,103 @@
+<bill session="109" type="h" number="1160" updated="2014-12-10T13:44:07-05:00">
+  <state datetime="2005-03-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-03-25"/>
+  </status>
+  <introduced datetime="2005-03-08"/>
+  <titles>
+    <title type="popular">TANF Extension Programs bill</title>
+    <title type="short" as="introduced">Welfare Reform Extension Act of 2005</title>
+    <title type="short" as="passed house">Welfare Reform Extension Act of 2005</title>
+    <title type="short" as="passed senate">Welfare Reform Extension Act of 2005</title>
+    <title type="short" as="enacted">Welfare Reform Extension Act of 2005</title>
+    <title type="official" as="introduced">To reauthorize the Temporary Assistance for Needy Families block grant program through June 30, 2005, and for other purposes.</title>
+  </titles>
+  <sponsor id="400176"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-03-08" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-03-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-03-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-03-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2005-03-14T14:55:00-05:00">
+      <text>Mr. Herger moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-03-14T14:56:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1387-1388" label="consideration"/>
+    </action>
+    <action datetime="2005-03-14T14:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1160.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2005-03-14T15:06:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1387" label="text"/>
+    </vote>
+    <action datetime="2005-03-14T15:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2005-03-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2754" label="consideration"/>
+    </vote>
+    <topresident datetime="2005-03-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2005-03-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-03-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-03-25" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-4" type="public" datetime="2005-03-25">
+      <text>Became Public Law No: 109-4.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aid to dependent children"/>
+    <term name="American Samoa"/>
+    <term name="Appropriations"/>
+    <term name="Authorization"/>
+    <term name="Cash welfare block grants"/>
+    <term name="Child abuse"/>
+    <term name="Child welfare"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Guam"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Puerto Rico"/>
+    <term name="Sexual abstinence"/>
+    <term name="Virgin Islands"/>
+    <term name="Welfare eligibility"/>
+    <term name="Welfare waivers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2005--Public Law.
+Welfare Reform Extension Act of 2005 - Amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act to extend through June 30, 2005, the TANF program, the national random sample study of child welfare, and child welfare waiver authority.</summary>
+</bill>

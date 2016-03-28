@@ -1,0 +1,54 @@
+<bill session="109" type="s" number="308" updated="2014-12-10T13:46:00-05:00">
+  <state datetime="2005-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-08"/>
+  </status>
+  <introduced datetime="2005-02-08"/>
+  <titles>
+    <title type="short" as="introduced">Risk-Based Homeland Security Funding Act</title>
+    <title type="official" as="introduced">A bill to require that Homeland Security grants related to terrorism preparedness and prevention be awarded based strictly on an assessment of risk, threat, and vulnerabilities.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="300022" joined="2005-04-13"/>
+    <cosponsor id="300028" joined="2005-02-08"/>
+    <cosponsor id="400272" joined="2006-03-16"/>
+    <cosponsor id="300087" joined="2005-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1117"/>
+    </action>
+    <action datetime="2005-02-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S1117-1118" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-02-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1373"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="1419"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="International affairs"/>
+    <term name="Revenue sharing"/>
+    <term name="Risk"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2005--Introduced.
+Risk-Based Homeland Security Funding Act - Requires all homeland security grants related to terrorism prevention and preparedness to be awarded based strictly on an assessment of risk, threat, and vulnerabilities as determined by the Secretary of Homeland Security. Prohibits such grant funds from being used for general revenue sharing.
+
+Excludes specified grant programs from coverage under this Act.</summary>
+</bill>

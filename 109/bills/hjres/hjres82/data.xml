@@ -1,0 +1,75 @@
+<bill session="109" type="hj" number="82" updated="2014-12-10T13:45:36-05:00">
+  <state datetime="2006-04-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-04-13"/>
+  </status>
+  <introduced datetime="2006-03-07"/>
+  <titles>
+    <title type="official" as="introduced">Providing for the reappointment of Alan G. Spoon as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+  </titles>
+  <sponsor id="400334"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2006-03-07"/>
+    <cosponsor id="400206" joined="2006-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-03-07" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-04-04T14:14:00-04:00">
+      <text>Mr. Ehlers moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2006-04-04T14:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1402-1403, H1418" label="consideration"/>
+    </action>
+    <action datetime="2006-04-04T14:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 82.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2006-04-04T14:18:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1402" label="text"/>
+    </vote>
+    <action datetime="2006-04-04T14:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2006-04-05" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3161" label="consideration"/>
+    </vote>
+    <topresident datetime="2006-04-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-04-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-04-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-04-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-217" type="public" datetime="2006-04-13">
+      <text>Became Public Law No: 109-217.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sj" number="29"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arts, culture, religion"/>
+    <term name="District of Columbia"/>
+    <term name="Federal officials"/>
+    <term name="Law"/>
+    <term name="Museums"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2006--Public Law.
+Reappoints Alan G. Spoon as a citizen regent of the Board of Regents of the Smithsonian Institution.</summary>
+</bill>

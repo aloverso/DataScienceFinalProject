@@ -1,0 +1,37 @@
+<bill session="109" type="s" number="1252" updated="2014-12-10T13:46:16-05:00">
+  <state datetime="2005-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2005-06-15"/>
+  </status>
+  <introduced datetime="2005-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Veterans Insurance Improvement Act of 2005</title>
+    <title type="official" as="introduced">A bill to amend section 1922A of title 38, United States Code, to increase the amount of supplemental insurance available for totally disabled veterans.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="400619" joined="2005-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-06-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2005-06-23">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government life insurance"/>
+    <term name="Insurance premiums"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2005--Introduced.
+Disabled Veterans Insurance Improvement Act of 2005 - Increases from $20,000 to $40,000 the maximum amount of supplemental service disabled veterans' insurance for totally disabled veterans.</summary>
+</bill>

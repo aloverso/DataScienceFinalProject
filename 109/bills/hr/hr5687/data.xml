@@ -1,0 +1,41 @@
+<bill session="109" type="h" number="5687" updated="2014-12-10T13:45:22-05:00">
+  <state datetime="2006-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2006-06-26"/>
+  </status>
+  <introduced datetime="2006-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Alpena, Michigan, Community Based Outpatient Clinic Act of 2006</title>
+    <title type="official" as="introduced">To require the Secretary of Veterans Affairs to establish and operate a community-based outpatient clinic in Alpena, Michigan.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2598"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Ambulatory care"/>
+    <term name="Clinics"/>
+    <term name="Health"/>
+    <term name="Michigan"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2006--Introduced.
+Alpena, Michigan, Community Based Outpatient Clinic Act of 2006 - Directs the Secretary of Veterans Affairs to establish and operate a community-based outpatient clinic for veterans at a location selected by the Secretary in Alpena, Michigan.
+
+Requires clinic operation within one year after the enactment of this Act.</summary>
+</bill>

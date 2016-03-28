@@ -1,0 +1,32 @@
+<bill session="109" type="h" number="2645" updated="2014-12-10T13:44:32-05:00">
+  <state datetime="2005-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-25"/>
+  </status>
+  <introduced datetime="2005-05-25"/>
+  <titles>
+    <title type="official" as="introduced">For the relief of Web's Construction Company, Incorporated.</title>
+  </titles>
+  <sponsor id="400438"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-05-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-06-03">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2005--Introduced.
+Directs the Secretary of the Treasury to pay Web's Construction Company, Incorporated, a specified sum plus interest for construction work performed for the Army Corps of Engineers.</summary>
+</bill>
