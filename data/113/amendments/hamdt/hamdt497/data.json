@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19T15:23:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7223", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7223", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hastings (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19T15:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hastings (WA) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt497-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1965-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment adjusts the amount of funds authorized to be made available to BLM field offices for energy permitting to ensure that the bill has a positive (deficit reducing) score.", 
+  "house_number": 1, 
+  "introduced_at": "2013-11-19", 
+  "number": 497, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 113-271 to adjust the amount of funds authorized to be made available to BLM field offices for energy permitting to ensure bill has a positive (deficit reducing) score.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-19T15:28:00-05:00", 
+  "updated_at": "2015-01-02T13:20:11-05:00"
+}

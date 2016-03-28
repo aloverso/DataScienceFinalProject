@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-28T10:03:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2076-2077, H2081-2082", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2076", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Cummings.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-28T10:56:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 86, 
+      "text": "On agreeing to the Cummings amendment (A001) Failed by recorded vote: 185 - 224 (Roll no. 86).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt573-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr899-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 899
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to strike section 5 of the bill which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.", 
+  "house_number": 1, 
+  "introduced_at": "2014-02-28", 
+  "number": 573, 
+  "purpose": "An amendment numbered 1 printed in House Report 113-362 to strike section 5 of the bill, which would eliminate the current exemption from the Unfunded Mandate Reform Act for certain independent agencies.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Cummings, Elijah E.", 
+    "state": "MD", 
+    "thomas_id": "00256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-28T10:56:00-05:00", 
+  "updated_at": "2015-01-02T13:20:50-05:00"
+}

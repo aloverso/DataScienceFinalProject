@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5164-5165", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5164", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Grayson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T21:02:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Grayson amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt799-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for the Limited English Proficiency Initiative within HUD by $150,000.", 
+  "house_number": 22, 
+  "introduced_at": "2014-06-09", 
+  "number": 799, 
+  "purpose": "An amendment to increase funding for creation and promotion of translated materials and other programs that support the assistance of persons with limited English proficiency in utilizing services provided by HUD by $150,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T21:02:00-04:00", 
+  "updated_at": "2015-01-02T13:22:44-05:00"
+}

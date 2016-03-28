@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T15:56:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6066-6068", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6066", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Mr. Barton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T16:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6068", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Barton amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1018-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 47, 
+  "introduced_at": "2014-07-10", 
+  "number": 1018, 
+  "purpose": "An amendment to authorize a new pilot program for the interim storage of nuclear waste.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Barton, Joe", 
+    "state": "TX", 
+    "thomas_id": "00062", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-10", 
+  "updated_at": "2015-01-02T13:24:34-05:00"
+}

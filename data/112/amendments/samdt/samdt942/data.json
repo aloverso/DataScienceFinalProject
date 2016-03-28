@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-10", 
+      "references": [], 
+      "text": "Amendment SA 942 proposed by Senator Cantwell for Senator Wicker.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-10", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 942 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt942-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s363-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 363
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-10", 
+  "number": 942, 
+  "proposed_at": "2011-11-10", 
+  "purpose": "To improve the bill.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wicker, Roger F.", 
+    "state": "MS", 
+    "thomas_id": "01226", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-10", 
+  "updated_at": "2013-07-19T20:14:10-04:00"
+}

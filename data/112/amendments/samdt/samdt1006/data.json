@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt1006-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt957-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 957
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-15", 
+  "number": 1006, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-15", 
+  "updated_at": "2013-07-19T20:14:43-04:00"
+}

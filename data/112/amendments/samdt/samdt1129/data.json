@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S1015-1021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8017", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1129 proposed by Senator Levin for Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1129 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1129-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1129, 
+  "proposed_at": "2011-11-30", 
+  "purpose": "To redesignate the Mike O'Callaghan Federal Hospital in Nevada as the Mike O'Callaghan Federal Medical Center.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-30", 
+  "updated_at": "2013-07-19T20:15:46-04:00"
+}

@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1222" updated="2013-07-19T20:16:33-04:00">
+  <amends type="h" number="3321" sequence=""/>
+  <status datetime="2011-11-17">pass</status>
+  <sponsor id="300043"/>
+  <offered datetime="2011-11-17"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1222 proposed by Senator Levin for Senator Feinstein.</text>
+      <reference ref="CR S7777-7778" label="consideration"/>
+      <reference ref="CR S7777-7778" label="text"/>
+    </action>
+    <vote datetime="2011-11-17" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1222 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

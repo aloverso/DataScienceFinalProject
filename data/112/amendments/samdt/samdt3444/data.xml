@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3444" updated="2013-07-19T20:35:44-04:00">
+  <amends type="h" number="6621" sequence=""/>
+  <status datetime="2012-12-28">pass</status>
+  <sponsor id="300065"/>
+  <offered datetime="2012-12-28"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2012-12-28">
+      <text>Amendment SA 3444 proposed by Senator Reid for Senator Leahy.</text>
+      <reference ref="CR S8517-8518" label="consideration"/>
+      <reference ref="CR S8517-8518" label="text"/>
+    </action>
+    <vote datetime="2012-12-28" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3444 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

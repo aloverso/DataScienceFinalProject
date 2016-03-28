@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05T17:31:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2190", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-05T17:35:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKinley amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt579-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3826-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3826
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to require the EPA, when submitting its report to Congress, to consult with the Energy Information Administration, Comptroller General, National Energy Technology Laboratory, and the National Institute for Standards and Technology.", 
+  "house_number": 4, 
+  "introduced_at": "2014-03-05", 
+  "number": 579, 
+  "purpose": "An amendment numbered 4 printed in House Report 113-373 to require the EPA when submitting their report to Congress to consult with the Energy Information Administration; Comptroller General; National Energy Technology Laboratory; and the National Institute for Standards and Technology.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-05T17:35:00-05:00", 
+  "updated_at": "2015-01-02T13:20:53-05:00"
+}

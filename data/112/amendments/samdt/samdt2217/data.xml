@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2217" updated="2013-07-19T20:25:14-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">fail</status>
+  <sponsor id="400408"/>
+  <offered datetime="2012-06-07"/>
+  <description>To eliminate the organic certification cost share assistance program.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2217 proposed by Senator Toomey.</text>
+      <reference ref="CR S4276-4277" label="consideration"/>
+      <reference ref="CR S4276" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="fail" roll="134">
+      <text>Amendment SA 2217 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 134.</text>
+    </vote>
+  </actions>
+</amendment>

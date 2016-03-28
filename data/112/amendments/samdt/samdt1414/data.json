@@ -1,0 +1,87 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7903", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1414 proposed by Senator Levin for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8014, S8027-8030", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8095, S8105-8107, S8125-8126", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 216, 
+      "text": "Amendment SA 1414 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 216.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1414-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-28", 
+  "number": 1414, 
+  "proposed_at": "2011-11-28", 
+  "purpose": "To require the imposition of sanctions with respect to the financial sector of Iran, including the Central Bank of Iran.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-01", 
+  "updated_at": "2013-07-19T20:18:12-04:00"
+}

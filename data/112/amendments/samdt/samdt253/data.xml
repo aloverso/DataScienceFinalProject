@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="253" updated="2013-07-19T20:08:16-04:00">
+  <amends type="s" number="493" sequence=""/>
+  <status datetime="2011-03-28">offered</status>
+  <sponsor id="300091"/>
+  <offered datetime="2011-03-28"/>
+  <description>To prevent fraud in small business contracting.</description>
+  <actions>
+    <action datetime="2011-04-06">
+      <text>Amendment SA 253 proposed by Senator Landrieu for Senator Snowe.</text>
+      <reference ref="CR S2182-2183" label="consideration"/>
+    </action>
+    <action datetime="2011-05-02">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S2572" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

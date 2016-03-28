@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5988", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Crawford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T14:57:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5988", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Crawford amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt978-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2014-07-09", 
+  "number": 978, 
+  "purpose": "An amendment to redirect $18.8 million in funding within the Mississippi River and Tributaries account.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Crawford, Eric A. \"Rick\"", 
+    "state": "AR", 
+    "thomas_id": "01989", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-09", 
+  "updated_at": "2015-01-02T13:24:14-05:00"
+}

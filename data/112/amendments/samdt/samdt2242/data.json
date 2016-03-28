@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20", 
+      "references": [
+        {
+          "reference": "CR S4348", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4348", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2242 proposed by Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2242 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2242-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-07", 
+  "number": 2242, 
+  "proposed_at": "2012-06-20", 
+  "purpose": "To amend section 520 of the Housing Act of 1949 to revise the census data and population requirements for areas to be considered as rural areas for purposes of such Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Ben", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-20", 
+  "updated_at": "2013-07-19T20:25:26-04:00"
+}

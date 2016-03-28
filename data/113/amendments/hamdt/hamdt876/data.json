@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T16:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5452", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5452", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Benishek.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T16:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Benishek amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt876-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funds for the Operation and Maintenance Account, Defense-Wide by $2 million and increases funds for Alzheimer's disease research by a similar amount.", 
+  "house_number": 10, 
+  "introduced_at": "2014-06-18", 
+  "number": 876, 
+  "purpose": "An amendment to reduce funds for Operation and Maintenance, Defense-Wide by $2,000,000 and increase funds for the Defense Health Program by the same amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Benishek, Dan", 
+    "state": "MI", 
+    "thomas_id": "02027", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T16:43:00-04:00", 
+  "updated_at": "2015-01-02T13:23:23-05:00"
+}

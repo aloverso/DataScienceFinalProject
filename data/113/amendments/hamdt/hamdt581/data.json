@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05T17:43:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2191-2192", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2191", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Schakowsky.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06T10:43:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2210", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 103, 
+      "text": "On agreeing to the Schakowsky amendment (A006) Failed by recorded vote: 190 - 221 (Roll no. 103).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt581-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3826-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3826
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2014-03-05", 
+  "number": 581, 
+  "purpose": "An amendment numbered 6 printed in House Report 113-373 to accept the scientific finding of the EPA that greenhouse gas pollution is \"contributing to long-lasting changes in our climate that can have a range of negative effects\".", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Schakowsky, Janice D.", 
+    "state": "IL", 
+    "thomas_id": "01588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-03-06T10:43:00-05:00", 
+  "updated_at": "2015-01-02T13:20:54-05:00"
+}

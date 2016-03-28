@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T18:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5526-5527", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5526", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A046) offered by Ms. Lee (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T22:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 326, 
+      "text": "On agreeing to the Lee (CA) amendment (A046) Failed by recorded vote: 182 - 231 (Roll no. 326).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt912-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 46, 
+  "introduced_at": "2014-06-19", 
+  "number": 912, 
+  "purpose": "An amendment No. 33 printed in the Congressional Record to prohibit use of funds to be obligated or expended pursuant to the Authorization for Use of Military Force Against Iraq Resolution of 2002.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-19T22:44:00-04:00", 
+  "updated_at": "2015-01-02T13:23:41-05:00"
+}

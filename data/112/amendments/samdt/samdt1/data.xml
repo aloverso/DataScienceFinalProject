@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1" updated="2013-07-19T20:06:01-04:00">
+  <amends type="sr" number="10" sequence=""/>
+  <status datetime="2011-01-27">pass</status>
+  <sponsor id="400413"/>
+  <offered datetime="2011-01-27"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2011-01-27">
+      <text>Amendment SA 1 proposed by Senator Udall NM.</text>
+      <reference ref="CR S296-297" label="consideration"/>
+      <reference ref="CR S296-297" label="text"/>
+    </action>
+    <vote datetime="2011-01-27" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

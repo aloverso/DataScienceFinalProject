@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-16T12:55:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6318", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6318", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A045) offered by Mr. Gallego.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T13:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6318", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Gallego amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1097-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 45, 
+  "introduced_at": "2014-07-16", 
+  "number": 1097, 
+  "purpose": "An amendment to prohibit the use of funds to implement or enforce Revenue Ruling 2012-2018 (or any guidance of the same substance).", 
+  "sponsor": {
+    "district": "23", 
+    "name": "Gallego, Pete P.", 
+    "state": "TX", 
+    "thomas_id": "02164", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-16", 
+  "updated_at": "2015-01-02T13:25:13-05:00"
+}

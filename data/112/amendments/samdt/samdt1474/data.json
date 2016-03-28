@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-01-31", 
+      "references": [
+        {
+          "reference": "CR S189-190", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S189-190", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1474 proposed by Senator Coburn to Amendment SA 1470.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01", 
+      "references": [
+        {
+          "reference": "CR S239", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S290, S299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1474 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1474-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1470-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1470
+  }, 
+  "amends_bill": {
+    "bill_id": "s2038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-01-30", 
+  "number": 1474, 
+  "proposed_at": "2012-01-31", 
+  "purpose": "To require that all legislation be placed online for 72 hours before it is voted on by the Senate or the House.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-19T20:18:42-04:00"
+}

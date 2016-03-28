@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17", 
+      "references": [
+        {
+          "reference": "CR S827, S828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S827", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 71 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 71 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt71-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-10", 
+  "number": 71, 
+  "proposed_at": "2011-02-17", 
+  "purpose": "To control helicopter noise pollution in residential areas.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17", 
+  "updated_at": "2013-07-19T20:06:38-04:00"
+}

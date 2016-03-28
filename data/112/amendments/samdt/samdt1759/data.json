@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1593-1594, S1595-1596", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1593", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1759 proposed by Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 37, 
+      "text": "Amendment SA 1759 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1759-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-01", 
+  "number": 1759, 
+  "proposed_at": "2012-03-13", 
+  "purpose": "To remove privatized highways from consideration in apportioning highway funding among States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-13", 
+  "updated_at": "2013-07-19T20:21:13-04:00"
+}

@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-30", 
+      "references": [
+        {
+          "reference": "CR S7284-7285", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7284", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3073 proposed by Senator Nelson FL.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "references": [], 
+      "text": "Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 3073.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "references": [], 
+      "text": "Motion to waive section 302(f) of the CBA with respect to amendment SA 3073 rejected in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 216.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "references": [], 
+      "text": "Amendment SA 3073 ruled out of order by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3073-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3073, 
+  "proposed_at": "2012-11-30", 
+  "purpose": "To repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-11-28", 
+  "updated_at": "2013-07-19T20:32:34-04:00"
+}

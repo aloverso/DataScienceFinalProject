@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T19:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5485", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5485", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Nolan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T19:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nolan amendment (A036) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt902-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 36, 
+  "introduced_at": "2014-06-18", 
+  "number": 902, 
+  "purpose": "An amendment to prohibit use of funds for the \"Afghanistan Infrastructure Fund\".", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Nolan, Richard M.", 
+    "state": "MN", 
+    "thomas_id": "00867", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T19:52:00-04:00", 
+  "updated_at": "2015-01-02T13:23:36-05:00"
+}

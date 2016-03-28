@@ -1,0 +1,41 @@
+<bill session="109" type="s" number="3899" updated="2014-12-10T13:46:47-05:00">
+  <state datetime="2006-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2006-09-14"/>
+  </status>
+  <introduced datetime="2006-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Balanced Trade Restoration Act of 2006</title>
+    <title type="official" as="introduced">A bill to achieve balance in the foreign trade of the United States, through a market-based system of tradable certificates, and for other purposes.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300042" joined="2006-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-09-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative procedure"/>
+    <term name="Balance of payments"/>
+    <term name="Department of Commerce"/>
+    <term name="Energy"/>
+    <term name="Exports"/>
+    <term name="Government operations and politics"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Law"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/2006--Introduced.
+Balanced Trade Restoration Act of 2006 - Directs the Secretary of Commerce to establish a Balanced Trade Certificate Program within the International Trade Administration of the Department of Commerce. Provides under such Program for the issuance of certificates to measure and control U.S. imports and exports to achieve a balance in the foreign trade of the United States. Exempts importers of oil or gas during the first five years of the program.</summary>
+</bill>

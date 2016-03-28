@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-14T20:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6181-6182", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6181", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Grayson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-14T20:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Grayson amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1053-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for salaries and expenses of the Office of Terrorism and Financial Intelligence by $5 million and to reduce funding for salaries and expenses of Administration of Treasury Inspector General for Tax by a similar amount.", 
+  "house_number": 2, 
+  "introduced_at": "2014-07-14", 
+  "number": 1053, 
+  "purpose": "An amendment to increase funding for salaries and expenses of the Office of Terrorism and Financial Intelligence by $5 million and to reduce funding for salaries and expenses of Administration of Treasury Inspector General for Tax by a similar amount.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-14T20:12:00-04:00", 
+  "updated_at": "2015-01-02T13:24:51-05:00"
+}

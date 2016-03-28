@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11T17:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5297-5298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5297", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. McNerney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T17:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McNerney amendment (A014) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt859-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4800-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment ensures that $11 million in funding within the Farm Service Agency goes towards the Emergency Conservation Program.", 
+  "house_number": 14, 
+  "introduced_at": "2014-06-11", 
+  "number": 859, 
+  "purpose": "An amendment to redirect $11 million in funding within the Farm Service Agency.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-11T17:09:00-04:00", 
+  "updated_at": "2015-01-02T13:23:14-05:00"
+}

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "references": [
+        {
+          "reference": "CR S3964-3972, S3982", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3378 proposed by Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3378 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3378-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr803-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 803
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-06-25", 
+  "number": 3378, 
+  "proposed_at": "2014-06-25", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-25", 
+  "updated_at": "2015-01-02T13:09:46-05:00"
+}

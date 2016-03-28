@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3375-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-18", 
+  "number": 3375, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-12-18", 
+  "updated_at": "2013-07-19T20:35:08-04:00"
+}

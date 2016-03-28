@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8123-8124, S8125", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8123", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1456 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 215, 
+      "text": "Amendment SA 1456 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 215.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1456-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-12-01", 
+  "number": 1456, 
+  "proposed_at": "2011-12-01", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-01", 
+  "updated_at": "2013-07-19T20:18:33-04:00"
+}

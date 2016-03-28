@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T18:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3351-3352", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3351", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T18:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gosar amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt635-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funds for the Department of Veterans Affairs Information Technology Systems by $3,215,910 and reduces funds for Department of Veterans Affairs General Administration by a similar amount in order to redirect funds towards veterans' services.", 
+  "house_number": 18, 
+  "introduced_at": "2014-04-30", 
+  "number": 635, 
+  "purpose": "An amendment to increase funds for the Department of Veterans Affairs Information Technology Systems by $3,215,910 and to reduce funds for Department of Veterans Affairs General Administration by the same amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T18:10:00-04:00", 
+  "updated_at": "2015-01-02T13:21:21-05:00"
+}

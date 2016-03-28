@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T20:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5554-5555, H5537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5537", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A060) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T23:06:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 331, 
+      "text": "On agreeing to the Ellison amendment (A060) Agreed to by recorded vote: 212 - 204 (Roll no. 331).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt926-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 60, 
+  "introduced_at": "2014-06-19", 
+  "number": 926, 
+  "purpose": "An amendment to prohibit use of funds to enter into a contract with any person whose disclosures of a proceeding with a disposition listed in section 2313(c)(1) of title 41, United States Code, in the Federal Awardee Performance and Integrity Information System include the term \"Fair Labor Standards Act\".", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T23:06:00-04:00", 
+  "updated_at": "2015-01-02T13:23:48-05:00"
+}

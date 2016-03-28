@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-08", 
+      "references": [
+        {
+          "reference": "CR S623", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S623", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 49 proposed by Senator Udall NM.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-14", 
+      "references": [
+        {
+          "reference": "CR S653", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15", 
+      "references": [
+        {
+          "reference": "CR S710, S731-732", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S731-732", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-16", 
+      "references": [
+        {
+          "reference": "CR S768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "references": [
+        {
+          "reference": "CR S809, S828", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 49 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt49-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-04", 
+  "number": 49, 
+  "proposed_at": "2011-02-08", 
+  "purpose": "To authorize Dona Ana County, New Mexico, to exchange certain land conveyed to it for airport purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17", 
+  "updated_at": "2013-07-19T20:06:27-04:00"
+}

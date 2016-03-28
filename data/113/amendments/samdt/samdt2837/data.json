@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-12", 
+      "references": [
+        {
+          "reference": "CR S1566-1568, S1569", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1566", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2837 proposed by Senator Scott.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2837 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2837-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-12", 
+  "number": 2837, 
+  "proposed_at": "2014-03-12", 
+  "purpose": "To clarify parental rights to use child care certificates.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Scott, Tim", 
+    "state": "SC", 
+    "thomas_id": "02056", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-12", 
+  "updated_at": "2015-01-02T13:05:13-05:00"
+}

@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-03", 
+      "references": [
+        {
+          "reference": "CR S533-535", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S533", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 19 proposed by Senator Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-03", 
+      "references": [], 
+      "text": "Motion to table amendment SA 19 made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-03", 
+      "references": [], 
+      "text": "Motion to table amendment SA 19 agreed to in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 11.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt19-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-01", 
+  "number": 19, 
+  "proposed_at": "2011-02-03", 
+  "purpose": "To limit the application of the Davis-Bacon Act in the case of projects funded under this Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-02-01", 
+  "updated_at": "2013-07-19T20:06:12-04:00"
+}

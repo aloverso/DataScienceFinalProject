@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10", 
+      "references": [
+        {
+          "reference": "CR S4439", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4439", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3553 proposed by Senator Reid for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3553 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3553-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres412-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 412
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-07-10", 
+  "number": 3553, 
+  "proposed_at": "2014-07-10", 
+  "purpose": "To make a technical correction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10", 
+  "updated_at": "2015-01-02T13:11:15-05:00"
+}

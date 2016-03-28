@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T10:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3386-3387, H3389-3390", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3386", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T11:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 191, 
+      "text": "On agreeing to the Holt amendment (A008) Failed by recorded vote: 164 - 248 (Roll no. 191).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt649-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reallocate $2.5 million to the Office of Technology Assessment (OTA), offset from funds in the House Historic Buildings Revitalization Trust Fund.", 
+  "house_number": 8, 
+  "introduced_at": "2014-05-01", 
+  "number": 649, 
+  "purpose": "An amendment numbered 8 printed in House Report 113-426 to appropriate $2.5 million to re-institute the Office of Technology Assessment (OTA), offset from funds in the House Historic Buildings Revitalization Trust Fund.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-01T11:42:00-04:00", 
+  "updated_at": "2015-01-02T13:21:28-05:00"
+}

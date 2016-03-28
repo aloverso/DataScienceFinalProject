@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T21:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4987-4988", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Mr. Flores.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T21:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Flores amendment (A062) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt751-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 62, 
+  "introduced_at": "2014-05-29", 
+  "number": 751, 
+  "purpose": "An amendment to prohibit the use of funds to implement Executive Order 13547 (75 Fed. Reg. 43023, relating to the stewardship of oceans, coasts, and the Great Lakes), including the National Ocean Policy developed under such Executive Order.", 
+  "sponsor": {
+    "district": "17", 
+    "name": "Flores, Bill", 
+    "state": "TX", 
+    "thomas_id": "02065", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T21:33:00-04:00", 
+  "updated_at": "2015-01-02T13:22:19-05:00"
+}

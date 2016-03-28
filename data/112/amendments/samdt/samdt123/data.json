@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1033-1034", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1033", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 123 proposed by Senator Kirk.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02", 
+      "references": [
+        {
+          "reference": "CR S1089, S1093", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 123 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt123-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-01", 
+  "number": 123, 
+  "proposed_at": "2011-03-01", 
+  "purpose": "To provide a fast lane for small businesses within the U.S. Patent and Trademark Office to receive information and support regarding patent filing issues.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-02", 
+  "updated_at": "2013-07-19T20:07:06-04:00"
+}

@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2120-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-21", 
+  "number": 2120, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-05-21", 
+  "updated_at": "2013-07-19T20:24:22-04:00"
+}

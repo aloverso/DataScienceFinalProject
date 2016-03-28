@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="491" updated="2013-07-19T20:10:21-04:00">
+  <amends type="sr" number="141" sequence=""/>
+  <status datetime="2011-06-20">pass</status>
+  <sponsor id="300026"/>
+  <offered datetime="2011-06-20"/>
+  <description>To improve the resolved clause.</description>
+  <actions>
+    <action datetime="2011-06-20">
+      <text>Amendment SA 491 proposed by Senator Menendez for Senator Conrad.</text>
+      <reference ref="CR S3937" label="consideration"/>
+      <reference ref="CR S3937" label="text"/>
+    </action>
+    <vote datetime="2011-06-20" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 491 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

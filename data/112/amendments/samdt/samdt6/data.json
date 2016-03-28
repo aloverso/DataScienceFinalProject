@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-03", 
+      "references": [
+        {
+          "reference": "CR S536", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S536", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 6 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-07", 
+      "references": [
+        {
+          "reference": "CR S586", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-08", 
+      "references": [
+        {
+          "reference": "CR S622", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-14", 
+      "references": [
+        {
+          "reference": "CR S653, S670-673", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-14", 
+      "references": [
+        {
+          "reference": "CR S670-671", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 6 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt6-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-01", 
+  "number": 6, 
+  "proposed_at": "2011-02-03", 
+  "purpose": "To provide liability protection to volunteer pilot nonprofit organizations that fly for public benefit and to the pilots and staff of such nonprofit organizations, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2011-02-14", 
+  "updated_at": "2013-07-19T20:06:05-04:00"
+}

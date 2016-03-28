@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-01", 
+      "references": [
+        {
+          "reference": "CR S2041", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2041", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2957 proposed by Senator Reid for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2957 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2957-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres371-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 371
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-04-01", 
+  "number": 2957, 
+  "proposed_at": "2014-04-01", 
+  "purpose": "To amend the title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-01", 
+  "updated_at": "2015-01-02T13:06:13-05:00"
+}

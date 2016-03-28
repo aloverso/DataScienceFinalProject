@@ -1,0 +1,21 @@
+<amendment session="112" chamber="s" number="869" updated="2013-07-19T20:13:33-04:00">
+  <amends type="h" number="2112" sequence=""/>
+  <status datetime="2011-10-20">pass</status>
+  <sponsor id="412223"/>
+  <offered datetime="2011-10-19"/>
+  <description>To increase funding for the emergency conservation program and the emergency watershed protection program.</description>
+  <actions>
+    <action datetime="2011-10-19">
+      <text>Amendment SA 869 proposed by Senator Gillibrand to Amendment SA 738.</text>
+      <reference ref="CR S6753-6755" label="consideration"/>
+      <reference ref="CR S6754" label="text"/>
+    </action>
+    <action datetime="2011-10-20">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6792, S6843" label="consideration"/>
+    </action>
+    <vote datetime="2011-10-20" how="roll" result="pass" roll="181">
+      <text>Amendment SA 869 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 181.</text>
+    </vote>
+  </actions>
+</amendment>

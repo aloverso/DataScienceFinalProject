@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-18", 
+      "references": [
+        {
+          "reference": "CR S6633-6634, S6644-6645, S6646-6648", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6633", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 739 proposed by Senator McCain to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-19", 
+      "references": [
+        {
+          "reference": "CR S6708-6713, S6716-6717", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-19", 
+      "references": [], 
+      "text": "Motion to table amendment SA 739 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 170.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt739-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-17", 
+  "number": 739, 
+  "proposed_at": "2011-10-18", 
+  "purpose": "To ensure that the critical surface transportation needs of the United States are made a priority by prohibiting funds from being used on lower-priority projects, such as transportation museums and landscaping.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-10-17", 
+  "updated_at": "2013-07-19T20:12:25-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24T13:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6763-6764, H6775-6776", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6763", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Kilmer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:17:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 444, 
+      "text": "On agreeing to the Kilmer amendment (A002) Agreed to by recorded vote: 404 - 14 (Roll no. 444).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1117-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4984-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4984
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment ensures that each individual is aware of financial management resources provided by the Treasury Department's Financial Literacy and Education Commission.", 
+  "house_number": 2, 
+  "introduced_at": "2014-07-24", 
+  "number": 1117, 
+  "purpose": "An amendment No. 2 printed in part B of House Report 113-546 to ensure that each individual is aware of financial management resources provided by the Treasury Department's Financial Literacy and Education Commission.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "thomas_id": "02169", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-24T15:17:00-04:00", 
+  "updated_at": "2015-01-02T13:25:23-05:00"
+}

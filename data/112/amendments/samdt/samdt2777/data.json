@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-08-02", 
+      "references": [
+        {
+          "reference": "CR S6010", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6010", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2777 proposed by Senator Reid for Senator Brown OH.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-08-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2777 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2777-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres418-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 418
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-08-02", 
+  "number": 2777, 
+  "proposed_at": "2012-08-02", 
+  "purpose": "In the nature of a substitute, to the preamble.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-08-02", 
+  "updated_at": "2013-07-19T20:30:02-04:00"
+}

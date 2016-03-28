@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T22:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5176", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A031) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T22:09:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson Lee amendment (A031) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt808-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds in contravention of the Secretary's ability to make grants to State and local government authorities to assist in financing of capital and small start projects, including acquisition of real property.", 
+  "house_number": 31, 
+  "introduced_at": "2014-06-09", 
+  "number": 808, 
+  "purpose": "An amendment to prohibit use of funds in contravention of section 5309 of title 49, United States Code.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T22:09:00-04:00", 
+  "updated_at": "2015-01-02T13:22:49-05:00"
+}

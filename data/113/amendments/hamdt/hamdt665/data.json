@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20T20:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4673-4674", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4673", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Gohmert.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-20T20:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4674", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Gohmert amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt665-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4435-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4435
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2014-05-20", 
+  "number": 665, 
+  "purpose": "An amendment No. 2 printed in House Report 113-455 to require the Secretary of Defense to establish either a security monitoring duty roster program that would authorize certain DoD personnel to openly carry a firearm on a military installation, or procedure to permit qualified military personnel to openly carry a firearm on a military installation for personal protection.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-20", 
+  "updated_at": "2015-01-02T13:21:36-05:00"
+}

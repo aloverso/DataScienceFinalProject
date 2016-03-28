@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7686", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1114 proposed by Senator Begich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7785, S7822", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8012", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8094, S8116-8117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8116-8117", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1114 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1114-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1114, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To amend title 10, United States Code, to authorize space-available travel on military aircraft for members of the reserve components, a member or former member of a reserve component who is eligible for retired pay but for age, widows and widowers of retired members, and dependents.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-01", 
+  "updated_at": "2013-07-19T20:15:39-04:00"
+}

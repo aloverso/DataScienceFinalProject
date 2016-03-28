@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11T17:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5299-5300, H5311-5312", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5299", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T18:56:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 306, 
+      "text": "On agreeing to the Broun (GA) amendment (A016) Failed by recorded vote: 62 - 358 (Roll no. 306).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt861-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4800-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to zero out the $25 million in funding for the Watershed Rehabilitation Program and to apply the savings to the spending reduction account.", 
+  "house_number": 16, 
+  "introduced_at": "2014-06-11", 
+  "number": 861, 
+  "purpose": "An amendment to zero out the $25 million in funding for the Watershed Rehabilitation Program and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-11T18:56:00-04:00", 
+  "updated_at": "2015-01-02T13:23:15-05:00"
+}

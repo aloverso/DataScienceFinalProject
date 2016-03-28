@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt475-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-15", 
+  "number": 475, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "thomas_id": "01823", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-15", 
+  "updated_at": "2013-07-19T20:10:13-04:00"
+}

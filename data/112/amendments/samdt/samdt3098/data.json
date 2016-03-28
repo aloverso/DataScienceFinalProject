@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7174-7178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7177-7178", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3098 proposed by Senator Levin for Senator Shaheen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3098 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3098-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3098, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To require a report by the suspension and debarment officials of the military departments and the Defense Logistics Agency.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shaheen, Jeanne", 
+    "state": "NH", 
+    "thomas_id": "01901", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:32:46-04:00"
+}

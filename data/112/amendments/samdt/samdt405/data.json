@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-09", 
+      "references": [
+        {
+          "reference": "CR S3662", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3662", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 405 proposed by Senator Brown MA.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-14", 
+      "references": [
+        {
+          "reference": "CR S3752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15", 
+      "references": [
+        {
+          "reference": "CR S3847", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16", 
+      "references": [
+        {
+          "reference": "CR S3852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "references": [
+        {
+          "reference": "CR S3962", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt405-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-07", 
+  "number": 405, 
+  "proposed_at": "2011-06-09", 
+  "purpose": "To repeal the imposition of withholding on certain payments made to vendors by government entities, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Scott P.", 
+    "state": "MA", 
+    "thomas_id": "01975", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-07", 
+  "updated_at": "2013-07-19T20:09:37-04:00"
+}

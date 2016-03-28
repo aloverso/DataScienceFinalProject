@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8015-8021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8020", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1280 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1280 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1280-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-18", 
+  "number": 1280, 
+  "proposed_at": "2011-11-30", 
+  "purpose": "To require the Secretary of Defense to submit, with the budget justification materials supporting the Department of Defense budget request for fiscal year 2013, information on the implementation of recommendations made by the Government Accountability Office with respect to the acquisition of launch services through the Evolved Expendable Launch Vehicle program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-30", 
+  "updated_at": "2013-07-19T20:17:03-04:00"
+}

@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7790-7794", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7790", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1153 proposed by Senator Udall NM.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8095", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1153.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Amendment SA 1153 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1153-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1153, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To include ultralight vehicles in the definition of aircraft for purposes of the aviation smuggling provisions of the Tariff Act of 1930.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-17", 
+  "updated_at": "2013-07-19T20:15:58-04:00"
+}

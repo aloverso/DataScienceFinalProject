@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3114" updated="2013-07-19T20:32:54-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="300066"/>
+  <offered datetime="2012-11-28"/>
+  <description>To authorize the repair, overhaul, and refurbishment of defense articles for sale or transfer to eligible foreign countries and entities.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3114 proposed by Senator Levin.</text>
+      <reference ref="CR S7196-7201" label="consideration"/>
+      <reference ref="CR S7196-7197" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3114 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

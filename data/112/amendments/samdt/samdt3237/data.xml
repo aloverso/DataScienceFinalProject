@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3237" updated="2013-07-19T20:33:57-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="400576"/>
+  <offered datetime="2012-11-29"/>
+  <description>To set forth consequences for the failure of the Department of Defense to obtain audits with an unqualified opinion on its financial statements by fiscal year 2017.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3237 proposed by Senator Levin for Senator Coburn.</text>
+      <reference ref="CR S7196-7201" label="consideration"/>
+      <reference ref="CR S7198-7199" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3237 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-18", 
+      "references": [
+        {
+          "reference": "CR S8094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "S8094", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2126 proposed by Senator Reid to Amendment SA 2125 (the instructions of the motion to recommit).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8153", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8153", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "SA 2126 fell when SA 2125 withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2126-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2125-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 2125
+  }, 
+  "amends_bill": {
+    "bill_id": "s1197-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1197
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-18", 
+  "number": 2126, 
+  "proposed_at": "2013-11-18", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2013-11-18", 
+  "updated_at": "2015-01-02T12:59:17-05:00"
+}

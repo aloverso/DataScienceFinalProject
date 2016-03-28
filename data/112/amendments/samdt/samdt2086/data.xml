@@ -1,0 +1,16 @@
+<amendment session="112" chamber="s" number="2086" updated="2013-07-19T20:24:03-04:00">
+  <amends type="s" number="1925" sequence=""/>
+  <status datetime="2012-04-26">fail</status>
+  <sponsor id="300027"/>
+  <offered datetime="2012-04-25"/>
+  <description>To amend title 18 of the United States Code and other provisions of law to strengthen provisions of the Violence Against Women Act and improve justice for crime victims.</description>
+  <actions>
+    <action datetime="2012-04-26">
+      <text>Amendment SA 2086 proposed by Senator Cornyn to Amendment SA 2093.</text>
+      <reference ref="CR S2789-2792, S2789-2792" label="consideration"/>
+    </action>
+    <vote datetime="2012-04-26" how="roll" result="fail" roll="85">
+      <text>Amendment SA 2086, under the order of 4/26/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 85.</text>
+    </vote>
+  </actions>
+</amendment>

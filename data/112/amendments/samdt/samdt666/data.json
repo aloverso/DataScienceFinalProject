@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-26", 
+      "references": [
+        {
+          "reference": "CR S5987", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 666 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-26", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 666 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt666-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2017-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2017
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-26", 
+  "number": 666, 
+  "proposed_at": "2011-09-26", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-26", 
+  "updated_at": "2013-07-19T20:11:49-04:00"
+}

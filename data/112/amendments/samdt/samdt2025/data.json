@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-24", 
+      "references": [
+        {
+          "reference": "CR S2650-2651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2025 proposed by Senator Paul to Amendment SA 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-24", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 76, 
+      "text": "Amendment SA 2025, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2025-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2000-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2000
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-17", 
+  "number": 2025, 
+  "proposed_at": "2012-04-24", 
+  "purpose": "To end the mailbox use monopoly.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-04-24", 
+  "updated_at": "2013-07-19T20:23:32-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-07", 
+      "references": [
+        {
+          "reference": "CR S2180", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2180", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2960 proposed by Senator Cruz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-07", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2960 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2960-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2195-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2195
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-04-07", 
+  "number": 2960, 
+  "proposed_at": "2014-04-07", 
+  "purpose": "To make a technical amendment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "thomas_id": "02175", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-07", 
+  "updated_at": "2015-01-02T13:06:14-05:00"
+}

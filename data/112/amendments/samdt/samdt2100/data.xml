@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2100" updated="2013-07-19T20:24:10-04:00">
+  <amends type="h" number="2072" sequence=""/>
+  <status datetime="2012-05-15">fail</status>
+  <sponsor id="412495"/>
+  <offered datetime="2012-05-10"/>
+  <description>To phase out the authority of the Export-Import Bank of the United States and to require the President to initiate negotiations with other major exporting countries to end subsidized export financing programs.</description>
+  <actions>
+    <action datetime="2012-05-15">
+      <text>Amendment SA 2100 proposed by Senator Lee.</text>
+      <reference ref="CR S3146-3148, S3155" label="consideration"/>
+      <reference ref="CR S3146" label="text"/>
+    </action>
+    <vote datetime="2012-05-15" how="roll" result="fail" roll="91">
+      <text>Amendment SA 2100, under the order of 5/14/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 12 - 86. Record Vote Number: 91.</text>
+    </vote>
+  </actions>
+</amendment>

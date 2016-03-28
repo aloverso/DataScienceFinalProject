@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-30T10:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5047-5050", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5047-5048", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendments en bloc (A001) offered by Mr. Rogers (MI).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:43:00-04:00", 
+      "references": [], 
+      "text": "On agreeing to the Rogers (MI) amendments Agreed to by voice vote.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt774-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4681-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendments en bloc comprised of amendments numbered 1, 2, 3, 4, 5, 8, 10, and 11 printed in Part A of House Report 113-465. See page D583 of the Congressional Record for Friday, May 30, 2014, for description of en bloc amendments.", 
+  "house_number": 1, 
+  "introduced_at": "2014-05-30", 
+  "number": 774, 
+  "purpose": "Amendments en bloc printed in House Report 113-465 consisting of amendments numbered 1, 2, 3, 4, 5, 8, 10, and 11.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Rogers, Mike J.", 
+    "state": "MI", 
+    "thomas_id": "01651", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-30", 
+  "updated_at": "2015-01-02T13:22:30-05:00"
+}

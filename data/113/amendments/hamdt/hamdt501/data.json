@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19T16:01:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7228", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7228", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Hanabusa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19T16:03:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hanabusa amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt501-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1965-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the Secretary of the Interior, in consultation with the Secretary of Agriculture, to include in their Quadrennial Federal Onshore Energy Production Strategy, the best estimate, based upon commercial and scientific data, of the expected increase in domestic production of geothermal, solar, wind, or other renewable energy sources on lands designated as Hawaiian Home Lands that the state agency or department responsible for the administration of these lands selects to be used for energy production.", 
+  "house_number": 5, 
+  "introduced_at": "2013-11-19", 
+  "number": 501, 
+  "purpose": "An amendment numbered 5 printed in Part A of House Report 113-271 to require the Secretary of the Interior in consultation with the Secretary of Agriculture to include in their Quadrennial Federal Onshore Energy Production Strategy, the best estimate, based upon commercial and scientific data, of the expected increase in domestic production of geothermal, solar, wind, or other renewable energy sources on lands designated as Hawaiian Home Lands that the state agency or department responsible for the administration of these lands selects to be used for energy production.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hanabusa, Colleen W.", 
+    "state": "HI", 
+    "thomas_id": "02010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-19T16:03:00-05:00", 
+  "updated_at": "2015-01-02T13:20:14-05:00"
+}

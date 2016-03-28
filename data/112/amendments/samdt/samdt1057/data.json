@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-16", 
+      "references": [
+        {
+          "reference": "CR S7628", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7628", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1057 proposed by Senator Whitehouse for Senator Nelson FL.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1057 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1057-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres303-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 303
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-16", 
+  "number": 1057, 
+  "proposed_at": "2011-11-16", 
+  "purpose": "To amend the preamble by modifying a date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-16", 
+  "updated_at": "2013-07-19T20:15:09-04:00"
+}

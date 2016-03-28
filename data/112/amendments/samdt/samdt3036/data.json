@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7196-7201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7196", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3036 proposed by Senator Levin for Senator Brown MA.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3036 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3036-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3036, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To require reports on the potential security threat posed by Boko Haram.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Scott P.", 
+    "state": "MA", 
+    "thomas_id": "01975", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:32:14-04:00"
+}

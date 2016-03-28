@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-04T15:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1579-1580", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1579-1580", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Crawford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04T15:45:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Crawford amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt539-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3590-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides a limited exemption related to the taking of migratory game birds over farm fields to the extent that a field may not be considered baited as the result of normal agricultural practices.", 
+  "house_number": 7, 
+  "introduced_at": "2014-02-04", 
+  "number": 539, 
+  "purpose": "An amendment numbered 8 printed in House Report 113-339 to allow the State office of the Cooperative Extension System of the Department of Agriculture and State department of fish and wildlife to determine regular agricultural practices for purposes of federal hunting guidelines.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Crawford, Eric A. \"Rick\"", 
+    "state": "AR", 
+    "thomas_id": "01989", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-04T15:45:00-05:00", 
+  "updated_at": "2015-01-02T13:20:33-05:00"
+}

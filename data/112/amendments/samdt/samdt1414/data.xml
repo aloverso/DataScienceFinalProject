@@ -1,0 +1,28 @@
+<amendment session="112" chamber="s" number="1414" updated="2013-07-19T20:18:12-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-12-01">pass</status>
+  <sponsor id="400272"/>
+  <offered datetime="2011-11-28"/>
+  <description>To require the imposition of sanctions with respect to the financial sector of Iran, including the Central Bank of Iran.</description>
+  <actions>
+    <action datetime="2011-11-28">
+      <text>Amendment SA 1414 proposed by Senator Levin for Senator Menendez.</text>
+      <reference ref="CR S7903" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7944" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8014, S8027-8030" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8095, S8105-8107, S8125-8126" label="consideration"/>
+    </action>
+    <vote datetime="2011-12-01" how="roll" result="pass" roll="216">
+      <text>Amendment SA 1414 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 216.</text>
+    </vote>
+  </actions>
+</amendment>

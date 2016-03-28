@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt252-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s493-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 493
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-28", 
+  "number": 252, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-03-28", 
+  "updated_at": "2013-07-19T20:08:15-04:00"
+}

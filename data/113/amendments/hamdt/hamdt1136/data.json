@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-08-01T22:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7238", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7238", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Royce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-08-01T22:10:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Royce amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1136-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres699-113", 
+    "bill_type": "hres", 
+    "congress": 113, 
+    "number": 699
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2014-08-01", 
+  "number": 1136, 
+  "purpose": "Strike all after the resolving clause and insert the following:    That the House of Representatives--    (1) is studying ways to improve the effectiveness and utilization of the range of United States trade policy tools with respect to Africa, including AGOA, and exploring how Africa can address barriers to become more attractive to trade and investment within Africa as well as globally; and    (2) looks forward to continuing to work with African leaders to improve our economic and bilateral relationships.", 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-08-01T22:10:00-04:00", 
+  "updated_at": "2015-01-02T13:25:33-05:00"
+}

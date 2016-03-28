@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T19:14:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6018-6019", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6018", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Foster.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T19:18:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Foster amendment (A030) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1001-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment transfers $300,000 within DOE's Science account with the intent of restoring the National Undergraduate Fellowship Program.", 
+  "house_number": 30, 
+  "introduced_at": "2014-07-09", 
+  "number": 1001, 
+  "purpose": "An amendment to transfer $300,000 within the Science account.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "thomas_id": "01888", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-09T19:18:00-04:00", 
+  "updated_at": "2015-01-02T13:24:25-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T22:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4993, H5010-5011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4993", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A068) offered by Mr. Ellison.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T22:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ellison amendment (A068) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt757-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds in contravention of the 5th and 14th amendments to the Constitution; title VI of the Civil Rights Act of 1964; Section 809(c)(1) of the Omnibus Crime Control And Safe Streets Act of 1968 (relating to the prohibition of discrimination); Section 210401(a) of the Violent Crime and Law Enforcement Act of 1994.", 
+  "house_number": 68, 
+  "introduced_at": "2014-05-29", 
+  "number": 757, 
+  "purpose": "An amendment to prohibit use of funds in contravention of the 5th and 14th amendments to the Constitution; title VI of the Civil Rights Act of 1964; Section 809(c)(1) of the Omnibus Crime Control And Safe Streets Act of 1968 (relating to the prohibition of discrimination); Section 210401(a) of the Violent Crime and Law Enforcement Act of 1994.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T22:06:00-04:00", 
+  "updated_at": "2015-01-02T13:22:22-05:00"
+}

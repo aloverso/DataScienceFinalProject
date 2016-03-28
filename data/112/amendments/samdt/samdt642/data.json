@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-21", 
+      "references": [
+        {
+          "reference": "CR S5810-5816, S5827-5828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5810", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 642 proposed by Senator Hatch to Amendment SA 633.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 144, 
+      "text": "Amendment SA 642, under the order of 9/21/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 57. Record Vote Number: 144.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt642-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt633-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 633
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2832-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2832
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-20", 
+  "number": 642, 
+  "proposed_at": "2011-09-21", 
+  "purpose": "To modify the eligibility requirements for trade adjustment assistance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hatch, Orrin G.", 
+    "state": "UT", 
+    "thomas_id": "01351", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-21", 
+  "updated_at": "2013-07-19T20:11:37-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-13", 
+      "references": [
+        {
+          "reference": "CR S8017", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8017", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3336 proposed by Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3336 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3336-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3313-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3313
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-13", 
+  "number": 3336, 
+  "proposed_at": "2012-12-13", 
+  "purpose": "To provide an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-13", 
+  "updated_at": "2013-07-19T20:34:48-04:00"
+}

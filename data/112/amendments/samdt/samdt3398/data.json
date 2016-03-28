@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-19", 
+      "references": [
+        {
+          "reference": "CR S8195", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8195", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3398 proposed by Senator Reid to language proposed to be stricken by amendment no. 3395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-20", 
+      "references": [
+        {
+          "reference": "CR S8237", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-21", 
+      "references": [
+        {
+          "reference": "CR S8341, S8346", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-21", 
+      "references": [
+        {
+          "reference": "CR S8346", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 3398 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3398-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-19", 
+  "number": 3398, 
+  "proposed_at": "2012-12-19", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-12-21", 
+  "updated_at": "2013-07-19T20:35:20-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-26T15:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2679", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2679", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Barber.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-26T15:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Barber amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt602-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1459-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1459
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the bill's feasibility study to include an assessment of the monument declaration's benefits, including jobs and tourism dollars associated with managing a monument in perpetuity.", 
+  "house_number": 2, 
+  "introduced_at": "2014-03-26", 
+  "number": 602, 
+  "purpose": "An amendment numbered 2 printed in House Report 113-385 to require the bill's feasibility study to include an assessment of the monument declaration's benefits, including jobs and tourism dollars associated with managing a monument in perpetuity.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Barber, Ron", 
+    "state": "AZ", 
+    "thomas_id": "02093", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-26T15:54:00-04:00", 
+  "updated_at": "2015-01-02T13:21:04-05:00"
+}

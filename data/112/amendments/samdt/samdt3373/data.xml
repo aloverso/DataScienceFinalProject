@@ -1,0 +1,18 @@
+<amendment session="112" chamber="s" number="3373" updated="2013-07-19T20:35:07-04:00">
+  <amends type="h" number="1" sequence=""/>
+  <status datetime="2012-12-28">withdrawn</status>
+  <sponsor id="412495"/>
+  <offered datetime="2012-12-18"/>
+  <description>To amend the Internal Revenue Code of 1986 to provide special rules for the use of retirement funds in connection with federally declared disasters, to provide for certain regulatory relief in connection with federally declared disasters, and for other purposes.</description>
+  <actions>
+    <action datetime="2012-12-28">
+      <text>Amendment SA 3373 proposed by Senator Lee to Amendment SA 3395.</text>
+      <reference ref="CR S8472-8474" label="consideration"/>
+      <reference ref="CR S8472-8474" label="text as modified"/>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Proposed amendment SA 3373 withdrawn in Senate.</text>
+      <reference ref="CR S8474" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

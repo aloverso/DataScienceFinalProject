@@ -1,0 +1,26 @@
+<amendment session="112" chamber="s" number="34" updated="2013-07-19T20:06:20-04:00">
+  <amends type="s" number="223" sequence=""/>
+  <status datetime="2011-02-08">pass</status>
+  <sponsor id="300078"/>
+  <offered datetime="2011-02-02"/>
+  <description>To strike section 605.</description>
+  <actions>
+    <action datetime="2011-02-03">
+      <text>Amendment SA 34 proposed by Senator Nelson FL.</text>
+      <reference ref="CR S507-509" label="consideration"/>
+      <reference ref="CR S507" label="text"/>
+    </action>
+    <action datetime="2011-02-07">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S586, S608" label="consideration"/>
+    </action>
+    <action datetime="2011-02-08">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S622, S625, S626" label="consideration"/>
+    </action>
+    <vote datetime="2011-02-08" how="roll" result="pass" roll="14">
+      <text>Amendment SA 34 agreed to in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 14.</text>
+      <reference ref="CR S626" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

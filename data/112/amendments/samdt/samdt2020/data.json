@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-24", 
+      "references": [
+        {
+          "reference": "CR S2641", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2020 proposed by Senator Wyden to Amendment SA 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-24", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S2641", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2020 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2020-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2000-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2000
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-17", 
+  "number": 2020, 
+  "proposed_at": "2012-04-24", 
+  "purpose": "To require the Postal Service to consider the effect of closing or consolidating a postal facility on the ability of the affected community to vote by mail and to provide for a moratorium on the closing or consolidation of post offices and postal facilities to protect the ability to vote by mail.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-24", 
+  "updated_at": "2013-07-19T20:23:29-04:00"
+}

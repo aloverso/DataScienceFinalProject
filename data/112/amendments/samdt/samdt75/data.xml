@@ -1,0 +1,27 @@
+<amendment session="112" chamber="s" number="75" updated="2013-07-19T20:06:42-04:00">
+  <amends type="s" number="223" sequence=""/>
+  <status datetime="2011-02-16">pass</status>
+  <sponsor id="300005"/>
+  <offered datetime="2011-02-14"/>
+  <description>Of a perfecting nature.</description>
+  <actions>
+    <action datetime="2011-02-14">
+      <text>Amendment SA 75 proposed by Senator Rockefeller for Senator Baucus.</text>
+      <reference ref="CR S674-676" label="consideration"/>
+      <reference ref="CR S674-676" label="text as modified"/>
+    </action>
+    <action datetime="2011-02-15">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S710-712" label="consideration"/>
+      <reference ref="CR S710-712" label="text as further modified"/>
+    </action>
+    <action datetime="2011-02-16">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S768, S770-773" label="consideration"/>
+    </action>
+    <vote datetime="2011-02-16" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 75 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S770-773" label="text as further modified"/>
+    </vote>
+  </actions>
+</amendment>

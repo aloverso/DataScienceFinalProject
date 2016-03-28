@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7787-7788", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7788", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1066 proposed by Senator McCain for Senator Ayotte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013, S8015-8021", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1066 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1066-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1066, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To modify the Financial Improvement and Audit Readiness Plan to provide that a complete and validated full statement of budget resources is ready by not later than September 30, 2014.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ayotte, Kelly", 
+    "state": "NH", 
+    "thomas_id": "02075", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-30", 
+  "updated_at": "2013-07-19T20:15:13-04:00"
+}

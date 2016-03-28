@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T12:45:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4927-4928", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4927-4928", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A027) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T12:48:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gosar amendment (A027) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt716-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, Legal Activities of the Department of Justice by $8 million and increases funding for State and Local Law Enforcement Assistance (prescription drug monitoring) by a similar amount.", 
+  "house_number": 27, 
+  "introduced_at": "2014-05-29", 
+  "number": 716, 
+  "purpose": "An amendment to reduce funding for salaries and expenses, legal activities of the Department of Justice by $8 million and to increase funding for State and Local Law Enforcement Assistance (prescription drug monitoring) by a similar amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T12:48:00-04:00", 
+  "updated_at": "2015-01-02T13:22:01-05:00"
+}

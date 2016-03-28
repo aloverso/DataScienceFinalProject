@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20", 
+      "references": [
+        {
+          "reference": "CR S4351", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4351", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2246 proposed by Senator Stabenow for Senator Blunt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2246 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2246-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-11", 
+  "number": 2246, 
+  "proposed_at": "2012-06-20", 
+  "purpose": "To assist military veterans in agricultural occupations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Blunt, Roy", 
+    "state": "MO", 
+    "thomas_id": "01464", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-20", 
+  "updated_at": "2013-07-19T20:25:31-04:00"
+}

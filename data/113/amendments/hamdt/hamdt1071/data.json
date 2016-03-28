@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T17:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6262-6263", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6262", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Frelinghuysen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T17:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Frelinghuysen amendment (A019) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1071-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 19, 
+  "introduced_at": "2014-07-15", 
+  "number": 1071, 
+  "purpose": "An amendment to reduce the funds for National Security Council and Homeland Security Council - Salaries and Expenses by $4,200,000.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Frelinghuysen, Rodney P.", 
+    "state": "NJ", 
+    "thomas_id": "00414", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-15T17:17:00-04:00", 
+  "updated_at": "2015-01-02T13:25:00-05:00"
+}

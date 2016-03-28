@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8169, S8179", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2255 proposed by Senator Inhofe for Senator Ayotte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 237, 
+      "text": "Amendment SA 2255, under the order of 11/19/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 237.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2255-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1197-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1197
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-19", 
+  "number": 2255, 
+  "proposed_at": "2013-11-19", 
+  "purpose": "To propose alternative requirements and limitations applicable to individuals detained at United States Naval Station, Guantanamo Bay, Cuba.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Ayotte, Kelly", 
+    "state": "NH", 
+    "thomas_id": "02075", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-11-19", 
+  "updated_at": "2015-01-02T13:00:21-05:00"
+}

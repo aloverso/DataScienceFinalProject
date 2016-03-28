@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1122" updated="2013-07-19T20:15:43-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-30">pass</status>
+  <sponsor id="412323"/>
+  <offered datetime="2011-11-17"/>
+  <description>To authorize the acquisition of real property and associated real property interests in the vicinity of Hanover, New Hampshire, as may be needed for the Engineer Research and Development Center laboratory facilities at the Cold Regions Research and Engineering Laboratory.</description>
+  <actions>
+    <action datetime="2011-11-30">
+      <text>Amendment SA 1122 proposed by Senator Levin for Senator Shaheen.</text>
+      <reference ref="CR S8015-8021" label="consideration"/>
+      <reference ref="CR S8016-8017" label="text"/>
+    </action>
+    <vote datetime="2011-11-30" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1122 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

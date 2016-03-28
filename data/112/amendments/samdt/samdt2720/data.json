@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2720-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3414-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3414
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-07-31", 
+  "number": 2720, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "McCaskill, Claire", 
+    "state": "MO", 
+    "thomas_id": "01820", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-07-31", 
+  "updated_at": "2013-07-19T20:29:33-04:00"
+}

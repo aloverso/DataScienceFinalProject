@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-02", 
+      "references": [
+        {
+          "reference": "CR S475-477", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S475-476", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 8 proposed by Senator Whitehouse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-03", 
+      "references": [
+        {
+          "reference": "CR S501, S503-507, S535", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-03", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 10, 
+      "text": "Amendment SA 8 agreed to in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 10.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt8-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-01", 
+  "number": 8, 
+  "proposed_at": "2011-02-02", 
+  "purpose": "To amend title 18, United States Code, to provide penalties for aiming laser pointers at airplanes, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "thomas_id": "01823", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-03", 
+  "updated_at": "2013-07-19T20:06:07-04:00"
+}

@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7811-7814", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7811", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1146 proposed by Senator Levin for Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013, S8060", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8095, S8116-8117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S8117", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1146 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1146-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1146, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To provide for the participation of military technicians (dual status) in the study on the termination of military technician as a distinct personnel management category.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-01", 
+  "updated_at": "2013-07-19T20:15:55-04:00"
+}

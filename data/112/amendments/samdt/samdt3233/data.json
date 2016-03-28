@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-30", 
+      "references": [
+        {
+          "reference": "CR S7288-7290", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7289", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3233 proposed by Senator Levin for Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3233 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3233-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3233, 
+  "proposed_at": "2012-11-30", 
+  "purpose": "To promote a more efficient, responsive, and effective bilateral defense trade relationship between the United States and India.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, Mark R.", 
+    "state": "VA", 
+    "thomas_id": "01897", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-30", 
+  "updated_at": "2013-07-19T20:33:55-04:00"
+}

@@ -1,0 +1,33 @@
+<amendment session="112" chamber="s" number="1206" updated="2013-07-19T20:16:25-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-12-01">pass</status>
+  <sponsor id="300011"/>
+  <offered datetime="2011-11-17"/>
+  <description>To implement common sense controls on the taxpayer-funded salaries of defense contractors.</description>
+  <actions>
+    <action datetime="2011-11-18">
+      <text>Amendment SA 1206 proposed by Senator Levin for Senator Boxer.</text>
+      <reference ref="CR S7811-7814" label="consideration"/>
+      <reference ref="CR S7813" label="text"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7886" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7944" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8014" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8095, S8109, S8115-8116, S8116-8117" label="consideration"/>
+    </action>
+    <vote datetime="2011-12-01" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1206 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt597-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-07", 
+  "number": 597, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-09-07", 
+  "updated_at": "2013-07-19T20:11:14-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7196-7201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7198", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3222 proposed by Senator Levin for Senator Johanns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3222 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3222-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3222, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To express the expectation of Congress to be consulted by the Secretary of Defense before the Secretary pursues a change in the command status of the United States Cyber Command.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Johanns, Mike", 
+    "state": "NE", 
+    "thomas_id": "01899", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:33:50-04:00"
+}

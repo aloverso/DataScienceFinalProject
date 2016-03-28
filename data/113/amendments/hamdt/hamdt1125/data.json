@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-25T13:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6836-6837", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6836-6837", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-25T13:02:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A001) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1125-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres562-113", 
+    "bill_type": "hres", 
+    "congress": 113, 
+    "number": 562
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment strikes all after the resolving clause and inserts a complete new text.", 
+  "house_number": 1, 
+  "introduced_at": "2014-07-25", 
+  "number": 1125, 
+  "purpose": "An amendment to strike the text of the bill after the enacting clause and replace it with a completely new text.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-25T13:02:00-04:00", 
+  "updated_at": "2015-01-02T13:25:27-05:00"
+}

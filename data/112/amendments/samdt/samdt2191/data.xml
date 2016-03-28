@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2191" updated="2013-07-19T20:25:01-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">fail</status>
+  <sponsor id="300002"/>
+  <offered datetime="2012-06-07"/>
+  <description>To provide that any cooperative organization or other entity that receives a business and industry direct or guaranteed loan for a wind energy project is ineligible for any other Federal benefit, assistance, or incentive for the project.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2191 proposed by Senator Alexander.</text>
+      <reference ref="CR S4274-4275" label="consideration"/>
+      <reference ref="CR S4275" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="fail" roll="132">
+      <text>Amendment SA 2191 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 132.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-23", 
+      "references": [
+        {
+          "reference": "CR S3485-3488", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3485-3486", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2109 proposed by Senator Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3536, S3540-3541, S3543, S3562-3563", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 109, 
+      "text": "Amendment SA 2109, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 88. Record Vote Number: 109.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2109-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-17", 
+  "number": 2109, 
+  "proposed_at": "2012-05-23", 
+  "purpose": "To revoke the exclusivity of certain entities that are responsible for violations of the Federal Food, Drug, and Cosmetic Act, the False Claims Act, and other certain laws.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-05-24", 
+  "updated_at": "2013-07-19T20:24:15-04:00"
+}

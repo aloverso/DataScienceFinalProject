@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7196-7201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7201", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3271 proposed by Senator Levin for Senator Kyl.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3271 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3271-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3271, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To promote the development of an adequate, reliable, and stable supply of critical and essential minerals in the United States in order to strengthen and sustain the military readiness, national security, and critical infrastructure of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kyl, Jon", 
+    "state": "AZ", 
+    "thomas_id": "00655", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:34:15-04:00"
+}

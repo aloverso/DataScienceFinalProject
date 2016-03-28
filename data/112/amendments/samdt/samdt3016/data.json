@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-28", 
+      "references": [
+        {
+          "reference": "CR S7011-7012", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7011", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3016 proposed by Senator Gillibrand.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3016 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3016-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 3016, 
+  "proposed_at": "2012-11-28", 
+  "purpose": "To provide for the processing for administrative separation from the Armed Forces of members who are convicted of certain sexual offenses under the Uniform Code of Military Justice and not punitively discharged in connection with such convictions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-28", 
+  "updated_at": "2013-07-19T20:32:04-04:00"
+}

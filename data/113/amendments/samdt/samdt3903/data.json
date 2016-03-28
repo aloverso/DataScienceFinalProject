@@ -1,0 +1,38 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "references": [], 
+      "text": "Referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3903-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2094-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2094
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-09-18", 
+  "number": 3903, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Rubio, Marco", 
+    "state": "FL", 
+    "thomas_id": "02084", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-09-18", 
+  "updated_at": "2015-01-02T13:14:10-05:00"
+}

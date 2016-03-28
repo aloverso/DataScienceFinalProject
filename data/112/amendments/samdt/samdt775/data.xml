@@ -1,0 +1,22 @@
+<amendment session="112" chamber="s" number="775" updated="2013-07-19T20:12:44-04:00">
+  <amends type="h" number="2112" sequence=""/>
+  <status datetime="2011-10-18">pass</status>
+  <sponsor id="300027"/>
+  <offered datetime="2011-10-17"/>
+  <description>To prohibit funding for Operation Fast and Furious or similar "gun walking" programs.</description>
+  <actions>
+    <action datetime="2011-10-17">
+      <text>Amendment SA 775 proposed by Senator Cornyn to Amendment SA 738.</text>
+      <reference ref="CR S6587-6590" label="consideration"/>
+      <reference ref="CR S6587" label="text"/>
+    </action>
+    <action datetime="2011-10-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6633, S6634-6636, S6638, S6648-6649" label="consideration"/>
+    </action>
+    <vote datetime="2011-10-18" how="roll" result="pass" roll="167">
+      <text>Amendment SA 775 as modified agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 167.</text>
+      <reference ref="CR S6649" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

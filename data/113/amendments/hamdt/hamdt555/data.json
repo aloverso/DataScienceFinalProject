@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06T10:44:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1676-1677", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1676", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Young (AK).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06T10:50:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Young (AK) amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt555-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2954-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment approves an Alaska Native Veterans land allotment application and conveys the land associated with the application.", 
+  "house_number": 5, 
+  "introduced_at": "2014-02-06", 
+  "number": 555, 
+  "purpose": "An amendment numbered 5 printed in Part A of House Report 113-340 to approve an Alaska Native Veterans land allotment application and convey the land associated with the application.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "thomas_id": "01256", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-06T10:50:00-05:00", 
+  "updated_at": "2015-01-02T13:20:41-05:00"
+}

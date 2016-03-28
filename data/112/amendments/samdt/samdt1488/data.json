@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-01-31", 
+      "references": [
+        {
+          "reference": "CR S195-197", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S195", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1488 proposed by Senator DeMint to Amendment SA 1470.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-01", 
+      "references": [
+        {
+          "reference": "CR S239", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S291, S308", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 11, 
+      "text": "Amendment SA 1488, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 24 - 75. Record Vote Number: 11.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1488-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1470-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1470
+  }, 
+  "amends_bill": {
+    "bill_id": "s2038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-01-31", 
+  "number": 1488, 
+  "proposed_at": "2012-01-31", 
+  "purpose": "To express the sense of the Senate that the Senate should pass a joint resolution proposing an amendment to the Constitution that limits the number of terms a Member of Congress may serve.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-19T20:18:49-04:00"
+}

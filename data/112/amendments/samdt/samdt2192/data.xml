@@ -1,0 +1,16 @@
+<amendment session="112" chamber="s" number="2192" updated="2013-07-19T20:25:01-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">fail</status>
+  <sponsor id="412493"/>
+  <offered datetime="2012-06-07"/>
+  <description>To improve the program of value-added agricultural producer grants.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2192 proposed by Senator Ayotte.</text>
+      <reference ref="CR S4267" label="consideration"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="fail" roll="123">
+      <text>Amendment SA 2192 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 123.</text>
+    </vote>
+  </actions>
+</amendment>

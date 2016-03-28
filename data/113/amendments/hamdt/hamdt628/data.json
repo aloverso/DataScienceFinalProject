@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T17:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3343-3344", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3343", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Ross.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T17:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Ross amendment (A011) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt628-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds by the Secretary of Defense to close a commissary store.", 
+  "house_number": 11, 
+  "introduced_at": "2014-04-30", 
+  "number": 628, 
+  "purpose": "An amendment to prohibit the use of funds by the Secretary of Defense to close a commissary store.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Ross, Dennis A.", 
+    "state": "FL", 
+    "thomas_id": "02003", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T17:07:00-04:00", 
+  "updated_at": "2015-01-02T13:21:17-05:00"
+}

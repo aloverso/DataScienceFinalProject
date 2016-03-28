@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt429-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-08", 
+  "number": 429, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-08", 
+  "updated_at": "2013-07-19T20:09:49-04:00"
+}

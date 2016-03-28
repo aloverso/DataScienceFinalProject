@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1517-1518, S1529-1530", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1517", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1817 proposed by Senator Wyden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 33, 
+      "text": "Amendment SA 1817, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 33.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1817-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-07", 
+  "number": 1817, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To ensure the expeditious processing of Keystone XL permit applications consistent with current law, prohibit the export of crude oil produced in Canada and transported by the Keystone XL pipeline and related facilities unless the prohibition is waived by the President, and require the use of United States iron, steel, and manufactured goods in the construction of the Keystone XL pipeline and related facilities with certain exceptions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-08", 
+  "updated_at": "2013-07-19T20:21:43-04:00"
+}

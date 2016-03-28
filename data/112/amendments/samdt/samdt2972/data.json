@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7154", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7154", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2972 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2972 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2972-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 2972, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To express the sense of Congress that the bugle call commonly known as \"Taps\" should be designated as the National Song of Military Remembrance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:31:41-04:00"
+}

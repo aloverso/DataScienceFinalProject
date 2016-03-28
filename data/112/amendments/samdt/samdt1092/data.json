@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7643-7648, S7662, S7694", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1092 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7785", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7884, S7903-7904", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943, S7965-7968", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7966-7967", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1092 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1092-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1092, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To bolster the detection and avoidance of counterfeit electronic parts.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-29", 
+  "updated_at": "2013-07-19T20:15:26-04:00"
+}

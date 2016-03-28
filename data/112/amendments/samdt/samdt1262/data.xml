@@ -1,0 +1,26 @@
+<amendment session="112" chamber="s" number="1262" updated="2013-07-19T20:16:54-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-29">withdrawn</status>
+  <sponsor id="400050"/>
+  <offered datetime="2011-11-18"/>
+  <description>To clarify the meaning of "produced" for purposes of limitations on the procurement by the Department of Defense of specialty metals within the United States.</description>
+  <actions>
+    <action datetime="2011-11-18">
+      <text>Amendment SA 1262 proposed by Senator Levin for Senator Brown OH.</text>
+      <reference ref="CR S7817-7819" label="consideration"/>
+      <reference ref="CR S7817" label="text"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7886" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7944, S7985" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Proposed amendment SA 1262 withdrawn in Senate.</text>
+      <reference ref="CR S7985" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

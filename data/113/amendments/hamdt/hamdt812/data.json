@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T22:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5177-5178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5177", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A035) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T14:34:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5209-5210", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 284, 
+      "text": "On agreeing to the Gosar amendment (A035) Failed by recorded vote: 177 - 249 (Roll no. 284).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt812-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to prohibit use of funds by HUD to retain any legal counsel who is not an employee of HUD or the Department of Justice.", 
+  "house_number": 35, 
+  "introduced_at": "2014-06-09", 
+  "number": 812, 
+  "purpose": "An amendment to prohibit use of funds by HUD to retain any legal counsel who is not an employee of HUD or the Department of Justice.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T14:34:00-04:00", 
+  "updated_at": "2015-01-02T13:22:51-05:00"
+}

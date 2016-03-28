@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7196-7201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7199-7200", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3243 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3243 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3243-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3243, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To commend the Enduring Strategic Partnership Agreement between the United States of America and the Islamic Republic of Afghanistan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:34:00-04:00"
+}

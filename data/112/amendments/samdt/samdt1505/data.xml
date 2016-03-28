@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1505" updated="2013-07-19T20:18:58-04:00">
+  <amends type="s" number="2038" sequence=""/>
+  <status datetime="2012-02-02">pass</status>
+  <sponsor id="400325"/>
+  <offered datetime="2012-02-01"/>
+  <description>To clarify that political intelligence includes information gathered from executive branch employees, Congressional employees, and Members of Congress.</description>
+  <actions>
+    <action datetime="2012-02-02">
+      <text>Amendment SA 1505 proposed by Senator Gillibrand for Senator Portman to Amendment SA 1470.</text>
+      <reference ref="CR S298-299, S302" label="consideration"/>
+      <reference ref="CR S298" label="text"/>
+    </action>
+    <vote datetime="2012-02-02" how="Voice Vote" result="pass">
+      <text>Amendment SA 1505 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

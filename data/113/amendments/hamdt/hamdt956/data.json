@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24T15:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5674-5675, H5684-5685", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5674", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Waxman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-24T17:49:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 351, 
+      "text": "On agreeing to the Waxman amendment (A002) Failed by recorded vote: 171 - 240 (Roll no. 351).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt956-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3301-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3301
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to exclude any project with a pending permit application from the new approval requirements in the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2014-06-24", 
+  "number": 956, 
+  "purpose": "An amendment No. 2 printed in part B of House Report 113-492 to exclude any project with a pending permit application from the new approval requirements in the bill.", 
+  "sponsor": {
+    "district": "33", 
+    "name": "Waxman, Henry A.", 
+    "state": "CA", 
+    "thomas_id": "01209", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-24T17:49:00-04:00", 
+  "updated_at": "2015-01-02T13:24:03-05:00"
+}

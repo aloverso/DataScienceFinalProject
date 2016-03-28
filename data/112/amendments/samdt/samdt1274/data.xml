@@ -1,0 +1,33 @@
+<amendment session="112" chamber="s" number="1274" updated="2013-07-19T20:17:00-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-12-01">fail</status>
+  <sponsor id="300088"/>
+  <offered datetime="2011-11-18"/>
+  <description>To clarify the disposition under the law of war of persons detained by the Armed Forces of the United States pursuant to the Authorization for Use of Military Force.</description>
+  <actions>
+    <action datetime="2011-11-18">
+      <text>Amendment SA 1274 proposed by Senator Sessions.</text>
+      <reference ref="CR S7808-7811" label="consideration"/>
+      <reference ref="CR S7808" label="text"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7885" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7944" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8013, S8030-8032" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8095, S8113-8115, S8126-8127" label="consideration"/>
+    </action>
+    <vote datetime="2011-12-01" how="roll" result="fail" roll="217">
+      <text>Amendment SA 1274 not agreed to in Senate by Yea-Nay Vote. 41 - 59. Record Vote Number: 217.</text>
+    </vote>
+  </actions>
+</amendment>

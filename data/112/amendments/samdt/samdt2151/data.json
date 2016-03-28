@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-23", 
+      "references": [
+        {
+          "reference": "CR S3506-3507", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2151 proposed by Senator Manchin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-23", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S3506", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2151 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2151-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-23", 
+  "number": 2151, 
+  "proposed_at": "2012-05-23", 
+  "purpose": "To amend the Controlled Substances Act to make any substance containing hydrocodone as schedule II drug.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Manchin, Joe, III", 
+    "state": "WV", 
+    "thomas_id": "01983", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-23", 
+  "updated_at": "2013-07-19T20:24:37-04:00"
+}

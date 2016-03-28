@@ -1,0 +1,20 @@
+<amendment session="112" chamber="s" number="3232" updated="2013-07-19T20:33:55-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-30">pass</status>
+  <sponsor id="400272"/>
+  <offered datetime="2012-11-29"/>
+  <description>To enhance sanctions imposed with respect to Iran.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3232 proposed by Senator Menendez.</text>
+      <reference ref="CR S7201-7203" label="consideration"/>
+    </action>
+    <action datetime="2012-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7280, S7282-7283" label="consideration"/>
+    </action>
+    <vote datetime="2012-11-30" how="roll" result="pass" roll="215">
+      <text>Amendment SA 3232 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 215.</text>
+    </vote>
+  </actions>
+</amendment>

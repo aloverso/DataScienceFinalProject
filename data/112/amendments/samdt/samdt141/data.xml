@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="141" updated="2013-07-19T20:07:17-04:00">
+  <amends type="s" number="23" sequence=""/>
+  <status datetime="2011-03-07">pass</status>
+  <sponsor id="300005"/>
+  <offered datetime="2011-03-03"/>
+  <description>To clarify that section 14 shall not apply to an invention that is a computer program product or system used solely for preparing a tax or information return or other tax filing.</description>
+  <actions>
+    <action datetime="2011-03-07">
+      <text>Amendment SA 141 proposed by Senator Reid for Senator Baucus.</text>
+      <reference ref="CR S1324" label="consideration"/>
+    </action>
+    <vote datetime="2011-03-07" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 141 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S1324" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

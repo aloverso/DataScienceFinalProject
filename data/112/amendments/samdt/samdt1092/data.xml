@@ -1,0 +1,29 @@
+<amendment session="112" chamber="s" number="1092" updated="2013-07-19T20:15:26-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-29">pass</status>
+  <sponsor id="300066"/>
+  <offered datetime="2011-11-17"/>
+  <description>To bolster the detection and avoidance of counterfeit electronic parts.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1092 proposed by Senator Levin.</text>
+      <reference ref="CR S7643-7648, S7662, S7694" label="consideration"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7785" label="consideration"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7884, S7903-7904" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943, S7965-7968" label="consideration"/>
+    </action>
+    <vote datetime="2011-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1092 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S7966-7967" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

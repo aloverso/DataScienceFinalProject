@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-15", 
+      "references": [
+        {
+          "reference": "CR S6869-6870", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6869", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2926 proposed by Senator Landrieu for Senator Alexander.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2926 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2926-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1440-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1440
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-15", 
+  "number": 2926, 
+  "proposed_at": "2012-11-15", 
+  "purpose": "To strike provisions relating to the National Institutes of Health.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-15", 
+  "updated_at": "2013-07-19T20:31:17-04:00"
+}

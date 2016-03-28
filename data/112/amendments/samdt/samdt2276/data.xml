@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2276" updated="2013-07-19T20:25:47-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">fail</status>
+  <sponsor id="400105"/>
+  <offered datetime="2012-06-11"/>
+  <description>To prohibit mandatory or compulsory check off programs.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2276 proposed by Senator DeMint.</text>
+      <reference ref="CR S4281-4282" label="consideration"/>
+      <reference ref="CR S4281" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="fail" roll="138">
+      <text>Amendment SA 2276 not agreed to in Senate by Yea-Nay Vote. 20 - 79. Record Vote Number: 138.</text>
+    </vote>
+  </actions>
+</amendment>

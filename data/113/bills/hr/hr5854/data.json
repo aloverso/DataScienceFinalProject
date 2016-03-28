@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-11", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5854-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-11", 
+  "number": "5854", 
+  "official_title": "To allow the importation, distribution, and sale of investigational drugs and devices intended for use by terminally ill patients who execute an informed consent document.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4475-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-11", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow the importation, distribution, and sale of investigational drugs and devices intended for use by terminally ill patients who execute an informed consent document.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-01-03T12:07:35-05:00"
+}

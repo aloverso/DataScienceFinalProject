@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-21", 
+      "references": [
+        {
+          "reference": "CR 10/20/2011 S6848-6849", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "  CR 10/20/2011 S6849", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 918 proposed by Senator Durbin for Senator Inouye.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 918 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt918-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-20", 
+  "number": 918, 
+  "proposed_at": "2011-10-21", 
+  "purpose": "To strike provisions related to the Commission on Wartime Relocation and Internment of Latin Americans of Japanese Descent.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inouye, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "01369", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-21", 
+  "updated_at": "2013-07-19T20:13:58-04:00"
+}

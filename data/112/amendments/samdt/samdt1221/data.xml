@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1221" updated="2013-07-19T20:16:32-04:00">
+  <amends type="h" number="2056" sequence=""/>
+  <status datetime="2011-11-17">pass</status>
+  <sponsor id="300066"/>
+  <offered datetime="2011-11-17"/>
+  <description>To clarify the types of losses to be studied, to require appearances before Congress, and for other purposes.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1221 proposed by Senator Levin.</text>
+      <reference ref="CR S7777" label="consideration"/>
+      <reference ref="CR S7777" label="text"/>
+    </action>
+    <vote datetime="2011-11-17" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1221 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

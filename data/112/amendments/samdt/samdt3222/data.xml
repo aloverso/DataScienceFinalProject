@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3222" updated="2013-07-19T20:33:50-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="412320"/>
+  <offered datetime="2012-11-29"/>
+  <description>To express the expectation of Congress to be consulted by the Secretary of Defense before the Secretary pursues a change in the command status of the United States Cyber Command.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3222 proposed by Senator Levin for Senator Johanns.</text>
+      <reference ref="CR S7196-7201" label="consideration"/>
+      <reference ref="CR S7198" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3222 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

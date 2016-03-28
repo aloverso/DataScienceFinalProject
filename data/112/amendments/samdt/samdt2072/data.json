@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-25", 
+      "references": [
+        {
+          "reference": "CR S2689-2690", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2689", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2072 proposed by Senator Landrieu to Amendment SA 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-25", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2072 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2072-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2000-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2000
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-18", 
+  "number": 2072, 
+  "proposed_at": "2012-04-25", 
+  "purpose": "To determine the impact of certain postal facility closures or consolidations on small business.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-25", 
+  "updated_at": "2013-07-19T20:23:56-04:00"
+}

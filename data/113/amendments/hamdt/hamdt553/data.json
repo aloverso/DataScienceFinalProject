@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06T10:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1674-1675, H1678-1679", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1674", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Labrador.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06T11:51:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 52, 
+      "text": "On agreeing to the Labrador amendment (A003) Agreed to by recorded vote: 218 - 198 (Roll no. 52).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt553-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2954-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the non-prevailing, not directly affected party in a challenge to the Secretary's final grazing decision to pay the directly affected prevailing party incurred fees and expenses and also clarifies the definition of a directly affected party.", 
+  "house_number": 3, 
+  "introduced_at": "2014-02-06", 
+  "number": 553, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 113-340 to require the non-prevailing, not directly affected party in a challenge to the Secretary's final grazing decision to pay the directly affected prevailing party incurred fees and expenses, and clarify the definition of a directly affected party.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Labrador, Raul R.", 
+    "state": "ID", 
+    "thomas_id": "02011", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-06T11:51:00-05:00", 
+  "updated_at": "2015-01-02T13:20:40-05:00"
+}

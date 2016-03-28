@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt1037-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt957-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 957
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-16", 
+  "number": 1037, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-16", 
+  "updated_at": "2013-07-19T20:14:59-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "references": [
+        {
+          "reference": "CR S1669", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1669", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2852 proposed by Senator Reid for Senator Shaheen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2852 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2852-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres376-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 376
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-13", 
+  "number": 2852, 
+  "proposed_at": "2014-03-13", 
+  "purpose": "To strike the quotation from the United States Agency for International Development regarding educated women.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shaheen, Jeanne", 
+    "state": "NH", 
+    "thomas_id": "01901", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13", 
+  "updated_at": "2015-01-02T13:05:20-05:00"
+}

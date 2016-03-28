@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23T20:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5631", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5631", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. DelBene.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-23T20:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the DelBene amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt949-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4413-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4413
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment inserts language stating that a court shall affirm the CFTC's assessment of the costs and benefits of a rule and provides an exception in the case of an abuse of discretion by the Commission.", 
+  "house_number": 3, 
+  "introduced_at": "2014-06-23", 
+  "number": 949, 
+  "purpose": "An amendment No. 3 printed in House Report 113-476 to ensure that the Commission's assessment of costs and benefits regarding rules and orders will be affirmed by a court unless that assessment is found to be an abuse of discretion.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "DelBene, Suzan K.", 
+    "state": "WA", 
+    "thomas_id": "02096", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-23T20:19:00-04:00", 
+  "updated_at": "2015-01-02T13:23:59-05:00"
+}

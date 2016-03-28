@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4279", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4279", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2366 proposed by Senator Hagan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2366 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2366-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-12", 
+  "number": 2366, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To require the Risk Management Agency and the Federal Crop Insurance Corporation to use plain language and a website to make crop insurance more accessible.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagan, Kay", 
+    "state": "NC", 
+    "thomas_id": "01902", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:26:33-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7174-7178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3230 proposed by Senator Levin for Senator Boxer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3230 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3230-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3230, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To reauthorize and modify the responsibilities of the United States Advisory Commission on Public Diplomacy through fiscal year 2014.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:33:54-04:00"
+}

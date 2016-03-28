@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29T16:15:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7017-7018, H7020-7021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7017", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-29T17:14:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 460, 
+      "text": "On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 188 - 227 (Roll no. 460).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1128-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4315-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4315
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to exclude scientific information published solely in internal Interior Department publications from the definition of \"best available science.\".", 
+  "house_number": 2, 
+  "introduced_at": "2014-07-29", 
+  "number": 1128, 
+  "purpose": "An amendment numbered 2 printed in House Report 113-563 to exclude scientific information published solely in internal Interior Department publications from the definition of \"best available science\".", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-29T17:14:00-04:00", 
+  "updated_at": "2015-01-02T13:25:29-05:00"
+}

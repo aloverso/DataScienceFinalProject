@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt536-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1323-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1323
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-07-12", 
+  "number": 536, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Hutchison, Kay Bailey", 
+    "state": "TX", 
+    "thomas_id": "01368", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-07-12", 
+  "updated_at": "2013-07-19T20:10:43-04:00"
+}

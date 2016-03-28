@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06", 
+      "references": [
+        {
+          "reference": "CR S834", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S834", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2730 proposed by Senator Reid for Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2730 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2730-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres289-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 289
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-02-06", 
+  "number": 2730, 
+  "proposed_at": "2014-02-06", 
+  "purpose": "To amend the preamble.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-06", 
+  "updated_at": "2015-01-02T13:04:19-05:00"
+}

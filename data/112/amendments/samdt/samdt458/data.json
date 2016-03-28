@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt458-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-09", 
+  "number": 458, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "thomas_id": "02080", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-09", 
+  "updated_at": "2013-07-19T20:10:04-04:00"
+}

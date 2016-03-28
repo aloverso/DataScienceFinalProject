@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-20", 
+      "references": [
+        {
+          "reference": "CR S5739-5745, S5752-5759, S5763-5764", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5740", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 626 proposed by Senator McConnell to Amendment SA 633.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-20", 
+      "references": [
+        {
+          "reference": "CR S5758", 
+          "type": "text as modified Senate"
+        }
+      ], 
+      "text": "Amendment SA 626 as modified, under the order of 9/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 141.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt626-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt633-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 633
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2832-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2832
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-19", 
+  "number": 626, 
+  "proposed_at": "2011-09-20", 
+  "purpose": "To provide trade promotion authority for the Trans-Pacific Partnership Agreement and for other trade agreements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-09-19", 
+  "updated_at": "2013-07-19T20:11:28-04:00"
+}

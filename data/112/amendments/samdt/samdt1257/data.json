@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7795-7799", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7796", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1257 proposed by Senator Merkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013, S8045-8048, S8948-8049", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S8045-8046", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1257 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1257-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-18", 
+  "number": 1257, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To require a plan for the expedited transition of responsibility for military and security operations in Afghanistan to the Government of Afghanistan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "thomas_id": "01900", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-30", 
+  "updated_at": "2013-07-19T20:16:51-04:00"
+}

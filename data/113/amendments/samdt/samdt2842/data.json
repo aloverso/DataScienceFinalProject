@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "references": [
+        {
+          "reference": "S1609-1610", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1609-1610", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2842 proposed by Senator Harkin for Senator Warren.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2842 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2842-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-12", 
+  "number": 2842, 
+  "proposed_at": "2014-03-13", 
+  "purpose": "To allow funds reserved under section 658G(a) of the Child Care and Development Block Grant Act of 1990 to be used to connect child care staff members with Federal and State financial aid, or other resources, in order to assist the staff members in pursuing relevant training.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warren, Elizabeth", 
+    "state": "MA", 
+    "thomas_id": "02182", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13", 
+  "updated_at": "2015-01-02T13:05:15-05:00"
+}

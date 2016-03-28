@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-19", 
+      "references": [
+        {
+          "reference": "CR S3200-3201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3200-3201", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 321 proposed by Senator Durbin for Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 321 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt321-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s990-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 990
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-05-19", 
+  "number": 321, 
+  "proposed_at": "2011-05-19", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-19", 
+  "updated_at": "2013-07-19T20:08:52-04:00"
+}

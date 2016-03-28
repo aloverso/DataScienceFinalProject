@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7201-7203", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3232 proposed by Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "references": [
+        {
+          "reference": "CR S7280, S7282-7283", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 215, 
+      "text": "Amendment SA 3232 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 215.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3232-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3232, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To enhance sanctions imposed with respect to Iran.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-30", 
+  "updated_at": "2013-07-19T20:33:55-04:00"
+}

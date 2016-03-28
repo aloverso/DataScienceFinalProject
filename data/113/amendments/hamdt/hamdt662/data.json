@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-09T11:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4039-4040, H4043-4044", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4039", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Ms. Bonamici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-09T12:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 216, 
+      "text": "On agreeing to the Bonamici amendment (A010) Agreed to by recorded vote: 363 - 41 (Roll no. 216).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt662-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment clarifies the reporting requirements of State entities by asking State entities to include in their reports on charter school programs the extent to which best practices in instruction and professional development and curricular programs are being adopted and implemented by traditional public schools.", 
+  "house_number": 10, 
+  "introduced_at": "2014-05-09", 
+  "number": 662, 
+  "purpose": "An amendment numbered 11 printed in House Report 113-444 to clarify the reporting requirements of State entities by asking State entities to include, to the extent known, whether efforts to share best and promising practices between charter schools and other schools led to the adoption and implementation of best practices by such other public schools.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-09T12:05:00-04:00", 
+  "updated_at": "2015-01-02T13:21:34-05:00"
+}

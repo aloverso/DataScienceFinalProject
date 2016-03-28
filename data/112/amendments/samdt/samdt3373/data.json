@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-28", 
+      "references": [
+        {
+          "reference": "CR S8472-8474", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8472-8474", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 3373 proposed by Senator Lee to Amendment SA 3395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "references": [
+        {
+          "reference": "CR S8474", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 3373 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3373-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3395-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 3395
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-18", 
+  "number": 3373, 
+  "proposed_at": "2012-12-28", 
+  "purpose": "To amend the Internal Revenue Code of 1986 to provide special rules for the use of retirement funds in connection with federally declared disasters, to provide for certain regulatory relief in connection with federally declared disasters, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "thomas_id": "02080", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-12-28", 
+  "updated_at": "2013-07-19T20:35:07-04:00"
+}

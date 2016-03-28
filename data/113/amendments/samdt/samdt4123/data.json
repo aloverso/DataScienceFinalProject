@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-16", 
+      "references": [
+        {
+          "reference": "CR S6928", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6928", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4123 proposed by Senator Pryor for Senator Barrasso.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-16", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4123 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4123-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1800-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-16", 
+  "number": 4123, 
+  "proposed_at": "2014-12-16", 
+  "purpose": "To provide an offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Barrasso, John", 
+    "state": "WY", 
+    "thomas_id": "01881", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-16", 
+  "updated_at": "2015-01-02T13:16:00-05:00"
+}

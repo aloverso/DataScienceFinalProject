@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2273" updated="2013-07-19T20:25:45-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">fail</status>
+  <sponsor id="400105"/>
+  <offered datetime="2012-06-11"/>
+  <description>To eliminate the authority of the Secretary to increase the amount of grants provided to eligible entities relating to providing access to broadband telecommunications services in rural areas.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2273 proposed by Senator DeMint.</text>
+      <reference ref="CR S4335-2336" label="consideration"/>
+      <reference ref="CR S4335" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="roll" result="fail" roll="141">
+      <text>Amendment SA 2273 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 141.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2142" updated="2013-07-19T20:24:33-04:00">
+  <amends type="s" number="3187" sequence=""/>
+  <status datetime="2012-05-24">pass</status>
+  <sponsor id="300065"/>
+  <offered datetime="2012-05-22"/>
+  <description>To modify and limit certain exemptions to the Freedom of Information Act.</description>
+  <actions>
+    <action datetime="2012-05-24">
+      <text>Amendment SA 2142 proposed by Senator Harkin for Senator Leahy.</text>
+      <reference ref="CR S3545-3547" label="consideration"/>
+    </action>
+    <vote datetime="2012-05-24" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 2142 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S3545-3546" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

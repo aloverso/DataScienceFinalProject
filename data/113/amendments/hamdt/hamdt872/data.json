@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T16:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5450", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5450", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Lamborn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T16:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lamborn amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt872-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funds for the Operation and Maintenance Account, Defense-Wide by $5 million and increases funds for the Operation and Maintenance Account of the Army National Guard for border protection by a similar amount.", 
+  "house_number": 6, 
+  "introduced_at": "2014-06-18", 
+  "number": 872, 
+  "purpose": "An amendment to reduce funds for Operation and Maintenance, Defense-Wide by $5,000,000 and increase funds for Operation and Maintenance, Army National Guard by the same amount.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T16:22:00-04:00", 
+  "updated_at": "2015-01-02T13:23:21-05:00"
+}

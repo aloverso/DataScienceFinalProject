@@ -1,0 +1,95 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-12", 
+      "committees": [
+        "SSRA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6789-6790", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres600-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "sponsored_at": "2014-12-12", 
+      "state": "OR", 
+      "thomas_id": "01900", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-12", 
+  "number": "600", 
+  "official_title": "A resolution to limit certain uses of the filibuster in the Senate to improve the legislative process.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres4-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres6-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-12", 
+  "subjects": [
+    "Congress", 
+    "Federal officials", 
+    "Legislative rules and procedure", 
+    "Senate"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution to limit certain uses of the filibuster in the Senate to improve the legislative process.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-01-03T12:15:26-05:00"
+}

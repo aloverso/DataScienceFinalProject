@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2442" updated="2013-07-19T20:27:11-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">pass</status>
+  <sponsor id="300100"/>
+  <offered datetime="2012-06-18"/>
+  <description>To establish a pilot loan program to support healthy foods for the hungry.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2442 proposed by Senator Wyden.</text>
+      <reference ref="CR S4345-4346" label="consideration"/>
+      <reference ref="CR S4345" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="Division Vote" result="pass">
+      <text>Amendment SA 2442 agreed to in Senate by Division Vote.</text>
+    </vote>
+  </actions>
+</amendment>

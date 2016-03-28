@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2188-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-06", 
+  "number": 2188, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-06-06", 
+  "updated_at": "2013-07-19T20:24:59-04:00"
+}

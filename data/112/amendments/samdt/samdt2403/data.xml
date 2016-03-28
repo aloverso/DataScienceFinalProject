@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2403" updated="2013-07-19T20:26:52-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">pass</status>
+  <sponsor id="400284"/>
+  <offered datetime="2012-06-12"/>
+  <description>To increase the minimum level of nonemergency food assistance.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2403 proposed by Senator Stabenow for Senator Moran.</text>
+      <reference ref="CR S4351" label="consideration"/>
+      <reference ref="CR S4351" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 2403 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

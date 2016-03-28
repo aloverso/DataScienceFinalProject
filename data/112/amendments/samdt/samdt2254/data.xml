@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2254" updated="2013-07-19T20:25:35-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">pass</status>
+  <sponsor id="400357"/>
+  <offered datetime="2012-06-11"/>
+  <description>To improve the community wood energy programs.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2254 proposed by Senator Sanders.</text>
+      <reference ref="CR S4352-4353" label="consideration"/>
+      <reference ref="CR S4352-4354" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="Voice Vote" result="pass">
+      <text>Amendment SA 2254 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

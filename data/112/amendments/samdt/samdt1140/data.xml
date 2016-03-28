@@ -1,0 +1,22 @@
+<amendment session="112" chamber="s" number="1140" updated="2013-07-19T20:15:52-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-18">pass</status>
+  <sponsor id="412246"/>
+  <offered datetime="2011-11-17"/>
+  <description>To require a report by the Comptroller General on Department of Defense military spouse employment programs.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1140 proposed by Senator Casey.</text>
+      <reference ref="CR S7693-7694" label="consideration"/>
+      <reference ref="CR S7693-7694" label="text"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7786, S7820-7822" label="consideration"/>
+      <reference ref="CR S7821" label="text"/>
+    </action>
+    <vote datetime="2011-11-18" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1140 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

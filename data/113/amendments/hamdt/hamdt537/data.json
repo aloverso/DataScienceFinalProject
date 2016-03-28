@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-04T15:27:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1578-1579", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1578", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-05T14:21:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H1611-1612", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 38, 
+      "text": "On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 185 - 237 (Roll no. 38).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt537-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3590-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to strike the National Environmental Policy Act waivers in the bill.", 
+  "house_number": 5, 
+  "introduced_at": "2014-02-04", 
+  "number": 537, 
+  "purpose": "An amendment numbered 6 printed in House Report 113-339 to strike the National Environmental Policy Act waivers in the bill.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "thomas_id": "00279", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-05T14:21:00-05:00", 
+  "updated_at": "2015-01-02T13:20:32-05:00"
+}

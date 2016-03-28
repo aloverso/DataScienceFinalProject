@@ -1,0 +1,35 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-03T16:12:00-05:00", 
+      "references": [], 
+      "text": "Amendment reported by the House Committee on Rules.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1151-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5771-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5771
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2014-12-03", 
+  "number": 1151, 
+  "purpose": null, 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-12-03", 
+  "updated_at": "2015-01-02T13:25:40-05:00"
+}

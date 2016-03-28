@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7196-7201", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7200", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3260 proposed by Senator Levin for Senator Cornyn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3260 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3260-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3260, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To prohibit the use of funds to enter into contracts or agreements with Rosoboronexport.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cornyn, John", 
+    "state": "TX", 
+    "thomas_id": "01692", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:34:09-04:00"
+}

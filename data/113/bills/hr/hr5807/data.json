@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-08", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5807-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "sponsored_at": "2014-12-10", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Gerlach, Jim", 
+      "sponsored_at": "2014-12-08", 
+      "state": "PA", 
+      "thomas_id": "01743", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-12-09", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "sponsored_at": "2014-12-09", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "sponsored_at": "2014-12-12", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "sponsored_at": "2014-12-09", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-12-08", 
+  "number": "5807", 
+  "official_title": "To amend the Elementary and Secondary Education Act of 1965 to award grants to States to improve delivery of high quality assessments, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SMART Act", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-12-08", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Government studies and investigations", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SMART Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Support Making Assessments Reliable and Timely Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Elementary and Secondary Education Act of 1965 to award grants to States to improve delivery of high quality assessments, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2015-01-03T12:07:11-05:00"
+}

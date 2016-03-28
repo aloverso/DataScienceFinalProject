@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-17", 
+      "references": [
+        {
+          "reference": "CR S8052", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3338 proposed by Senator Leahy for Senator Inouye.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-18", 
+      "references": [
+        {
+          "reference": "CR S8117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19", 
+      "references": [
+        {
+          "reference": "CR S8164, S8194", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-19", 
+      "references": [
+        {
+          "reference": "CR S8194", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 3338 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3338-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-17", 
+  "number": 3338, 
+  "proposed_at": "2012-12-17", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inouye, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "01369", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-12-19", 
+  "updated_at": "2013-07-19T20:34:49-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-04", 
+      "references": [
+        {
+          "reference": "CR S7383-7385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3241 proposed by Senator Levin for Senator Carper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3241 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3241-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3241, 
+  "proposed_at": "2012-12-04", 
+  "purpose": "To repeal or modify certain mandates of the Government Accountability Office.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-04", 
+  "updated_at": "2013-07-19T20:34:00-04:00"
+}

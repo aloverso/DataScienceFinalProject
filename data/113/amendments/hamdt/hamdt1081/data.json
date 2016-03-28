@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T18:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6272", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T18:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Walberg amendment (A029) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1081-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds in the bill by the IRS to act in contravention of the Federal Records Act.", 
+  "house_number": 29, 
+  "introduced_at": "2014-07-15", 
+  "number": 1081, 
+  "purpose": "An amendment to prohibit the use of funds to be used in contravention of chapter 29, 31, or 33 of title 44, United States Code.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-15T18:38:00-04:00", 
+  "updated_at": "2015-01-02T13:25:05-05:00"
+}

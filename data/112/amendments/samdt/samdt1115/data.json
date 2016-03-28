@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7685", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1115 proposed by Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7785", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943, S7957-7958, S7971-7982, S7983-7984", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S7971-7982", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 1115 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1115-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1115, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To reauthorize and improve the SBIR and STTR programs, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-29", 
+  "updated_at": "2013-07-19T20:15:39-04:00"
+}

@@ -1,0 +1,26 @@
+<amendment session="112" chamber="s" number="117" updated="2013-07-19T20:07:03-04:00">
+  <amends type="s" number="23" sequence=""/>
+  <status datetime="2011-03-02">pass</status>
+  <sponsor id="412330"/>
+  <offered datetime="2011-02-28"/>
+  <description>To establish additional USPTO satellite offices.</description>
+  <actions>
+    <action datetime="2011-02-28">
+      <text>Amendment SA 117 proposed by Senator Bennet.</text>
+      <reference ref="CR S956-957" label="consideration"/>
+      <reference ref="CR S956" label="text"/>
+    </action>
+    <action datetime="2011-03-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1030" label="consideration"/>
+    </action>
+    <action datetime="2011-03-02">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1089, S1092-1093" label="consideration"/>
+    </action>
+    <vote datetime="2011-03-02" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 117 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S1092-1093" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

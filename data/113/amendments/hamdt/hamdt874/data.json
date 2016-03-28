@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T16:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5450-5451", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5451", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T16:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKinley amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt874-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment redirects $21 million from the Operation and Maintenance Account, Defense-Wide to the National Guard Youth ChalleNGe Program.", 
+  "house_number": 8, 
+  "introduced_at": "2014-06-18", 
+  "number": 874, 
+  "purpose": "An amendment to redirect funds in the Operation and Maintenance, Defense-Wide account by $21,000,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T16:32:00-04:00", 
+  "updated_at": "2015-01-02T13:23:22-05:00"
+}

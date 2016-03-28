@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T16:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5221-5222, H5235-5236", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5221-5222", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A055) offered by Mr. Schiff.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T18:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 293, 
+      "text": "On agreeing to the Schiff amendment (A055) Failed by recorded vote: 208 - 212 (Roll no. 293).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt832-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to prohibit the use of funds to enforce section 47524 of title 49, United States Code, or part 161 of title 14, Code of Federal Regulations, with regard to noise or access restrictions or to enforce section 47107 of title 49, United States Code, with regard to access restriction on the operation of aircraft by the operator of Bob Hope Airport in Burbank, California.", 
+  "house_number": 55, 
+  "introduced_at": "2014-06-10", 
+  "number": 832, 
+  "purpose": "An amendment to prohibit the use of funds to enforce section 47524 of title 49, United States Code, or part 161 of title 14, Code of Federal Regulations, with regard to noise or access restrictions or to enforce section 47107 of title 49, United States Code, with regard to access restriction on the operation of aircraft by the operator of Bob Hope Airport in Burbank, California.", 
+  "sponsor": {
+    "district": "28", 
+    "name": "Schiff, Adam B.", 
+    "state": "CA", 
+    "thomas_id": "01635", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T18:50:00-04:00", 
+  "updated_at": "2015-01-02T13:23:01-05:00"
+}

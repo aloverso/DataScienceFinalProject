@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T17:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6267-6268", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6267", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Grayson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T17:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Grayson amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1076-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds to enter into a contract with any offeror that has been convicted of misconduct such as theft, forgery, bribery, or violating Federal criminal tax laws.", 
+  "house_number": 24, 
+  "introduced_at": "2014-07-15", 
+  "number": 1076, 
+  "purpose": "An amendment to prohibit the use of funds to enter into a contract with any offeror that has been convicted of misconduct such as theft, forgery, bribery, or violating Federal criminal tax laws.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-15T17:56:00-04:00", 
+  "updated_at": "2015-01-02T13:25:03-05:00"
+}

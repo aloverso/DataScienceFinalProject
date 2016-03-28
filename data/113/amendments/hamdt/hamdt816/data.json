@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T22:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5181", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5181", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A039) offered by Mr. Garamendi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T22:50:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latham raised a point of order against the Garamendi amendment (A039). Mr Latham stated that the Garamendi amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt816-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 39, 
+  "introduced_at": "2014-06-09", 
+  "number": 816, 
+  "purpose": "An amendment to prohibit use of funds for recapitalization of the Ready Reserve Force of the National Defense Reserve Fleet except in a manner consistent with chapter 83 of title 41, United States Code (popularly referred to as the \"Buy American Act\").", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Garamendi, John", 
+    "state": "CA", 
+    "thomas_id": "01973", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-09", 
+  "updated_at": "2015-01-02T13:22:53-05:00"
+}

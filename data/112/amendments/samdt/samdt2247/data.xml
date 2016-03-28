@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2247" updated="2013-07-19T20:25:32-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-21">fail</status>
+  <sponsor id="400408"/>
+  <offered datetime="2012-06-11"/>
+  <description>To reduce unnecessary paperwork burdens on community water systems.</description>
+  <actions>
+    <action datetime="2012-06-21">
+      <text>Amendment SA 2247 proposed by Senator Toomey.</text>
+      <reference ref="CR S4382-4283" label="consideration"/>
+      <reference ref="CR S4382-4383" label="text"/>
+    </action>
+    <vote datetime="2012-06-21" how="roll" result="fail" roll="160">
+      <text>Amendment SA 2247, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 160.</text>
+    </vote>
+  </actions>
+</amendment>

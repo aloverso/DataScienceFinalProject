@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="667" updated="2013-07-19T20:11:49-04:00">
+  <amends type="h" number="2017" sequence=""/>
+  <status datetime="2011-09-26">pass</status>
+  <sponsor id="300082"/>
+  <offered datetime="2011-09-26"/>
+  <description>To amend the title.</description>
+  <actions>
+    <action datetime="2011-09-26">
+      <text>Amendment SA 667 proposed by Senator Reid.</text>
+      <reference ref="CR S5987" label="consideration"/>
+      <reference ref="CR S5987" label="text"/>
+    </action>
+    <vote datetime="2011-09-26" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 667 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

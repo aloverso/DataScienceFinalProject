@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4272", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4272", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2243 proposed by Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2243 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2243-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-07", 
+  "number": 2243, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To ensure that performance bonus payments are used by State agencies only to carry out the supplemental nutrition assistance programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Ben", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:25:29-04:00"
+}

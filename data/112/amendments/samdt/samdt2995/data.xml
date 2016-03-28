@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2995" updated="2013-07-19T20:31:53-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="400325"/>
+  <offered datetime="2012-11-27"/>
+  <description>To enhance authorities relating to the admission of defense industry civilians to certain Department of Defense educational institutions and programs.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 2995 proposed by Senator Portman.</text>
+      <reference ref="CR S7149" label="consideration"/>
+      <reference ref="CR S7149" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Voice Vote" result="pass">
+      <text>Amendment SA 2995 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

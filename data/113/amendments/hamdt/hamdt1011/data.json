@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T13:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6049-6050", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6049", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A040) offered by Mrs. Lummis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T13:28:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lummis amendment (A040) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1011-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reinforces DOE's already existing legal obligations when it sells or transfers excess uranium from the Federal inventory.", 
+  "house_number": 40, 
+  "introduced_at": "2014-07-10", 
+  "number": 1011, 
+  "purpose": "An amendment numbered 16 printed in the Congressional Record to prohibit the use of funds in contravention of section 3112 9d)(2)(B) of the USEC Privatization Act and all applicable public notice and comment requirements.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T13:28:00-04:00", 
+  "updated_at": "2015-01-02T13:24:30-05:00"
+}

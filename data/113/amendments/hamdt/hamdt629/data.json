@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T17:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3344", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3344", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Takano.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T17:09:00-04:00", 
+      "references": [], 
+      "text": "Mr. Culberson raised a point of order against the Takano amendment (A012). Mr. Culberson stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt629-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 12, 
+  "introduced_at": "2014-04-30", 
+  "number": 629, 
+  "purpose": "An amendment numbered 3 printed in the Congressional Record to prohibit the use of funds made available in this Act for the All-Volunteer Force Educational Assistance Program under chapter 30 of title 38, United States Code, or the Post 9/11 Educational Assistance Program under chapter 33 of such title.", 
+  "sponsor": {
+    "district": "41", 
+    "name": "Takano, Mark", 
+    "state": "CA", 
+    "thomas_id": "02110", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-04-30", 
+  "updated_at": "2015-01-02T13:21:18-05:00"
+}

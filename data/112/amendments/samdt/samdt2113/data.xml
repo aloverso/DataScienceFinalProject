@@ -1,0 +1,12 @@
+<amendment session="112" chamber="s" number="2113" updated="2013-07-19T20:24:18-04:00">
+  <amends type="sr" number="466" sequence=""/>
+  <status datetime="2012-05-21">offered</status>
+  <sponsor id="300055"/>
+  <offered datetime="2012-05-21"/>
+  <description>To make technical corrections.</description>
+  <actions>
+    <action datetime="2012-05-21">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+</amendment>

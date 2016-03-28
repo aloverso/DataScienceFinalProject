@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-21", 
+      "references": [
+        {
+          "reference": "CR S5846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 652 proposed by Senator Reid for Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 652 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt652-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s633-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 633
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-21", 
+  "number": 652, 
+  "proposed_at": "2011-09-21", 
+  "purpose": "To delay the effective date of the veterans contracting provisions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-21", 
+  "updated_at": "2013-07-19T20:11:42-04:00"
+}

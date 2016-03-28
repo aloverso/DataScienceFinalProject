@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2077-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2037-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2037
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-19", 
+  "number": 2077, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Durbin, Richard", 
+    "state": "IL", 
+    "thomas_id": "00326", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-04-19", 
+  "updated_at": "2013-07-19T20:23:59-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-22", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6674-6675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9/21/2012 S6674-6675", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2869 proposed by Senator Pryor for Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2869 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2869-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2606-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2606
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-09-22", 
+  "number": 2869, 
+  "proposed_at": "2012-09-22", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-09-22", 
+  "updated_at": "2013-07-19T20:30:49-04:00"
+}

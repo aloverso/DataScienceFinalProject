@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-01", 
+      "references": [
+        {
+          "reference": "CR S240-241", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S240", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1491 proposed by Senator Shelby to Amendment SA 1470.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S291, S297, S301", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 7, 
+      "text": "Amendment SA 1491 as modified agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 7.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1491-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1470-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1470
+  }, 
+  "amends_bill": {
+    "bill_id": "s2038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-01-31", 
+  "number": 1491, 
+  "proposed_at": "2012-02-01", 
+  "purpose": "To extend the STOCK Act to ensure that the reporting requirements set forth in the STOCK Act apply to the executive branch and independent agencies.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shelby, Richard C.", 
+    "state": "AL", 
+    "thomas_id": "01049", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-19T20:18:51-04:00"
+}

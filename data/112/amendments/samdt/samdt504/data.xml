@@ -1,0 +1,26 @@
+<amendment session="112" chamber="s" number="504" updated="2013-07-19T20:10:27-04:00">
+  <amends type="s" number="679" sequence=""/>
+  <status datetime="2011-06-28">withdrawn</status>
+  <sponsor id="300027"/>
+  <offered datetime="2011-06-22"/>
+  <description>To strike the provisions relating to the Comptroller of the Army, the Comptroller of the Navy, and the Comptroller of the Air Force.</description>
+  <actions>
+    <action datetime="2011-06-22">
+      <text>Amendment SA 504 proposed by Senator Cornyn.</text>
+      <reference ref="CR S4018-4019" label="consideration"/>
+      <reference ref="CR S4018" label="text"/>
+    </action>
+    <action datetime="2011-06-23">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4046" label="consideration"/>
+    </action>
+    <action datetime="2011-06-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4145" label="consideration"/>
+    </action>
+    <action datetime="2011-06-28">
+      <text>Proposed amendment SA 504 withdrawn in Senate.</text>
+      <reference ref="CR S4147" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

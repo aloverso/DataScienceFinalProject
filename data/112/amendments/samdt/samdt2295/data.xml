@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2295" updated="2013-07-19T20:25:56-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">pass</status>
+  <sponsor id="400412"/>
+  <offered datetime="2012-06-11"/>
+  <description>To increase the amounts authorized to be appropriated for the designation of treatment areas.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2295 proposed by Senator Udall CO.</text>
+      <reference ref="CR S4339-4340" label="consideration"/>
+      <reference ref="CR S4339" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="roll" result="pass" roll="146">
+      <text>Amendment SA 2295 agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 146.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T21:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4986-4987, H5008-5009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4986", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Holding.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T00:26:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 259, 
+      "text": "On agreeing to the Holding amendment (A061) Agreed to by recorded vote: 219 - 189 (Roll no. 259).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt750-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2014-05-29", 
+  "number": 750, 
+  "purpose": "An amendment to prohibit the use of funds to transfer or temporarily assign employees to the Office of the Pardon Attorney for the purpose of screening clemency applications.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Holding, George", 
+    "state": "NC", 
+    "thomas_id": "02143", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-30T00:26:00-04:00", 
+  "updated_at": "2015-01-02T13:22:18-05:00"
+}

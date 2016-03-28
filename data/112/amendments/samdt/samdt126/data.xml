@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="126" updated="2013-07-19T20:07:08-04:00">
+  <amends type="s" number="23" sequence=""/>
+  <status datetime="2011-03-03">pass</status>
+  <sponsor id="300093"/>
+  <offered datetime="2011-03-01"/>
+  <description>To designate the satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan as the "Elijah J. McCoy United States Patent and Trademark Office".</description>
+  <actions>
+    <action datetime="2011-03-03">
+      <text>Amendment SA 126 proposed by Senator Stabenow.</text>
+      <reference ref="CR S1183" label="consideration"/>
+      <reference ref="CR S1183" label="text"/>
+    </action>
+    <vote datetime="2011-03-03" how="Voice Vote" result="pass">
+      <text>Amendment SA 126 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4279-4280", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4280", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2262 proposed by Senator DeMint.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2262 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2262-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-11", 
+  "number": 2262, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To express the sense of the Senate that nothing in this Act or an amendment made by this Act should manipulate prices or interfere with the free market.", 
+  "sponsor": {
+    "district": null, 
+    "name": "DeMint, Jim", 
+    "state": "SC", 
+    "thomas_id": "01605", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:25:39-04:00"
+}

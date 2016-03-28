@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-09", 
+      "references": [
+        {
+          "reference": "CR S6416", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6416", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3981 proposed by Senator Begich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3981 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3981-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1474-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1474
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-09", 
+  "number": 3981, 
+  "proposed_at": "2014-12-09", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-09", 
+  "updated_at": "2015-01-02T13:14:49-05:00"
+}

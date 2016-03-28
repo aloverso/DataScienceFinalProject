@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-07-29", 
+      "references": [
+        {
+          "reference": "CR S5063", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5063", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 592 proposed by Senator Reid to Amendment SA 591 (the instructions to the motion).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-30", 
+      "references": [
+        {
+          "reference": "CR S5092", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-07-31", 
+      "references": [
+        {
+          "reference": "CR S5148", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-08-01", 
+      "references": [
+        {
+          "reference": "CR S5156", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt592-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt591-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 591
+  }, 
+  "amends_bill": {
+    "bill_id": "s627-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 627
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-07-29", 
+  "number": 592, 
+  "proposed_at": "2011-07-29", 
+  "purpose": "Instructions on the motion to refer the House message.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-07-29", 
+  "updated_at": "2013-07-19T20:11:11-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-29", 
+      "references": [
+        {
+          "reference": "CR S4208", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4208", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 523 proposed by Senator Schumer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 523 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt523-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres116-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 116
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-29", 
+  "number": 523, 
+  "proposed_at": "2011-06-29", 
+  "purpose": "To add positions for expedited consideration and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Schumer, Charles E.", 
+    "state": "NY", 
+    "thomas_id": "01036", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-29", 
+  "updated_at": "2013-07-19T20:10:37-04:00"
+}

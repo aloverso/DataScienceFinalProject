@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T10:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3385-3386", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3386", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Wenstrup.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T10:43:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wenstrup amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt648-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2014-05-01", 
+  "number": 648, 
+  "purpose": "An amendment numbered 7 printed in House Report 113-426 to prohibit funding for the delivery of printed copies of the Daily Calendar of the United States House of Representatives to member offices, as this document is accessible online.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wenstrup, Brad R.", 
+    "state": "OH", 
+    "thomas_id": "02152", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-01T10:43:00-04:00", 
+  "updated_at": "2015-01-02T13:21:27-05:00"
+}

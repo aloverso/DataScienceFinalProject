@@ -1,0 +1,28 @@
+{
+  "actions": [], 
+  "amendment_id": "hamdt1132-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5230-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5230
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2014-08-01", 
+  "number": 1132, 
+  "purpose": "Pursuant to the provisions of H.Res. 710 the amendments printed in Part A of the Rules Committee report are considered as adopted.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-08-01", 
+  "updated_at": "2015-01-02T13:25:31-05:00"
+}

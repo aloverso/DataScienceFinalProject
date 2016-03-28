@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-05T10:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7538-7539", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7538", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-05T11:09:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Polis amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt522-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3309-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires claimants to provide additional disclosure information in any pre-suit notification to establish a willful infringement claim.", 
+  "house_number": 3, 
+  "introduced_at": "2013-12-05", 
+  "number": 522, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 113-283 to require claimants to provide additional disclosure information in any pre-suit notification to establish a willful infringement claim.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-12-05T11:09:00-05:00", 
+  "updated_at": "2015-01-02T13:20:24-05:00"
+}

@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-10", 
+      "references": [
+        {
+          "reference": "CR S2359", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2359", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2971 proposed by Senator Warner for Senator Carper to Amendment SA 2970.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2971 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2971-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2970-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 2970
+  }, 
+  "amends_bill": {
+    "bill_id": "s994-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 994
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-04-10", 
+  "number": 2971, 
+  "proposed_at": "2014-04-10", 
+  "purpose": "To allow the Secretary of Defense to request an extension to report financial and payment information data.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-10", 
+  "updated_at": "2015-01-02T13:06:20-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24T13:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6767", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6767", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Hahn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hahn amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1121-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4984-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4984
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides student loan borrowers with the national average cohort default rate in addition to the institution's cohort default rate and the categorical national cohort default rate.", 
+  "house_number": 6, 
+  "introduced_at": "2014-07-24", 
+  "number": 1121, 
+  "purpose": "An amendment No. 6 printed in part B of House Report 113-546 to provide student loan borrowers with the national average cohort default rate in addition to the institution's cohort default rate and the categorical national cohort default rate.", 
+  "sponsor": {
+    "district": "44", 
+    "name": "Hahn, Janice", 
+    "state": "CA", 
+    "thomas_id": "02089", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-24T13:38:00-04:00", 
+  "updated_at": "2015-01-02T13:25:25-05:00"
+}

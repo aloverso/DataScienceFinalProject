@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T15:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5216-5217, H5232-5233", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5216", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T18:29:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 289, 
+      "text": "On agreeing to the Blackburn amendment (A047) Failed by recorded vote: 159 - 260 (Roll no. 289).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt824-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reduce each amount made available by the bill by 1%.", 
+  "house_number": 47, 
+  "introduced_at": "2014-06-10", 
+  "number": 824, 
+  "purpose": "An amendment to reduce each amount made available by the bill by 1%.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T18:29:00-04:00", 
+  "updated_at": "2015-01-02T13:22:57-05:00"
+}

@@ -1,0 +1,21 @@
+<amendment session="112" chamber="s" number="182" updated="2013-07-19T20:07:37-04:00">
+  <amends type="s" number="493" sequence=""/>
+  <status datetime="2011-03-16">pass</status>
+  <sponsor id="300077"/>
+  <offered datetime="2011-03-15"/>
+  <description>Of a perfecting nature.</description>
+  <actions>
+    <action datetime="2011-03-15">
+      <text>Amendment SA 182 proposed by Senator Nelson NE.</text>
+      <reference ref="CR S1641, S1642-1643" label="consideration"/>
+      <reference ref="CR S1641" label="text"/>
+    </action>
+    <action datetime="2011-03-16">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1715, S1716" label="consideration"/>
+    </action>
+    <vote datetime="2011-03-16" how="roll" result="pass" roll="41">
+      <text>Amendment SA 182 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 41.</text>
+    </vote>
+  </actions>
+</amendment>

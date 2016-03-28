@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2268" updated="2013-07-19T20:25:42-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">fail</status>
+  <sponsor id="400105"/>
+  <offered datetime="2012-06-11"/>
+  <description>To prohibit the Secretary from making loan guarantees.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2268 proposed by Senator DeMint.</text>
+      <reference ref="CR S4280-4281" label="consideration"/>
+      <reference ref="CR S4280" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="fail" roll="137">
+      <text>Amendment SA 2268 not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 137.</text>
+    </vote>
+  </actions>
+</amendment>

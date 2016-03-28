@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-27", 
+      "references": [
+        {
+          "reference": "CR S8407, S8428", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8407", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3436 proposed by Senator Paul.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-27", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 234, 
+      "text": "Amendment SA 3436, under the order of 12/21/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 12 - 79. Record Vote Number: 234.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3436-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5949-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5949
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-27", 
+  "number": 3436, 
+  "proposed_at": "2012-12-27", 
+  "purpose": "To ensure adequate protection of the rights under the Fourth Amendment to the Constitution of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-12-27", 
+  "updated_at": "2013-07-19T20:35:40-04:00"
+}

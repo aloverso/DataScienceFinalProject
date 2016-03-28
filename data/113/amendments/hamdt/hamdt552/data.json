@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-06T10:20:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1673-1674", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1673", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Lummis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-06T10:28:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lummis amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt552-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2954-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2954
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment conforms with Senate changes to FLPMA; allows the Secretary to consolidate environmental reviews; clarifies the definition of current grazing management; and ensures a timely response for temporary trailing and crossing applications.", 
+  "house_number": 2, 
+  "introduced_at": "2014-02-06", 
+  "number": 552, 
+  "purpose": "An amendment numbered 2 printed in Part A of House Report 113-340 to conform with Senate changes to FLPMA, allow the Secretary to consolidate environmental reviews, clarify the definition of current grazing management, and ensure a timely response for temporary trailing and crossing applications.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lummis, Cynthia M.", 
+    "state": "WY", 
+    "thomas_id": "01960", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-06T10:28:00-05:00", 
+  "updated_at": "2015-01-02T13:20:39-05:00"
+}

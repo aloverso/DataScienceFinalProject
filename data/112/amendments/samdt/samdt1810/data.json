@@ -1,0 +1,79 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1533-1534", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1534", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1810 proposed by Senator Corker.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1593", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "references": [
+        {
+          "reference": "CR S1645, S1649", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "Amendment SA 1810 not agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1810-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-07", 
+  "number": 1810, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To ensure that the aggregate amount made available for transportation projects for a fiscal year does not exceed the estimated amount available for those projects in the Highway Trust Fund for the fiscal year.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Corker, Bob", 
+    "state": "TN", 
+    "thomas_id": "01825", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-14", 
+  "updated_at": "2013-07-19T20:21:39-04:00"
+}

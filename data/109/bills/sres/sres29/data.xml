@@ -1,0 +1,37 @@
+<bill session="109" type="sr" number="29" updated="2014-12-10T13:45:45-05:00">
+  <state datetime="2005-02-01">REPORTED</state>
+  <status>
+    <unknown datetime="2005-02-01"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+  </titles>
+  <sponsor id="300099"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-01">
+      <text>Committee on Armed Services. Original measure reported to Senate by Senator Warner. Without written report.</text>
+    </action>
+    <action datetime="2005-02-01" state="REFERRED">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S823" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2005-02-01" state="REPORTED">
+      <text>Committee on Armed Services ordered to be reported an original measure.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Origin, Reporting, Markup"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Senate Armed Services"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2005--Reported to Senate without amendment.
+Authorizes expenditures by the Committee on Armed Services for the 109th Congress.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<amendment session="112" chamber="s" number="3367" updated="2013-07-19T20:35:04-04:00">
+  <amends type="h" number="1" sequence=""/>
+  <status datetime="2012-12-28">withdrawn</status>
+  <sponsor id="412325"/>
+  <offered datetime="2012-12-18"/>
+  <description>To extend certain supplemental agriculture disaster assistance programs.</description>
+  <actions>
+    <action datetime="2012-12-18">
+      <text>Amendment SA 3367 proposed by Senator Merkley to Amendment SA 3338.</text>
+    </action>
+    <action datetime="2012-12-19">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8164, S8178-8179" label="consideration"/>
+      <reference ref="CR S8178-8179" label="text as modified"/>
+    </action>
+    <action datetime="2012-12-19">
+      <text>SA 3367 fell when SA 3338 withdrawn.</text>
+      <reference ref="CR S8194" label="consideration"/>
+    </action>
+    <action datetime="2012-12-27">
+      <text>Amendment SA 3367 proposed by Senator Merkley to Amendment SA 3395.</text>
+      <reference ref="CR S8434-8437" label="consideration"/>
+      <reference ref="CR S8434-8437" label="text as further modified"/>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8462, S8482" label="consideration"/>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Point of order that emergency designations within the amendment violate the CBA raised in Senate with respect to amendment SA 3367.</text>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Motion to waive all applicable budgetary discipline with respect to amendment SA 3367 (the sections within the amendment regarding emergency designations) rejected in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 246.</text>
+    </action>
+    <action datetime="2012-12-28">
+      <text>The emergency designations within amendment SA 3367 were stricken.</text>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Proposed amendment SA 3367 withdrawn in Senate.</text>
+      <reference ref="CR S8482-8483" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

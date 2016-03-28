@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt1805-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1741-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1741
+  }, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-06", 
+  "number": 1805, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Roberts, Pat", 
+    "state": "KS", 
+    "thomas_id": "00968", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-03-06", 
+  "updated_at": "2013-07-19T20:21:37-04:00"
+}

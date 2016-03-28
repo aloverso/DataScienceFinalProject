@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-20", 
+      "references": [
+        {
+          "reference": "CR S3937", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3937", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 491 proposed by Senator Menendez for Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 491 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt491-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres141-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 141
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-20", 
+  "number": 491, 
+  "proposed_at": "2011-06-20", 
+  "purpose": "To improve the resolved clause.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-20", 
+  "updated_at": "2013-07-19T20:10:21-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29", 
+      "references": [
+        {
+          "reference": "CR S5028-5031, S5038", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3584 proposed by Senator Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 246, 
+      "text": "Amendment SA 3584, under the order of 7/23/2014, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 69. Record Vote Number: 246.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3584-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5021-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5021
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-07-23", 
+  "number": 3584, 
+  "proposed_at": "2014-07-29", 
+  "purpose": "To empower States with authority for most taxing and spending for highway programs and mass transit programs.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "thomas_id": "02080", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-29", 
+  "updated_at": "2015-01-02T13:11:31-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7174-7178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7175-7176", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2942 proposed by Senator Levin for Senator McCaskill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2942 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2942-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-26", 
+  "number": 2942, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To expand whistleblower protections to non-Defense contractor and grantee employees.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCaskill, Claire", 
+    "state": "MO", 
+    "thomas_id": "01820", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:31:26-04:00"
+}

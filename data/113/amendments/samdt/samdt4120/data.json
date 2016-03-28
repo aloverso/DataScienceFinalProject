@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-15", 
+      "references": [
+        {
+          "reference": "CR S6867", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6867", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4120 proposed by Senator Walsh for Senator Johanns.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-15", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4120 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4120-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2866-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2866
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-15", 
+  "number": 4120, 
+  "proposed_at": "2014-12-15", 
+  "purpose": "To provide that surcharges received from the sale of coins under the Act are used to reduce the national debt.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Johanns, Mike", 
+    "state": "NE", 
+    "thomas_id": "01899", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-15", 
+  "updated_at": "2015-01-02T13:15:59-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T16:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3339-3343", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3339", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Rothfus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T17:01:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rothfus amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt626-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds to be used by the Secretary of Veterans Affairs to pay a performance award to senior executives of the VA.", 
+  "house_number": 9, 
+  "introduced_at": "2014-04-30", 
+  "number": 626, 
+  "purpose": "An amendment numbered 1 printed in the Congressional Record to prohibit the use of funds to be used by the Secretary of Veterans Affairs to pay a performance award under section 5384 of title 5, United States Code.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Rothfus, Keith J.", 
+    "state": "PA", 
+    "thomas_id": "02158", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T17:01:00-04:00", 
+  "updated_at": "2015-01-02T13:21:16-05:00"
+}

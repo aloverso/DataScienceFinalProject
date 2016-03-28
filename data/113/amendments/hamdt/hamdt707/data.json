@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T23:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4900", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Ms. Sinema.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T23:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sinema amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt707-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, General Administration in the Department of Justice by $1 million and increases funding for Violence Against Women Prevention and Prosecution Programs (college campuses) by a similar amount.", 
+  "house_number": 18, 
+  "introduced_at": "2014-05-28", 
+  "number": 707, 
+  "purpose": "An amendment to reduce funding for Salaries and Expenses, General Administration in the Department of Justice by $1 million and to increase funding for Violence Against Women Prevention and Prosecution Programs (College Campuses) by a similar amount.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sinema, Kyrsten", 
+    "state": "AZ", 
+    "thomas_id": "02099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-28T23:03:00-04:00", 
+  "updated_at": "2015-01-02T13:21:57-05:00"
+}

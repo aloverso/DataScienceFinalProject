@@ -1,0 +1,85 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-15", 
+      "references": [
+        {
+          "reference": "CR S8817", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8817", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2553 proposed by Senator Reid to Amendment SA 2552.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-18", 
+      "references": [
+        {
+          "reference": "CR S8957", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-19", 
+      "references": [
+        {
+          "reference": "CR S8987", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-19", 
+      "references": [
+        {
+          "reference": "CR S9067", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "SA 2553 fell when SA 2552 withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2553-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2552-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 2552
+  }, 
+  "amends_bill": {
+    "bill_id": "hr3304-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3304
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-12-15", 
+  "number": 2553, 
+  "proposed_at": "2013-12-15", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2013-12-15", 
+  "updated_at": "2015-01-02T13:02:51-05:00"
+}

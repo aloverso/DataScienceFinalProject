@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-17", 
+      "references": [
+        {
+          "reference": "CR S8781", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8781", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1467 proposed by Senator Reid for Senator Burr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1467 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1467-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1959-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1959
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-12-17", 
+  "number": 1467, 
+  "proposed_at": "2011-12-17", 
+  "purpose": "To provide that the Act may not be construed to infringe upon the sovereignty of Pakistan to combat militant or terrorist groups operating inside the boundaries of Pakistan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "thomas_id": "00153", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-17", 
+  "updated_at": "2013-07-19T20:18:39-04:00"
+}

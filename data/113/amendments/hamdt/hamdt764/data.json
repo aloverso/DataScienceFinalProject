@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T22:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4997-4998", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4997", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A075) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T22:44:00-04:00", 
+      "references": [], 
+      "text": "Mr. Wolf raised a point of order against the Gosar amendment (A075). Mr. Wolf stated that the provisions of the amendment violate clause 2 of rule 21 and constitute legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt764-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 75, 
+  "introduced_at": "2014-05-29", 
+  "number": 764, 
+  "purpose": "An amendment to prohibit use of funds for sundry studies.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-29", 
+  "updated_at": "2015-01-02T13:22:25-05:00"
+}

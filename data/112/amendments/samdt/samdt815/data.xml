@@ -1,0 +1,21 @@
+<amendment session="112" chamber="s" number="815" updated="2013-07-19T20:13:04-04:00">
+  <amends type="h" number="2112" sequence=""/>
+  <status datetime="2011-10-20">pass</status>
+  <sponsor id="400284"/>
+  <offered datetime="2011-10-18"/>
+  <description>To improve the bill.</description>
+  <actions>
+    <action datetime="2011-10-19">
+      <text>Amendment SA 815 proposed by Senator Moran to Amendment SA 738.</text>
+      <reference ref="CR S6734, S6741, S6750" label="consideration"/>
+      <reference ref="CR S6734" label="text"/>
+    </action>
+    <action datetime="2011-10-20">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6791, S6807" label="consideration"/>
+    </action>
+    <vote datetime="2011-10-20" how="Voice Vote" result="pass">
+      <text>Amendment SA 815 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T17:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6264-6265", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6264", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. Bachus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T17:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bachus amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1073-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 21, 
+  "introduced_at": "2014-07-15", 
+  "number": 1073, 
+  "purpose": "An amendment numbered 4, printed in the Congressional Record, to prohibit the use of funds to reinstall the Red Mountain sculpture on the plaza of the Hugo Black Courthouse in Birmingham, Alabama.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Bachus, Spencer", 
+    "state": "AL", 
+    "thomas_id": "00038", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-15T17:32:00-04:00", 
+  "updated_at": "2015-01-02T13:25:01-05:00"
+}

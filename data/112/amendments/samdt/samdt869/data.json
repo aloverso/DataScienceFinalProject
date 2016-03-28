@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-19", 
+      "references": [
+        {
+          "reference": "CR S6753-6755", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6754", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 869 proposed by Senator Gillibrand to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "references": [
+        {
+          "reference": "CR S6792, S6843", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 181, 
+      "text": "Amendment SA 869 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 181.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt869-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-19", 
+  "number": 869, 
+  "proposed_at": "2011-10-19", 
+  "purpose": "To increase funding for the emergency conservation program and the emergency watershed protection program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Gillibrand, Kirsten E.", 
+    "state": "NY", 
+    "thomas_id": "01866", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-20", 
+  "updated_at": "2013-07-19T20:13:33-04:00"
+}

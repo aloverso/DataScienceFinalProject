@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1535" updated="2013-07-19T20:19:17-04:00">
+  <amends type="s" number="1813" sequence=""/>
+  <status datetime="2012-02-13">offered</status>
+  <sponsor id="400418"/>
+  <offered datetime="2012-02-13"/>
+  <description>To provide for an extension of the Draft Proposed Outer Continental Shelf Oil and Gas Leasing Program 2010-2015.</description>
+  <actions>
+    <action datetime="2012-03-08">
+      <text>Amendment SA 1535 proposed by Senator Vitter.</text>
+      <reference ref="CR S1505-1507, S1526" label="consideration"/>
+      <reference ref="CR S1505" label="text"/>
+    </action>
+    <action datetime="2012-03-08">
+      <text>Amendment SA 1535 under the order of 3/7/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 28.</text>
+    </action>
+  </actions>
+</amendment>

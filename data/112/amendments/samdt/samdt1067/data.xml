@@ -1,0 +1,30 @@
+<amendment session="112" chamber="s" number="1067" updated="2013-07-19T20:15:14-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-30">withdrawn</status>
+  <sponsor id="412493"/>
+  <offered datetime="2011-11-17"/>
+  <description>To require notification of Congress with respect to the initial custody and further disposition of members of al-Qaeda and affiliated entities.</description>
+  <actions>
+    <action datetime="2011-11-18">
+      <text>Amendment SA 1067 proposed by Senator McCain for Senator Ayotte.</text>
+      <reference ref="CR S7787-7788" label="consideration"/>
+      <reference ref="CR S7788" label="text as modified"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7885" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8013, S8053-8054" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Proposed amendment SA 1067 withdrawn in Senate.</text>
+      <reference ref="CR S8053" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

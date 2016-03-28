@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2167" updated="2013-07-19T20:24:45-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">pass</status>
+  <sponsor id="300048"/>
+  <offered datetime="2012-06-06"/>
+  <description>To provide payment limitations for marketing loan gains and loan deficiency payments.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2167 proposed by Senator Grassley.</text>
+      <reference ref="CR S4269-4270" label="consideration"/>
+      <reference ref="CR S4269" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="roll" result="pass" roll="125">
+      <text>Amendment SA 2167 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 125.</text>
+    </vote>
+  </actions>
+</amendment>

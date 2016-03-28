@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-29", 
+      "references": [
+        {
+          "reference": "CR S565-566", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S565", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2702 proposed by Senator Hagan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2702 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2702-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1926-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1926
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-01-28", 
+  "number": 2702, 
+  "proposed_at": "2014-01-29", 
+  "purpose": "To exempt certain loans from the escrow requirement under section 102(d)(1) of the Flood Disaster Protection Act of 1973.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagan, Kay R.", 
+    "state": "NC", 
+    "thomas_id": "01902", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-01-29", 
+  "updated_at": "2015-01-02T13:04:05-05:00"
+}

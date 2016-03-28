@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2135-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-22", 
+  "number": 2135, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Blumenthal, Richard", 
+    "state": "CT", 
+    "thomas_id": "02076", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-05-22", 
+  "updated_at": "2013-07-19T20:24:29-04:00"
+}

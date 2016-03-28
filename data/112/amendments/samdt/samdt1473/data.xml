@@ -1,0 +1,25 @@
+<amendment session="112" chamber="s" number="1473" updated="2013-07-19T20:18:42-04:00">
+  <amends type="s" number="2038" sequence=""/>
+  <status datetime="2012-02-02">fail</status>
+  <sponsor id="400576"/>
+  <offered datetime="2012-01-30"/>
+  <description>To prevent the creation of duplicative and overlapping Federal programs.</description>
+  <actions>
+    <action datetime="2012-01-31">
+      <text>Amendment SA 1473 proposed by Senator Coburn to Amendment SA 1470.</text>
+      <reference ref="CR S188-189" label="consideration"/>
+      <reference ref="CR S189" label="text"/>
+    </action>
+    <action datetime="2012-02-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S238" label="consideration"/>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S290, S307-308" label="consideration"/>
+    </action>
+    <vote datetime="2012-02-02" how="roll" result="fail" roll="10">
+      <text>Amendment SA 1473, under the order of 2/2/2012, not having achieved 67 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 10.</text>
+    </vote>
+  </actions>
+</amendment>

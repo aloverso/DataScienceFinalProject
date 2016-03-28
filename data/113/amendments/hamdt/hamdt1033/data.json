@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T17:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6079-6080, H6095-6096", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6079", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Mr. Stockman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T20:43:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 396, 
+      "text": "On agreeing to the Stockman amendment (A062) Agreed to by recorded vote: 218 - 204 (Roll no. 396).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1033-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 62, 
+  "introduced_at": "2014-07-10", 
+  "number": 1033, 
+  "purpose": "An amendment to prohibit the use of funds by the Department of Energy to block approval of offshore drilling permits.", 
+  "sponsor": {
+    "district": "36", 
+    "name": "Stockman, Steve", 
+    "state": "TX", 
+    "thomas_id": "01114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T20:43:00-04:00", 
+  "updated_at": "2015-01-02T13:24:41-05:00"
+}

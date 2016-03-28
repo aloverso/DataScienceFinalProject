@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-15", 
+      "references": [
+        {
+          "reference": "CR S1641, S1642-1643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1641", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 182 proposed by Senator Nelson NE.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16", 
+      "references": [
+        {
+          "reference": "CR S1715, S1716", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-16", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 41, 
+      "text": "Amendment SA 182 agreed to in Senate by Yea-Nay Vote. 98 - 1. Record Vote Number: 41.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt182-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s493-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 493
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-15", 
+  "number": 182, 
+  "proposed_at": "2011-03-15", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Ben", 
+    "state": "NE", 
+    "thomas_id": "01627", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-16", 
+  "updated_at": "2013-07-19T20:07:37-04:00"
+}

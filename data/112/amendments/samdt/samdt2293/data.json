@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20", 
+      "references": [
+        {
+          "reference": "CR S4336-4338", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4337", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2293 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 143, 
+      "text": "Amendment SA 2293 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 143.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2293-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-11", 
+  "number": 2293, 
+  "proposed_at": "2012-06-20", 
+  "purpose": "To limit subsidies for millionaires.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-20", 
+  "updated_at": "2013-07-19T20:25:55-04:00"
+}

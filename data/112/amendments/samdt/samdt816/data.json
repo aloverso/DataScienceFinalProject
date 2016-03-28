@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-18", 
+      "references": [
+        {
+          "reference": "CR S6650", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 816 proposed by Senator Sanders to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-19", 
+      "references": [
+        {
+          "reference": "CR S6708, S6758", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 816 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt816-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-18", 
+  "number": 816, 
+  "proposed_at": "2011-10-18", 
+  "purpose": "To provide amounts to support innovative, utility-administered energy efficiency programs for small businesses.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-19", 
+  "updated_at": "2013-07-19T20:13:05-04:00"
+}

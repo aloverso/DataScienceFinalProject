@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7688-7689", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7688", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1158 proposed by Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7785", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8012", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8094", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8117", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1158 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1158-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1158, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To clarify the permanence of the prohibition on transfers of recidivist detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and entities.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2011-12-01", 
+  "updated_at": "2013-07-19T20:16:01-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T18:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3355", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3355", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mrs. Noem.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T18:31:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Noem amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt641-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds to close rural hospitals in high-need areas that are designated as national historic landmarks.", 
+  "house_number": 24, 
+  "introduced_at": "2014-04-30", 
+  "number": 641, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Noem, Kristi L.", 
+    "state": "SD", 
+    "thomas_id": "02060", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T18:31:00-04:00", 
+  "updated_at": "2015-01-02T13:21:24-05:00"
+}

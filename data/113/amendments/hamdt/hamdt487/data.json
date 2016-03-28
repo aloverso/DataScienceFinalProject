@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-10-23T16:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6749-6750", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6749", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Bentivolio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-10-23T16:54:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Bentivolio amendment (A007) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt487-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3080-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3080
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase the amount of backlogged projects to be de-authorized, beyond what is initially de-authorized in the bill from $12 billion to $35 billion.", 
+  "house_number": 7, 
+  "introduced_at": "2013-10-23", 
+  "number": 487, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "11", 
+    "name": "Bentivolio, Kerry L.", 
+    "state": "MI", 
+    "thomas_id": "02135", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-10-23T16:54:00-04:00", 
+  "updated_at": "2015-01-02T13:20:07-05:00"
+}

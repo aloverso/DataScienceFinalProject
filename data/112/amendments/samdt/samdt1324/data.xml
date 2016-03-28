@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1324" updated="2013-07-19T20:17:25-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-30">pass</status>
+  <sponsor id="300023"/>
+  <offered datetime="2011-11-18"/>
+  <description>To extend the authorization for a military construction project for the Air National Guard to relocate a munitions storage complex at Gulfport-Biloxi International Airport, Mississippi.</description>
+  <actions>
+    <action datetime="2011-11-30">
+      <text>Amendment SA 1324 proposed by Senator Levin for Senator Cochran.</text>
+      <reference ref="CR S8015-8021" label="consideration"/>
+      <reference ref="CR S8021" label="text"/>
+    </action>
+    <vote datetime="2011-11-30" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1324 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

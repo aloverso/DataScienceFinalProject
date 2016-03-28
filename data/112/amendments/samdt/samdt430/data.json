@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-09", 
+      "references": [
+        {
+          "reference": "CR S3663", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3663", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 430 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-14", 
+      "references": [
+        {
+          "reference": "CR S3752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15", 
+      "references": [
+        {
+          "reference": "CR S3847", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16", 
+      "references": [
+        {
+          "reference": "CR S3852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "references": [
+        {
+          "reference": "CR S3962", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt430-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-08", 
+  "number": 430, 
+  "proposed_at": "2011-06-09", 
+  "purpose": "To reduce amounts authorized to be appropriated.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-08", 
+  "updated_at": "2013-07-19T20:09:50-04:00"
+}

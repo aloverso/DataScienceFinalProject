@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05T17:00:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2186-2188", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2186", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Smith (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-06T10:36:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H2209", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 101, 
+      "text": "On agreeing to the Smith (TX) amendment (A001) Agreed to by recorded vote: 230 - 184 (Roll no. 101).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt576-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3826-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3826
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to require EPA to rely on proven technologies when it sets rules for any power plant.", 
+  "house_number": 1, 
+  "introduced_at": "2014-03-05", 
+  "number": 576, 
+  "purpose": "An amendment numbered 1 printed in House Report 113-373 to require the Administrator to apply the specific criteria, under the bill, for setting a standard based on the best system of emission reduction for new sources within the coal category, when setting a standard for any fossil fuel category.", 
+  "sponsor": {
+    "district": "21", 
+    "name": "Smith, Lamar", 
+    "state": "TX", 
+    "thomas_id": "01075", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-06T10:36:00-05:00", 
+  "updated_at": "2015-01-02T13:20:51-05:00"
+}

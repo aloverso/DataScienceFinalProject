@@ -1,0 +1,40 @@
+<amendment session="112" chamber="s" number="1174" updated="2013-07-19T20:16:09-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-17">offered</status>
+  <sponsor id="412325"/>
+  <offered datetime="2011-11-17"/>
+  <description>To express the sense of Congress regarding the expedited transition of responsibility for military and security operations in Afghanistan to the Government of Afghanistan.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1174 proposed by Senator Merkley.</text>
+      <reference ref="CR S7674-7675" label="consideration"/>
+      <reference ref="CR S7674-7675" label="text"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7785" label="consideration"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7884" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943, S7984" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8012" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8094" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1174.</text>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Amendment SA 1174 ruled out of order by the chair.</text>
+    </action>
+  </actions>
+</amendment>

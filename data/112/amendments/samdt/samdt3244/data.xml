@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3244" updated="2013-07-19T20:34:01-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-30">pass</status>
+  <sponsor id="300082"/>
+  <offered datetime="2012-11-29"/>
+  <description>To amend title 18, United States Code, to provide penalties for transporting minors in foreign commerce for the purposes of female genital mutilation.</description>
+  <actions>
+    <action datetime="2012-11-30">
+      <text>Amendment SA 3244 proposed by Senator Levin for Senator Reid.</text>
+      <reference ref="CR S7294-7298" label="consideration"/>
+      <reference ref="CR S7296-7297" label="text"/>
+    </action>
+    <vote datetime="2012-11-30" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3244 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

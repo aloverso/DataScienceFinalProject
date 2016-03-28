@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3248" updated="2013-07-19T20:34:03-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-30">pass</status>
+  <sponsor id="400357"/>
+  <offered datetime="2012-11-29"/>
+  <description>To amend the Federal renewable energy purchase requirement to include geothermal heat pumps.</description>
+  <actions>
+    <action datetime="2012-11-30">
+      <text>Amendment SA 3248 proposed by Senator Levin for Senator Sanders.</text>
+      <reference ref="CR S7288-7290" label="consideration"/>
+      <reference ref="CR S7289" label="text"/>
+    </action>
+    <vote datetime="2012-11-30" how="Voice Vote" result="pass">
+      <text>Amendment SA 3248 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

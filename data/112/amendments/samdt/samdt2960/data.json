@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7136-7138", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7137", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2960 proposed by Senator Levin for Senator Wyden.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2960 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2960-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 2960, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To require a report on mechanisms to ease the reintegration into civilian life of members of the National Guard and the Reserves following a deployment on active duty.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:31:35-04:00"
+}

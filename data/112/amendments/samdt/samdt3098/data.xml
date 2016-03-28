@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3098" updated="2013-07-19T20:32:46-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="412323"/>
+  <offered datetime="2012-11-28"/>
+  <description>To require a report by the suspension and debarment officials of the military departments and the Defense Logistics Agency.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3098 proposed by Senator Levin for Senator Shaheen.</text>
+      <reference ref="CR S7174-7178" label="consideration"/>
+      <reference ref="CR S7177-7178" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3098 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

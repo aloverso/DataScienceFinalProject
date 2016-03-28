@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "references": [
+        {
+          "reference": "CR S5772", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5772", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3923 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "references": [], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-13", 
+      "references": [
+        {
+          "reference": "CR S5964", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "references": [
+        {
+          "reference": "CR S6012", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-17", 
+      "references": [
+        {
+          "reference": "CR S6012", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 3923 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt3923-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-09-18", 
+  "number": 3923, 
+  "proposed_at": "2014-09-18", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2014-11-17", 
+  "updated_at": "2015-01-02T13:14:20-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T18:30:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6084", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6084", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A068) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T18:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Walberg amendment (A068) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1039-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds to carry out a national media campaign promoting alternative green technologies.", 
+  "house_number": 68, 
+  "introduced_at": "2014-07-10", 
+  "number": 1039, 
+  "purpose": "An amendment to prohibit use of funds for a green energy national media campaign.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T18:33:00-04:00", 
+  "updated_at": "2015-01-02T13:24:44-05:00"
+}

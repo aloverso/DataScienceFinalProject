@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-26T18:09:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1990", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1990", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Murphy (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-26T18:16:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Murphy (FL) amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt560-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2804-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2804
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to strike title II (Regulatory Accountability Act of 2014) and title IV (Sunshine for Regulatory Decrees and Settlements Act) from the bill.", 
+  "house_number": 2, 
+  "introduced_at": "2014-02-26", 
+  "number": 560, 
+  "purpose": "An amendment numbered 2 printed in House Report 113-361 to cut titles II and IV from the bill.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Murphy, Patrick", 
+    "state": "FL", 
+    "thomas_id": "02117", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-26T18:16:00-05:00", 
+  "updated_at": "2015-01-02T13:20:43-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-21", 
+      "references": [
+        {
+          "reference": "CR 10/20/2011 S6848-6849", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 805 proposed by Senator Durbin for Senator Cochran.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-21", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S6849", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 805 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt805-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-18", 
+  "number": 805, 
+  "proposed_at": "2011-10-21", 
+  "purpose": "To set aside certain funding for the construction, acquisition, or improvement of fossil-fueled electric generating plants that utilize carbon sequestration systems.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cochran, Thad", 
+    "state": "MS", 
+    "thomas_id": "00213", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-21", 
+  "updated_at": "2013-07-19T20:12:59-04:00"
+}

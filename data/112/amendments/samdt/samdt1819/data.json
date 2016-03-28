@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1601-1602", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1602", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1819 proposed by Senator Brown OH.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1819 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1819-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-07", 
+  "number": 1819, 
+  "proposed_at": "2012-03-13", 
+  "purpose": "To close a loophole in current law which has allowed public infrastructure projects to be outsourced, to standardize the process by which the Secretary of Transportation responds to requests for waivers to applicable Buy America provisions, and to require the Secretary to report annually to Congress regarding such waivers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-13", 
+  "updated_at": "2013-07-19T20:21:44-04:00"
+}

@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1065" updated="2013-07-19T20:15:13-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-17">pass</status>
+  <sponsor id="412493"/>
+  <offered datetime="2011-11-17"/>
+  <description>Relating to the force structure for strategic airlift aircraft.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1065 proposed by Senator Ayotte.</text>
+      <reference ref="CR S7651-7652" label="consideration"/>
+      <reference ref="CR S7651" label="text"/>
+    </action>
+    <vote datetime="2011-11-17" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1065 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

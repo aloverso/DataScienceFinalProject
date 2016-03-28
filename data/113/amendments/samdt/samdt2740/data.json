@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-11", 
+      "references": [
+        {
+          "reference": "CR S907-908", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S907-908", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2740 proposed by Senator Reid for Senator Begich.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-11", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2740 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2740-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1068-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1068
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-02-11", 
+  "number": 2740, 
+  "proposed_at": "2014-02-11", 
+  "purpose": "To treat certain officers in the commissioned officer corps of the National Oceanic and Atmospheric Administration as employees of the Administration for purposes of vacant positions of employment open only to current employees of the Administration.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Begich, Mark", 
+    "state": "AK", 
+    "thomas_id": "01898", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-11", 
+  "updated_at": "2015-01-02T13:04:24-05:00"
+}

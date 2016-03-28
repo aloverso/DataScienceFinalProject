@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt1010-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt957-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 957
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2354-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2354
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-15", 
+  "number": 1010, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-15", 
+  "updated_at": "2013-07-19T20:14:45-04:00"
+}

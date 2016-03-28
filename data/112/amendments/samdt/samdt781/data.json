@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-18", 
+      "references": [
+        {
+          "reference": "CR S6650, S6650-6651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 781 proposed by Senator Landrieu to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-19", 
+      "references": [
+        {
+          "reference": "CR S6708", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "references": [
+        {
+          "reference": "CR S6791, S6841", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S6841", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 781 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt781-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-17", 
+  "number": 781, 
+  "proposed_at": "2011-10-18", 
+  "purpose": "To prohibit the approval of certain farmer program loans.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-20", 
+  "updated_at": "2013-07-19T20:12:47-04:00"
+}

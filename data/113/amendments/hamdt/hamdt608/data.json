@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-04T12:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2938-2939", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2983", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-04T12:29:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Bishop (NY) amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt608-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1874-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1874
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the Congressional Budget Office to review and report on the accuracy of dynamic scoring estimates 5 fiscal years after any dynamically scored bill is enacted.", 
+  "house_number": 4, 
+  "introduced_at": "2014-04-04", 
+  "number": 608, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 113-400 to require the Congressional Budget Office to review the accuracy of the macroeconomic impact analysis for any enacted bill or joint resolution.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-04T12:29:00-04:00", 
+  "updated_at": "2015-01-02T13:21:07-05:00"
+}

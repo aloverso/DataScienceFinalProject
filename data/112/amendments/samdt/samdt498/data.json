@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-21", 
+      "references": [
+        {
+          "reference": "CR S3978", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3978", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 498 proposed by Senator Casey for Senator Conrad.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 498 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt498-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres202-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 202
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-21", 
+  "number": 498, 
+  "proposed_at": "2011-06-21", 
+  "purpose": "To improve the resolution.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Conrad, Kent", 
+    "state": "ND", 
+    "thomas_id": "01307", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-06-21", 
+  "updated_at": "2013-07-19T20:10:24-04:00"
+}

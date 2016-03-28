@@ -1,0 +1,21 @@
+<amendment session="112" chamber="s" number="1540" updated="2013-07-19T20:19:19-04:00">
+  <amends type="s" number="1813" sequence=""/>
+  <status datetime="2012-03-13">pass</status>
+  <sponsor id="400034"/>
+  <offered datetime="2012-02-13"/>
+  <description>To modify the section relating to off-system bridges.</description>
+  <actions>
+    <action datetime="2012-03-08">
+      <text>Amendment SA 1540 proposed by Senator Blunt.</text>
+      <reference ref="CR S1535-1536" label="consideration"/>
+      <reference ref="CR S1535" label="text"/>
+    </action>
+    <action datetime="2012-03-13">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1593, S1602" label="consideration"/>
+    </action>
+    <vote datetime="2012-03-13" how="Voice Vote" result="pass">
+      <text>Amendment SA 1540 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

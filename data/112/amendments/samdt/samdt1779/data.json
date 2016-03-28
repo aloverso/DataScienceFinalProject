@@ -1,0 +1,75 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1535", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1779 proposed by Senator Coats for Senator Alexander.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1593", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "references": [
+        {
+          "reference": "CR S1645, S1649", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1779 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1779-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-05", 
+  "number": 1779, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To make technical corrections to certain provisions relating to overflights of National Parks.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-14", 
+  "updated_at": "2013-07-19T20:21:23-04:00"
+}

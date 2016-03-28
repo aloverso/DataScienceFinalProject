@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-05", 
+      "references": [
+        {
+          "reference": "CR S7636-7637", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7636-7637", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3310 proposed by Senator Cardin for Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3310 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3310-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3331-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3331
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-05", 
+  "number": 3310, 
+  "proposed_at": "2012-12-05", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-05", 
+  "updated_at": "2013-07-19T20:34:35-04:00"
+}

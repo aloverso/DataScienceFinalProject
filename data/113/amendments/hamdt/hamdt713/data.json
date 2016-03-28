@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T23:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4904-4905", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4904", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Ms. Lee (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T23:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lee (CA) amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt713-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Justice Information Sharing Technology by $2.5 million; reduces funding for Salaries and Expenses of the Federal Prison System by $500,000 and increases funding for Second Chance programs by $3 million.", 
+  "house_number": 24, 
+  "introduced_at": "2014-05-28", 
+  "number": 713, 
+  "purpose": "An amendment to reduce funding for Justice Information Sharing Technology by $2.5 million; reduce funding for Salaries and Expenses of the Federal Prison System by $500,000 and to increase funding for State and Local Law Enforcement Assistance (Second Chance) by $3 million.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-28T23:45:00-04:00", 
+  "updated_at": "2015-01-02T13:22:00-05:00"
+}

@@ -1,0 +1,28 @@
+{
+  "actions": [], 
+  "amendment_id": "hamdt1144-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1422-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1422
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 1, 
+  "introduced_at": "2014-11-18", 
+  "number": 1144, 
+  "purpose": "Amendment in the nature of a substitute.", 
+  "sponsor": {
+    "committee_id": "hsru00", 
+    "name": "House Rules", 
+    "type": "committee"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-11-18", 
+  "updated_at": "2015-01-02T13:25:37-05:00"
+}

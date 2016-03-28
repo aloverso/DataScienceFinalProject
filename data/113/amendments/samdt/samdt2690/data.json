@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2690-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1846-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1846
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-01-16", 
+  "number": 2690, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-01-16", 
+  "updated_at": "2015-01-02T13:03:59-05:00"
+}

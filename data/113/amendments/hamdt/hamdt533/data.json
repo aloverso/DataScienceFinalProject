@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-04T15:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1575-1576", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1575-1576", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Hastings (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04T15:12:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hastings (WA) amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt533-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3590-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment makes technical and clarifying changes to the bill and conforms the bill text to that which was reported by the Committee on Natural Resources.", 
+  "house_number": 1, 
+  "introduced_at": "2014-02-04", 
+  "number": 533, 
+  "purpose": "An amendment numbered 1 printed in House Report 113-339 to make technical, clarifying and conforming changes to the Committee Print.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hastings, Doc", 
+    "state": "WA", 
+    "thomas_id": "00512", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-04T15:12:00-05:00", 
+  "updated_at": "2015-01-02T13:20:30-05:00"
+}

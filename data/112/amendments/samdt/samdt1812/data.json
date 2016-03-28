@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1597-1599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1597-1599", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1812 proposed by Senator Stabenow.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 39, 
+      "text": "Amendment SA 1812, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 39.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1812-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-07", 
+  "number": 1812, 
+  "proposed_at": "2012-03-13", 
+  "purpose": "To prevent a tax increase on American businesses and to provide certainty to job creators by extending certain expiring tax credits relating to energy.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-13", 
+  "updated_at": "2013-07-19T20:21:41-04:00"
+}

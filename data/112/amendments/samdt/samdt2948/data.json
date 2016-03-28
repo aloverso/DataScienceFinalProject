@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7149-7151", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7149", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2948 proposed by Senator Levin for Senator Webb.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2948 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2948-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 2948, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To extend the authority to provide a temporary increase in rates of basic allowance for housing under certain circumstances.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Webb, Jim", 
+    "state": "VA", 
+    "thomas_id": "01822", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:31:29-04:00"
+}

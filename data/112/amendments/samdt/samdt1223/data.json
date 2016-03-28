@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7780", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7780", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1223 proposed by Senator Levin for Senator Bingaman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1223 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1223-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s99-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 99
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1223, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To improve the bill.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-17", 
+  "updated_at": "2013-07-19T20:16:33-04:00"
+}

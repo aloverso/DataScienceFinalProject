@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-17", 
+      "references": [
+        {
+          "reference": "CR S7686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7686", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1188 proposed by Senator Cardin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1188 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1188-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1188, 
+  "proposed_at": "2011-11-17", 
+  "purpose": "To expand the Operation Hero Miles program to include the authority to accept the donation of travel benefits in the form of hotel points or awards for free or reduced-cost accommodations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "thomas_id": "00174", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-17", 
+  "updated_at": "2013-07-19T20:16:16-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-12-13", 
+      "references": [
+        {
+          "reference": "CR S8507-8508", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8507-8508", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1459 proposed by Senator Udall CO.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1459 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1459-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sjres24-112", 
+    "bill_type": "sjres", 
+    "congress": 112, 
+    "number": 24
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-12-13", 
+  "number": 1459, 
+  "proposed_at": "2011-12-13", 
+  "purpose": "To amend the title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Mark", 
+    "state": "CO", 
+    "thomas_id": "01595", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-12-13", 
+  "updated_at": "2013-07-19T20:18:35-04:00"
+}

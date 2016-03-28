@@ -1,0 +1,21 @@
+<amendment session="112" chamber="s" number="2407" updated="2013-07-19T20:26:54-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-13">offered</status>
+  <sponsor id="300082"/>
+  <offered datetime="2012-06-13"/>
+  <description>To convert all mandatory spending to discretionary spending subject to annual appropriations.</description>
+  <actions>
+    <action datetime="2012-06-13">
+      <text>Amendment SA 2407 proposed by Senator Reid to Amendment SA 2406.</text>
+      <reference ref="CR S4127" label="consideration"/>
+      <reference ref="CR S4127" label="text"/>
+    </action>
+    <action datetime="2012-06-19">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4266" label="consideration"/>
+    </action>
+    <action datetime="2012-06-19">
+      <text>SA 2407 fell when SA 2406 fell.</text>
+    </action>
+  </actions>
+</amendment>

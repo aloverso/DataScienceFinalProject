@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3308-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2875-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2875
+  }, 
+  "amends_bill": {
+    "bill_id": "s3525-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3525
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-03", 
+  "number": 3308, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Barrasso, John", 
+    "state": "WY", 
+    "thomas_id": "01881", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-12-03", 
+  "updated_at": "2013-07-19T20:34:34-04:00"
+}

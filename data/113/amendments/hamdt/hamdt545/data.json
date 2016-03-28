@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-05T16:21:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1634-1635, H1642-1643", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1634", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Bera.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-05T17:54:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 44, 
+      "text": "On agreeing to the Bera amendment (A003) Failed by recorded vote: 194 - 226 (Roll no. 44).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt545-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3964-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3964
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to delay implementation of the act until it is determined that it will not have a negative impact on the quantity, quality, and safety of drinking water in the California Delta region.", 
+  "house_number": 3, 
+  "introduced_at": "2014-02-05", 
+  "number": 545, 
+  "purpose": "An amendment numbered 3 printed in Part B of House Report 113-340 to delay implementation of the act until it is determined that it will not have a negative impact on the quantity, quality, and safety of drinking water in the California Delta region.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Bera, Ami", 
+    "state": "CA", 
+    "thomas_id": "02102", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-05T17:54:00-05:00", 
+  "updated_at": "2015-01-02T13:20:36-05:00"
+}

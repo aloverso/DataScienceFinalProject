@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2973" updated="2013-07-19T20:31:42-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="300055"/>
+  <offered datetime="2012-11-27"/>
+  <description>To express the sense of the Senate on training of mental health counselors for members of the Armed Forces, veterans, and their families.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 2973 proposed by Senator Levin for Senator Inhofe.</text>
+      <reference ref="CR S7174-7178" label="consideration"/>
+      <reference ref="CR S7176" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 2973 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

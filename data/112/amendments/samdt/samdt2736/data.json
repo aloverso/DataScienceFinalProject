@@ -1,0 +1,52 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-07-31", 
+      "references": [
+        {
+          "reference": "CR S5724", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5724", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2736 proposed by Senator Reid to Amendment SA 2735 (the instructions of the motion to commit).", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2736-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2735-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2735
+  }, 
+  "amends_bill": {
+    "bill_id": "s3414-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3414
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-07-31", 
+  "number": 2736, 
+  "proposed_at": "2012-07-31", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-07-31", 
+  "updated_at": "2013-07-19T20:29:41-04:00"
+}

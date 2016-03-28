@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-07", 
+      "references": [
+        {
+          "reference": "CR S1324", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1324", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 143 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08", 
+      "references": [
+        {
+          "reference": "CR S1348, S1362-1363", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-08", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S1362", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 143 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt143-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-03", 
+  "number": 143, 
+  "proposed_at": "2011-03-07", 
+  "purpose": "To include public institutions of higher education in the definition of a micro entity.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-08", 
+  "updated_at": "2013-07-19T20:07:18-04:00"
+}

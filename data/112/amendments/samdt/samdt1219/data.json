@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7820-7822", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7821-7822", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1219 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1219 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1219-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1219, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To provide authority to order Army Reserve, Navy Reserve, Marine Corps Reserve, and Air Force Reserve to active duty to provide assistance in response to a major disaster or emergency.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-18", 
+  "updated_at": "2013-07-19T20:16:31-04:00"
+}

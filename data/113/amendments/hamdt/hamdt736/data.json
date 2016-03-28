@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T17:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4961-4963, H4967", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4961", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A047) offered by Mr. Scott, Austin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T18:42:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 253, 
+      "text": "On agreeing to the Scott, Austin amendment (A047) Failed by recorded vote: 116 - 290 (Roll no. 253).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt736-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to strike the $350 million in funding for the Legal Services Corporation and to apply the savings to the spending reduction account.", 
+  "house_number": 47, 
+  "introduced_at": "2014-05-29", 
+  "number": 736, 
+  "purpose": "An amendment to reduce funding for payments to the Legal Services Corporation by $350,000,000 and apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Scott, Austin", 
+    "state": "GA", 
+    "thomas_id": "02009", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-29T18:42:00-04:00", 
+  "updated_at": "2015-01-02T13:22:11-05:00"
+}

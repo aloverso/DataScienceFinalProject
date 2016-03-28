@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7149-7151", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7150", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2989 proposed by Senator Levin for Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2989 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2989-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 2989, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To extend the authority of the Secretary of Veterans Affairs and the Secretary of Labor to carry out a program of referral and counseling services to veterans at risk of homelessness who are transitioning from certain institutions.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:31:50-04:00"
+}

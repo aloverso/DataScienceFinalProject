@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20", 
+      "references": [
+        {
+          "reference": "CR S4334-4335", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4335", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2382 proposed by Senator Merkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 140, 
+      "text": "Amendment SA 2382 agreed to in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 140.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2382-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-12", 
+  "number": 2382, 
+  "proposed_at": "2012-06-20", 
+  "purpose": "To require the Federal Crop Insurance Corporation to provide crop insurance for organic crops under similar terms and conditions to crop insurance provided for other crops.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "thomas_id": "01900", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-20", 
+  "updated_at": "2013-07-19T20:26:41-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-23T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6698-6699", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6698", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Gowdy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23T16:16:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gowdy amendment (A010) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1114-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3136-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment creates a Regulatory Reform Task Force to make recommendations for the reduction of unnecessary higher education regulations.", 
+  "house_number": 10, 
+  "introduced_at": "2014-07-23", 
+  "number": 1114, 
+  "purpose": "An amendment numbered 10 printed in Part A of House Report 113-546 to create a Regulatory Reform Task Force to make recommendations to reduce unnecessary higher education regulations.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-23T16:16:00-04:00", 
+  "updated_at": "2015-01-02T13:25:22-05:00"
+}

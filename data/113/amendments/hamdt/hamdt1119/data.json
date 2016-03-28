@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24T13:23:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6765-6766", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6765", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:27:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1119-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4984-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4984
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides for inclusion of an explanation stating that if a student decides to transfer to another institution, not all of the student's credits may be acceptable towards meeting specific degree or program requirements at such institution, therefore, eligibility for Federal Pell Grants will not reset due to the maximum number of semesters or equivalent.", 
+  "house_number": 4, 
+  "introduced_at": "2014-07-24", 
+  "number": 1119, 
+  "purpose": "An amendment No. 4 printed in part B of House Report 113-546 to include an explanation that if a student decides to transfer to another institution, not all of the student's credits may be acceptable towards meeting specific degree or program requirements at such institution, therefore, eligibility for Federal Pell Grants will not reset due to the maximum number of semesters or equivalent.", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-24T13:27:00-04:00", 
+  "updated_at": "2015-01-02T13:25:24-05:00"
+}

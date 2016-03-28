@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T20:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4982-4985, H5008", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4982", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A059) offered by Mr. Rohrabacher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T00:23:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5008", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 258, 
+      "text": "On agreeing to the Rohrabacher amendment (A059) Agreed to by recorded vote: 219 - 189 (Roll no. 258).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt748-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds to prevent certain States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.", 
+  "house_number": 59, 
+  "introduced_at": "2014-05-29", 
+  "number": 748, 
+  "purpose": "An amendment numbered 25 printed in the Congressional Record to prohibit the use of funds to prevent certain States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-30T00:23:00-04:00", 
+  "updated_at": "2015-01-02T13:22:17-05:00"
+}

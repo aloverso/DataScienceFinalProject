@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-21T19:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4728-4730", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4728", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Smith (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22T11:22:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4805-4806", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 233, 
+      "text": "On agreeing to the Smith (WA) amendment (A012) Failed by recorded vote: 177 - 247 (Roll no. 233).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt675-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4435-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4435
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to provide a framework for closure of the detention facility at Guantanamo Bay, Cuba, by December 31, 2016.", 
+  "house_number": 12, 
+  "introduced_at": "2014-05-21", 
+  "number": 675, 
+  "purpose": "An amendment No. 6 printed in Part A of House Report 113-460 to provide a framework for closure of the detention facility at Guantanamo Bay, Cuba, by December 31, 2016.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "thomas_id": "01528", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-22T11:22:00-04:00", 
+  "updated_at": "2015-01-02T13:21:41-05:00"
+}

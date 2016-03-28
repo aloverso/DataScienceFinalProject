@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-28", 
+      "references": [
+        {
+          "reference": "CR S8469-8472, S8480, S8481", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8469", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3410 proposed by Senator Paul to Amendment SA 3395.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 244, 
+      "text": "Amendment SA 3410, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 3 - 91. Record Vote Number: 244.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3410-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3395-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 3395
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-20", 
+  "number": 3410, 
+  "proposed_at": "2012-12-28", 
+  "purpose": "To offset the cost of the bill and to put the spending on budget as regular spending and not emergency.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-12-28", 
+  "updated_at": "2013-07-19T20:35:27-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-04T15:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1579", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1579", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Smith (MO).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04T15:41:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (MO) amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt538-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3590-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides that sportsmen will continue to be able to use motorized vessels in the Ozark National Scenic Riverways in Missouri.", 
+  "house_number": 6, 
+  "introduced_at": "2014-02-04", 
+  "number": 538, 
+  "purpose": "An amendment numbered 7 printed in House Report 113-339 to preserve current motorized vessel management in the Ozark National Scenic Riverways, a National Park in Southeast Missouri.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Smith, Jason", 
+    "state": "MO", 
+    "thomas_id": "02191", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-04T15:41:00-05:00", 
+  "updated_at": "2015-01-02T13:20:32-05:00"
+}

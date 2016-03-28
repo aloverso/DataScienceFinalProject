@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-22", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6611", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9/21/2012 S6611", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2860 proposed by Senator Reid for Senator Merkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2860 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2860-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1956-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1956
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-09-22", 
+  "number": 2860, 
+  "proposed_at": "2012-09-22", 
+  "purpose": "To provide for the reassessment by the Secretary of Transportation of a determination that it is in the public interest to prohibit operators of civil aircraft of the United States from participating in the European Union's emissions trading scheme.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "thomas_id": "01900", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-09-22", 
+  "updated_at": "2013-07-19T20:30:44-04:00"
+}

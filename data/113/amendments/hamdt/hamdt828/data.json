@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T16:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5219", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5219", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A051) offered by Mr. Higgins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T16:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Higgins amendment (A051) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt828-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment to prohibit the use of funds to terminate the status of a unit of general local government as a metropolitan city (as defined in section 102 of the Housing and Community Development Act of 1974) with respect to grants under section 106 of such Act.", 
+  "house_number": 51, 
+  "introduced_at": "2014-06-10", 
+  "number": 828, 
+  "purpose": "An amendment to prohibit the use of funds to terminate the status of a unit of general local government as a metropolitan city (as defined in section 102 of the Housing and Community Development Act of 1974) with respect to grants under section 106 of such Act.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Higgins, Brian", 
+    "state": "NY", 
+    "thomas_id": "01794", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-10T16:11:00-04:00", 
+  "updated_at": "2015-01-02T13:22:59-05:00"
+}

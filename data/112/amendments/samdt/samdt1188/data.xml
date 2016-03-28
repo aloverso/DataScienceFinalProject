@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1188" updated="2013-07-19T20:16:16-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-17">pass</status>
+  <sponsor id="400064"/>
+  <offered datetime="2011-11-17"/>
+  <description>To expand the Operation Hero Miles program to include the authority to accept the donation of travel benefits in the form of hotel points or awards for free or reduced-cost accommodations.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1188 proposed by Senator Cardin.</text>
+      <reference ref="CR S7686" label="consideration"/>
+      <reference ref="CR S7686" label="text"/>
+    </action>
+    <vote datetime="2011-11-17" how="Voice Vote" result="pass">
+      <text>Amendment SA 1188 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3438-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5949-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 5949
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-12-27", 
+  "number": 3438, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-12-27", 
+  "updated_at": "2013-07-19T20:35:41-04:00"
+}

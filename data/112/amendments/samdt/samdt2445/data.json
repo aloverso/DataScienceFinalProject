@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4270", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4270", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2445 proposed by Senator Brown OH.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 126, 
+      "text": "Amendment SA 2445 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 126.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2445-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-18", 
+  "number": 2445, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To strengthen rural communities and foster the next generation of farmers and ranchers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:27:14-04:00"
+}

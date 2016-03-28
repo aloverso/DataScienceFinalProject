@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7162-7164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7162", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3180 proposed by Senator Whitehouse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3180 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3180-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3180, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To provide for scientific frameworks with respect to recalcitrant cancers.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "thomas_id": "01823", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:33:28-04:00"
+}

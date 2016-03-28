@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2481-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1940-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1940
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-26", 
+  "number": 2481, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-06-26", 
+  "updated_at": "2013-07-19T20:27:32-04:00"
+}

@@ -1,0 +1,25 @@
+<amendment session="112" chamber="s" number="115" updated="2013-07-19T20:07:02-04:00">
+  <amends type="s" number="23" sequence=""/>
+  <status datetime="2011-03-02">fail</status>
+  <sponsor id="412495"/>
+  <offered datetime="2011-02-28"/>
+  <description>To express the sense of the Senate in support of a balanced budget amendment to the Constitution.</description>
+  <actions>
+    <action datetime="2011-02-28">
+      <text>Amendment SA 115 proposed by Senator Lee.</text>
+      <reference ref="CR S957" label="consideration"/>
+      <reference ref="CR S957" label="text"/>
+    </action>
+    <action datetime="2011-03-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1030" label="consideration"/>
+    </action>
+    <action datetime="2011-03-02">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1089, S1107, S1109-1111" label="consideration"/>
+    </action>
+    <vote datetime="2011-03-02" how="roll" result="fail" roll="30">
+      <text>Amendment SA 115, pursuant to the order of March 2, 2011, having failed to achieve the required 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 30.</text>
+    </vote>
+  </actions>
+</amendment>

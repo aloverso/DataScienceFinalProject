@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8180", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8180", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2305 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-20", 
+      "references": [
+        {
+          "reference": "CR S8299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-21", 
+      "references": [
+        {
+          "reference": "CR S8437", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-09", 
+      "references": [
+        {
+          "reference": "CR S8548", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2305-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1197-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1197
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-19", 
+  "number": 2305, 
+  "proposed_at": "2013-11-19", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2013-11-19", 
+  "updated_at": "2015-01-02T13:00:46-05:00"
+}

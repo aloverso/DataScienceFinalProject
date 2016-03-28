@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7811-7814", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7813", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1292 proposed by Senator Levin for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7886", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7903", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1292 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1292-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-18", 
+  "number": 1292, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To require the President to impose sanctions with respect to the Central Bank of Iran if the President determines that the Central Bank of Iran has engaged in conduct that threatens the national security of the United States or allies of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2011-11-28", 
+  "updated_at": "2013-07-19T20:17:09-04:00"
+}

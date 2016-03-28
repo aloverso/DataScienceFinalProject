@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1464" updated="2013-07-19T20:18:37-04:00">
+  <amends type="s" number="1612" sequence=""/>
+  <status datetime="2011-12-15">pass</status>
+  <sponsor id="300043"/>
+  <offered datetime="2011-12-15"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2011-12-15">
+      <text>Amendment SA 1464 proposed by Senator Durbin for Senator Feinstein.</text>
+      <reference ref="CR S8690" label="consideration"/>
+      <reference ref="CR S8690" label="text"/>
+    </action>
+    <vote datetime="2011-12-15" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1464 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

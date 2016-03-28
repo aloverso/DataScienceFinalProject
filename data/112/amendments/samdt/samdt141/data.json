@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-07", 
+      "references": [
+        {
+          "reference": "CR S1324", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 141 proposed by Senator Reid for Senator Baucus.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-07", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1324", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 141 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt141-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-03", 
+  "number": 141, 
+  "proposed_at": "2011-03-07", 
+  "purpose": "To clarify that section 14 shall not apply to an invention that is a computer program product or system used solely for preparing a tax or information return or other tax filing.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Baucus, Max", 
+    "state": "MT", 
+    "thomas_id": "00066", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-07", 
+  "updated_at": "2013-07-19T20:07:17-04:00"
+}

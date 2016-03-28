@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-03", 
+      "references": [
+        {
+          "reference": "CR S3383-3384", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3383-3384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3229 proposed by Senator Stabenow for Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3229 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3229-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2270-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2270
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-06-03", 
+  "number": 3229, 
+  "proposed_at": "2014-06-03", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-03", 
+  "updated_at": "2015-01-02T13:08:29-05:00"
+}

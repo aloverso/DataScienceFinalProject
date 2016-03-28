@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T22:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5178", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5178", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Mr. Garamendi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T22:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Garamendi amendment (A044) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt821-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment to prohibit use of funds to develop or implement any rule to modify the criteria relating to citizenship that are applied in determining whether a person is eligible to be an operator (including a ship manager or gent) of a vessel in the National Defense Reserve Fleet.", 
+  "house_number": 44, 
+  "introduced_at": "2014-06-09", 
+  "number": 821, 
+  "purpose": "An amendment to prohibit use of funds to develop or implement any rule to modify the criteria relating to citizenship that are applied in determining whether a person is eligible to be an operator (including a ship manager or gent) of a vessel in the National Defense Reserve Fleet.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Garamendi, John", 
+    "state": "CA", 
+    "thomas_id": "01973", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T22:26:00-04:00", 
+  "updated_at": "2015-01-02T13:22:55-05:00"
+}

@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3813-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2410-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2410
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-09-16", 
+  "number": 3813, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Wicker, Roger F.", 
+    "state": "MS", 
+    "thomas_id": "01226", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-09-16", 
+  "updated_at": "2015-01-02T13:13:25-05:00"
+}

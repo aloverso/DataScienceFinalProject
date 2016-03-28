@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-20", 
+      "references": [
+        {
+          "reference": "CR S5739", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5739", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 633 proposed by Senator Reid for Senator Casey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-21", 
+      "references": [
+        {
+          "reference": "CR S5800, S5804-5808", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "references": [
+        {
+          "reference": "CR S5853, S5873-5378, S5881-5882", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-22", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 149, 
+      "text": "Amendment SA 633, under the order of 9/21/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 69 - 28. Record Vote Number: 149.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt633-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2832-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2832
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-20", 
+  "number": 633, 
+  "proposed_at": "2011-09-20", 
+  "purpose": "To extend and modify trade adjustment assistance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Casey, Robert P., Jr.", 
+    "state": "PA", 
+    "thomas_id": "01828", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-22", 
+  "updated_at": "2013-07-19T20:11:32-04:00"
+}

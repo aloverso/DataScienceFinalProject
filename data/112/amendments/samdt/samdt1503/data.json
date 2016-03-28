@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-01", 
+      "references": [
+        {
+          "reference": "CR S249", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S249", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1503 proposed by Senator Tester to Amendment SA 1470.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S291, S299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S299", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1503 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1503-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1470-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1470
+  }, 
+  "amends_bill": {
+    "bill_id": "s2038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-01", 
+  "number": 1503, 
+  "proposed_at": "2012-02-01", 
+  "purpose": "To require Senate candidates to file designations, statements, and reports in electronic form.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "thomas_id": "01829", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-19T20:18:57-04:00"
+}

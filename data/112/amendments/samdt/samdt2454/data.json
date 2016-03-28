@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-20", 
+      "references": [
+        {
+          "reference": "CR S4338-4339", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4338", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2454 proposed by Senator Kerry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-20", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 144, 
+      "text": "Amendment SA 2454 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 144.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2454-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-18", 
+  "number": 2454, 
+  "proposed_at": "2012-06-20", 
+  "purpose": "To prohibit assistance to North Korea under title II of the Food for Peace Act unless the President issues a national interest waiver.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kerry, John F.", 
+    "state": "MA", 
+    "thomas_id": "01379", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-20", 
+  "updated_at": "2013-07-19T20:27:18-04:00"
+}

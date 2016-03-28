@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-03", 
+      "references": [
+        {
+          "reference": "CR S536-537", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S536-537", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 7 proposed by Senator Inhofe.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-07", 
+      "references": [
+        {
+          "reference": "CR S586", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-08", 
+      "references": [
+        {
+          "reference": "CR S622", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-14", 
+      "references": [
+        {
+          "reference": "CR S653", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15", 
+      "references": [
+        {
+          "reference": "CR S709, S732-733", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S732-733", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-15", 
+      "references": [
+        {
+          "reference": "CR S734", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S734", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on amendment SA 7 as modified presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-16", 
+      "references": [
+        {
+          "reference": "CR S768", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "references": [
+        {
+          "reference": "CR S809, S814", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 7 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt7-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-01", 
+  "number": 7, 
+  "proposed_at": "2011-02-03", 
+  "purpose": "To provide for an increase in the number of slots available at Ronald Reagan Washington National Airport, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17", 
+  "updated_at": "2013-07-19T20:06:06-04:00"
+}

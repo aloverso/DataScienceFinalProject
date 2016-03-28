@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-28", 
+      "references": [
+        {
+          "reference": "CR S952-953", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S952", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 112 proposed by Senator Vitter for Senator Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1030, S1044-1046, S1050-1051", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1045", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-01", 
+      "references": [], 
+      "text": "Motion to table amendment SA 112 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 28.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt112-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-28", 
+  "number": 112, 
+  "proposed_at": "2011-02-28", 
+  "purpose": "To require that the Government prioritize all obligations on the debt held by the public in the event that the debt limit is reached.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Toomey, Pat", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-02-28", 
+  "updated_at": "2013-07-19T20:07:01-04:00"
+}

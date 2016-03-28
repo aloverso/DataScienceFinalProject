@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-30", 
+      "references": [
+        {
+          "reference": "CR S7294-7298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7297", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3280 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3280 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3280-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3280, 
+  "proposed_at": "2012-11-30", 
+  "purpose": "To require reports to the Department of Defense on penetrations of networks and information systems of certain contractors.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-30", 
+  "updated_at": "2013-07-19T20:34:20-04:00"
+}

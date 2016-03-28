@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T18:01:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5463-5464", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5463", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Nugent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T18:07:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nugent amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt890-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment redirects $10 million within the Air Force Research, Development, Test and Evaluation account from directed energy technology to advanced weapons technology.", 
+  "house_number": 24, 
+  "introduced_at": "2014-06-18", 
+  "number": 890, 
+  "purpose": "An amendment to redirect $10 million within the Air Force Research, Development, Test and Evaluation account from Directed Energy Technology to Advanced Weapons Technology.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Nugent, Richard B.", 
+    "state": "FL", 
+    "thomas_id": "02001", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T18:07:00-04:00", 
+  "updated_at": "2015-01-02T13:23:30-05:00"
+}

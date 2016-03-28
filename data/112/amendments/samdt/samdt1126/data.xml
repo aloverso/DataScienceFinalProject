@@ -1,0 +1,37 @@
+<amendment session="112" chamber="s" number="1126" updated="2013-07-19T20:15:45-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-12-01">fail</status>
+  <sponsor id="300043"/>
+  <offered datetime="2011-11-17"/>
+  <description>To limit the authority of the Armed Forces to detain citizens of the United States under section 1031.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1126 proposed by Senator Feinstein.</text>
+      <reference ref="CR S7685" label="consideration"/>
+      <reference ref="CR S7685" label="text"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7785" label="consideration"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7884" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943, S7961-7963" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8012, S8025-8026, S8036-8045, S8048" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8094, S8110, S8122-8123, S8124-8125" label="consideration"/>
+    </action>
+    <vote datetime="2011-12-01" how="roll" result="fail" roll="214">
+      <text>Amendment SA 1126 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 214.</text>
+    </vote>
+  </actions>
+</amendment>

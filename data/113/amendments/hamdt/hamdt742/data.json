@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T19:42:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4976, H5006", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4976", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A053) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T00:13:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5006", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 255, 
+      "text": "On agreeing to the Blackburn amendment (A053) Failed by recorded vote: 148 - 253 (Roll no. 255).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt742-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reduce the funds made available by this Act by 1%, with the exception of funds made available to the Federal Bureau of Investigation.", 
+  "house_number": 53, 
+  "introduced_at": "2014-05-29", 
+  "number": 742, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-30T00:13:00-04:00", 
+  "updated_at": "2015-01-02T13:22:14-05:00"
+}

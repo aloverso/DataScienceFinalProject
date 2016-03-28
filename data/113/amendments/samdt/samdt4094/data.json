@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-11", 
+      "references": [
+        {
+          "reference": "CR S6622", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 4094 proposed by Senator Merkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-11", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4094 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4094-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2640-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2640
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-11", 
+  "number": 4094, 
+  "proposed_at": "2014-12-11", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "thomas_id": "01900", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-11", 
+  "updated_at": "2015-01-02T13:15:46-05:00"
+}

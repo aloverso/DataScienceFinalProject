@@ -1,0 +1,40 @@
+<bill session="109" type="h" number="5639" updated="2014-12-10T13:45:21-05:00">
+  <state datetime="2006-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2006-06-19"/>
+  </status>
+  <introduced datetime="2006-06-19"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the Mni Wiconi Rural Water Supply Project.</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="3404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Housing and community development"/>
+    <term name="Infrastructure"/>
+    <term name="South Dakota"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2006--Introduced.
+Amends the Mni Wiconi Project Act of 1988 to authorize appropriations for the Mni Wiconi Rural Water Supply Project, South Dakota, through 2012.</summary>
+</bill>

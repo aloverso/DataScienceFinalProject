@@ -1,0 +1,40 @@
+<amendment session="112" chamber="s" number="1120" updated="2013-07-19T20:15:42-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-17">offered</status>
+  <sponsor id="412323"/>
+  <offered datetime="2011-11-17"/>
+  <description>To exclude cases in which pregnancy is the result of an act of rape or incest from the prohibition on funding of abortions by the Department of Defense.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1120 proposed by Senator Shaheen.</text>
+      <reference ref="CR S7687" label="consideration"/>
+      <reference ref="CR S7687" label="text"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7785" label="consideration"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7884" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8012" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8094" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1120.</text>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Amendment SA 1120 ruled non-germane by the chair.</text>
+    </action>
+  </actions>
+</amendment>

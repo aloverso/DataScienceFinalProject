@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T19:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6021-6023", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6022", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T19:45:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kaptur amendment (A033) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1004-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment transfers $1 million within the Departmental Administration Account for the Department of Energy for the purpose of funding environmental justice programs for minority groups.", 
+  "house_number": 33, 
+  "introduced_at": "2014-07-09", 
+  "number": 1004, 
+  "purpose": "An amendment to transfer $1 million within the Departmental Administration Account for the Department of Energy for the purpose of funding environmental justice programs for minority groups.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-09T19:45:00-04:00", 
+  "updated_at": "2015-01-02T13:24:27-05:00"
+}

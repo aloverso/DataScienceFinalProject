@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-08", 
+      "references": [
+        {
+          "reference": "CR S3598-3599", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3598-3599", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 428 proposed by Senator Merkley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-09", 
+      "references": [
+        {
+          "reference": "CR S3635, S3658-3659", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-14", 
+      "references": [
+        {
+          "reference": "CR S3752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15", 
+      "references": [
+        {
+          "reference": "CR S3847", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16", 
+      "references": [
+        {
+          "reference": "CR S3852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "references": [
+        {
+          "reference": "CR S3962", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt428-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-08", 
+  "number": 428, 
+  "proposed_at": "2011-06-08", 
+  "purpose": "To establish clear regulatory standards for mortgage servicers, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "thomas_id": "01900", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-08", 
+  "updated_at": "2013-07-19T20:09:49-04:00"
+}

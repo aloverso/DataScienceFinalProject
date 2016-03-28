@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17", 
+      "references": [
+        {
+          "reference": "CR S827-828", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S827", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 105 proposed by Senator Rockefeller for Senator Brown OH to Amendment SA 32.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 105 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt105-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt32-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 32
+  }, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-17", 
+  "number": 105, 
+  "proposed_at": "2011-02-17", 
+  "purpose": "To improve the provisions relating to integrating unmanned aerial systems into the National Airspace System.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17", 
+  "updated_at": "2013-07-19T20:06:57-04:00"
+}

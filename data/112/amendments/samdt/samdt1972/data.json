@@ -1,0 +1,52 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-27", 
+      "references": [
+        {
+          "reference": "CR S2055, CR 3/29/2012 S2199", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2055", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1972 proposed by Senator Reid to Amendment SA 1971.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1972-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1971-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1971
+  }, 
+  "amends_bill": {
+    "bill_id": "s2204-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2204
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-27", 
+  "number": 1972, 
+  "proposed_at": "2012-03-27", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-03-27", 
+  "updated_at": "2013-07-19T20:23:04-04:00"
+}

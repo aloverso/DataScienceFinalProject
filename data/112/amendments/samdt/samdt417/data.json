@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-06-09", 
+      "references": [
+        {
+          "reference": "CR S3656-3658", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3657", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 417 proposed by Senator Portman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-14", 
+      "references": [
+        {
+          "reference": "CR S3752", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-15", 
+      "references": [
+        {
+          "reference": "CR S3847", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-16", 
+      "references": [
+        {
+          "reference": "CR S3852", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-06-21", 
+      "references": [
+        {
+          "reference": "CR S3962", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt417-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s782-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 782
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-06-08", 
+  "number": 417, 
+  "proposed_at": "2011-06-09", 
+  "purpose": "To provide for the inclusion of independent regulatory agencies in the application of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1501 et seq.).", 
+  "sponsor": {
+    "district": null, 
+    "name": "Portman, Rob", 
+    "state": "OH", 
+    "thomas_id": "00924", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-06-08", 
+  "updated_at": "2013-07-19T20:09:43-04:00"
+}

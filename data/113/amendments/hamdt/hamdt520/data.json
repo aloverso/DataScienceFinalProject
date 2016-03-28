@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-05T10:33:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7532-7535, H7551-7552", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7532", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Goodlatte.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-05T12:43:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 623, 
+      "text": "On agreeing to the Goodlatte amendment (A001) Agreed to by recorded vote: 341 - 73 (Roll no. 623).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt520-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3309-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Manager's amendment makes technical and clarifying changes including clarifications and edits to the limitations on discovery prior to a Markman or a claim construction hearing; makes clarifications to the bankruptcy provisions ensuring that U.S. law is followed and not foreign law; includes modifications to the deadlines for various studies to provide agencies enough time to prepare and develop their reports; and makes necessary and positive improvements to the patent system.", 
+  "house_number": 1, 
+  "introduced_at": "2013-12-05", 
+  "number": 520, 
+  "purpose": "An amendment numbered 1 printed in Part A of House Report 113-283 to makes a few technical and clarifying changes. Specifically, under Section 3(d), it clarifies that the exception in paragraph one applies to biosimilars, it also adds an exception for actions seeking relief based on competitive harm, and ensures that the provision is not subject to reverse gamesmanship. Under Section 6(d) it makes clarifying changes that ensure that foreign courts cannot terminate licenses to US IP. Extends time required by the agencies to complete the various studies and reports required in the bill.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Goodlatte, Bob", 
+    "state": "VA", 
+    "thomas_id": "00446", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-12-05T12:43:00-05:00", 
+  "updated_at": "2015-01-02T13:20:23-05:00"
+}

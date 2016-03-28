@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-02", 
+      "references": [
+        {
+          "reference": "CR S298-299, S302", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S298", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1505 proposed by Senator Gillibrand for Senator Portman to Amendment SA 1470.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-02", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1505 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1505-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1470-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 1470
+  }, 
+  "amends_bill": {
+    "bill_id": "s2038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 2038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-01", 
+  "number": 1505, 
+  "proposed_at": "2012-02-02", 
+  "purpose": "To clarify that political intelligence includes information gathered from executive branch employees, Congressional employees, and Members of Congress.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Portman, Rob", 
+    "state": "OH", 
+    "thomas_id": "00924", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-02-02", 
+  "updated_at": "2013-07-19T20:18:58-04:00"
+}

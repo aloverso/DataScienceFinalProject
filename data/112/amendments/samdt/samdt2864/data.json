@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-09-22", 
+      "references": [
+        {
+          "reference": "CR 9/21/2012 S6670", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR 9/21/2012 S6670", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2864 proposed by Senator Pryor for Senator Akaka.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-09-22", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2864 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2864-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3193-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3193
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-09-22", 
+  "number": 2864, 
+  "proposed_at": "2012-09-22", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Akaka, Daniel K.", 
+    "state": "HI", 
+    "thomas_id": "00007", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-09-22", 
+  "updated_at": "2013-07-19T20:30:46-04:00"
+}

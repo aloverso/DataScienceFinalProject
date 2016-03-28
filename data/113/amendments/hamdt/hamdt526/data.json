@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-05T11:41:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7545-7546, H7554-7555", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7545", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Rohrabacher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-05T12:58:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 627, 
+      "text": "On agreeing to the Rohrabacher amendment (A007) Agreed to by recorded vote: 260 - 156 (Roll no. 627).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt526-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3309-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3309
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment strikes section 9(a) from the bill which relates to preservation of the right for judicial review of American inventors making application to the patent system.", 
+  "house_number": 7, 
+  "introduced_at": "2013-12-05", 
+  "number": 526, 
+  "purpose": "An amendment numbered 7 printed in Part A of House Report 113-283 to strike 9(a) from the bill and reorder the remaining subsections of Section 9.", 
+  "sponsor": {
+    "district": "48", 
+    "name": "Rohrabacher, Dana", 
+    "state": "CA", 
+    "thomas_id": "00979", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-12-05T12:58:00-05:00", 
+  "updated_at": "2015-01-02T13:20:26-05:00"
+}

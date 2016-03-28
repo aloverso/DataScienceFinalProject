@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1998" updated="2013-07-19T20:23:18-04:00">
+  <amends type="h" number="2297" sequence=""/>
+  <status datetime="2012-03-29">pass</status>
+  <sponsor id="300067"/>
+  <offered datetime="2012-03-29"/>
+  <description>To deauthorize a portion of the project for navigation of the Corps of Engineers at Potomac River, Washington Channel, District of Columbia.</description>
+  <actions>
+    <action datetime="2012-03-29">
+      <text>Amendment SA 1998 proposed by Senator Reid for Senator Lieberman.</text>
+      <reference ref="CR S2275" label="consideration"/>
+      <reference ref="CR S2275" label="text"/>
+    </action>
+    <vote datetime="2012-03-29" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1998 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

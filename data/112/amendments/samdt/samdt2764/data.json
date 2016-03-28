@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2764-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3414-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3414
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-08-01", 
+  "number": 2764, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Cochran, Thad", 
+    "state": "MS", 
+    "thomas_id": "00213", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-08-01", 
+  "updated_at": "2013-07-19T20:29:55-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8015-8021", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8019", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1237 proposed by Senator Levin for Senator Shaheen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1237 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1237-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-18", 
+  "number": 1237, 
+  "proposed_at": "2011-11-30", 
+  "purpose": "To require a Department of Defense assessment of the industrial base for night vision image intensification sensors.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shaheen, Jeanne", 
+    "state": "NH", 
+    "thomas_id": "01901", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-11-30", 
+  "updated_at": "2013-07-19T20:16:41-04:00"
+}

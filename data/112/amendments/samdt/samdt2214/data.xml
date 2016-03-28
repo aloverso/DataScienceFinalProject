@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2214" updated="2013-07-19T20:25:12-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-21">pass</status>
+  <sponsor id="400576"/>
+  <offered datetime="2012-06-07"/>
+  <description>To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions, and to provide for the return of previously distributed funds for deficit reduction.</description>
+  <actions>
+    <action datetime="2012-06-21">
+      <text>Amendment SA 2214 proposed by Senator Coburn.</text>
+      <reference ref="CR S4384-4385" label="consideration"/>
+      <reference ref="CR S4384-4385" label="text"/>
+    </action>
+    <vote datetime="2012-06-21" how="roll" result="pass" roll="162">
+      <text>Amendment SA 2214, under the order of 6/18/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 162.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "references": [], 
+      "text": "Amendment SA 3935 proposed by Senator Pryor for Senator Burr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3935 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3935-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres479-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 479
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-09-18", 
+  "number": 3935, 
+  "proposed_at": "2014-09-18", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-09-18", 
+  "updated_at": "2015-01-02T13:14:26-05:00"
+}

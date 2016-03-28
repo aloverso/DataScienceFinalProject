@@ -1,0 +1,30 @@
+<amendment session="112" chamber="s" number="417" updated="2013-07-19T20:09:43-04:00">
+  <amends type="s" number="782" sequence=""/>
+  <status datetime="2011-06-08">offered</status>
+  <sponsor id="400325"/>
+  <offered datetime="2011-06-08"/>
+  <description>To provide for the inclusion of independent regulatory agencies in the application of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1501 et seq.).</description>
+  <actions>
+    <action datetime="2011-06-09">
+      <text>Amendment SA 417 proposed by Senator Portman.</text>
+      <reference ref="CR S3656-3658" label="consideration"/>
+      <reference ref="CR S3657" label="text"/>
+    </action>
+    <action datetime="2011-06-14">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3752" label="consideration"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3847" label="consideration"/>
+    </action>
+    <action datetime="2011-06-16">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3852" label="consideration"/>
+    </action>
+    <action datetime="2011-06-21">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3962" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

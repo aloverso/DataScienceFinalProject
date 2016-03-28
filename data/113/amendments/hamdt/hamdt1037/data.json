@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T18:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6082-6083", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6082", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A066) offered by Mr. Yoho.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T18:19:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Yoho amendment (A066) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1037-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds for subsidizing clean energy in China and India.", 
+  "house_number": 66, 
+  "introduced_at": "2014-07-10", 
+  "number": 1037, 
+  "purpose": "An amendment to prohibit use of funds for \"DE--FOA0000697: Sustainable Cities: Urban Energy Planning for Smart Growth in China and India\".", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Yoho, Ted S.", 
+    "state": "FL", 
+    "thomas_id": "02115", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T18:19:00-04:00", 
+  "updated_at": "2015-01-02T13:24:43-05:00"
+}

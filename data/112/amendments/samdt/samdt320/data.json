@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-18", 
+      "references": [
+        {
+          "reference": "CR S3114", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3114", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 320 proposed by Senator Reid for Senator Lieberman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 320 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt320-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres174-112", 
+    "bill_type": "sres", 
+    "congress": 112, 
+    "number": 174
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-05-18", 
+  "number": 320, 
+  "proposed_at": "2011-05-18", 
+  "purpose": "To amend the preamble.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lieberman, Joseph I.", 
+    "state": "CT", 
+    "thomas_id": "01385", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-05-18", 
+  "updated_at": "2013-07-19T20:08:51-04:00"
+}

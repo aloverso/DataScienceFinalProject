@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2978" updated="2013-07-19T20:31:44-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-12-03">pass</status>
+  <sponsor id="300055"/>
+  <offered datetime="2012-11-27"/>
+  <description>To require the Secretary of the Air Force to submit to Congress a plan to increase the number of contractors eligible to be awarded contracts under the Air Force's Network-Centric Solutions-2 (NETCENTS-2) indefinite-delivery, indefinite quantity (IDIQ) contract.</description>
+  <actions>
+    <action datetime="2012-12-03">
+      <text>Amendment SA 2978 proposed by Senator Levin for Senator Inhofe.</text>
+      <reference ref="CR S7324-7329" label="consideration"/>
+      <reference ref="CR S7324" label="text"/>
+    </action>
+    <vote datetime="2012-12-03" how="Voice Vote" result="pass">
+      <text>Amendment SA 2978 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

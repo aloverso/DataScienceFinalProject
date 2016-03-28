@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-10", 
+      "references": [
+        {
+          "reference": "CR S6486-6487", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6486-6487", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 4001 proposed by Senator Boxer for Senator Carper.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 4001 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt4001-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2952-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2952
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-10", 
+  "number": 4001, 
+  "proposed_at": "2014-12-10", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Carper, Thomas R.", 
+    "state": "DE", 
+    "thomas_id": "00179", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-10", 
+  "updated_at": "2015-01-02T13:14:59-05:00"
+}

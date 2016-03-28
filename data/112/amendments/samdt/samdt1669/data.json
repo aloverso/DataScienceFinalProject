@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1533", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 1669 proposed by Senator McCain.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1593", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "references": [
+        {
+          "reference": "CR S1645, S1648-1649", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-14", 
+      "references": [
+        {
+          "reference": "CR S1648-1649", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1669 as modified withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1669-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-16", 
+  "number": 1669, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To enhance the natural quiet and safety of airspace of the Grand Canyon National Park and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCain, John", 
+    "state": "AZ", 
+    "thomas_id": "00754", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-02-16", 
+  "updated_at": "2013-07-19T20:20:26-04:00"
+}

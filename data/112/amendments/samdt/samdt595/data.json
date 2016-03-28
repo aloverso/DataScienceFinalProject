@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-08", 
+      "references": [
+        {
+          "reference": "CR S5407-54018, S5436-5437", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5407", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 595 proposed by Senator Cantwell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 127, 
+      "text": "Amendment SA 595 not agreed to in Senate by Yea-Nay. 13 - 85. Record Vote Number: 127.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt595-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1249-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 1249
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-07", 
+  "number": 595, 
+  "proposed_at": "2011-09-08", 
+  "purpose": "To establish a transitional program for covered business method patents.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2011-09-08", 
+  "updated_at": "2013-07-19T20:11:13-04:00"
+}

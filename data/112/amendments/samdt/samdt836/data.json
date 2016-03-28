@@ -1,0 +1,73 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-19", 
+      "references": [
+        {
+          "reference": "CR S6752-6753", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6752", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 836 proposed by Senator Lautenberg to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "references": [
+        {
+          "reference": "CR S6792, S6843-6844", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-20", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 836 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt836-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-18", 
+  "number": 836, 
+  "proposed_at": "2011-10-19", 
+  "purpose": "To provide adequate funding for Economic Development Administration disaster relief grants pursuant to the agreement on disaster relief funding included in the Budget Control Act of 2011.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Lautenberg, Frank R.", 
+    "state": "NJ", 
+    "thomas_id": "01381", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-20", 
+  "updated_at": "2013-07-19T20:13:15-04:00"
+}

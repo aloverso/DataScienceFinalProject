@@ -1,0 +1,89 @@
+<bill session="109" type="s" number="571" updated="2014-12-10T13:46:06-05:00">
+  <state datetime="2005-08-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-08-02"/>
+  </status>
+  <introduced datetime="2005-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 1915 Fulton Street in Brooklyn, New York, as the "Congresswoman Shirley A. Chisholm Post Office Building".</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="300022" joined="2005-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-03-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2005-06-22" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2005-06-29">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S7550-7551" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2005-06-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7550-7551" label="text"/>
+    </vote>
+    <action datetime="2005-06-29T20:53:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-06-29">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2005-07-25T15:06:00-04:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-07-25T15:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6395-6397" label="consideration"/>
+    </action>
+    <action datetime="2005-07-25T15:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 571.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2005-07-25T15:13:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6395" label="text"/>
+    </vote>
+    <action datetime="2005-07-25T15:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2005-07-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-07-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-08-02" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-50" type="public" datetime="2005-08-02">
+      <text>Became Public Law No: 109-50.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Discharged"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2005--Public Law.
+Designates the facility of the United States Postal Service located at 1915 Fulton Street in Brooklyn, New York, as the "Congresswoman Shirley A. Chisholm Post Office Building."</summary>
+</bill>

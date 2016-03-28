@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-27T15:58:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2039-2040, H2050", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2039", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Rigell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-27T17:58:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 81, 
+      "text": "On agreeing to the Rigell amendment (A001) Agreed to by recorded vote: 250 - 167 (Roll no. 81).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt570-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3193-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3193
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the Consumer Financial Protection Bureau to (1) submit an analysis on the impact of its proposed rule or regulation on the financial industry, and (2) submit an analysis of consumer and small business access to credit as a result of the regulation, to the Financial Stability Oversight Council for the purposes of public review.", 
+  "house_number": 1, 
+  "introduced_at": "2014-02-27", 
+  "number": 570, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 113-350 to require the Consumer Financial Protection Bureau to (1) submit an analysis on the impact of its proposed rule or regulation on the financial industry, and (2) submit an analysis of consumer and small business access to credit as a result of the regulation, to the Financial Stability Oversight Council for the purposes of public review.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Rigell, E. Scott", 
+    "state": "VA", 
+    "thomas_id": "02068", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-27T17:58:00-05:00", 
+  "updated_at": "2015-01-02T13:20:48-05:00"
+}

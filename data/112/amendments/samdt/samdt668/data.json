@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-09-26", 
+      "references": [
+        {
+          "reference": "CR S6007", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 668 proposed by Senator Reid for Senator Isakson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-09-26", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 668 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt668-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1280-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1280
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-09-26", 
+  "number": 668, 
+  "proposed_at": "2011-09-26", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Isakson, Johnny", 
+    "state": "GA", 
+    "thomas_id": "01608", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-09-26", 
+  "updated_at": "2013-07-19T20:11:50-04:00"
+}

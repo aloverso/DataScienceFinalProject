@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-01-23", 
+      "references": [
+        {
+          "reference": "CR S47-48", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S47-48", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1468 proposed by Senator Durbin for Senator Klobuchar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-01-23", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1468 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1468-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1134-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1134
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-01-23", 
+  "number": 1468, 
+  "proposed_at": "2012-01-23", 
+  "purpose": "To modify the offset.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Klobuchar, Amy", 
+    "state": "MN", 
+    "thomas_id": "01826", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-01-23", 
+  "updated_at": "2013-07-19T20:18:39-04:00"
+}

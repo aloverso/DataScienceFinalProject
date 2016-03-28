@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T23:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4901-4902", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4901", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Ms. Brownley (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T23:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brownley (CA) amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt709-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, General Administration of the Department of Justice by $1 million and increases funding for State and Local Law Enforcement Assistance (veterans treatment courts) by a similar amount.", 
+  "house_number": 20, 
+  "introduced_at": "2014-05-28", 
+  "number": 709, 
+  "purpose": "An amendment to reduce funding for Salaries and Expenses, General Administration of the Department of Justice by $1 million and to increase funding for State and Local Law Enforcement Assistance(veterans treatment courts) by a similar amount.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "thomas_id": "02106", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-28T23:15:00-04:00", 
+  "updated_at": "2015-01-02T13:21:58-05:00"
+}

@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2313" updated="2013-07-19T20:26:06-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">fail</status>
+  <sponsor id="412495"/>
+  <offered datetime="2012-06-11"/>
+  <description>To repeal the forest legacy program.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2313 proposed by Senator Lee.</text>
+      <reference ref="CR S4340-4341" label="consideration"/>
+      <reference ref="CR S4340" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="roll" result="fail" roll="147">
+      <text>Amendment SA 2313 not agreed to in Senate by Yea-Nay Vote. 21 - 77. Record Vote Number: 147.</text>
+    </vote>
+  </actions>
+</amendment>

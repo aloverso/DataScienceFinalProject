@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T17:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5457-5458", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5457", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Murphy (PA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T17:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Murphy (PA) amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt884-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funds for Environmental Restoration, Air Force by $37 million and increases funds for mental health care by $10 million.", 
+  "house_number": 18, 
+  "introduced_at": "2014-06-18", 
+  "number": 884, 
+  "purpose": "An amendment to reduce funds for Environmental Restoration, Air Force by $37,000,000 and increase funds for the Defense Health Program by $10,000,000.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Murphy, Tim", 
+    "state": "PA", 
+    "thomas_id": "01744", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T17:25:00-04:00", 
+  "updated_at": "2015-01-02T13:23:27-05:00"
+}

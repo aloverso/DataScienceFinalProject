@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-02-15", 
+      "references": [
+        {
+          "reference": "CR S686", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1633 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-15", 
+      "references": [
+        {
+          "reference": "CR S686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S686", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on amendment SA 1633 presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-16", 
+      "references": [
+        {
+          "reference": "CR S814", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-17", 
+      "references": [
+        {
+          "reference": "CR S885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-17", 
+      "references": [
+        {
+          "reference": "CR S686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S886", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture on amendment SA 1633 not invoked in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 20.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-02-17", 
+      "references": [
+        {
+          "reference": "CR S686", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 1633 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt1633-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-15", 
+  "number": 1633, 
+  "proposed_at": "2012-02-15", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-02-17", 
+  "updated_at": "2013-07-19T20:20:07-04:00"
+}

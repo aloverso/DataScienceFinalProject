@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-14T22:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6204-6205", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6204", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-14T22:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gosar amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1068-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for salaries and expenses at SBA by $3,882,000 and increases funding for entrepeneurial development programs by a similar amount.", 
+  "house_number": 17, 
+  "introduced_at": "2014-07-14", 
+  "number": 1068, 
+  "purpose": "An amendment to reduce salaries and expenses at SBA by $3,882,000 and to increase funding for entrepeneurial development programs by a similar amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-14T22:25:00-04:00", 
+  "updated_at": "2015-01-02T13:24:59-05:00"
+}

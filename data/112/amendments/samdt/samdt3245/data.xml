@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3245" updated="2013-07-19T20:34:01-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="412493"/>
+  <offered datetime="2012-11-29"/>
+  <description>To prohibit the use of funds for the transfer or release of certain individuals from United States Naval Station, Guantanamo Bay, Cuba.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3245 proposed by Senator Ayotte.</text>
+      <reference ref="CR S7178-7180, S7191-7192" label="consideration"/>
+      <reference ref="CR S7178" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="roll" result="pass" roll="212">
+      <text>Amendment SA 3245 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 212.</text>
+    </vote>
+  </actions>
+</amendment>

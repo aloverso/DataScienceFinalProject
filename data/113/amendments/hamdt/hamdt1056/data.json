@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-14T20:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6184-6185", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6184", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Lynch.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-14T20:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lynch amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1056-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for salaries and expenses for Financial Crimes Enforcement Network by $3,339,000 and reduces funding for the Federal Buildings Fund at GSA by a similar amount.", 
+  "house_number": 5, 
+  "introduced_at": "2014-07-14", 
+  "number": 1056, 
+  "purpose": "An amendment to increase funding for salaries and expenses for Financial Crimes Enforcement Network by $3,339,000 and to reduce funding for the Federal Buildings Fund at GSA by a $3,339,000.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Lynch, Stephen F.", 
+    "state": "MA", 
+    "thomas_id": "01686", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-14T20:36:00-04:00", 
+  "updated_at": "2015-01-02T13:24:53-05:00"
+}

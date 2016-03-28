@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T12:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4929", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4929", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T12:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cohen amendment (A028) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt717-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, Drug Enforcement Administration, by $5 million and increases funding for State and Local Law Enforcement Assistance (grants for backlogs of sexual assault kits) by a similar amount.", 
+  "house_number": 28, 
+  "introduced_at": "2014-05-29", 
+  "number": 717, 
+  "purpose": "An amendment to reduce funding for salaries and expenses, Drug Enforcement Administration, by $5 million and to increase funding for State and Local Law Enforcement Assistance (grants for backlogs of sexual assault kits) by a similar amount.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T12:56:00-04:00", 
+  "updated_at": "2015-01-02T13:22:02-05:00"
+}

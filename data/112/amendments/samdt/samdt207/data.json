@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-16", 
+      "references": [
+        {
+          "reference": "CR S1723-1726", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1723", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 207 proposed by Senator Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-17", 
+      "references": [
+        {
+          "reference": "CR S1780", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-28", 
+      "references": [
+        {
+          "reference": "CR S1884", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-29", 
+      "references": [
+        {
+          "reference": "CR S1913", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-30", 
+      "references": [
+        {
+          "reference": "CR S1962", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-05", 
+      "references": [
+        {
+          "reference": "CR S2111", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-04-06", 
+      "references": [
+        {
+          "reference": "CR S2154", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2157", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-02", 
+      "references": [
+        {
+          "reference": "CR S2572", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt207-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s493-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 493
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-15", 
+  "number": 207, 
+  "proposed_at": "2011-03-16", 
+  "purpose": "To express the sense of the Senate that Social Security benefits for current and future beneficiaries should not be cut and that the Social Security program should not be privatized as part of any legislation to reduce the Federal deficit.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-03-15", 
+  "updated_at": "2013-07-19T20:07:53-04:00"
+}

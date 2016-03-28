@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1531-1533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1531-1532", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1818 proposed by Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1818 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1818-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-03-07", 
+  "number": 1818, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To authorize special measures against foreign jurisdictions, financial institutions, and others that significantly impede United States tax enforcement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-08", 
+  "updated_at": "2013-07-19T20:21:44-04:00"
+}

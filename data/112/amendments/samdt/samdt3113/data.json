@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-04", 
+      "references": [
+        {
+          "reference": "CR S7383-7385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3113 proposed by Senator Levin for Senator Brown OH.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7384", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 3113 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3113-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3113, 
+  "proposed_at": "2012-12-04", 
+  "purpose": "To extend treatment of base closure areas as HUBZones for purposes of the Small Business Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-04", 
+  "updated_at": "2013-07-19T20:32:54-04:00"
+}

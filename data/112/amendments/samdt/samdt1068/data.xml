@@ -1,0 +1,36 @@
+<amendment session="112" chamber="s" number="1068" updated="2013-07-19T20:15:14-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-17">offered</status>
+  <sponsor id="412493"/>
+  <offered datetime="2011-11-17"/>
+  <description>To authorize lawful interrogation methods in addition to those authorized by the Army Field Manual for the collection of foreign intelligence information through interrogations.</description>
+  <actions>
+    <action datetime="2011-11-18">
+      <text>Amendment SA 1068 proposed by Senator McCain for Senator Ayotte.</text>
+      <reference ref="CR S7787-7790" label="consideration"/>
+      <reference ref="CR S7788" label="text"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7885" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8013, S8050-8053" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8094" label="consideration"/>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1068.</text>
+    </action>
+    <action datetime="2011-12-01">
+      <text>Amendment SA 1068 ruled non-germane by the chair.</text>
+    </action>
+  </actions>
+</amendment>

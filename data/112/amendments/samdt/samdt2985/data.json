@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-28", 
+      "references": [
+        {
+          "reference": "CR S6995-7005, S7006-7007, S7007, S7009-7011", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "S6995", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2985 proposed by Senator Reid for Senator Udall CO.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-28", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 206, 
+      "text": "Amendment SA 2985 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 206.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2985-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 2985, 
+  "proposed_at": "2012-11-28", 
+  "purpose": "To strike section 313, relating to a limitation on the availability of funds for the procurement of alternative fuel.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Mark", 
+    "state": "CO", 
+    "thomas_id": "01595", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-28", 
+  "updated_at": "2013-07-19T20:31:48-04:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T16:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6002-6003", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6002", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Cohen.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T16:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6003", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Cohen amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt991-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 20, 
+  "introduced_at": "2014-07-09", 
+  "number": 991, 
+  "purpose": "An amendment to increase funding for the Energy Efficiency and Renewable Energy by $10,340,000 and reduce funding for Fossil Energy Research and Development by $15,000,000.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Cohen, Steve", 
+    "state": "TN", 
+    "thomas_id": "01878", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-09", 
+  "updated_at": "2015-01-02T13:24:20-05:00"
+}

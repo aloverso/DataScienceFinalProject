@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1537" updated="2013-07-19T20:19:18-04:00">
+  <amends type="s" number="1813" sequence=""/>
+  <status datetime="2012-03-08">fail</status>
+  <sponsor id="412494"/>
+  <offered datetime="2012-02-13"/>
+  <description>To approve the Keystone XL pipeline project and provide for environmental protection and government oversight.</description>
+  <actions>
+    <action datetime="2012-03-08">
+      <text>Amendment SA 1537 proposed by Senator Hoeven.</text>
+      <reference ref="CR S1515-1517, S1519-1523, S1530" label="consideration"/>
+      <reference ref="CR S1515" label="text"/>
+    </action>
+    <vote datetime="2012-03-08" how="roll" result="fail" roll="34">
+      <text>Amendment SA 1537, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 34.</text>
+    </vote>
+  </actions>
+</amendment>

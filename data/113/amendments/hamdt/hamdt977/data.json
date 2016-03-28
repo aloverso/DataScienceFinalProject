@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T14:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5987-5988, H6004-6005", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5987", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. McAllister.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T17:31:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 371, 
+      "text": "On agreeing to the McAllister amendment (A006) Failed by recorded vote: 132 - 284 (Roll no. 371).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt977-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for Corps of Engineers Flood Damage Reduction projects in the Mississippi River Valley below Cape Girardeau, Missouri by $47 million and reduce funding for Renewable Energy Programs Construction by $127 million.", 
+  "house_number": 6, 
+  "introduced_at": "2014-07-09", 
+  "number": 977, 
+  "purpose": "An amendment to increase funding for Corps of Engineers Flood Damage Reduction projects in the Mississippi River Valley below Cape Girardeau, Missouri by $47 million and to reduce funding for Renewable Energy Programs Construction by $127 million.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McAllister, Vance M.", 
+    "state": "LA", 
+    "thomas_id": "02195", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-09T17:31:00-04:00", 
+  "updated_at": "2015-01-02T13:24:14-05:00"
+}

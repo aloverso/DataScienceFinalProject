@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-30", 
+      "references": [
+        {
+          "reference": "CR S7294-7298", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7295", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3135 proposed by Senator Levin for Senator Murkowski.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-30", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3135 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3135-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3135, 
+  "proposed_at": "2012-11-30", 
+  "purpose": "To extend the deadline for submission of a report on the findings and conclusions of the National Commission on the Structure of the Air Force.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murkowski, Lisa", 
+    "state": "AK", 
+    "thomas_id": "01694", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-30", 
+  "updated_at": "2013-07-19T20:33:05-04:00"
+}

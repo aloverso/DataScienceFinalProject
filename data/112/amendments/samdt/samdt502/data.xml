@@ -1,0 +1,22 @@
+<amendment session="112" chamber="s" number="502" updated="2013-07-19T20:10:26-04:00">
+  <amends type="s" number="679" sequence=""/>
+  <status datetime="2011-06-28">withdrawn</status>
+  <sponsor id="412492"/>
+  <offered datetime="2011-06-22"/>
+  <description>To strike the provision relating to the Treasurer of the United States.</description>
+  <actions>
+    <action datetime="2011-06-23">
+      <text>Amendment SA 502 proposed by Senator Sessions for Senator Paul.</text>
+      <reference ref="CR S4065-4066" label="consideration"/>
+      <reference ref="CR S4066" label="text"/>
+    </action>
+    <action datetime="2011-06-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4145" label="consideration"/>
+    </action>
+    <action datetime="2011-06-28">
+      <text>Proposed amendment SA 502 withdrawn in Senate.</text>
+      <reference ref="CR S4147" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

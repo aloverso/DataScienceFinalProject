@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="1315" updated="2013-07-19T20:17:21-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-30">pass</status>
+  <sponsor id="300052"/>
+  <offered datetime="2011-11-18"/>
+  <description>To require the Secretary of Defense to submit to Congress a long-term plan for maintaining a minimal capacity to produce intercontinental ballistic missile solid rocket motors.</description>
+  <actions>
+    <action datetime="2011-11-30">
+      <text>Amendment SA 1315 proposed by Senator Levin for Senator Hatch.</text>
+      <reference ref="CR S8015-8021" label="consideration"/>
+      <reference ref="CR S8020" label="text"/>
+    </action>
+    <vote datetime="2011-11-30" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1315 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,34 @@
+<amendment session="112" chamber="s" number="1073" updated="2013-07-19T20:15:17-04:00">
+  <amends type="s" number="1867" sequence=""/>
+  <status datetime="2011-11-30">withdrawn</status>
+  <sponsor id="400064"/>
+  <offered datetime="2011-11-17"/>
+  <description>To prohibit expansion or operation of the District of Columbia National Guard Youth Challenge Program in Anne Arundel County, Maryland.</description>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Amendment SA 1073 proposed by Senator Cardin.</text>
+      <reference ref="CR S7685-7686" label="consideration"/>
+      <reference ref="CR S7686" label="text"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7785" label="consideration"/>
+    </action>
+    <action datetime="2011-11-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7884" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S7943" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8012, S8032-8033" label="consideration"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Proposed amendment SA 1073 withdrawn in Senate.</text>
+      <reference ref="CR S8032" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

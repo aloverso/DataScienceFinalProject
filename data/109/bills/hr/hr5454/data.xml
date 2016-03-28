@@ -1,0 +1,60 @@
+<bill session="109" type="h" number="5454" updated="2014-12-10T13:45:18-05:00">
+  <state datetime="2006-09-25T16:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-25T16:00:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-23"/>
+  <titles>
+    <title type="official" as="introduced">To authorize salary adjustments for Justices and judges of the United States for fiscal year 2007.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2006-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-05-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-05-23">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+    </action>
+    <action datetime="2006-09-25T15:52:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-25T15:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6961-6962" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T15:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5454.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2006-09-25T16:00:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6961" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T16:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Judicial compensation"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed House without amendment.
+Authorizes salary adjustments for Justices and judges of the United States for FY2007.</summary>
+</bill>

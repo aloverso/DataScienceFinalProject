@@ -1,0 +1,65 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1032-1033", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 113 proposed by Senator DeMint for Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1032", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Amendment SA 113 was modified to be a first degree amendment by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1046", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 113 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt113-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-28", 
+  "number": 113, 
+  "proposed_at": "2011-03-01", 
+  "purpose": "To require that the Government give equal priority to payment of social security benefits and payment of all obligations on the debt held by the public in the event that the debt limit is reached.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2011-03-01", 
+  "updated_at": "2013-07-19T20:07:01-04:00"
+}

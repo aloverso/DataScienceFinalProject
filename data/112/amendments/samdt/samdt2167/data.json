@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4269-4270", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4269", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2167 proposed by Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 125, 
+      "text": "Amendment SA 2167 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 125.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2167-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-06", 
+  "number": 2167, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To provide payment limitations for marketing loan gains and loan deficiency payments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:24:45-04:00"
+}

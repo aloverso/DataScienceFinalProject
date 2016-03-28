@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt4073-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3979-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3979
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-10", 
+  "number": 4073, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-12-10", 
+  "updated_at": "2015-01-02T13:15:35-05:00"
+}

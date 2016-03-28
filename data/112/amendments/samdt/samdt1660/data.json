@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1508-1511, S1513-1515, S1528", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1660 proposed by Senator Collins.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-08", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 30, 
+      "text": "Amendment SA 1660, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 30.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1660-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-15", 
+  "number": 1660, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To provide additional time for the Administrator of the Environmental Protection Agency to issue achievable standards for industrial, commercial, and institutional boilers, process heaters, and incinerators.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2012-03-08", 
+  "updated_at": "2013-07-19T20:20:22-04:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-24", 
+      "references": [
+        {
+          "reference": "CR S2643-2644", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2031 proposed by Senator McCaskill to Amendment SA 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-24", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S2643", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2031 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2031-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2000-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2000
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-17", 
+  "number": 2031, 
+  "proposed_at": "2012-04-24", 
+  "purpose": "To prohibit the closing of a rural post office unless certain conditions are met and to establish a moratorium on the closing of rural post offices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "McCaskill, Claire", 
+    "state": "MO", 
+    "thomas_id": "01820", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-24", 
+  "updated_at": "2013-07-19T20:23:35-04:00"
+}

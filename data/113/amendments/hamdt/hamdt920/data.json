@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T19:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5533", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5533", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A054) offered by Ms. Speier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T19:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Speier amendment (A054) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt920-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits funds to implement Executive Order 13369 regarding the outline of when previous sexual history is admissible in courts martial.", 
+  "house_number": 54, 
+  "introduced_at": "2014-06-19", 
+  "number": 920, 
+  "purpose": "An amendment to prohibit use of funds to implement Executive Order 12478 of April 13, 1984, as amended by Executive Order 13669 of June 13, 2014, as those amendments apply to section 405(i) of the Rules for Courts-Martial.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T19:56:00-04:00", 
+  "updated_at": "2015-01-02T13:23:45-05:00"
+}

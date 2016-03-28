@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="142" updated="2013-07-19T20:07:17-04:00">
+  <amends type="s" number="23" sequence=""/>
+  <status datetime="2011-03-03">pass</status>
+  <sponsor id="300009"/>
+  <offered datetime="2011-03-03"/>
+  <description>To require the PTO to disclose the length of time between the commencement of each inter partes and post-grant review and the conclusion of that review.</description>
+  <actions>
+    <action datetime="2011-03-03">
+      <text>Amendment SA 142 proposed by Senator Whitehouse for Senator Bingaman.</text>
+      <reference ref="CR S1206" label="consideration"/>
+      <reference ref="CR S1206" label="text"/>
+    </action>
+    <vote datetime="2011-03-03" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 142 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-09T10:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4028", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4028", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Kline.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-09T10:06:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kline amendment (A001) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt653-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Manager's amendment clarifies the grant award language and adds authorizing provisions intended to promote student retention.", 
+  "house_number": 1, 
+  "introduced_at": "2014-05-09", 
+  "number": 653, 
+  "purpose": "An amendment numbered 1 printed in House Report 113-444 to make technical corrections and improvements to the underlying bill text.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Kline, John", 
+    "state": "MN", 
+    "thomas_id": "01733", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-09T10:06:00-04:00", 
+  "updated_at": "2015-01-02T13:21:30-05:00"
+}

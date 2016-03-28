@@ -1,0 +1,80 @@
+<bill session="109" type="s" number="2697" updated="2014-12-10T13:46:35-05:00">
+  <state datetime="2006-09-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-09-07"/>
+  </status>
+  <introduced datetime="2006-05-02"/>
+  <titles>
+    <title type="short" as="introduced">United States Ambassador for ASEAN Act</title>
+    <title type="short" as="reported to senate">United States Ambassador for ASEAN Affairs Act</title>
+    <title type="short" as="passed senate">United States Ambassador for ASEAN Affairs Act</title>
+    <title type="official" as="introduced">A bill to establish the position of the United States Ambassador for ASEAN.</title>
+    <title type="official" as="amended by senate">An act to establish the position of the United States Ambassador for ASEAN Affairs.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2006-05-15"/>
+    <cosponsor id="300008" joined="2006-05-02"/>
+    <cosponsor id="300010" joined="2006-05-09"/>
+    <cosponsor id="300042" joined="2006-05-04"/>
+    <cosponsor id="300050" joined="2006-05-04"/>
+    <cosponsor id="300060" joined="2006-05-02"/>
+    <cosponsor id="400629" joined="2006-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-05-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3900"/>
+    </action>
+    <action datetime="2006-05-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2006-05-23" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="2006-05-25">
+      <text>Committee on Foreign Relations. Reported by Senator Lugar with amendments and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2006-05-25" calendar="Senate Legislative" under="General Orders" number="457">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2006-09-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S9214-9215" label="consideration"/>
+      <reference ref="CR S9214" label="text of measure as reported in Senate"/>
+      <reference ref="CR S9214-9215" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-09-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-09-08T14:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-09-08">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House International Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="ASEAN countries"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Congress"/>
+    <term name="Department of State"/>
+    <term name="Diplomats"/>
+    <term name="East Asia"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential appointments"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/2006--Passed Senate amended.
+United States Ambassador for ASEAN Affairs Act - Establishes in the Department of State the position of U.S. Ambassador for ASEAN Affairs (Association of Southeast Asian Nations).
+
+Expresses the sense of Congress that a Deputy Assistant Secretary of State for East Asia and the Pacific should be designated as the Ambassador for ASEAN Affairs.</summary>
+</bill>

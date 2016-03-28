@@ -1,0 +1,96 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-09", 
+      "references": [
+        {
+          "reference": "CR S204", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S204", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2632 proposed by Senator Reid to Amendment SA 2631.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-13", 
+      "references": [
+        {
+          "reference": "CR S268", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-14", 
+      "references": [
+        {
+          "reference": "CR S300", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "references": [
+        {
+          "reference": "CR S737", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04", 
+      "references": [
+        {
+          "reference": "CR S737", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "SA 2632 fell when SA 2631 was tabled.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2632-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2631-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 2631
+  }, 
+  "amends_bill": {
+    "bill_id": "s1845-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1845
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-01-09", 
+  "number": 2632, 
+  "proposed_at": "2014-01-09", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-01-09", 
+  "updated_at": "2015-01-02T13:03:30-05:00"
+}

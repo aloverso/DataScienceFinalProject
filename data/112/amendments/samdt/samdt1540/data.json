@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-03-08", 
+      "references": [
+        {
+          "reference": "CR S1535-1536", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1535", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1540 proposed by Senator Blunt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "references": [
+        {
+          "reference": "CR S1593, S1602", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 1540 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt1540-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1813-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1813
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-02-13", 
+  "number": 1540, 
+  "proposed_at": "2012-03-08", 
+  "purpose": "To modify the section relating to off-system bridges.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Blunt, Roy", 
+    "state": "MO", 
+    "thomas_id": "01464", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-03-13", 
+  "updated_at": "2013-07-19T20:19:19-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-02", 
+      "references": [
+        {
+          "reference": "CR S6247-6248", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6247-6248", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3965 proposed by Senator Warner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-02", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3965 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3965-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1000-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1000
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-02", 
+  "number": 3965, 
+  "proposed_at": "2014-12-02", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, Mark R.", 
+    "state": "VA", 
+    "thomas_id": "01897", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-02", 
+  "updated_at": "2015-01-02T13:14:41-05:00"
+}

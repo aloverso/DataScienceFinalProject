@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-10-18", 
+      "references": [
+        {
+          "reference": "CR S6649-6650", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6649", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 804 proposed by Senator Collins to Amendment SA 738.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-10-18", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 804 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt804-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt738-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 738
+  }, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-18", 
+  "number": 804, 
+  "proposed_at": "2011-10-18", 
+  "purpose": "To prohibit the use of funds to implement a rule that sets maximum limits on the serving of vegetables in school meal programs or is inconsistent with the recommendations of the most recent Dietary Guidelines for Americans for vegetables.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "thomas_id": "01541", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-10-18", 
+  "updated_at": "2013-07-19T20:12:59-04:00"
+}

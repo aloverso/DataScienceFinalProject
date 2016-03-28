@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T18:48:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6086-6087, H6096-6097", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6086", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A072) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T20:51:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 398, 
+      "text": "On agreeing to the Blackburn amendment (A072) Failed by recorded vote: 150 - 271 (Roll no. 398).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1043-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 72, 
+  "introduced_at": "2014-07-10", 
+  "number": 1043, 
+  "purpose": "An amendment No. 22 printed in the Congressional Record to reduce the level of funding in the bill by 1 percent across-the-board.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "thomas_id": "01748", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-10T20:51:00-04:00", 
+  "updated_at": "2015-01-02T13:24:46-05:00"
+}

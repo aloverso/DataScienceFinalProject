@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7801", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 1186 proposed by Senator Leahy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7944", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8095", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1186.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Amendment SA 1186 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1186-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1186, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To provide the Department of Justice necessary tools to fight fraud by reforming the working capital fund and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-17", 
+  "updated_at": "2013-07-19T20:16:15-04:00"
+}

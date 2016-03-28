@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2243" updated="2013-07-19T20:25:29-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-19">pass</status>
+  <sponsor id="300077"/>
+  <offered datetime="2012-06-07"/>
+  <description>To ensure that performance bonus payments are used by State agencies only to carry out the supplemental nutrition assistance programs.</description>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Amendment SA 2243 proposed by Senator Nelson NE.</text>
+      <reference ref="CR S4272" label="consideration"/>
+      <reference ref="CR S4272" label="text"/>
+    </action>
+    <vote datetime="2012-06-19" how="Voice Vote" result="pass">
+      <text>Amendment SA 2243 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

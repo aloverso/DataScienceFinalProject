@@ -1,0 +1,15 @@
+<amendment session="112" chamber="h" number="1500" updated="2013-07-19T20:48:37-04:00">
+  <amends type="s" number="3250" sequence="3"/>
+  <status datetime="2013-01-02T12:36:00-05:00">pass</status>
+  <sponsor id="400381"/>
+  <offered datetime="2013-01-02"/>
+  <description>An amendment to insert a complete new text and amend the title.</description>
+  <actions>
+    <action datetime="2013-01-02T12:36:00-05:00">
+      <text>Amendment (A003) offered by Mr. Smith (TX).</text>
+    </action>
+    <vote datetime="2013-01-02T12:36:00-05:00" how="without objection" result="pass">
+      <text>On agreeing to the Smith (TX) amendment (A003) Agreed to without objection.</text>
+    </vote>
+  </actions>
+</amendment>

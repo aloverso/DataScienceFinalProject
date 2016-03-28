@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2039" updated="2013-07-19T20:23:39-04:00">
+  <amends type="s" number="1789" sequence=""/>
+  <status datetime="2012-04-25">fail</status>
+  <sponsor id="412492"/>
+  <offered datetime="2012-04-18"/>
+  <description>To prohibit employees of the United States Postal Service from engaging in collective bargaining.</description>
+  <actions>
+    <action datetime="2012-04-25">
+      <text>Amendment SA 2039 proposed by Senator Paul to Amendment SA 2000.</text>
+      <reference ref="CR S2688" label="consideration"/>
+      <reference ref="CR S2688" label="text"/>
+    </action>
+    <vote datetime="2012-04-25" how="roll" result="fail" roll="79">
+      <text>Amendment SA 2039, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 76. Record Vote Number: 79.</text>
+    </vote>
+  </actions>
+</amendment>

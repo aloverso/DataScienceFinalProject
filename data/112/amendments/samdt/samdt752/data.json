@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt752-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-17", 
+  "number": 752, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Murkowski, Lisa", 
+    "state": "AK", 
+    "thomas_id": "01694", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-10-17", 
+  "updated_at": "2013-07-19T20:12:32-04:00"
+}

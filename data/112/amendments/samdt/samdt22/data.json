@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-17", 
+      "references": [
+        {
+          "reference": "CR S830-833", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S830", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 22 proposed by Senator Rockefeller for Senator Pryor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-02-17", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 22 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt22-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s223-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 223
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-02", 
+  "number": 22, 
+  "proposed_at": "2011-02-17", 
+  "purpose": "To cap the local cost share under the contract air traffic control tower program at 20 percent.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-02-17", 
+  "updated_at": "2013-07-19T20:06:14-04:00"
+}

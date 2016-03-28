@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2078-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2073-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2073
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-19", 
+  "number": 2078, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2012-04-19", 
+  "updated_at": "2013-07-19T20:23:59-04:00"
+}

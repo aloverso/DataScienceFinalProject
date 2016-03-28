@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-23", 
+      "references": [
+        {
+          "reference": "CR S3490-3491, S3507", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3490-3491", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2129 proposed by Senator Grassley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-23", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2129 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2129-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-22", 
+  "number": 2129, 
+  "proposed_at": "2012-05-23", 
+  "purpose": "To provide deadlines for the issuance of certain regulations and to require a GAO report on the implementation of the clinical trial registration and reporting requirements under the Public Health Service Act.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Grassley, Chuck", 
+    "state": "IA", 
+    "thomas_id": "00457", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-23", 
+  "updated_at": "2013-07-19T20:24:26-04:00"
+}

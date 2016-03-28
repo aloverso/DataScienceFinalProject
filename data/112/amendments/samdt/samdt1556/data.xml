@@ -1,0 +1,23 @@
+<amendment session="112" chamber="s" number="1556" updated="2013-07-19T20:19:27-04:00">
+  <amends type="s" number="1813" sequence=""/>
+  <status datetime="2012-02-13">offered</status>
+  <sponsor id="412492"/>
+  <offered datetime="2012-02-13"/>
+  <description>To permit emergency exemptions from compliance with certain laws for highway construction projects.</description>
+  <actions>
+    <action datetime="2012-03-14">
+      <text>Amendment SA 1556 proposed by Senator Paul to Amendment SA 1761.</text>
+      <reference ref="CR S1647, S1650" label="consideration"/>
+      <reference ref="CR S1647" label="text"/>
+    </action>
+    <action datetime="2012-03-14">
+      <text>Point of order raised in Senate with respect to amendment SA 1556.</text>
+    </action>
+    <action datetime="2012-03-14">
+      <text>Motion to waive all applicable budgetary discipline with respect to amendment SA 1556 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 47.</text>
+    </action>
+    <action datetime="2012-03-14">
+      <text>Amendment SA 1556 ruled out of order by the chair.</text>
+    </action>
+  </actions>
+</amendment>

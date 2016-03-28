@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-12", 
+      "references": [
+        {
+          "reference": "CR S1555, S1568-1569", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1555", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2818 proposed by Senator Harkin for Senator Landrieu.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 74, 
+      "text": "Amendment SA 2818 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 74.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2818-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-11", 
+  "number": 2818, 
+  "proposed_at": "2014-03-12", 
+  "purpose": "To require a statewide child care disaster plan.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-12", 
+  "updated_at": "2015-01-02T13:05:03-05:00"
+}

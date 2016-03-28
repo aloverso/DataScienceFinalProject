@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-23", 
+      "references": [
+        {
+          "reference": "CR S3492-3495", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3492", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2130 proposed by Senator Burr.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3536", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3563", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 2130 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2130-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-22", 
+  "number": 2130, 
+  "proposed_at": "2012-05-23", 
+  "purpose": "To ensure transparency in Food and Drug Administration user fee agreement negotiations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Burr, Richard", 
+    "state": "NC", 
+    "thomas_id": "00153", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2012-05-24", 
+  "updated_at": "2013-07-19T20:24:27-04:00"
+}

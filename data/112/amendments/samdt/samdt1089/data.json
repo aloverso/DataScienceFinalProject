@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-11-18", 
+      "references": [
+        {
+          "reference": "CR S7787-7790", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7789", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 1089 proposed by Senator McCain for Senator Brown MA.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-28", 
+      "references": [
+        {
+          "reference": "CR S7885", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-29", 
+      "references": [
+        {
+          "reference": "CR S7943", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-11-30", 
+      "references": [
+        {
+          "reference": "CR S8013", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [
+        {
+          "reference": "CR S8095", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1089.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-12-01", 
+      "references": [], 
+      "text": "Amendment SA 1089 ruled non-germane by the chair.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1089-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1867-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1867
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-11-17", 
+  "number": 1089, 
+  "proposed_at": "2011-11-18", 
+  "purpose": "To require certain disclosures from post-secondary institutions that participate in tuition assistance programs of the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Scott P.", 
+    "state": "MA", 
+    "thomas_id": "01975", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-11-17", 
+  "updated_at": "2013-07-19T20:15:25-04:00"
+}

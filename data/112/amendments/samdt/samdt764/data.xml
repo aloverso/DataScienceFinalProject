@@ -1,0 +1,31 @@
+<amendment session="112" chamber="s" number="764" updated="2013-07-19T20:12:39-04:00">
+  <amends type="h" number="2112" sequence=""/>
+  <status datetime="2011-10-17">offered</status>
+  <sponsor id="400105"/>
+  <offered datetime="2011-10-17"/>
+  <description>To eliminate a certain increase in funding.</description>
+  <actions>
+    <action datetime="2011-10-19">
+      <text>Amendment SA 764 proposed by Senator Blunt for Senator DeMint to Amendment SA 738.</text>
+      <reference ref="CR S6751" label="consideration"/>
+      <reference ref="CR S6751" label="text"/>
+    </action>
+    <action datetime="2011-10-20">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6792, S6839-6840" label="consideration"/>
+    </action>
+    <action datetime="2011-11-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6932, S6937" label="consideration"/>
+    </action>
+    <action datetime="2011-11-01">
+      <text>Point of order raised in Senate with respect to amendment SA 764.</text>
+    </action>
+    <action datetime="2011-11-01">
+      <text>Amendment SA 764 ruled non-germane by the chair.</text>
+    </action>
+    <action datetime="2011-11-01">
+      <text>SA 764 fell when the Chair ruled the amendment non-germane.</text>
+    </action>
+  </actions>
+</amendment>

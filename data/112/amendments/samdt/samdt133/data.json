@@ -1,0 +1,68 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-03-02", 
+      "references": [
+        {
+          "reference": "CR S1093-1098, S1104-1106, S1112-1113", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1093", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 133 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-03", 
+      "references": [
+        {
+          "reference": "CR S1175-1183", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1175-1176", 
+          "type": "text as modified"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-03", 
+      "references": [], 
+      "text": "Motion to table amendment SA 133 agreed to in Senate by Yea-Nay Vote. 87 - 13. Record Vote Number: 31.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt133-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-03-02", 
+  "number": 133, 
+  "proposed_at": "2011-03-02", 
+  "purpose": "To strike the first inventor to file requirement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-03-02", 
+  "updated_at": "2013-07-19T20:07:11-04:00"
+}

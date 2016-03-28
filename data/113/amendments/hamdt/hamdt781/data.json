@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T14:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5093-5094", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5093-5094", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Duffy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T14:54:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5094", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Duffy amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt781-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 4, 
+  "introduced_at": "2014-06-09", 
+  "number": 781, 
+  "purpose": "An amendment to ensure that there be no limit or other prohibition for a vehicle transporting raw or unfinished forest product if such vehicle has a gross vehicle weight of 98,000 pounds or less.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-09", 
+  "updated_at": "2015-01-02T13:22:36-05:00"
+}

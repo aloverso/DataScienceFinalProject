@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-26T16:30:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1970-1971", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1970", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Polis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-26T16:46:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 70, 
+      "text": "On agreeing to the Polis amendment (A002) Failed by recorded vote: 177 - 241 (Roll no. 70).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt558-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3865-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3865
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 2, 
+  "introduced_at": "2014-02-26", 
+  "number": 558, 
+  "purpose": "Amendment to strike the title of H.R. 3865 and insert the following to protect anonymous special interests by prohibiting the Internal Revenue Service from modifying the standard for determining whether an organization is operated exclusively for the promotion of social welfare for purposes of section 501(c)(4) of the Internal Revenue Code of 1986.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Polis, Jared", 
+    "state": "CO", 
+    "thomas_id": "01910", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-26T16:46:00-05:00", 
+  "updated_at": "2015-01-02T13:20:42-05:00"
+}

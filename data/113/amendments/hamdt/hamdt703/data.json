@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T22:19:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4895-4896", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4895", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Ms. Bonamici.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T22:30:00-04:00", 
+      "references": [], 
+      "text": "By unanimous consent, the Bonamici amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt703-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 14, 
+  "introduced_at": "2014-05-28", 
+  "number": 703, 
+  "purpose": "An amendment to transfer $9 million in funding within the NOAA Operations, Research, and Facilities account to the Ocean Acidification Research Program.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bonamici, Suzanne", 
+    "state": "OR", 
+    "thomas_id": "02092", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-28", 
+  "updated_at": "2015-01-02T13:21:55-05:00"
+}

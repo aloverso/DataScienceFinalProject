@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-05-24", 
+      "references": [
+        {
+          "reference": "CR S3555-3557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2145 proposed by Senator Harkin for Senator Portman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-05-24", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2145 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2145-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3187-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3187
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-05-22", 
+  "number": 2145, 
+  "proposed_at": "2012-05-24", 
+  "purpose": "To facilitate the development of recommendations on interoperability standards to inform and facilitate the exchange of prescription information across State lines.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Portman, Rob", 
+    "state": "OH", 
+    "thomas_id": "00924", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-05-24", 
+  "updated_at": "2013-07-19T20:24:35-04:00"
+}

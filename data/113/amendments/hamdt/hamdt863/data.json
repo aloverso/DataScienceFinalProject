@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11T17:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5304", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5304", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Ms. Speier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T17:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Speier amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt863-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4800-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides $1 million in funding within the Food and Nutrition Act for making those on the veterans' disability backlog list eligible for SNAP benefits.", 
+  "house_number": 18, 
+  "introduced_at": "2014-06-11", 
+  "number": 863, 
+  "purpose": "An amendment to redirect $1 million in funding within the Food and Nutrition Act.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-11T17:46:00-04:00", 
+  "updated_at": "2015-01-02T13:23:16-05:00"
+}

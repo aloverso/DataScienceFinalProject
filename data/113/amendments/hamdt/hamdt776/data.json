@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-30T10:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5051-5052", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5051-5052", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Poe (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T10:57:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Poe (TX) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt776-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4681-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4681
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the Director of National Intelligence to submit to the appropriate committees of Congress a comprehensive strategy to disrupt, dismantle, and defeat al-Qaeda, its affiliated groups, associated groups, and adherents. Amendment also requests that the report include the Administration's definitions of al-Qaeda core, affiliated groups, associated groups, and adherents.", 
+  "house_number": 3, 
+  "introduced_at": "2014-05-30", 
+  "number": 776, 
+  "purpose": "An amendment numbered 7 printed in House Report 113-465 to require the DNI to submit to the appropriate committees of Congress a comprehensive strategy to disrupt, dismantle, and defeat al-Qaeda, its affiliated groups, associated groups, and adherents. The amendment also requests that the report include the Administration's definitions of al-Qaeda core, affiliated groups, associated groups, and adherents.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Poe, Ted", 
+    "state": "TX", 
+    "thomas_id": "01802", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-30T10:57:00-04:00", 
+  "updated_at": "2015-01-02T13:22:31-05:00"
+}

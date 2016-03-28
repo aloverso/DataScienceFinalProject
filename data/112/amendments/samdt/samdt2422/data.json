@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-06-19", 
+      "references": [
+        {
+          "reference": "CR S4274", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4274", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2422 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-06-19", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2422 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2422-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3240-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3240
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-06-13", 
+  "number": 2422, 
+  "proposed_at": "2012-06-19", 
+  "purpose": "To modify a provision relating to conservation innovation grants and payments.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-06-19", 
+  "updated_at": "2013-07-19T20:27:01-04:00"
+}

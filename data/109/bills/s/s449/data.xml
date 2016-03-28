@@ -1,0 +1,95 @@
+<bill session="109" type="s" number="449" updated="2014-12-10T13:46:04-05:00">
+  <state datetime="2006-03-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-03-13"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to facilitate shareholder consideration of proposals to make Settlement Common Stock under the Alaska Native Claims Settlement Act available to missed enrollees, eligible elders, and eligible persons born after December 18, 1971, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1661-1662"/>
+    </action>
+    <action datetime="2005-02-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S1662" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2005-06-29" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2005-07-28">
+      <text>Committee on Indian Affairs. Reported by Senator McCain without amendment. With written report No. 109-112.</text>
+    </action>
+    <calendar datetime="2005-07-28" calendar="Senate Legislative" under="General Orders" number="182">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2005-12-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13594" label="consideration"/>
+      <reference ref="CR S13594" label="text"/>
+    </vote>
+    <action datetime="2005-12-14T20:45:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-02-28T14:17:00-05:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-02-28T14:17:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H393-394" label="consideration"/>
+    </action>
+    <action datetime="2006-02-28T14:17:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 449.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2006-02-28T14:20:00-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H394" label="text"/>
+    </vote>
+    <action datetime="2006-02-28T14:20:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-02-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-03-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-03-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-03-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="109-179" type="public" datetime="2006-03-13">
+      <text>Became Public Law No: 109-179.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1866"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Indian claims"/>
+    <term name="Indigenous peoples"/>
+    <term name="Minorities"/>
+    <term name="Stockholders"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2006--Public Law.
+Amends the Alaska Native Claims Settlement Act to make Settlement Common Stock under such Act available to missed enrollees, eligible elders, and eligible persons born after December 18, 1971.</summary>
+</bill>

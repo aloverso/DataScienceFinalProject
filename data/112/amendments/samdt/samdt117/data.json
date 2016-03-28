@@ -1,0 +1,84 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-02-28", 
+      "references": [
+        {
+          "reference": "CR S956-957", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S956", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 117 proposed by Senator Bennet.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-01", 
+      "references": [
+        {
+          "reference": "CR S1030", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02", 
+      "references": [
+        {
+          "reference": "CR S1089, S1092-1093", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-03-02", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S1092-1093", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 117 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt117-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s23-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-02-28", 
+  "number": 117, 
+  "proposed_at": "2011-02-28", 
+  "purpose": "To establish additional USPTO satellite offices.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "thomas_id": "01965", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2011-03-02", 
+  "updated_at": "2013-07-19T20:07:03-04:00"
+}

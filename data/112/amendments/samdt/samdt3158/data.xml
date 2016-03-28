@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="3158" updated="2013-07-19T20:33:18-04:00">
+  <amends type="s" number="3254" sequence=""/>
+  <status datetime="2012-11-29">pass</status>
+  <sponsor id="300027"/>
+  <offered datetime="2012-11-28"/>
+  <description>To require the Secretary of Veterans Affairs to submit to Congress a plan to reduce the current backlog of veterans claims.</description>
+  <actions>
+    <action datetime="2012-11-29">
+      <text>Amendment SA 3158 proposed by Senator Cornyn.</text>
+      <reference ref="CR S7143-7144, S7145" label="consideration"/>
+      <reference ref="CR S7143-7144" label="text"/>
+    </action>
+    <vote datetime="2012-11-29" how="roll" result="pass" roll="208">
+      <text>Amendment SA 3158 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 208.</text>
+    </vote>
+  </actions>
+</amendment>

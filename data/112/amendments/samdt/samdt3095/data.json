@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7144-7145, S7145-7146", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7144", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3095 proposed by Senator Hagan.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 209, 
+      "text": "Amendment SA 3095 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 209.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3095-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3095, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To strike the prohibition on biofuel refinery construction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagan, Kay", 
+    "state": "NC", 
+    "thomas_id": "01902", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:32:45-04:00"
+}

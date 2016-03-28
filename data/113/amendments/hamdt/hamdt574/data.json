@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-28T10:08:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2077-2079, H2082", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2077", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Connolly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-28T11:00:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 87, 
+      "text": "On agreeing to the Connolly amendment (A002) Failed by recorded vote: 194 - 216 (Roll no. 87).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt574-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr899-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 899
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to ensure that other impacted entities, such as public interest organizations, are provided the opportunity for consultation afforded to the private sector under the Act.", 
+  "house_number": 2, 
+  "introduced_at": "2014-02-28", 
+  "number": 574, 
+  "purpose": "An amendment numbered 2 printed in House Report 113-362 to ensure that other impacted entities, such as public interest organizations, are provided any opportunity for consultation afforded to the private sector under the Act.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-28T11:00:00-05:00", 
+  "updated_at": "2015-01-02T13:20:50-05:00"
+}

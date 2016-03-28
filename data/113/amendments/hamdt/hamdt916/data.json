@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T19:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5529", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5529", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Ms. Hanabusa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T19:20:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hanabusa amendment (A050) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt916-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 50, 
+  "introduced_at": "2014-06-19", 
+  "number": 916, 
+  "purpose": "An amendment to prohibit use of funds with respect to Iraq in contravention of the War Powers Resolution, including for the introduction of U.S. forces into hostilities in Iraq, into situations in Iraq where imminent involvement in hostilities is clearly indicated by the circumstances, or into Iraqi territory, airspace, or waters while equipped for combat in contravention of the congressional consultation and reporting requirements of sections 3 and 4 of such Resolution.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Hanabusa, Colleen W.", 
+    "state": "HI", 
+    "thomas_id": "02010", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T19:20:00-04:00", 
+  "updated_at": "2015-01-02T13:23:43-05:00"
+}

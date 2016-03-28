@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-04-25", 
+      "references": [
+        {
+          "reference": "CR S2684-2785", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2685", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2076 proposed by Senator Bingaman to Amendment SA 2000.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-04-25", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2076 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2076-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2000-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 2000
+  }, 
+  "amends_bill": {
+    "bill_id": "s1789-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1789
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-04-18", 
+  "number": 2076, 
+  "proposed_at": "2012-04-25", 
+  "purpose": "To require that State liaisons for States without a district office are located within their respective States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bingaman, Jeff", 
+    "state": "NM", 
+    "thomas_id": "01285", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-04-25", 
+  "updated_at": "2013-07-19T20:23:58-04:00"
+}

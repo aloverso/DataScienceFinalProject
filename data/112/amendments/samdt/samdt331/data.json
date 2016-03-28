@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt331-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1038-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 1038
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-05-23", 
+  "number": 331, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Mark", 
+    "state": "CO", 
+    "thomas_id": "01595", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-05-23", 
+  "updated_at": "2013-07-19T20:08:57-04:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T18:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6080-6081", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6080", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A064) offered by Mr. Maloney, Sean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T18:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Maloney, Sean amendment (A064) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1035-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds from allowing the Federal Energy Regulatory Commission (FERC) to enforce the creation of a new capacity zone in the Hudson Valley in New York.", 
+  "house_number": 64, 
+  "introduced_at": "2014-07-10", 
+  "number": 1035, 
+  "purpose": "An amendment to prohibit use of funds to implement, administer, or enforce the order entitled \"Order Accepting Proposed Tariff Revisions and Establishing a Technical Conference\" issued by FERC on Aug. 13, 2013.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "thomas_id": "02150", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T18:08:00-04:00", 
+  "updated_at": "2015-01-02T13:24:42-05:00"
+}

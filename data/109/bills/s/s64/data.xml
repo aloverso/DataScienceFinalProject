@@ -1,0 +1,37 @@
+<bill session="109" type="s" number="64" updated="2014-12-10T13:45:55-05:00">
+  <state datetime="2005-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-24"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title type="short" as="introduced">SEFOR Cleanup Act of 2005</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Energy to establish a decommissioning pilot program to decommission and decontaminate the sodium-cooled fast breeder experimental test-site reactor located in northwest Arkansas.</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors>
+    <cosponsor id="300080" joined="2005-01-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arkansas"/>
+    <term name="Breeder reactors"/>
+    <term name="Environmental protection"/>
+    <term name="Nuclear facilities"/>
+    <term name="Radioactive wastes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2005--Introduced.
+SEFOR Cleanup Act of 2005 - Directs the Secretary of Energy to establish a pilot program to decommission and decontaminate the sodium-cooled fast breeder experimental test-site reactor located in northwest Arkansas.
+
+States that no funds from the Nuclear Waste Fund may be used for the pilot program.</summary>
+</bill>

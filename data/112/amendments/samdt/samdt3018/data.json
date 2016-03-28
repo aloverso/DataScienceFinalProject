@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-29", 
+      "references": [
+        {
+          "reference": "CR S7181-7188, S7193", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7181", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3018 proposed by Senator Feinstein.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-11-29", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 213, 
+      "text": "Amendment SA 3018 agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 213.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3018-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-27", 
+  "number": 3018, 
+  "proposed_at": "2012-11-29", 
+  "purpose": "To clarify that an authorization to use military force, a declaration of war, or any similar authority shall not authorize the detention without charge or trial of a citizen or lawful permanent resident of the United States.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Feinstein, Dianne", 
+    "state": "CA", 
+    "thomas_id": "01332", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-11-29", 
+  "updated_at": "2013-07-19T20:32:05-04:00"
+}

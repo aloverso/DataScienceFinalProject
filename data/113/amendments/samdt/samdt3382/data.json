@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "references": [
+        {
+          "reference": "CR S3991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3991", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3382 proposed by Senator Murray.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3382 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3382-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr803-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 803
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-06-25", 
+  "number": 3382, 
+  "proposed_at": "2014-06-25", 
+  "purpose": "To amend the title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murray, Patty", 
+    "state": "WA", 
+    "thomas_id": "01409", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-25", 
+  "updated_at": "2015-01-02T13:09:48-05:00"
+}

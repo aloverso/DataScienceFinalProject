@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-25T13:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6837", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6837", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Smith (NJ).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-25T13:03:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Smith (NJ) amendment (A002) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1126-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres562-113", 
+    "bill_type": "hres", 
+    "congress": 113, 
+    "number": 562
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment inserts a new preamble.", 
+  "house_number": 2, 
+  "introduced_at": "2014-07-25", 
+  "number": 1126, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-25T13:03:00-04:00", 
+  "updated_at": "2015-01-02T13:25:28-05:00"
+}

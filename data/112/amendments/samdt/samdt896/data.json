@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt896-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2112-112", 
+    "bill_type": "hr", 
+    "congress": 112, 
+    "number": 2112
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-10-20", 
+  "number": 896, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Scott P.", 
+    "state": "MA", 
+    "thomas_id": "01975", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-10-20", 
+  "updated_at": "2013-07-19T20:13:47-04:00"
+}

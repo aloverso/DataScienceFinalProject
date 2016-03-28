@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-04", 
+      "references": [
+        {
+          "reference": "CR S7383-7385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3226 proposed by Senator Levin for Senator Bennet.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04", 
+      "how": "Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7385", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 3226 as modified agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3226-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-29", 
+  "number": 3226, 
+  "proposed_at": "2012-12-04", 
+  "purpose": "To make enhancements to the Troops-to-Teachers program.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "thomas_id": "01965", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-04", 
+  "updated_at": "2013-07-19T20:33:52-04:00"
+}

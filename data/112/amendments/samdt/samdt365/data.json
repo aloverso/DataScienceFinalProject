@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2011-05-26", 
+      "references": [
+        {
+          "reference": "CR S3400-3401", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3400", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 365 proposed by Senator Paul to Amendment SA 347.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26", 
+      "references": [], 
+      "text": "Motion to table amendment SA 365 agreed to in Senate by Yea-Nay Vote. 91 - 4. Record Vote Number: 83.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2011-05-26", 
+      "references": [
+        {
+          "reference": "CR S3401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 365, not having 60 votes in opposition to the motion to table, was withdrawn in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt365-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt347-112", 
+    "amendment_type": "samdt", 
+    "congress": 112, 
+    "number": 347
+  }, 
+  "amends_bill": {
+    "bill_id": "s990-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 990
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2011-05-25", 
+  "number": 365, 
+  "proposed_at": "2011-05-26", 
+  "purpose": "To limit suspicious activity reporting requirements to requests from law enforcement agencies, and for other purposes.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Paul, Rand", 
+    "state": "KY", 
+    "thomas_id": "02082", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2011-05-25", 
+  "updated_at": "2013-07-19T20:09:16-04:00"
+}

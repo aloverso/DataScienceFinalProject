@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-08-01T22:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7238-7239", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7238-7239", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Royce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-08-01T22:11:00-04:00", 
+      "how": "without objection", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Royce amendment (A002) Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1137-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hres699-113", 
+    "bill_type": "hres", 
+    "congress": 113, 
+    "number": 699
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment inserts a complete new preamble.", 
+  "house_number": 2, 
+  "introduced_at": "2014-08-01", 
+  "number": 1137, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "39", 
+    "name": "Royce, Edward R.", 
+    "state": "CA", 
+    "thomas_id": "00998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-08-01T22:11:00-04:00", 
+  "updated_at": "2015-01-02T13:25:33-05:00"
+}

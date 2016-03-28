@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-12-03", 
+      "references": [
+        {
+          "reference": "CR S7324-7329", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7325-7326", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3066 proposed by Senator Levin for Senator Toomey.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3066 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3066-112", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s3254-112", 
+    "bill_type": "s", 
+    "congress": 112, 
+    "number": 3254
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "112", 
+  "description": null, 
+  "introduced_at": "2012-11-28", 
+  "number": 3066, 
+  "proposed_at": "2012-12-03", 
+  "purpose": "To require an independent study and report on simulated tactical flight training in a sustained gravity environment.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Toomey, Pat", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2012-12-03", 
+  "updated_at": "2013-07-19T20:32:29-04:00"
+}

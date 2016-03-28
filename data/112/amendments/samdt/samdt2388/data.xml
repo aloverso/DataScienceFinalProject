@@ -1,0 +1,17 @@
+<amendment session="112" chamber="s" number="2388" updated="2013-07-19T20:26:44-04:00">
+  <amends type="s" number="3240" sequence=""/>
+  <status datetime="2012-06-20">pass</status>
+  <sponsor id="300100"/>
+  <offered datetime="2012-06-12"/>
+  <description>To modify a provision relating to purchases of locally produced foods.</description>
+  <actions>
+    <action datetime="2012-06-20">
+      <text>Amendment SA 2388 proposed by Senator Wyden.</text>
+      <reference ref="CR S4344-4345" label="consideration"/>
+      <reference ref="CR S4344" label="text"/>
+    </action>
+    <vote datetime="2012-06-20" how="Voice Vote" result="pass">
+      <text>Amendment SA 2388 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>
