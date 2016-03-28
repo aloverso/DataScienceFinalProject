@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-04T15:19:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1577", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1577", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Castro (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-04T15:22:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Castro (TX) amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt535-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3590-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3590
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides that women and minority groups, as appropriate, are included for membership on the Wildlife and Hunting Heritage Conservation Council Advisory Committee.", 
+  "house_number": 3, 
+  "introduced_at": "2014-02-04", 
+  "number": 535, 
+  "purpose": "An amendment numbered 3 printed in House Report 113-339 to ensure that women and minority groups, as appropriate, are included for membership on the Wildlife and Hunting Heritage Conservation Council Advisory Committee.", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Castro, Joaquin", 
+    "state": "TX", 
+    "thomas_id": "02163", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-04T15:22:00-05:00", 
+  "updated_at": "2015-01-02T13:20:31-05:00"
+}

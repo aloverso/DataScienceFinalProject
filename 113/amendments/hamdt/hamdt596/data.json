@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13T15:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2397-2398", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2397", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Mullin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13T15:50:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Mullin amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt596-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3189-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3189
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment clarifies protections for the water rights of American Indian tribes and ensures that the Department of the Interior and the Department of Agriculture cannot use one-sided permits, licenses, approvals and other land management tools to take water from Indian tribes without just compensation.", 
+  "house_number": 2, 
+  "introduced_at": "2014-03-13", 
+  "number": 596, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "2", 
+    "name": "Mullin, Markwayne", 
+    "state": "OK", 
+    "thomas_id": "02156", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13T15:50:00-04:00", 
+  "updated_at": "2015-01-02T13:21:01-05:00"
+}

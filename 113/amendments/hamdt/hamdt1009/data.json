@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T20:21:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6030", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6030", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Fattah.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T20:23:00-04:00", 
+      "references": [
+        {
+          "reference": "consideration", 
+          "type": null
+        }, 
+        {
+          "reference": "CR H6030", 
+          "type": null
+        }
+      ], 
+      "text": "By unanimous consent, the Fattah amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1009-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 38, 
+  "introduced_at": "2014-07-09", 
+  "number": 1009, 
+  "purpose": "An amendment which transfers $1 within the Northern Border Regional Commission account.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Fattah, Chaka", 
+    "state": "PA", 
+    "thomas_id": "00371", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-09", 
+  "updated_at": "2015-01-02T13:24:29-05:00"
+}

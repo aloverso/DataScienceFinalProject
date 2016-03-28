@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T16:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6003-6004, H6008-6009", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6003", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Mr. McClintock.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T17:58:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 377, 
+      "text": "On agreeing to the McClintock amendment (A021) Failed by recorded vote: 97 - 321 (Roll no. 377).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt992-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reduce funding for Energy Efficiency and Renewable Energy by $1,789,000,000; Nuclear Energy Programs by $717 million; Fossil Energy Research and Development Programs by $593 million and apply $3,099,000,000 to the spending reduction account.", 
+  "house_number": 21, 
+  "introduced_at": "2014-07-09", 
+  "number": 992, 
+  "purpose": "An amendment to reduce funds for Energy Efficiency and Renewable Energy by $1,789,000,000; Nuclear Energy Programs by $717 million; Fossil Energy Research and Development Programs by $593 million and to apply $3,099,000,000 to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "McClintock, Tom", 
+    "state": "CA", 
+    "thomas_id": "01908", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-09T17:58:00-04:00", 
+  "updated_at": "2015-01-02T13:24:21-05:00"
+}

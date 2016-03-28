@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:44:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5162-5163", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5162", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A019) offered by Mr. Broun (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T14:18:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5206-5207", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 280, 
+      "text": "On agreeing to the Broun (GA) amendment (A019) Failed by recorded vote: 143 - 283 (Roll no. 280).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt796-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reduce funding for Rental Housing Assistance by $7 million and to apply the savings to the spending reduction account.", 
+  "house_number": 19, 
+  "introduced_at": "2014-06-09", 
+  "number": 796, 
+  "purpose": "An amendment to reduce funding for Rental Housing Assistance by $7 million and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Broun, Paul C.", 
+    "state": "GA", 
+    "thomas_id": "01882", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T14:18:00-04:00", 
+  "updated_at": "2015-01-02T13:22:43-05:00"
+}

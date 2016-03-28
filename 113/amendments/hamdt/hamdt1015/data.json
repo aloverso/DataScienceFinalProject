@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T13:52:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6053-6054, H6063-6064", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6053", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Mr. Lankford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T15:37:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 389, 
+      "text": "On agreeing to the Lankford amendment (A044) Agreed to by recorded vote: 227 - 191 (Roll no. 389).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1015-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment adds a new section prohibiting the use of funds to prepare, propose, or promulgate any regulation or guidance that references or relies on the analysis contained in specified documents on the subject of the Social Cost of Carbon.", 
+  "house_number": 44, 
+  "introduced_at": "2014-07-10", 
+  "number": 1015, 
+  "purpose": "An amendment to add a new section prohibiting the use of funds to prepare, propose, or promulgate any regulation or guidance that references or relies on, the analysis contained in specified documents, on the subject of the Social Cost of Carbon.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T15:37:00-04:00", 
+  "updated_at": "2015-01-02T13:24:33-05:00"
+}

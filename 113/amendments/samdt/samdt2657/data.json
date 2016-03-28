@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-01-15", 
+      "references": [
+        {
+          "reference": "CR S360", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S360", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2657 (the instructions to the motion) proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-16", 
+      "references": [
+        {
+          "reference": "CR S385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-01-16", 
+      "references": [
+        {
+          "reference": "CR S385", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "SA 2657 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt2657-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3547-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-01-15", 
+  "number": 2657, 
+  "proposed_at": "2014-01-15", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-01-15", 
+  "updated_at": "2015-01-02T13:03:43-05:00"
+}

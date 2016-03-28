@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5157-5158", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5157", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Nadler.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T14:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5204-5205", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 277, 
+      "text": "On agreeing to the Nadler amendment (A013) Failed by recorded vote: 205 - 221 (Roll no. 277).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt790-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for Community Planning and Development, Housing Opportunities for Persons With AIDS, by $29.1 million and to reduce funding for Information Technology by a similar amount.", 
+  "house_number": 13, 
+  "introduced_at": "2014-06-09", 
+  "number": 790, 
+  "purpose": "An amendment to increase funding for Community Planning and Development, Housing Opportunities for Persons With AIDS, by $29.1 million and to reduce funding for Information Technology by a similar amount.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T14:06:00-04:00", 
+  "updated_at": "2015-01-02T13:22:40-05:00"
+}

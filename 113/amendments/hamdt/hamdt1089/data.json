@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T19:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6277", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A037) offered by Mr. DeSantis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T15:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6326-6327", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 419, 
+      "text": "On agreeing to the DeSantis amendment (A037) Agreed to by recorded vote: 351 - 71 (Roll no. 419).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1089-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 37, 
+  "introduced_at": "2014-07-15", 
+  "number": 1089, 
+  "purpose": "An amendment to prohibit the use of funds to be used by the IRS to create machine-readable materials that are not subject to the safeguards established pursuant to section 3105 of title 44, United States Code.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "DeSantis, Ron", 
+    "state": "FL", 
+    "thomas_id": "02116", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-16T15:06:00-04:00", 
+  "updated_at": "2015-01-02T13:25:09-05:00"
+}

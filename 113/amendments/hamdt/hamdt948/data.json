@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23T20:08:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5629-5631", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5629", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-24T14:03:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5660", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 343, 
+      "text": "On agreeing to the Jackson Lee amendment (A002) Failed by recorded vote: 163 - 249 (Roll no. 343).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt948-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4413-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4413
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to require a study on entities regulated by the Commodities Futures Trading Commission.", 
+  "house_number": 2, 
+  "introduced_at": "2014-06-23", 
+  "number": 948, 
+  "purpose": "An amendment No. 2 printed in House Report 113-476 to require a study on entities regulated by the Commodities Futures Trading Commission.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-24T14:03:00-04:00", 
+  "updated_at": "2015-01-02T13:23:59-05:00"
+}

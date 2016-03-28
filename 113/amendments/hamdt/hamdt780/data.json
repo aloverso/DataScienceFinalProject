@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T14:41:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5090-5091", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5090", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T14:46:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Walberg amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt780-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment strikes section 102 from the bill which allows the Secretary to engage in activities with the States and State legislators to consider proposals related to the reduction of motorcycle fatalities.", 
+  "house_number": 3, 
+  "introduced_at": "2014-06-09", 
+  "number": 780, 
+  "purpose": "An amendment to strike section 102 from the bill regarding proposals related to the reduction of motorcycle fatalities.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T14:46:00-04:00", 
+  "updated_at": "2015-01-02T13:22:33-05:00"
+}

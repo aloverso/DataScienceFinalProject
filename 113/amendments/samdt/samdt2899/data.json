@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2899-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3979-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3979
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-04-01", 
+  "number": 2899, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-04-01", 
+  "updated_at": "2015-01-02T13:05:44-05:00"
+}

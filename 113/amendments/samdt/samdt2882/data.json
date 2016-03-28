@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt2882-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3979-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3979
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-31", 
+  "number": 2882, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Toomey, Pat", 
+    "state": "PA", 
+    "thomas_id": "02085", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-03-31", 
+  "updated_at": "2015-01-02T13:05:35-05:00"
+}

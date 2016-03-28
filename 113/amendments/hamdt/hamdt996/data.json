@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T18:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6013", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6013", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. McNerney.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T18:41:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the McNerney amendment (A025) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt996-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for the Electricity Delivery and Energy Reliability Office by $20 million and reduce funding for Departmental Administration by a similar amount.", 
+  "house_number": 25, 
+  "introduced_at": "2014-07-09", 
+  "number": 996, 
+  "purpose": "An amendment to increase funding for Energy Efficiency and Renewable Energy by $20 million and reduce funding for Departmental Administration by the same amount.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "thomas_id": "01832", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-09T18:41:00-04:00", 
+  "updated_at": "2015-01-02T13:24:23-05:00"
+}

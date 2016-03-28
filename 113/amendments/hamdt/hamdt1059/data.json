@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-14T20:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6187", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6187", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Grayson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-14T20:51:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Grayson amendment (A008) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1059-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides for a $2.8 million increase in funding for Tax Counseling for the Elderly.", 
+  "house_number": 8, 
+  "introduced_at": "2014-07-14", 
+  "number": 1059, 
+  "purpose": "An amendment to increase funding for taxpayer services at IRS by $2.8 million.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Grayson, Alan", 
+    "state": "FL", 
+    "thomas_id": "01914", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-14T20:51:00-04:00", 
+  "updated_at": "2015-01-02T13:24:54-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T13:47:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6052-6053", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6052", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A043) offered by Ms. Speier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T13:52:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Speier amendment (A043) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1014-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment clarifies DOE's responsibility to protect non-Federal employees from whistleblower retaliation.", 
+  "house_number": 43, 
+  "introduced_at": "2014-07-10", 
+  "number": 1014, 
+  "purpose": "An amendment to prohibit the use of funds to be used in contravention of section 4712 of title 41, United States Code.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T13:52:00-04:00", 
+  "updated_at": "2015-01-02T13:24:32-05:00"
+}

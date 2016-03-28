@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T20:39:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5538-5539", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5538", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A062) offered by Ms. Lee (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-20T11:48:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5571-5572", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 332, 
+      "text": "On agreeing to the Lee (CA) amendment (A062) Failed by recorded vote: 153 - 260 (Roll no. 332).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt928-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 62, 
+  "introduced_at": "2014-06-19", 
+  "number": 928, 
+  "purpose": "An amendment to prohibit use of funds for the purpose of conducting combat operations in Afghanistan after December 31, 2014.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-20T11:48:00-04:00", 
+  "updated_at": "2015-01-02T13:23:49-05:00"
+}

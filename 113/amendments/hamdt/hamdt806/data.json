@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T21:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5174-5175", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5174", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A029) offered by Mr. Daines.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T14:30:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5208-5209", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 283, 
+      "text": "On agreeing to the Daines amendment (A029) Agreed to by recorded vote: 214 - 212 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt806-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits use of funds by the Federal Motor Carrier Safety Administration from moving forward with a rulemaking action which would increase the minimum financial liability insurance requirements for truck and bus companies during FY 2015.", 
+  "house_number": 29, 
+  "introduced_at": "2014-06-09", 
+  "number": 806, 
+  "purpose": "An amendment to prohibit use of funds to develop, issue, or implement regulations that increase levels of minimum financial responsibility for transporting passengers or property as in effect on January 1, 2014, under regulations issued pursuant to sections 31138 and 31139 of title 49, United States Code.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "thomas_id": "02138", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-10T14:30:00-04:00", 
+  "updated_at": "2015-01-02T13:22:48-05:00"
+}

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-04", 
+      "references": [
+        {
+          "reference": "CR S6355", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3973 proposed by Senator Reid for Senator Menendez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-04", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3973 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3973-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1683-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1683
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-04", 
+  "number": 3973, 
+  "proposed_at": "2014-12-04", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Menendez, Robert", 
+    "state": "NJ", 
+    "thomas_id": "00791", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-04", 
+  "updated_at": "2015-01-02T13:14:45-05:00"
+}

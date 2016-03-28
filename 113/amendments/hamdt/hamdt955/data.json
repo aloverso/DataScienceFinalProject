@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24T15:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5673-5674, H5684", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5673", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Pallone.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-24T17:44:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 350, 
+      "text": "On agreeing to the Pallone amendment (A001) Failed by recorded vote: 176 - 233 (Roll no. 350).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt955-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3301-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3301
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to ensure that the complete length of cross-border projects would be subject to full environmental review under the National Environmental Policy Act (NEPA).", 
+  "house_number": 1, 
+  "introduced_at": "2014-06-24", 
+  "number": 955, 
+  "purpose": "An amendment No. 1 printed in part B of House Report to ensure that the complete length of cross- border projects would be subject to full environmental review under the National Environmental Policy Act (NEPA).", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Pallone, Frank, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "00887", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-24T17:44:00-04:00", 
+  "updated_at": "2015-01-02T13:24:02-05:00"
+}

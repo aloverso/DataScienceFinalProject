@@ -1,0 +1,31 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3959-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2410-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2410
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-01", 
+  "number": 3959, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-12-01", 
+  "updated_at": "2015-01-02T13:14:38-05:00"
+}

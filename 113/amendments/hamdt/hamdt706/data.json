@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T22:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4899-4900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4899", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Ms. Moore.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T22:55:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Moore amendment (A017) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt706-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, General Administration of the Department of Justice by $1 million and increases funding for the Executive Office for Immigration Review by a similar amount.", 
+  "house_number": 17, 
+  "introduced_at": "2014-05-28", 
+  "number": 706, 
+  "purpose": "An amendment to reduce funding for Salaries and Expenses, General Administration of the Department of Justice by $1 million and to increase funding for Administrative Review and Appeals by a similar amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "thomas_id": "01811", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-28T22:55:00-04:00", 
+  "updated_at": "2015-01-02T13:21:56-05:00"
+}

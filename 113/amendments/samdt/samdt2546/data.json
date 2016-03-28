@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-13", 
+      "references": [
+        {
+          "reference": "CR S8813", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2546 proposed by Senator Reid for Senator Whitehouse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-13", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2546 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2546-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres263-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 263
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-12-13", 
+  "number": 2546, 
+  "proposed_at": "2013-12-13", 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "thomas_id": "01823", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-12-13", 
+  "updated_at": "2015-01-02T13:02:47-05:00"
+}

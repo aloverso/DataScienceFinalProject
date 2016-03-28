@@ -1,0 +1,74 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-06", 
+      "references": [
+        {
+          "reference": "CR S7846", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7846", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2020 proposed by Senator Collins for Senator Reid to Amendment SA 2013.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-07", 
+      "references": [
+        {
+          "reference": "CR S7894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-07", 
+      "references": [
+        {
+          "reference": "CR S7902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 2020 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2020-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2013-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 2013
+  }, 
+  "amends_bill": {
+    "bill_id": "s815-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 815
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-06", 
+  "number": 2020, 
+  "proposed_at": "2013-11-06", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2013-11-07", 
+  "updated_at": "2015-01-02T12:58:24-05:00"
+}

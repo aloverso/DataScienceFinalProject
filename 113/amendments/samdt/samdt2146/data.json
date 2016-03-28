@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-18", 
+      "references": [
+        {
+          "reference": "CR S8135-8136", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8135-8136", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2146 proposed by Senator Boxer for Senator Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2146 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2146-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1471-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1471
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-18", 
+  "number": 2146, 
+  "proposed_at": "2013-11-18", 
+  "purpose": "Relative to authority to reconsider decisions of Secretary of Veterans Affairs or Secretary of the Army to inter the remains or honor the memory of a person in a national cemetery.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-18", 
+  "updated_at": "2015-01-02T12:59:27-05:00"
+}

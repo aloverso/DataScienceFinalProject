@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T21:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5172-5173", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5172", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Burgess.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T21:33:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latham raised a point of order against the Burgess amendment (A026). Mr. Latham stated that the provisions of the Burgess amendment seek to change existing law and constitute legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt803-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 26, 
+  "introduced_at": "2014-06-09", 
+  "number": 803, 
+  "purpose": "An amendment to prohibit use of funds to authorize a person to operate an unmanned aircraft system in the national airspace system for the purpose, in whole or in part, of using the unmanned aircraft system as a weapon or to deliver a weapon against a person or property; or to manufacture, sell, or distribute an unmanned aircraft system, or a component thereof, for use in the national airspace system as a weapon or to deliver a weapon against a person or property.", 
+  "sponsor": {
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "thomas_id": "01751", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-09", 
+  "updated_at": "2015-01-02T13:22:46-05:00"
+}

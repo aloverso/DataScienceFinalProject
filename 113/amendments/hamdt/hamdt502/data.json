@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19T16:04:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7228-7229", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7228", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Marino.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19T16:06:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Marino amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt502-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1965-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment to require the Secretary of the Interior to include Federal lands as a part of its plan to address new demands for oil and gas pipelines.", 
+  "house_number": 6, 
+  "introduced_at": "2013-11-19", 
+  "number": 502, 
+  "purpose": "An amendment numbered 6 printed in Part A of House Report 113-271 to require the Secretary of the Interior to include Federal lands as a part of its plan to address new demands for oil and gas pipelines.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Marino, Tom", 
+    "state": "PA", 
+    "thomas_id": "02053", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-19T16:06:00-05:00", 
+  "updated_at": "2015-01-02T13:20:14-05:00"
+}

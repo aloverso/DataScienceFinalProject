@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-10", 
+      "references": [
+        {
+          "reference": "CR S6480", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6480", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3998 proposed by Senator Boxer for Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-10", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3998 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3998-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2444-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2444
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-10", 
+  "number": 3998, 
+  "proposed_at": "2014-12-10", 
+  "purpose": "To amend the title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-10", 
+  "updated_at": "2015-01-02T13:14:58-05:00"
+}

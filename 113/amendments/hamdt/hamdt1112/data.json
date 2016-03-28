@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-23T16:00:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6697, H6699-6700", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6697", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Gowdy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23T16:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 439, 
+      "text": "On agreeing to the Gowdy amendment (A008) Agreed to by recorded vote: 413 - 0 (Roll no. 439).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1112-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3136-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment permits participation of dual enrollment programs in demonstration projects.", 
+  "house_number": 8, 
+  "introduced_at": "2014-07-23", 
+  "number": 1112, 
+  "purpose": "An amendment numbered 8 printed in Part A of House Report 113-546 to permit participation of dual enrollment programs in demonstration projects.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gowdy, Trey", 
+    "state": "SC", 
+    "thomas_id": "02058", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-23T16:50:00-04:00", 
+  "updated_at": "2015-01-02T13:25:21-05:00"
+}

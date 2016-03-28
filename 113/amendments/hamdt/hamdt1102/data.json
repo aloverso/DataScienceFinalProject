@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-16T13:33:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6322-6323", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6322", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Mr. Lankford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T13:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lankford amendment (A050) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1102-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 50, 
+  "introduced_at": "2014-07-16", 
+  "number": 1102, 
+  "purpose": "An amendment to prohibit the use of funds to study, promulgate, draft, review, implement, or enforce any rule pursuant to section 913 of the Dodd-Frank Wall Street Reform and Consumer Protection Act or amendments made by such section.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-16T13:40:00-04:00", 
+  "updated_at": "2015-01-02T13:25:16-05:00"
+}

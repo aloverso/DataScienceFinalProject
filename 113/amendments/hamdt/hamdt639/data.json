@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T18:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3354", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3354", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Mr. Nunes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T18:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Nunes amendment (A022) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt639-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 22, 
+  "introduced_at": "2014-04-30", 
+  "number": 639, 
+  "purpose": "At the end of the bill (before the short title), insert the following:    SEC.___. None of the funds made available by this Act may be used for the closure or abandonment of any facility located at Lajes Field, Azores, Portugal.", 
+  "sponsor": {
+    "district": "22", 
+    "name": "Nunes, Devin", 
+    "state": "CA", 
+    "thomas_id": "01710", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T18:26:00-04:00", 
+  "updated_at": "2015-01-02T13:21:23-05:00"
+}

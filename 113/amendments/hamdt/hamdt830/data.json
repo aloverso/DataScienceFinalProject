@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T16:17:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5220-5221, H5234", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5220", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A053) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T18:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 291, 
+      "text": "On agreeing to the Gosar amendment (A053) Failed by recorded vote: 190 - 232 (Roll no. 291).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt830-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to reduce the amount made available for \"Department of Housing and Urban Development-Management and Administration-Executive Offices\" by $2 million.", 
+  "house_number": 53, 
+  "introduced_at": "2014-06-10", 
+  "number": 830, 
+  "purpose": "An amendment to reduce the amount made available for \"Department of Housing and Urban Development-Management and Administration-Executive Offices\" by $2 million.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T18:39:00-04:00", 
+  "updated_at": "2015-01-02T13:23:00-05:00"
+}

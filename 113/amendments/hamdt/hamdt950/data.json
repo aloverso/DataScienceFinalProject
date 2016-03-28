@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23T20:20:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5631-5632", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5631", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Waters.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-24T14:06:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5660-5661", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 344, 
+      "text": "On agreeing to the Waters amendment (A004) Failed by recorded vote: 168 - 242 (Roll no. 344).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt950-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4413-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4413
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to prohibit judicial review of any consideration by the CFTC of the costs and benefits of its rules and orders.", 
+  "house_number": 4, 
+  "introduced_at": "2014-06-23", 
+  "number": 950, 
+  "purpose": "An amendment No. 4 printed in House Report 113-476 to prohibit judicial review of any consideration by the CFTC of the costs and benefits of its rules and orders.", 
+  "sponsor": {
+    "district": "43", 
+    "name": "Waters, Maxine", 
+    "state": "CA", 
+    "thomas_id": "01205", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-24T14:06:00-04:00", 
+  "updated_at": "2015-01-02T13:24:00-05:00"
+}

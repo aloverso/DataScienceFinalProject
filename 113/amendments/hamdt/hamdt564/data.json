@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-26T18:48:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1995", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1995", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Tipton.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-26T18:52:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Tipton amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt564-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2804-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2804
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment ensures that, under the Regulatory Flexibility Act, the requirement that each agency must annually publish a list of regulations to be reviewed pursuant to its periodic review plan, remains intact.", 
+  "house_number": 6, 
+  "introduced_at": "2014-02-26", 
+  "number": 564, 
+  "purpose": "An amendment numbered 6 printed in House Report 113-361 to make a technical correction that ensures the current requirement, under the Regulatory Flexibility Act, that each agency annually publish a list of regulations to be reviewed pursuant to its periodic review plan, remains so.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Tipton, Scott  R.", 
+    "state": "CO", 
+    "thomas_id": "01997", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-26T18:52:00-05:00", 
+  "updated_at": "2015-01-02T13:20:45-05:00"
+}

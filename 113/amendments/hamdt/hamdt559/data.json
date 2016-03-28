@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-26T17:59:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1989-1990", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1989", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Johnson (GA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-26T18:09:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Johnson (GA) amendment (A001) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt559-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2804-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2804
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to strike the 6 month moratorium on finalizing rules contained in title I.", 
+  "house_number": 1, 
+  "introduced_at": "2014-02-26", 
+  "number": 559, 
+  "purpose": "An amendment numbered 1 printed in House Report 113-361 to strike the 6 month moratorium on finalizing rules.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+    "state": "GA", 
+    "thomas_id": "01843", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-26T18:09:00-05:00", 
+  "updated_at": "2015-01-02T13:20:43-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-09T10:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4029-4031, H4041", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4029", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Castor (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-09T11:48:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 212, 
+      "text": "On agreeing to the Castor (FL) amendment (A003) Failed by recorded vote: 190 - 205 (Roll no. 212).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt655-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr10-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 10
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to require the Secretary of the Department of Education to develop and enforce conflict of interest guidelines for all charter schools receiving federal assistance.", 
+  "house_number": 3, 
+  "introduced_at": "2014-05-09", 
+  "number": 655, 
+  "purpose": "An amendment numbered 3 printed in House Report 113-444 to require the Secretary of the Department of Education to develop and enforce conflict of interest guidelines for all charter schools receiving federal assistance. Guidelines must include disclosures from anyone affiliated with the charter school that has a financial interest in the school.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Castor, Kathy", 
+    "state": "FL", 
+    "thomas_id": "01839", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-09T11:48:00-04:00", 
+  "updated_at": "2015-01-02T13:21:31-05:00"
+}

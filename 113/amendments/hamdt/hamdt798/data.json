@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5164", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A021) offered by Ms. Lee (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T20:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lee (CA) amendment (A021) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt798-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for Fair Housing Activities by $10 million and reduces funding for Information Technology by a similar amount.", 
+  "house_number": 21, 
+  "introduced_at": "2014-06-09", 
+  "number": 798, 
+  "purpose": "An amendment to increase funding for Fair Housing Activities by $10 million and to reduce funding for Information Technology by a similar amount.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T20:58:00-04:00", 
+  "updated_at": "2015-01-02T13:22:44-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-04T12:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H2936-2937, H2940-2941", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2936", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Connolly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-04T13:05:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 159, 
+      "text": "On agreeing to the Connolly amendment (A001) Failed by recorded vote: 182 - 214 (Roll no. 159).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt605-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1874-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1874
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to subject Congressional appropriations bills to dynamic scoring and to change the threshold to trigger such scoring to $1 billion.", 
+  "house_number": 1, 
+  "introduced_at": "2014-04-04", 
+  "number": 605, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 113-400 to subject Congressional appropriations bills to dynamic scoring, and to change the threshold to trigger such scoring to $1 billion.", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "thomas_id": "01959", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-04-04T13:05:00-04:00", 
+  "updated_at": "2015-01-02T13:21:06-05:00"
+}

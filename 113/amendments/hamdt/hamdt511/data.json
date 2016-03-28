@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-20T16:29:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7293-7294", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7293", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-20T16:34:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson Lee amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt511-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2728-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2728
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 6, 
+  "introduced_at": "2013-11-20", 
+  "number": 511, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 113-271 to instruct the Secretary to conduct an annual review of any and all state hydraulic fracturing activity and submit a report to Congress.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-20T16:34:00-05:00", 
+  "updated_at": "2015-01-02T13:20:19-05:00"
+}

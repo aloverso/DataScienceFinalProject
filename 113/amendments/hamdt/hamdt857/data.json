@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5296", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5296", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. Gardner.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T16:56:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gardner amendment (A012) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt857-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4800-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for the Grain Inspection, Packers and Stockyards Administration by $3.4 million and increases the funding for telemedicine and distance learning services in rural areas by a similar amount.", 
+  "house_number": 12, 
+  "introduced_at": "2014-06-11", 
+  "number": 857, 
+  "purpose": "An amendment to reduce funding for the Grain Inspection, Packers and Stockyards Administration by $3.4 million and to increase the telemedicine and distance learning services in rural areas by a similar amount.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gardner, Cory", 
+    "state": "CO", 
+    "thomas_id": "01998", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-11T16:56:00-04:00", 
+  "updated_at": "2015-01-02T13:23:13-05:00"
+}

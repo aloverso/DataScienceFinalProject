@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5097", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5097", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Butterfield.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T15:11:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Butterfield amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt784-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces the administrative expenses account of FTA and increases the technical assistance and training account by $2 million, restoring FTA training assistance to FY 2014 levels.", 
+  "house_number": 7, 
+  "introduced_at": "2014-06-09", 
+  "number": 784, 
+  "purpose": "An amendment to reduce the administrative expenses account of FTA and increase the technical assistance and training account by $2,000,000.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "thomas_id": "01761", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T15:11:00-04:00", 
+  "updated_at": "2015-01-02T13:22:37-05:00"
+}

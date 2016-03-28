@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-21T19:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4730-4732", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4730", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A013) offered by Mr. Smith (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-22T11:25:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4806-4807", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 234, 
+      "text": "On agreeing to the Smith (WA) amendment (A013) Failed by recorded vote: 191 - 230 (Roll no. 234).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt676-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4435-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4435
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to change section 1021 of the FY 2012 NDAA to eliminate indefinite military detention of any person detained under AUMF authority in the United States, its territories, or possessions, by providing for immediate transfer to trial and proceedings by a court established under Article III of the U.S. Constitution or by an appropriate state court and sought to strike section 1022 of the same Act, which provides for mandatory military custody of covered parties.", 
+  "house_number": 13, 
+  "introduced_at": "2014-05-21", 
+  "number": 676, 
+  "purpose": "An amendment No. 11 printed in Part A of House Report 113-460 to eliminate indefinite military detention of any person detained under AUMF authority in the U.S., its territories, or possessions, by providing for immediate transfer to trial and proceedings by a court established under the Constitution or any appropriate state court. Amendment also strikes section 1022 of the bill.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "thomas_id": "01528", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-22T11:25:00-04:00", 
+  "updated_at": "2015-01-02T13:21:41-05:00"
+}

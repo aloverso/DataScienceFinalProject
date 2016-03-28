@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-05T17:06:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1639-1641, H1645", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1639-1640", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A008) offered by Mr. Peters (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-05T18:10:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 48, 
+      "text": "On agreeing to the Peters (CA) amendment (A008) Failed by recorded vote: 192 - 231 (Roll no. 48).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt550-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3964-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3964
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to stipulate that the bill cannot go into effect until the Secretary confirms that the act does not adversely affect any community's water supply or water budget.", 
+  "house_number": 8, 
+  "introduced_at": "2014-02-05", 
+  "number": 550, 
+  "purpose": "An amendment numbered 8 printed in Part B of House Report 113-340 to stipulate that the bill cannot go into effect until the Secretary confirms that the act does not adversely affect any community's water supply or water budget.", 
+  "sponsor": {
+    "district": "52", 
+    "name": "Peters, Scott H.", 
+    "state": "CA", 
+    "thomas_id": "02113", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-05T18:10:00-05:00", 
+  "updated_at": "2015-01-02T13:20:38-05:00"
+}

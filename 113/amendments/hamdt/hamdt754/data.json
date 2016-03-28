@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T21:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4990-4991, H5009-5010", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4990", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A065) offered by Mr. Massie.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T00:30:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 260, 
+      "text": "On agreeing to the Massie amendment (A065) Agreed to by recorded vote: 246 - 162 (Roll no. 260).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt754-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 65, 
+  "introduced_at": "2014-05-29", 
+  "number": 754, 
+  "purpose": "An amendment to prohibit the use of funds in contravention of section 7606 (\"Legitimacy of Industrial Hemp Research\") of the Agricultural Act of 2014 (Public Law No. 113-79) by the Department of Justice or the Drug Enforcement Administration.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Massie, Thomas", 
+    "state": "KY", 
+    "thomas_id": "02094", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-30T00:30:00-04:00", 
+  "updated_at": "2015-01-02T13:22:20-05:00"
+}

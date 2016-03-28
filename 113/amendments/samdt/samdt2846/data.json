@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "references": [
+        {
+          "reference": "CR S1616-1617", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1616", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2846 proposed by Senator Harkin for Senator Sanders.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2846 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2846-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-13", 
+  "number": 2846, 
+  "proposed_at": "2014-03-13", 
+  "purpose": "To express the sense of the Senate on significantly reducing child poverty by calendar year 2019.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13", 
+  "updated_at": "2015-01-02T13:05:17-05:00"
+}

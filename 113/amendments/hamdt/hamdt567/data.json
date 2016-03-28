@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-27T12:53:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2017-2018, H2023", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2017-2018", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-27T14:03:00-05:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 74, 
+      "text": "On agreeing to the Jackson Lee amendment (A009) Failed by recorded vote: 179 - 235 (Roll no. 74).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt567-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2804-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2804
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to insert an exception for any rule, consent decree, or settlement agreement that the Director of the Office of Management and Budget determines would result in net job creation or whose benefits exceeds its costs.", 
+  "house_number": 9, 
+  "introduced_at": "2014-02-27", 
+  "number": 567, 
+  "purpose": "An amendment numbered 9 printed in House Report 113-361 to exclude from the bill any rule, consent decree, or settlement agreement that the Director of the Office of Management and Budget determines would result in net job creation or whose benefits exceeds its costs.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-02-27T14:03:00-05:00", 
+  "updated_at": "2015-01-02T13:20:47-05:00"
+}

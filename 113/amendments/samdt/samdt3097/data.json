@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-14", 
+      "references": [
+        {
+          "reference": "CR S3043-3044", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3044", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3097 proposed by Senator Reid for Senator Coons.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-14", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3097 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3097-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres314-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 314
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-05-14", 
+  "number": 3097, 
+  "proposed_at": "2014-05-14", 
+  "purpose": "To amend the preamble.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coons, Christopher A.", 
+    "state": "DE", 
+    "thomas_id": "01984", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-14", 
+  "updated_at": "2015-01-02T13:07:23-05:00"
+}

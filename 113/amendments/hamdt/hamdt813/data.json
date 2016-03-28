@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T22:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5178-5180", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5178", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T14:40:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H5210", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 285, 
+      "text": "On agreeing to the Gosar amendment (A036) Agreed to by recorded vote: 219 - 207 (Roll no. 285).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt813-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment to prohibit use of funds to implement, administer, or enforce the proposed rule entitle \"Affirmatively Furthering Fair Housing\", published by HUD on July 19, 2013 in the Federal Register.", 
+  "house_number": 36, 
+  "introduced_at": "2014-06-09", 
+  "number": 813, 
+  "purpose": "An amendment to prohibit use of funds to implement, administer, or enforce the proposed rule entitle \"Affirmatively Furthering Fair Housing\", published by HUD on July 19, 2013 in the Federal Register.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-10T14:40:00-04:00", 
+  "updated_at": "2015-01-02T13:22:52-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T20:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4881-4882", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4881", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mrs. Davis (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-28T20:25:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Davis (CA) amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt691-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase the funding for operations and administration in the International Trade Administration by $3 million and to reduce funding for salaries and expenses of the Federal Prison System by a similar amount.", 
+  "house_number": 2, 
+  "introduced_at": "2014-05-28", 
+  "number": 691, 
+  "purpose": "An amendment to increase the funding for operations and administration in the International Trade Administration by $3 million and to reduce funding for salaries and expenses of the Federal Prison System by a similar amount.", 
+  "sponsor": {
+    "district": "53", 
+    "name": "Davis, Susan A.", 
+    "state": "CA", 
+    "thomas_id": "01641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-28T20:25:00-04:00", 
+  "updated_at": "2015-01-02T13:21:49-05:00"
+}

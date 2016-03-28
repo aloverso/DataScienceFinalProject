@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T09:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3381-3382", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3381", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Ms. Speier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T10:08:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Speier amendment (A002) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt643-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment provides $500,000 for sexual harassment training for all House offices which will be carried out by the Congressional Office of Compliance. The funds are offset from the AOC General Administration account.", 
+  "house_number": 2, 
+  "introduced_at": "2014-05-01", 
+  "number": 643, 
+  "purpose": "An amendment numbered 2 printed in House Report 113-426 to appropriate $500,000 to provide for sexual harassment training for all House offices which will be carried out by the Congressional Office of Compliance. These funds are offset from the AOC General Administration fund.", 
+  "sponsor": {
+    "district": "14", 
+    "name": "Speier, Jackie", 
+    "state": "CA", 
+    "thomas_id": "01890", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-01T10:08:00-04:00", 
+  "updated_at": "2015-01-02T13:21:25-05:00"
+}

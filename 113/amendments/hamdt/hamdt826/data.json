@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T16:02:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5219", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5219", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A049) offered by Mr. Grijalva.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T16:03:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Grijalva amendment (A049) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt826-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits the use of funds for Federal contracts with those who violate the Fair Labor Standards Act.", 
+  "house_number": 49, 
+  "introduced_at": "2014-06-10", 
+  "number": 826, 
+  "purpose": "An amendment to prohibit the use of funds to enter into a contract with any person whose disclosures of a proceeding with a disposition listed in section 2313(c)(1) of title 41, United States Code, in the Federal Awardee Performance Integrity Information System include the term \"Fair Labor Standards Act.\".", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Grijalva, Raul M.", 
+    "state": "AZ", 
+    "thomas_id": "01708", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-10T16:03:00-04:00", 
+  "updated_at": "2015-01-02T13:22:58-05:00"
+}

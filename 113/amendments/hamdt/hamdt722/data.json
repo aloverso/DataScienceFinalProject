@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4942-4943", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4942", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T15:15:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jackson Lee amendment (A033) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt722-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for Salaries and Expenses, Federal Prison System by $500,000 and increases funding for State and Local Law Enforcement Activities (violence against women prevention and prosecution programs) by a similar amount.", 
+  "house_number": 33, 
+  "introduced_at": "2014-05-29", 
+  "number": 722, 
+  "purpose": "An amendment numbered 8 printed in the Congressional Record to reduce funding for Salaries and Expenses, Federal Prison System by $500,000 and to increase funding for State and Local Law Enforcement Activities (Violence Against Women Prevention and Prosecution Programs) by a similar amount.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T15:15:00-04:00", 
+  "updated_at": "2015-01-02T13:22:04-05:00"
+}

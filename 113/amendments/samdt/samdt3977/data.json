@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-12-09", 
+      "references": [
+        {
+          "reference": "CR S6400-6401", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3977 proposed by Senator Reid for Senator Rockefeller.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-12-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3977 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3977-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1204-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1204
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-12-09", 
+  "number": 3977, 
+  "proposed_at": "2014-12-09", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-12-09", 
+  "updated_at": "2015-01-02T13:14:47-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T17:38:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5230-5231, H5236", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5230", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A067) offered by Mr. Sessions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T18:54:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 294, 
+      "text": "On agreeing to the Sessions amendment (A067) Failed by recorded vote: 167 - 250 (Roll no. 294).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt844-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to prohibit the use of funds to support any Amtrak route whose costs exceed 2 times its revenues, as based on the National Railroad Passenger Corporation Fiscal Years 2013-2017 Five Year Plan from May 2013.", 
+  "house_number": 67, 
+  "introduced_at": "2014-06-10", 
+  "number": 844, 
+  "purpose": "An amendment to prohibit the use of funds to support any Amtrak route whose costs exceed 2 times its revenues, as based on the National Railroad Passenger Corporation Fiscal Years 2013-2017 Five Year Plan from May 2013.", 
+  "sponsor": {
+    "district": "32", 
+    "name": "Sessions, Pete", 
+    "state": "TX", 
+    "thomas_id": "01525", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-10T18:54:00-04:00", 
+  "updated_at": "2015-01-02T13:23:07-05:00"
+}

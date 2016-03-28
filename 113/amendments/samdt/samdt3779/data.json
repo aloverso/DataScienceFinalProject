@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "references": [], 
+      "text": "Amendment SA 3779 proposed by Senator Pryor for Senator Murphy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3779 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3779-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "sres520-113", 
+    "bill_type": "sres", 
+    "congress": 113, 
+    "number": 520
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-07-31", 
+  "number": 3779, 
+  "proposed_at": "2014-07-31", 
+  "purpose": "To make a technical correction.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murphy, Christopher S.", 
+    "state": "CT", 
+    "thomas_id": "01837", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-31", 
+  "updated_at": "2015-01-02T13:13:08-05:00"
+}

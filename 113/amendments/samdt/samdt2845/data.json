@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "references": [
+        {
+          "reference": "S1613-1614", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2845 proposed by Senator Vitter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "Voice Vote", 
+      "references": [
+        {
+          "reference": "CR S1613", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "text": "Amendment SA 2845 as modified agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2845-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-13", 
+  "number": 2845, 
+  "proposed_at": "2014-03-13", 
+  "purpose": "To require the Secretary (acting through the Assistant Secretary for Children and Families) to prepare an annual report that contains a determination about whether States have complied with a priority requirement, and to require the Secretary to withhold funds from States that fail to comply with such priority requirement.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13", 
+  "updated_at": "2015-01-02T13:05:17-05:00"
+}

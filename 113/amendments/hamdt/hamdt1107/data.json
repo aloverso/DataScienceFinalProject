@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-23T15:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6693", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6693", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Walberg.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23T15:33:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Walberg amendment (A003) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1107-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3136-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3136
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment allows participating eligible entities to apply to expand their approved projects beyond the 3,000 student maximum (up to 5,000) if the past two evaluations warrant such expansion.", 
+  "house_number": 3, 
+  "introduced_at": "2014-07-23", 
+  "number": 1107, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 113-546 to allow participating eligible entities to apply to expand their approved projects beyond the 3,000 student maximum if the past two evaluations warrant such expansion.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Walberg, Tim", 
+    "state": "MI", 
+    "thomas_id": "01855", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-23T15:33:00-04:00", 
+  "updated_at": "2015-01-02T13:25:18-05:00"
+}

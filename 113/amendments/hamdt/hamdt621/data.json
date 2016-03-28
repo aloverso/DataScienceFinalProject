@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30T15:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3328-3329", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3328", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Costa.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-30T15:34:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Costa amendment (A004) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt621-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4486-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4486
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funds for the General Administration Account for the Department of Veterans Affairs by $10.5 million and increases funds for the General Operating Expenses, Veterans Benefits Administration Account by $10 million for the purpose of reducing the VA disability claims backlog.", 
+  "house_number": 4, 
+  "introduced_at": "2014-04-30", 
+  "number": 621, 
+  "purpose": "An amendment to reduce available funds for the General Administration Account for the Department of Veterans Affairs by $10.5 million and increase available funds for the General Operating Expenses, Veterans Benefits Administration Account by $10 million for the purpose of reducing the VA disability claims backlog.", 
+  "sponsor": {
+    "district": "16", 
+    "name": "Costa, Jim", 
+    "state": "CA", 
+    "thomas_id": "01774", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-30T15:34:00-04:00", 
+  "updated_at": "2015-01-02T13:21:14-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T23:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5003", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5003", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A083) offered by Mr. Hudson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T23:27:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5003", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Hudson amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt772-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 83, 
+  "introduced_at": "2014-05-29", 
+  "number": 772, 
+  "purpose": "At the end of the bill (before the short title), insert the following:    SEC.__. None of the amounts made available by this Act may be used for any program not authorized by law as of the date of the enactment of this Act.", 
+  "sponsor": {
+    "district": "8", 
+    "name": "Hudson, Richard", 
+    "state": "NC", 
+    "thomas_id": "02140", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-29", 
+  "updated_at": "2015-01-02T13:22:29-05:00"
+}

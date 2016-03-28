@@ -1,0 +1,36 @@
+{
+  "actions": [], 
+  "amendment_id": "samdt3362-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3244-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 3244
+  }, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-06-19", 
+  "number": 3362, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Casey, Robert P., Jr.", 
+    "state": "PA", 
+    "thomas_id": "01828", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-19", 
+  "updated_at": "2015-01-02T13:09:38-05:00"
+}

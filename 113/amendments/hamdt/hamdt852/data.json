@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11T15:28:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5290-5291", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5291", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11T15:32:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gosar amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt852-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4800-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4800
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for the Office of General Counsel by $2,181,000 and to apply the savings to the spending reduction account.", 
+  "house_number": 7, 
+  "introduced_at": "2014-06-11", 
+  "number": 852, 
+  "purpose": "An amendment to reduce funding for the Office of General Counsel by $2,181,000 and to apply the savings to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-11T15:32:00-04:00", 
+  "updated_at": "2015-01-02T13:23:11-05:00"
+}

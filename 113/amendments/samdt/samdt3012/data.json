@@ -1,0 +1,43 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-07", 
+      "references": [
+        {
+          "reference": "CR S2763", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 3012 proposed by Senator Reid for Senator Shaheen.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3012-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2262-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2262
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-05-07", 
+  "number": 3012, 
+  "proposed_at": "2014-05-07", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Shaheen, Jeanne", 
+    "state": "NH", 
+    "thomas_id": "01901", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-07", 
+  "updated_at": "2015-01-02T13:06:40-05:00"
+}

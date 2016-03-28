@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T16:05:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5998-5999, H6006-6007", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5998", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A017) offered by Mr. Wenstrup.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T17:46:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 374, 
+      "text": "On agreeing to the Wenstrup amendment (A017) Failed by recorded vote: 112 - 309 (Roll no. 374).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt988-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to direct $15 million to the Uranium Enrichment Decontamination and Decommissioning Fund for the purpose of the decommissioning and cleaning of the Portsmouth plant in Pike County, Ohio. The redirection would have been offset by reductions in funding for administrative and energy accounts.", 
+  "house_number": 17, 
+  "introduced_at": "2014-07-09", 
+  "number": 988, 
+  "purpose": "An amendment to reduce by $10,421,000 the Energy Efficiency and Renewable Energy and increase by $15,000,000 the Uranium Enrichment Decontamination and Decommissioning Fund and reduce the Salaries and Expenses of the Department of Energy for departmental administration by $8,540,000.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Wenstrup, Brad R.", 
+    "state": "OH", 
+    "thomas_id": "02152", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-09T17:46:00-04:00", 
+  "updated_at": "2015-01-02T13:24:19-05:00"
+}

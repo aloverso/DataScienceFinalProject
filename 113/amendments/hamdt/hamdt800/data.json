@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T21:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5168-5169", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5168", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A023) offered by Mr. Himes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T21:12:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latham raised a point of order against the Himes amendment (A023). Mr. Latham stated that the Himes amendment proposes to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt800-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 23, 
+  "introduced_at": "2014-06-09", 
+  "number": 800, 
+  "purpose": "An amendment to insert a new section providing for establishment of a budget-neutral demonstration program for mulitfamily housing energy and water conservation.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Himes, James A.", 
+    "state": "CT", 
+    "thomas_id": "01913", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-09", 
+  "updated_at": "2015-01-02T13:22:45-05:00"
+}

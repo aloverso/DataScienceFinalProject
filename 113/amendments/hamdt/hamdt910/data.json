@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T18:32:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5524-5525", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5524", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Ms. DeLauro.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T18:38:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the DeLauro amendment (A044) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt910-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 44, 
+  "introduced_at": "2014-06-19", 
+  "number": 910, 
+  "purpose": "An amendment to prohibit the use of funds to enter into any contract with an incorporated entity if such entity's sealed bid or competitive proposal shows that such entity is incorporated or chartered in Bermuda or the Cayman Islands, and such entity's sealed bid or competitive proposal shows that such entity was previously incorporated in the United States.", 
+  "sponsor": {
+    "district": "3", 
+    "name": "DeLauro, Rosa L.", 
+    "state": "CT", 
+    "thomas_id": "00281", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T18:38:00-04:00", 
+  "updated_at": "2015-01-02T13:23:40-05:00"
+}

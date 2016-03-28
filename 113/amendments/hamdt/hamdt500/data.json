@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19T15:49:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7226-7228", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-20T14:08:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7276-7277", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 596, 
+      "text": "On agreeing to the Jackson Lee amendment (A004) Failed by recorded vote: 198 - 225 (Roll no. 596).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt500-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1965-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to eliminate prohibition of award of attorney fees which otherwise would be recoverable under Equal Access to Justice Act.", 
+  "house_number": 4, 
+  "introduced_at": "2013-11-19", 
+  "number": 500, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 113-271 to eliminate prohibition of award of attorney fees which otherwise would be recoverable under Equal Access to Justice Act.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-11-20T14:08:00-05:00", 
+  "updated_at": "2015-01-02T13:20:13-05:00"
+}

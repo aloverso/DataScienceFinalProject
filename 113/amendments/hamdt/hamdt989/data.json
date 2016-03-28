@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T16:16:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5999-6000, H6007", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5999", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Swalwell (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T17:50:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 375, 
+      "text": "On agreeing to the Swalwell (CA) amendment (A018) Failed by recorded vote: 172 - 245 (Roll no. 375).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt989-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for Energy Efficiency and Renewable Energy by $111,641,000 and reduce funding for Fossil Energy Research and Development by $161,879,450.", 
+  "house_number": 18, 
+  "introduced_at": "2014-07-09", 
+  "number": 989, 
+  "purpose": "An amendment to increase funding for Energy Efficiency and Renewable Energy by $111,641,000 and reduce funding for Fossil Energy Research and Development by $161,879,450.", 
+  "sponsor": {
+    "district": "15", 
+    "name": "Swalwell, Eric", 
+    "state": "CA", 
+    "thomas_id": "02104", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-07-09T17:50:00-04:00", 
+  "updated_at": "2015-01-02T13:24:19-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-03", 
+      "references": [
+        {
+          "reference": "CR S704", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S704", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2713 proposed by Senator Warren for Senator Pryor.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-03", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2713 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2713-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s376-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 376
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-02-03", 
+  "number": 2713, 
+  "proposed_at": "2014-02-03", 
+  "purpose": "To reduce the authorization of appropriations amount.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-03", 
+  "updated_at": "2015-01-02T13:04:11-05:00"
+}

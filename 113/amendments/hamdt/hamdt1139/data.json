@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-09T15:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7323-7324, H7336-7337", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7324", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-09T17:08:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 487, 
+      "text": "On agreeing to the Bishop (NY) amendment (A002) Failed by recorded vote: 170 - 240 (Roll no. 487).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1139-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5078-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to limit the impact of the underlying bill if the administration determined that the bill was likely to (1) increase the interstate movements of pollutants through surface waters; (2) increase the costs incurred by a downstream State to maintain or achieve approved water quality standards for that State; and (3) cause or contribute to the impairment of the surface or coastal waters of another State.", 
+  "house_number": 2, 
+  "introduced_at": "2014-09-09", 
+  "number": 1139, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-09-09T17:08:00-04:00", 
+  "updated_at": "2015-01-02T13:25:34-05:00"
+}

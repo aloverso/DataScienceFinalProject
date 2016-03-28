@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-31", 
+      "references": [
+        {
+          "reference": "CR S1859", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2874 proposed by Senator Reid for Senator Reed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-31", 
+      "references": [
+        {
+          "reference": "CR S1860", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1860", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on amendment SA 2874 presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "references": [
+        {
+          "reference": "CR S1897", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [
+        {
+          "reference": "CR S2045, S2047", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "references": [
+        {
+          "reference": "CR S2047", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S2047", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture on amendment SA 2874 invoked in Senate by Yea-Nay Vote. 61 - 38. Record Vote Number: 96.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "references": [
+        {
+          "reference": "CR S2138, S2146, S2149-2150", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "references": [], 
+      "text": "Point of order that the amendment violates Section 311(b) of S.Con.Res. 70, 110th Congress, raised in Senate with respect to amendment SA 2874.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "references": [
+        {
+          "reference": "CR S2149-2150", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to waive all applicable budgetary discipline with respect to amendment SA 2874 agreed to in Senate by Yea-Nay Vote. 60 - 36. Record Vote Number: 99.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "how": "Voice Vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2874 agreed to in Senate by Voice Vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2874-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3979-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3979
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-31", 
+  "number": 2874, 
+  "proposed_at": "2014-03-31", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-04-03", 
+  "updated_at": "2015-01-02T13:05:31-05:00"
+}

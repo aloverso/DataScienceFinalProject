@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-11-20", 
+      "references": [
+        {
+          "reference": "CR S6219", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6219", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3958 proposed by Senator Reid for Senator Harkin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-11-20", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3958 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3958-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr669-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 669
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-11-20", 
+  "number": 3958, 
+  "proposed_at": "2014-11-20", 
+  "purpose": "In the nature of a substitute.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-11-20", 
+  "updated_at": "2015-01-02T13:14:38-05:00"
+}

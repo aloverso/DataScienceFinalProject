@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09", 
+      "references": [], 
+      "text": "Amendment SA 3528 proposed by Senator Reid for Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3528 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3528-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s311-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 311
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-07-09", 
+  "number": 3528, 
+  "proposed_at": "2014-07-09", 
+  "purpose": "To modify the section relating to donations.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-09", 
+  "updated_at": "2015-01-02T13:11:03-05:00"
+}

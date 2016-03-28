@@ -1,0 +1,69 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-06", 
+      "references": [
+        {
+          "reference": "CR S7841", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S7841", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2016 proposed by Senator Reid.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-07", 
+      "references": [
+        {
+          "reference": "CR S7894", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-07", 
+      "references": [
+        {
+          "reference": "CR S7902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Proposed amendment SA 2016 withdrawn in Senate.", 
+      "type": "withdrawn"
+    }
+  ], 
+  "amendment_id": "samdt2016-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s815-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 815
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-06", 
+  "number": 2016, 
+  "proposed_at": "2013-11-06", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reid, Harry", 
+    "state": "NV", 
+    "thomas_id": "00952", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "withdrawn", 
+  "status_at": "2013-11-07", 
+  "updated_at": "2015-01-02T12:58:22-05:00"
+}

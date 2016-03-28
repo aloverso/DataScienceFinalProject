@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-09T14:59:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H7322-7323, H7335-7336", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7322", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Bishop (NY).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-09T17:03:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 486, 
+      "text": "On agreeing to the Bishop (NY) amendment (A001) Failed by recorded vote: 163 - 248 (Roll no. 486).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1138-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5078-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5078
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to provide policy provisions that the Secretary and Administrator would be prohibited from including in a final rule.", 
+  "house_number": 1, 
+  "introduced_at": "2014-09-09", 
+  "number": 1138, 
+  "purpose": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bishop, Timothy H.", 
+    "state": "NY", 
+    "thomas_id": "01740", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-09-09T17:03:00-04:00", 
+  "updated_at": "2015-01-02T13:25:34-05:00"
+}

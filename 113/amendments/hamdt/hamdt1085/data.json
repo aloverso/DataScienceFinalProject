@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T19:06:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6274-6275", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A033) offered by Mr. Marino.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T19:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6275", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Marino amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1085-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 33, 
+  "introduced_at": "2014-07-15", 
+  "number": 1085, 
+  "purpose": "An amendment to prohibit the use of funds to collect any underpayment of any tax imposed by the Internal Revenue Code of 1986 to the extent such underpayment is attributable to the taxpayer's loss of records (except in the case of fraud).", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Marino, Tom", 
+    "state": "PA", 
+    "thomas_id": "02053", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-15", 
+  "updated_at": "2015-01-02T13:25:07-05:00"
+}

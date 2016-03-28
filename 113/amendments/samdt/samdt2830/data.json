@@ -1,0 +1,59 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-13", 
+      "references": [
+        {
+          "reference": "CR S1608-1609, S1610", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2830 proposed by Senator Coburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S1608", 
+          "type": "text as modified"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 75, 
+      "text": "Amendment SA 2830 as modified agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 75.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2830-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1086-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1086
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-03-12", 
+  "number": 2830, 
+  "proposed_at": "2014-03-13", 
+  "purpose": "To establish a $1,000,000 asset limit for eligibility for child care assistance.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coburn, Tom", 
+    "state": "OK", 
+    "thomas_id": "00212", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-13", 
+  "updated_at": "2015-01-02T13:05:09-05:00"
+}

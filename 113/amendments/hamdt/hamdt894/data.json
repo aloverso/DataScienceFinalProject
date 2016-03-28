@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T18:22:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5466-5467", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5466", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T18:26:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Holt amendment (A028) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt894-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment redirects $2 million for the intelligence community whistleblowing and source protection directorate.", 
+  "house_number": 28, 
+  "introduced_at": "2014-06-18", 
+  "number": 894, 
+  "purpose": "An amendment redirects $2 million for waste, fraud, and abuse investigations in the Intelligence Community Management Account.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T18:26:00-04:00", 
+  "updated_at": "2015-01-02T13:23:32-05:00"
+}

@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T21:29:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4889-4890", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4889", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Bridenstine.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T14:00:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4933-4934", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 245, 
+      "text": "On agreeing to the Bridenstine amendment (A010) Agreed to by recorded vote: 340 - 71 (Roll no. 245).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt699-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces funding for periodic censuses and programs by $12 million and increases funding for the National Oceanic and Atmospheric Administration for the purpose of weather research by a similar amount.", 
+  "house_number": 10, 
+  "introduced_at": "2014-05-28", 
+  "number": 699, 
+  "purpose": "An amendment to reduce funding for Periodic Censuses and Programs by $12 million and to increase funding for the National Oceanic and Atmospheric Administration for the purpose of weather research by a similar amount.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Bridenstine, Jim", 
+    "state": "OK", 
+    "thomas_id": "02155", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T14:00:00-04:00", 
+  "updated_at": "2015-01-02T13:21:53-05:00"
+}

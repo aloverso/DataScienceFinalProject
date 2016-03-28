@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-09T15:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5991", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5991", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A009) offered by Mr. Cassidy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-09T15:17:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cassidy amendment (A009) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt980-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for Operation and Maintenance by $1 million and reduces funding for Departmental Administration by a similar amount.", 
+  "house_number": 9, 
+  "introduced_at": "2014-07-09", 
+  "number": 980, 
+  "purpose": "An amendment to increase funding for Operation and Maintenance by $1 million and to reduce funding for Departmental Administration by a similar amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Cassidy, Bill", 
+    "state": "LA", 
+    "thomas_id": "01925", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-09T15:17:00-04:00", 
+  "updated_at": "2015-01-02T13:24:15-05:00"
+}

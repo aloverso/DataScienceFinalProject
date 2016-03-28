@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18T18:12:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5465", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5465", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A026) offered by Mr. Holt.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-18T18:14:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Holt amendment (A026) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt892-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment designates $1 million to study the links between financial stress, financial abuse, and military suicide and to generate recommendations to fix such interlinked problems.", 
+  "house_number": 26, 
+  "introduced_at": "2014-06-18", 
+  "number": 892, 
+  "purpose": "An amendment to redirect $1 million in the Defense Health Program, Research, Development, Test and Evaluation account.", 
+  "sponsor": {
+    "district": "12", 
+    "name": "Holt, Rush", 
+    "state": "NJ", 
+    "thomas_id": "01580", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-18T18:14:00-04:00", 
+  "updated_at": "2015-01-02T13:23:31-05:00"
+}

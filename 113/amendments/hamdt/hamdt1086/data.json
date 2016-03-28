@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T19:11:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6275-6276", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6275", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Mr. Heck (WA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T15:02:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6326", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 418, 
+      "text": "On agreeing to the Heck (WA) amendment (A034) Agreed to by recorded vote: 231 - 192 (Roll no. 418).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1086-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment to prohibit use of funds with respect to specified States, to penalize a financial institution solely because the institution provides financial services to an entity that is a manufacturer, producer, or a person that participates in any business or organized activity that involves handling marijuana or marijuana products and engages in such activity pursuant to a law established by a State or local government and engages in such activity pursuant to a law established by a State or local government.", 
+  "house_number": 34, 
+  "introduced_at": "2014-07-15", 
+  "number": 1086, 
+  "purpose": "An amendment to prohibit use of funds with respect to specified States, to penalize a financial institution solely because the institution provides financial services to an entity that is a manufacturer, producer, or a person that participates in any business or organized activity that involves handling marijuana or marijuana products and engages in such activity pursuant to a law established by a State or local government and engages in such activity pursuant to a law established by a State or local government.", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Heck, Denny", 
+    "state": "WA", 
+    "thomas_id": "02170", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-16T15:02:00-04:00", 
+  "updated_at": "2015-01-02T13:25:08-05:00"
+}

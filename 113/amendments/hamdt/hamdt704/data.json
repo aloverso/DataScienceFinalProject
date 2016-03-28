@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-28T22:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4897-4898, H4964-4965", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4897", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A015) offered by Mr. Thompson (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T18:24:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4964-4965", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "roll": 249, 
+      "text": "On agreeing to the Thompson (CA) amendment (A015) Agreed to by recorded vote: 260 - 145, 1 Present (Roll no. 249).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt704-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for the National Instant Criminal Background Check system by $19.5 million and reduces funding for Departmental Management by $1 million; Justice Information Sharing Technology by $3 million; Buildings and Facilities by $5.5 million; and Agency Operations and Awards Management by $10 million.", 
+  "house_number": 15, 
+  "introduced_at": "2014-05-28", 
+  "number": 704, 
+  "purpose": "An amendment to increase funding for the National Instant Criminal Background Check system by $19.5 million offset by reducing funding for Departmental Management ($1 million); Justice Information Sharing Technology ($3 million); Buildings and Facilities ($5.5 million); and Agency Operations and Awards Management ($10 million).", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "thomas_id": "01593", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T18:24:00-04:00", 
+  "updated_at": "2015-01-02T13:21:55-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-12-12", 
+      "references": [
+        {
+          "reference": "CR S8751", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8751", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2545 proposed by Senator Nelson.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-12-12", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2545 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2545-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3547-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3547
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-12-12", 
+  "number": 2545, 
+  "proposed_at": "2013-12-12", 
+  "purpose": "To amend the title.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Nelson, Bill", 
+    "state": "FL", 
+    "thomas_id": "00859", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-12-12", 
+  "updated_at": "2015-01-02T13:02:47-05:00"
+}

@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T15:49:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4948-4949", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4948", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A039) offered by Mr. Kilmer.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T15:58:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Kilmer amendment (A039) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt728-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to increase funding for the Economic High-Tech and Cyber Crime Prevention grant program by $2 million and to reduce funding for Science (Aeronautics) by a similar amount.", 
+  "house_number": 39, 
+  "introduced_at": "2014-05-29", 
+  "number": 728, 
+  "purpose": "An amendment to increase funding for State and Local Law Enforcement Assistance by $2 million and to reduce funding for Science (Aeronautics) by a similar amount.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "thomas_id": "02169", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-29T15:58:00-04:00", 
+  "updated_at": "2015-01-02T13:22:07-05:00"
+}

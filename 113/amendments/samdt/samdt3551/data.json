@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-17", 
+      "references": [
+        {
+          "reference": "CR S4582-4584, S4588-4589", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S4582", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3551 proposed by Senator Flake.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-17", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 230, 
+      "text": "Amendment SA 3551 agreed to in Senate by Yea-Nay Vote. 97 - 0. Record Vote Number: 230.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3551-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s2244-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 2244
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-07-10", 
+  "number": 3551, 
+  "proposed_at": "2014-07-17", 
+  "purpose": "To establish the Advisory Committee on Risk-Sharing Mechanisms.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-17", 
+  "updated_at": "2015-01-02T13:11:14-05:00"
+}

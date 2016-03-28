@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T21:03:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5541-5542", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5541", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A065) offered by Mr. Wittman.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T21:12:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Wittman amendment (A065) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt931-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 65, 
+  "introduced_at": "2014-06-19", 
+  "number": 931, 
+  "purpose": "An amendment to prohibit the use of funds to propose, plan for, or execute an additional Base Realignment and Closure round.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Wittman, Robert J.", 
+    "state": "VA", 
+    "thomas_id": "01886", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T21:12:00-04:00", 
+  "updated_at": "2015-01-02T13:23:50-05:00"
+}

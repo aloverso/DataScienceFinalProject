@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T16:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4955-4956", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4955", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A044) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T16:49:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Kaptur amendment (A044) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt733-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment transfers $7 million from the NASA Space Operations account to the Space Technology Mission.", 
+  "house_number": 44, 
+  "introduced_at": "2014-05-29", 
+  "number": 733, 
+  "purpose": "An amendment to transfer $7,000,000 from the Space Technology account to the Space Operations account.", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "thomas_id": "00616", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T16:49:00-04:00", 
+  "updated_at": "2015-01-02T13:22:10-05:00"
+}

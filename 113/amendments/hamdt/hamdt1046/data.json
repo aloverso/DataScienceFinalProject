@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10T19:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6089-6090", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A075) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10T19:22:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Gosar amendment (A075) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt1046-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4923-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4923
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 75, 
+  "introduced_at": "2014-07-10", 
+  "number": 1046, 
+  "purpose": "An amendment to prohibit use of funds to award grants or provide funding for high-efficiency toilets or indoor water-efficient toilets.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-07-10T19:22:00-04:00", 
+  "updated_at": "2015-01-02T13:24:48-05:00"
+}

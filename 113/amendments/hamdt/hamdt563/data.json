@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-26T18:36:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1993-1995", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1993", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Rigell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-26T18:48:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rigell amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt563-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2804-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 2804
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment expands the requirements of initial regulatory flexibility analyses to include an analysis of any impairment of the ability of small entities to have access to credit.", 
+  "house_number": 5, 
+  "introduced_at": "2014-02-26", 
+  "number": 563, 
+  "purpose": "An amendment numbered 5 printed in House Report 113-361 to expand the requirements of initial regulatory flexibility analyses to include an analysis of any impairment of the ability of small entities to have access to credit.", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Rigell, E. Scott", 
+    "state": "VA", 
+    "thomas_id": "02068", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-02-26T18:48:00-05:00", 
+  "updated_at": "2015-01-02T13:20:45-05:00"
+}

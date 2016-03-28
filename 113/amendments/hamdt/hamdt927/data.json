@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T20:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5537-5538", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5537", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Forbes.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T20:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Forbes amendment (A061) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt927-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4870-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4870
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2014-06-19", 
+  "number": 927, 
+  "purpose": "An amendment to prohibit use of funds to be obligated or expended to implement the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Forbes, J. Randy", 
+    "state": "VA", 
+    "thomas_id": "01683", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-19T20:37:00-04:00", 
+  "updated_at": "2015-01-02T13:23:48-05:00"
+}

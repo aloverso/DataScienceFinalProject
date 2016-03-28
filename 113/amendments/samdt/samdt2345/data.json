@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8290", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S8290", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 2345 proposed by Senator Donnelly for Senator Levin.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2345 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2345-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3304-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3304
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-19", 
+  "number": 2345, 
+  "proposed_at": "2013-11-19", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-19", 
+  "updated_at": "2015-01-02T13:01:06-05:00"
+}

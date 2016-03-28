@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-05T17:35:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H2190-2191", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2190", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-03-05T17:43:00-05:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the McKinley amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt580-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3826-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 3826
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment requires the EPA, when reporting to Congress pursuant to section 3 of the bill, to look at the economic impact of such rule or guidelines, including the potential effects on capital investments and projected costs for operation and maintenance of new equipment required to be installed and the global competitiveness of the United States.", 
+  "house_number": 5, 
+  "introduced_at": "2014-03-05", 
+  "number": 580, 
+  "purpose": "An amendment numbered 5 printed in House Report 113-373 to require the EPA, when reporting to Congress, to look at the economic impact of such rule or guidelines, including the potential effects on: require capital investments and projected costs for operation and maintenance of new equipment required to be installed; and the global competitiveness of the United States.", 
+  "sponsor": {
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-03-05T17:43:00-05:00", 
+  "updated_at": "2015-01-02T13:20:53-05:00"
+}

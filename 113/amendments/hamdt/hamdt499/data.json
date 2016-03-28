@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19T15:39:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H7225-7226", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7225", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Lowenthal.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-20T14:04:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H7275-7276", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 595, 
+      "text": "On agreeing to the Lowenthal amendment (A003) Failed by recorded vote: 194 - 228 (Roll no. 595).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt499-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1965-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 1965
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to allow the Secretary of the Interior to continue to review actions that generally qualify for Categorical Exclusions to NEPA for possible Extraordinary Circumstances (e.g. Violations of a Federal law, or a State, local, or tribal law or requirement) which would then supersede the Categorical Exclusion and require further NEPA review.", 
+  "house_number": 3, 
+  "introduced_at": "2013-11-19", 
+  "number": 499, 
+  "purpose": "An amendment numbered 3 printed in Part A of House Report 113-271 to allow the Secretary of the Interior to continue to review actions that generally qualify for Categorical Exclusions to NEPA for possible Extraordinary Circumstances (e.g. Violations of a Federal law, or a State, local, or tribal law or requirement) which would then supersede the Categorical Exclusion and require further NEPA review.", 
+  "sponsor": {
+    "district": "47", 
+    "name": "Lowenthal, Alan S.", 
+    "state": "CA", 
+    "thomas_id": "02111", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2013-11-20T14:04:00-05:00", 
+  "updated_at": "2015-01-02T13:20:13-05:00"
+}

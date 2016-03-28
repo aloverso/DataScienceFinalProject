@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T10:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3384-3385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3384", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. Duffy.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T10:36:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Duffy amendment (A005) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt646-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to zero out the $3,420,000 in funding for the Open World Leadership Center and to apply the savings to the spending reduction account.", 
+  "house_number": 5, 
+  "introduced_at": "2014-05-01", 
+  "number": 646, 
+  "purpose": "An amendment numbered 5 printed in House Report 113-426 to defund the Open World Leadership Center Trust Fund.", 
+  "sponsor": {
+    "district": "7", 
+    "name": "Duffy, Sean P.", 
+    "state": "WI", 
+    "thomas_id": "02072", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-01T10:36:00-04:00", 
+  "updated_at": "2015-01-02T13:21:26-05:00"
+}

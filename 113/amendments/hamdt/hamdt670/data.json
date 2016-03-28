@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20T21:31:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4679-4680", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4679", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Lamborn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-20T21:37:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Lamborn amendment (A007) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt670-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4435-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4435
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 7, 
+  "introduced_at": "2014-05-20", 
+  "number": 670, 
+  "purpose": "An amendment No. 7 printed in House Report 113-455 to add a Sense of Congress establishing that national security is the top priority for the federal government and should be the top priority for the use of public lands.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lamborn, Doug", 
+    "state": "CO", 
+    "thomas_id": "01834", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-20T21:37:00-04:00", 
+  "updated_at": "2015-01-02T13:21:38-05:00"
+}

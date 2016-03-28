@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:50:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5163-5164", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5163", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Ms. Jackson Lee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T20:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5164", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Jackson Lee amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt797-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 20, 
+  "introduced_at": "2014-06-09", 
+  "number": 797, 
+  "purpose": "An amendment to increase funding for Policy Development and Research, Research and Technology, by $1 million and to reduce funding for Federal Housing Finance Agency, Office of Inspector General, by a similar amount.", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "thomas_id": "00588", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-09", 
+  "updated_at": "2015-01-02T13:22:43-05:00"
+}

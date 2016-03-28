@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-15T19:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6277", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6277", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A036) offered by Mr. DeSantis.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-15T19:26:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6277", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the DeSantis amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1088-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 36, 
+  "introduced_at": "2014-07-15", 
+  "number": 1088, 
+  "purpose": "An amendment to prohibit the use of funds for any IRS instant message or other electronic communications system that is not operationally searchable and archivable at all times.", 
+  "sponsor": {
+    "district": "6", 
+    "name": "DeSantis, Ron", 
+    "state": "FL", 
+    "thomas_id": "02116", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-15", 
+  "updated_at": "2015-01-02T13:25:09-05:00"
+}

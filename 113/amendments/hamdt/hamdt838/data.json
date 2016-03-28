@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10T16:53:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5225-5226", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5225-5226", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A061) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10T16:58:00-04:00", 
+      "references": [], 
+      "text": "Mr. Latham raised a point of order against the Conyers amendment (A061). Mr. Latham stated that the Conyers amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt838-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 61, 
+  "introduced_at": "2014-06-10", 
+  "number": 838, 
+  "purpose": "An amendment to prohibit the use of funds to pay any FHA mortgage insurance claim or in connection with the sale of any mortgage insured by the FHA before compliance with existing FHA loss mitigation requirements, documentation of such compliance by the Department of Housing and Urban Development, and provision of such documentation to the mortgagor.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-06-10", 
+  "updated_at": "2015-01-02T13:23:04-05:00"
+}

@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-16T13:40:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6323", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6323", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A051) offered by Mr. Lankford.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16T13:43:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6323", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Lankford amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1103-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5016-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 5016
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 51, 
+  "introduced_at": "2014-07-16", 
+  "number": 1103, 
+  "purpose": "An amendment to prohibit the use of funds by the Federal Communications Commission to make any changes to its policies with respect to broadcast indecency.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Lankford, James", 
+    "state": "OK", 
+    "thomas_id": "02050", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-07-16", 
+  "updated_at": "2015-01-02T13:25:16-05:00"
+}

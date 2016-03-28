@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-09-18", 
+      "references": [
+        {
+          "reference": "CR S5864", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5864", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3930 proposed by Senator Pryor for Senator Bennet.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-09-18", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3930 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3930-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s1611-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 1611
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-09-18", 
+  "number": 3930, 
+  "proposed_at": "2014-09-18", 
+  "purpose": "To clarify reporting requirements for the Department of Defense.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "thomas_id": "01965", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-09-18", 
+  "updated_at": "2015-01-02T13:14:24-05:00"
+}

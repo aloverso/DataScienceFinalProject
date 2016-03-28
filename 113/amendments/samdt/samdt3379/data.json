@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "references": [
+        {
+          "reference": "CR S3975-3979, S3982", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S3975", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment SA 3379 proposed by Senator Flake to Amendment SA 3378.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "how": "roll", 
+      "references": [], 
+      "result": "fail", 
+      "roll": 212, 
+      "text": "Amendment SA 3379 not agreed to in Senate by Yea-Nay Vote. 33 - 63. Record Vote Number: 212.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt3379-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3378-113", 
+    "amendment_type": "samdt", 
+    "congress": 113, 
+    "number": 3378
+  }, 
+  "amends_bill": {
+    "bill_id": "hr803-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 803
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2014-06-25", 
+  "number": 3379, 
+  "proposed_at": "2014-06-25", 
+  "purpose": "To make the appointment and certification of a new local board permissible instead of required.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Flake, Jeff", 
+    "state": "AZ", 
+    "thomas_id": "01633", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-25", 
+  "updated_at": "2015-01-02T13:09:46-05:00"
+}

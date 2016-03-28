@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-11-19", 
+      "references": [
+        {
+          "reference": "CR S8289", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Amendment SA 2344 proposed by Senator Donnelly for Senator Brown.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-11-19", 
+      "how": "Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 2344 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendment_id": "samdt2344-113", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "s381-113", 
+    "bill_type": "s", 
+    "congress": 113, 
+    "number": 381
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "113", 
+  "description": null, 
+  "introduced_at": "2013-11-19", 
+  "number": 2344, 
+  "proposed_at": "2013-11-19", 
+  "purpose": "To award the gold medals to the next of kin of surviving members, as appropriate, and to designate the gold medals as numismatic items.", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2013-11-19", 
+  "updated_at": "2015-01-02T13:01:06-05:00"
+}

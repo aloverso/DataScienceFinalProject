@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T20:34:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5161", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5161", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A018) offered by Mr. Conyers.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T20:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Conyers amendment (A018) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt795-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment increases funding for the National Homeless Data Analysis Project by $2 million.", 
+  "house_number": 18, 
+  "introduced_at": "2014-06-09", 
+  "number": 795, 
+  "purpose": "An amendment to increase funding for the National Homeless Data Analysis Project by $2 million.", 
+  "sponsor": {
+    "district": "13", 
+    "name": "Conyers, John, Jr.", 
+    "state": "MI", 
+    "thomas_id": "00229", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-06-09T20:40:00-04:00", 
+  "updated_at": "2015-01-02T13:22:42-05:00"
+}

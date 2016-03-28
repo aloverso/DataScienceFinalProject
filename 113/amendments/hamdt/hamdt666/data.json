@@ -1,0 +1,63 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-20T20:51:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4674-4675", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4674", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Ms. Sanchez, Loretta.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-21T17:45:00-04:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4713", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 226, 
+      "text": "On agreeing to the Sanchez, Loretta amendment (A003) Failed by recorded vote: 194 - 227 (Roll no. 226).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt666-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4435-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4435
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to give DOD authority to transfer funds to nuclear nonproliferation and not just to weapons activities and naval reactors as was allowed for in the bill.", 
+  "house_number": 3, 
+  "introduced_at": "2014-05-20", 
+  "number": 666, 
+  "purpose": "An amendment No. 3 printed in House Report 113-455 to allow the transfer of funds to nuclear nonproliferation, not just to weapons activities and naval reactors as is currently allowed for in the bill.", 
+  "sponsor": {
+    "district": "46", 
+    "name": "Sanchez, Loretta", 
+    "state": "CA", 
+    "thomas_id": "01522", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-05-21T17:45:00-04:00", 
+  "updated_at": "2015-01-02T13:21:36-05:00"
+}

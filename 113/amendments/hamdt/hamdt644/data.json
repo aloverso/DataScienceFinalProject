@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T10:09:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3382-3383, H3388-3389", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3382", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T11:33:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": 189, 
+      "text": "On agreeing to the Gosar amendment (A003) Agreed to by recorded vote: 219 - 198 (Roll no. 189).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt644-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment reduces the amount provided for the Botanic Garden by $3,166,946, to the fiscal year 2014 level and applies the savings to the spending reduction account.", 
+  "house_number": 3, 
+  "introduced_at": "2014-05-01", 
+  "number": 644, 
+  "purpose": "An amendment numbered 3 printed in House Report 113-426 to reduce the amount provided for the Botanic Garden to the fiscal year 2014 level and transfer the funds to the spending reduction account.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-01T11:33:00-04:00", 
+  "updated_at": "2015-01-02T13:21:25-05:00"
+}

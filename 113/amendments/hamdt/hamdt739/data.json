@@ -1,0 +1,58 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T19:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4972-4974", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4972", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A050) offered by Ms. Esty.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T19:24:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4974", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "By unanimous consent, the Esty amendment was withdrawn.", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt739-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 50, 
+  "introduced_at": "2014-05-29", 
+  "number": 739, 
+  "purpose": "Page 100, strike lines7 through 11.", 
+  "sponsor": {
+    "district": "5", 
+    "name": "Esty, Elizabeth H.", 
+    "state": "CT", 
+    "thomas_id": "02114", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2014-05-29", 
+  "updated_at": "2015-01-02T13:22:13-05:00"
+}

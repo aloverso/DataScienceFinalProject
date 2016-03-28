@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-29T22:07:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H4993", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4993", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A069) offered by Mr. Perry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29T22:10:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Perry amendment (A069) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt758-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4660-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4660
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": null, 
+  "house_number": 69, 
+  "introduced_at": "2014-05-29", 
+  "number": 758, 
+  "purpose": "An amendment to prohibit use of funds for the United States Global Change Research Program.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Perry, Scott", 
+    "state": "PA", 
+    "thomas_id": "02157", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-29T22:10:00-04:00", 
+  "updated_at": "2015-01-02T13:22:22-05:00"
+}

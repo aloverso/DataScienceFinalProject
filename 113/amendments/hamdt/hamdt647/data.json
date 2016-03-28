@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-01T10:36:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H3385", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3385", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Hall.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-01T10:39:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Hall amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt647-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4487-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4487
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment prohibits funds from being used to deliver a printed copy of the CAO's Statement of Disbursements of the House to any Member of the House of Representatives.", 
+  "house_number": 6, 
+  "introduced_at": "2014-05-01", 
+  "number": 647, 
+  "purpose": "An amendment numbered 6 printed in House Report 113-426 to prohibit funds from being used to deliver a printed copy of the CAO's Statement of Disbursements of the House to any Member of the House of Representatives.", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Hall, Ralph M.", 
+    "state": "TX", 
+    "thomas_id": "00484", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2014-05-01T10:39:00-04:00", 
+  "updated_at": "2015-01-02T13:21:27-05:00"
+}

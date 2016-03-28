@@ -1,0 +1,57 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-09T14:35:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H5089", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Farenthold.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-09T14:40:00-04:00", 
+      "how": "by voice vote", 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Farenthold amendment (A002) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }
+  ], 
+  "amendment_id": "hamdt779-113", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4745-113", 
+    "bill_type": "hr", 
+    "congress": 113, 
+    "number": 4745
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "113", 
+  "description": "Amendment sought to transfer $6 million from the salaries and expenses account of the Office of the Secretary to the airport and airway trust fund for use by the FAA to obtain additional radar technology and equipment for the Standard Terminal Arrival Route (STARS).", 
+  "house_number": 2, 
+  "introduced_at": "2014-06-09", 
+  "number": 779, 
+  "purpose": "An amendment to transfer $6,000,000 from the salaries and expenses account of the Office of the Secretary to the airport and airway trust fund.", 
+  "sponsor": {
+    "district": "27", 
+    "name": "Farenthold, Blake", 
+    "state": "TX", 
+    "thomas_id": "02067", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2014-06-09T14:40:00-04:00", 
+  "updated_at": "2015-01-02T13:22:33-05:00"
+}
