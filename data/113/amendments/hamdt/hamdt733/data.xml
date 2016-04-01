@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="733" updated="2015-01-03T08:38:35-05:00">
+  <amends type="h" number="4660" sequence="44"/>
+  <status datetime="2014-05-29T16:49:00-04:00">pass</status>
+  <sponsor id="400211"/>
+  <offered datetime="2014-05-29"/>
+  <description>Amendment transfers $7 million from the NASA Space Operations account to the Space Technology Mission.</description>
+  <purpose>An amendment to transfer $7,000,000 from the Space Technology account to the Space Operations account.</purpose>
+  <actions>
+    <action datetime="2014-05-29T16:43:00-04:00">
+      <text>Amendment (A044) offered by Ms. Kaptur.</text>
+      <reference ref="CR H4955-4956" label="consideration"/>
+      <reference ref="CR H4955" label="text"/>
+    </action>
+    <vote datetime="2014-05-29T16:49:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Kaptur amendment (A044) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

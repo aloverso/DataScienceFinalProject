@@ -115,7 +115,7 @@
   "related_bills": [
     {
       "bill_id": "hres458-113", 
-      "reason": "unknown", 
+      "reason": "caused-action", 
       "type": "bill"
     }, 
     {
@@ -125,7 +125,7 @@
     }, 
     {
       "bill_id": "hr3547-113", 
-      "reason": "unknown", 
+      "reason": "caused-action", 
       "type": "bill"
     }
   ], 
@@ -158,5 +158,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:09:37-05:00"
+  "updated_at": "2015-09-01T10:21:13-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HC74:@@@L&summ2=m&"
 }

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="535" updated="2015-01-03T08:36:55-05:00">
+  <amends type="h" number="3590" sequence="3"/>
+  <status datetime="2014-02-04T15:22:00-05:00">pass</status>
+  <sponsor id="412576"/>
+  <offered datetime="2014-02-04"/>
+  <description>Amendment provides that women and minority groups, as appropriate, are included for membership on the Wildlife and Hunting Heritage Conservation Council Advisory Committee.</description>
+  <purpose>An amendment numbered 3 printed in House Report 113-339 to ensure that women and minority groups, as appropriate, are included for membership on the Wildlife and Hunting Heritage Conservation Council Advisory Committee.</purpose>
+  <actions>
+    <action datetime="2014-02-04T15:19:00-05:00">
+      <text>Amendment (A003) offered by Mr. Castro (TX).</text>
+      <reference ref="CR H1577" label="consideration"/>
+      <reference ref="CR H1577" label="text"/>
+    </action>
+    <vote datetime="2014-02-04T15:22:00-05:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Castro (TX) amendment (A003) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -245,15 +245,6 @@
     }, 
     {
       "district": null, 
-      "name": "Roberts, Pat", 
-      "sponsored_at": "2014-11-17", 
-      "state": "KS", 
-      "thomas_id": "00968", 
-      "title": "Sen", 
-      "withdrawn_at": null
-    }, 
-    {
-      "district": null, 
       "name": "Toomey, Pat", 
       "sponsored_at": "2014-11-20", 
       "state": "PA", 
@@ -302,6 +293,7 @@
   "subjects": [
     "Alliances", 
     "Alternative and renewable resources", 
+    "Arms control and nonproliferation", 
     "Asia", 
     "Bank accounts, deposits, capital", 
     "Competitiveness, trade promotion, trade deficits", 
@@ -317,12 +309,15 @@
     "Foreign aid and international relief", 
     "Foreign and international banking", 
     "Foreign loans and debt", 
+    "Foreign property", 
     "Georgia (Republic)", 
     "Government ethics and transparency, public corruption", 
     "Infrastructure development", 
     "International affairs", 
     "International exchange and broadcasting", 
+    "International law and treaties", 
     "International organizations and cooperation", 
+    "Internet and video services", 
     "Latvia", 
     "Licensing and registrations", 
     "Lighting and heating", 
@@ -333,6 +328,7 @@
     "Motor fuels", 
     "Multilateral development programs", 
     "News media and reporting", 
+    "Nuclear weapons", 
     "Oil and gas", 
     "Poland", 
     "Presidents and presidential powers", 
@@ -381,5 +377,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:39:43-05:00"
+  "updated_at": "2015-09-01T17:51:15-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2828:@@@L&summ2=m&"
 }

@@ -77,7 +77,11 @@
     "Legislative rules and procedure"
   ], 
   "subjects_top_term": "Crime and law enforcement", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-29", 
+    "text": "Requires the United States attorney to bring the matter of an individual's contempt of Congress before a grand jury not later than 30 days after receiving a certification from the President of the Senate or the Speaker of the House of a statement of facts that the individual is in contempt."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -86,5 +90,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:02:29-05:00"
+  "updated_at": "2015-09-01T10:20:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5246:@@@L&summ2=m&"
 }

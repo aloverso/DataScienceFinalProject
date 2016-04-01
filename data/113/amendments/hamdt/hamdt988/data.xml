@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="988" updated="2015-01-03T08:40:42-05:00">
+  <amends type="h" number="4923" sequence="17"/>
+  <status datetime="2014-07-09T17:46:00-04:00">fail</status>
+  <sponsor id="412564"/>
+  <offered datetime="2014-07-09"/>
+  <description>Amendment sought to direct $15 million to the Uranium Enrichment Decontamination and Decommissioning Fund for the purpose of the decommissioning and cleaning of the Portsmouth plant in Pike County, Ohio. The redirection would have been offset by reductions in funding for administrative and energy accounts.</description>
+  <purpose>An amendment to reduce by $10,421,000 the Energy Efficiency and Renewable Energy and increase by $15,000,000 the Uranium Enrichment Decontamination and Decommissioning Fund and reduce the Salaries and Expenses of the Department of Energy for departmental administration by $8,540,000.</purpose>
+  <actions>
+    <action datetime="2014-07-09T16:05:00-04:00">
+      <text>Amendment (A017) offered by Mr. Wenstrup.</text>
+      <reference ref="CR H5998-5999, H6006-6007" label="consideration"/>
+      <reference ref="CR H5998" label="text"/>
+    </action>
+    <vote datetime="2014-07-09T17:46:00-04:00" how="roll" result="fail" roll="374">
+      <text>On agreeing to the Wenstrup amendment (A017) Failed by recorded vote: 112 - 309 (Roll no. 374).</text>
+    </vote>
+  </actions>
+</amendment>

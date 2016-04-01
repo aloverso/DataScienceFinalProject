@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="338" updated="2015-01-03T08:35:17-05:00">
+  <amends type="h" number="5" sequence="21"/>
+  <status datetime="2013-07-18T19:07:00-04:00">pass</status>
+  <sponsor id="412252"/>
+  <offered datetime="2013-07-18"/>
+  <description>Amendment requires the Secretary of Education to include in the required report to Congress the average salary of employees who were determined to be associated with eliminated or consolidated programs or projects by the underlying legislation and a report on the average salaries of the employees of the Department according to their job function.</description>
+  <purpose>An amendment numbered 21 printed in House Report 113-158 to require the Secretary of Education to include in their report to Congress the average salary of employees who were determined to be associated with eliminated or consolidated programs or projects by the underlying legislation and a report on the average salaries of the employees of the Department according to their job function.</purpose>
+  <actions>
+    <action datetime="2013-07-18T18:55:00-04:00">
+      <text>Amendment (A021) offered by Mr. Broun (GA).</text>
+      <reference ref="CR H4720-4722" label="consideration"/>
+      <reference ref="CR H4720" label="text"/>
+    </action>
+    <vote datetime="2013-07-18T19:07:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Broun (GA) amendment (A021) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

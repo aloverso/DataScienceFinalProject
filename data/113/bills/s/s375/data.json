@@ -295,7 +295,7 @@
     }, 
     {
       "district": null, 
-      "name": "King, Angus S. Jr.", 
+      "name": "King, Angus S., Jr.", 
       "sponsored_at": "2013-02-25", 
       "state": "ME", 
       "thomas_id": "02185", 
@@ -457,15 +457,6 @@
     }, 
     {
       "district": null, 
-      "name": "Thune, John", 
-      "sponsored_at": "2014-11-12", 
-      "state": "SD", 
-      "thomas_id": "01534", 
-      "title": "Sen", 
-      "withdrawn_at": null
-    }, 
-    {
-      "district": null, 
       "name": "Udall, Mark", 
       "sponsored_at": "2013-02-25", 
       "state": "CO", 
@@ -515,15 +506,6 @@
       "sponsored_at": "2013-02-26", 
       "state": "RI", 
       "thomas_id": "01823", 
-      "title": "Sen", 
-      "withdrawn_at": null
-    }, 
-    {
-      "district": null, 
-      "name": "Wicker, Roger F.", 
-      "sponsored_at": "2014-11-12", 
-      "state": "MS", 
-      "thomas_id": "01226", 
       "title": "Sen", 
       "withdrawn_at": null
     }, 
@@ -604,5 +586,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:19:00-05:00"
+  "updated_at": "2015-09-01T17:50:27-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN375:@@@L&summ2=m&"
 }

@@ -661,8 +661,8 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-07-31", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "Designates the facility of the United States Postal Service located at 73839 Gorgonio Drive in Twentynine Palms, California, as the \"Colonel M.J. 'Mac' Dube, USMC Post Office Building.\""
   }, 
   "titles": [
@@ -673,5 +673,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:03:11-05:00"
+  "updated_at": "2015-09-01T10:20:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5331:@@@L&summ2=m&"
 }

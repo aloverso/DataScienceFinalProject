@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="766" updated="2015-01-03T08:38:51-05:00">
+  <amends type="h" number="4660" sequence="77"/>
+  <status datetime="2014-05-29T22:51:00-04:00">pass</status>
+  <sponsor id="412569"/>
+  <offered datetime="2014-05-29"/>
+  <description>Amendment prohibits the use of funds to implement the U.S. Global Climate Research Program National Climate Assessment, the Intergovernmental Panel on Climate Change's Fifth Assessment Report, the United Nation's Agenda 21 sustainable development plan, or the May 2013 Technical Update of the Social Cost of Carbon for Regulatory Impact Analysis Under Executive Order 12866.</description>
+  <purpose>An amendment to prohibit use of funds to design, implement, administer, or carry out the U.S. Global Climate Research Program National Climate Assessment, the Intergovernmental Panel on Climate Change's Fifth Assessment Report, the U.N.'s Agenda 21 sustainable development plan, or the May 2013 Technical Update of the Social Cost of Carbon for Regulatory Impact Analysis.</purpose>
+  <actions>
+    <action datetime="2014-05-29T22:50:00-04:00">
+      <text>Amendment (A077) offered by Mr. Perry.</text>
+      <reference ref="CR H4998-4999" label="consideration"/>
+      <reference ref="CR H4998" label="text"/>
+    </action>
+    <vote datetime="2014-05-29T22:51:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Perry amendment (A077) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="694" updated="2015-01-03T08:38:15-05:00">
+  <amends type="h" number="4660" sequence="5"/>
+  <status datetime="2014-05-28T20:54:00-04:00">pass</status>
+  <sponsor id="400230"/>
+  <offered datetime="2014-05-28"/>
+  <description>Amendment designates $5 million for a survey on the NIST cybersecurity framework for reducing cyber risks to critical infrastructure.</description>
+  <purpose>An amendment to designate $5 million for a survey on the NIST cybersecurity framework for reducing cyber risks to critical infrastructure.</purpose>
+  <actions>
+    <action datetime="2014-05-28T20:46:00-04:00">
+      <text>Amendment (A005) offered by Mr. Langevin.</text>
+      <reference ref="CR H4884-4885" label="consideration"/>
+      <reference ref="CR H4884" label="text"/>
+    </action>
+    <vote datetime="2014-05-28T20:54:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Langevin amendment Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="487" updated="2015-01-03T08:36:31-05:00">
+  <amends type="h" number="3080" sequence="7"/>
+  <status datetime="2013-10-23T16:54:00-04:00">fail</status>
+  <sponsor id="412547"/>
+  <offered datetime="2013-10-23"/>
+  <description>Amendment sought to increase the amount of backlogged projects to be de-authorized, beyond what is initially de-authorized in the bill from $12 billion to $35 billion.</description>
+  <purpose/>
+  <actions>
+    <action datetime="2013-10-23T16:44:00-04:00">
+      <text>Amendment (A007) offered by Mr. Bentivolio.</text>
+      <reference ref="CR H6749-6750" label="consideration"/>
+      <reference ref="CR H6749" label="text"/>
+    </action>
+    <vote datetime="2013-10-23T16:54:00-04:00" how="by voice vote" result="fail">
+      <text>On agreeing to the Bentivolio amendment (A007) Failed by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

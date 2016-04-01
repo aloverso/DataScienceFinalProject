@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="571" updated="2015-01-03T08:37:13-05:00">
+  <amends type="h" number="3193" sequence="2"/>
+  <status datetime="2014-02-27T18:02:00-05:00">pass</status>
+  <sponsor id="412526"/>
+  <offered datetime="2014-02-27"/>
+  <description>Amendment repeals the exclusive rulemaking authority of the Consumer Financial Protection Bureau.</description>
+  <purpose>An amendment numbered 3 printed in Part B of House Report 113-350 to repeal the exclusive rulemaking authority of the Consumer Financial Protection Bureau.</purpose>
+  <actions>
+    <action datetime="2014-02-27T16:09:00-05:00">
+      <text>Amendment (A002) offered by Mr. DeSantis.</text>
+      <reference ref="CR H2040-2041, H2050-2051" label="consideration"/>
+      <reference ref="CR H2040" label="text"/>
+    </action>
+    <vote datetime="2014-02-27T18:02:00-05:00" how="roll" result="pass" roll="82">
+      <text>On agreeing to the DeSantis amendment (A002) Agreed to by recorded vote: 227 - 186 (Roll no. 82).</text>
+    </vote>
+  </actions>
+</amendment>

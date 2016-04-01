@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="1789" updated="2015-01-03T08:12:58-05:00">
+  <amends type="s" number="1243" sequence=""/>
+  <status datetime="2013-07-25">pass</status>
+  <sponsor id="400412"/>
+  <offered datetime="2013-07-24"/>
+  <description>To require the Federal Railroad Administration to evaluate regulations that govern the use of locomotive horns at highway-rail grade crossings.</description>
+  <actions>
+    <action datetime="2013-07-25">
+      <text>Amendment SA 1789 proposed by Senator Murray for Senator Udall CO.</text>
+      <reference ref="CR S5942-5943" label="consideration"/>
+      <reference ref="CR S5943" label="text"/>
+    </action>
+    <vote datetime="2013-07-25" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1789 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -148,9 +148,9 @@
   ], 
   "subjects_top_term": "Armed forces and national security", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2014-12-12", 
-    "text": "Foreclosure Relief for Servicemembers Act of 2014 - Amends the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 to extend through calendar year 2015 the one-year period after a service member's military service during which: (1) a court may stay proceedings to enforce an obligation on real or personal property owned by the service member before such military service; and (2) any sale, foreclosure, or seizure of such property shall be invalid without a court order or waiver agreement signed by the service member.\n\nRevives, effective January 1, 2016 (currently, January 1, 2015), the old nine-month period in place of the one-year period granted by such Act."
+    "as": "Public Law", 
+    "date": "2014-12-18", 
+    "text": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Foreclosure Relief for Servicemembers Act of 2014 - Amends the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 to extend through calendar year 2015 the one-year period after a service member's military service during which: (1) a court may stay proceedings to enforce an obligation on real or personal property owned by the service member before such military service; and (2) any sale, foreclosure, or seizure of such property shall be invalid without a court order or waiver agreement signed by the service member. Revives, effective January 1, 2016 (currently, January 1, 2015), the old nine-month period in place of the one-year period granted by such Act."
   }, 
   "titles": [
     {
@@ -172,11 +172,18 @@
       "type": "short"
     }, 
     {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Foreclosure Relief and Extension for Servicemembers Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to extend temporarily the extended period of protection for members of uniformed services relating to mortgages, mortgage foreclosure, and eviction, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:41:13-05:00"
+  "updated_at": "2015-09-01T10:22:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN3008:@@@L&summ2=m&"
 }

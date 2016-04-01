@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="775" updated="2015-01-03T08:38:56-05:00">
+  <amends type="h" number="4681" sequence="2"/>
+  <status datetime="2014-05-30T10:52:00-04:00">pass</status>
+  <sponsor id="400141"/>
+  <offered datetime="2014-05-30"/>
+  <description>Amendment requires a report from Director of National Intelligence on the threat posed by man-made electromagnetic pulse weapons to United States interests through 2025, including threats from foreign countries and foreign non-State actors.</description>
+  <purpose>An amendment numbered 6 printed in House Report 113-465 to require a report from DNI on the threat posed by man-made electromagnetic pulse weapons to United States interests through 2025, including threats from foreign countries and foreign non-State actors.</purpose>
+  <actions>
+    <action datetime="2014-05-30T10:43:00-04:00">
+      <text>Amendment (A002) offered by Mr. Franks (AZ).</text>
+      <reference ref="CR H5050-5051" label="consideration"/>
+      <reference ref="CR H5050" label="text"/>
+    </action>
+    <vote datetime="2014-05-30T10:52:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Franks (AZ) amendment (A002) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

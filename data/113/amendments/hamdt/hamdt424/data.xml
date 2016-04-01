@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="424" updated="2015-01-03T08:36:00-05:00">
+  <amends type="h" number="2610" sequence="8"/>
+  <status datetime="2013-07-30T19:18:00-04:00">fail</status>
+  <sponsor id="400170"/>
+  <offered datetime="2013-07-30"/>
+  <description>Amendment sought to increase funding for NextGen by $3,497,000.</description>
+  <purpose>An amendment to increase funding for NextGen by $3,497,000.</purpose>
+  <actions>
+    <action datetime="2013-07-30T17:45:00-04:00">
+      <text>Amendment (A008) offered by Mr. Hastings (FL).</text>
+      <reference ref="CR H5129, H5140-5141" label="consideration"/>
+      <reference ref="CR H5129" label="text"/>
+    </action>
+    <vote datetime="2013-07-30T19:18:00-04:00" how="roll" result="fail" roll="423">
+      <text>On agreeing to the Hastings (FL) amendment (A008) Failed by recorded vote: 154 - 258 (Roll no. 423).</text>
+    </vote>
+  </actions>
+</amendment>

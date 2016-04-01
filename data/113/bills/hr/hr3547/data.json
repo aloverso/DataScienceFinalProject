@@ -660,6 +660,11 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "hr3866-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "hr4660-113", 
       "reason": "related", 
       "type": "bill"
@@ -890,7 +895,7 @@
     "General agriculture matters", 
     "Germany", 
     "Government Accountability Office (GAO)", 
-    "Government Printing Office (GPO)", 
+    "Government Publishing Office (GPO)", 
     "Government buildings, facilities, and property", 
     "Government employee pay, benefits, personnel management", 
     "Government information and archives", 
@@ -1279,5 +1284,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:48:10-05:00"
+  "updated_at": "2015-09-01T17:49:22-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3547:@@@L&summ2=m&"
 }

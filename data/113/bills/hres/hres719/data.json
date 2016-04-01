@@ -45,7 +45,7 @@
   }, 
   "introduced_at": "2014-09-10", 
   "number": "719", 
-  "official_title": "Recognizing the 20th Anniversary of AmeriCorps on September 12, 2014.", 
+  "official_title": "Recognizing the 20th anniversary of AmeriCorps on September 12, 2014.", 
   "popular_title": null, 
   "related_bills": [], 
   "short_title": null, 
@@ -79,9 +79,10 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
-      "title": "Recognizing the 20th Anniversary of AmeriCorps on September 12, 2014.", 
+      "title": "Recognizing the 20th anniversary of AmeriCorps on September 12, 2014.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:17:58-05:00"
+  "updated_at": "2015-09-01T17:49:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE719:@@@L&summ2=m&"
 }

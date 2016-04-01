@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="732" updated="2015-01-03T08:38:34-05:00">
+  <amends type="h" number="4660" sequence="43"/>
+  <status datetime="2014-05-29T16:37:00-04:00">fail</status>
+  <sponsor id="412252"/>
+  <offered datetime="2014-05-29"/>
+  <description>Amendment sought to reduce funding for the Office of Science and Technology Policy account by $1 million and to apply the savings to the spending reduction account.</description>
+  <purpose>An amendment to reduce funding for the OSTP account by $1,000,000 and apply the savings to the spending reduction account.</purpose>
+  <actions>
+    <action datetime="2014-05-29T16:26:00-04:00">
+      <text>Amendment (A043) offered by Mr. Broun (GA).</text>
+      <reference ref="CR H4953-4954" label="consideration"/>
+      <reference ref="CR H4953" label="text"/>
+    </action>
+    <vote datetime="2014-05-29T16:37:00-04:00" how="by voice vote" result="fail">
+      <text>On agreeing to the Broun (GA) amendment (A043) Failed by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

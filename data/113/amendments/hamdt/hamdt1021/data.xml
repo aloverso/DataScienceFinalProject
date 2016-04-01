@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="1021" updated="2015-01-03T08:40:59-05:00">
+  <amends type="h" number="4923" sequence="50"/>
+  <status datetime="2014-07-10T16:26:00-04:00">pass</status>
+  <sponsor id="412215"/>
+  <offered datetime="2014-07-10"/>
+  <description>Amendment prohibits the use of funds to enter into a contract with any person who has a demonstrated, recorded, proven history of wage theft and is in violation of the Fair Labor Standards Act.</description>
+  <purpose>An amendment numbered 7 printed in the Congressional Record to prohibit the use of funds to enter into a contract with any person whose disclosures of a proceeding with a disposition listed in section 2313(c)(1) of title 41, U.S.C, in the Federal Awardee Performance and Integrity Information System.</purpose>
+  <actions>
+    <action datetime="2014-07-10T16:22:00-04:00">
+      <text>Amendment (A050) offered by Mr. Ellison.</text>
+      <reference ref="CR H6069-6070" label="consideration"/>
+      <reference ref="CR H6069" label="text"/>
+    </action>
+    <vote datetime="2014-07-10T16:26:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Ellison amendment (A050) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

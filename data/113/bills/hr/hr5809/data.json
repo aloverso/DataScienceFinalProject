@@ -119,7 +119,11 @@
     "Public contracts and procurement"
   ], 
   "subjects_top_term": "Health", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-08", 
+    "text": "Medicare DMEPOS Competitive Bidding Improvement Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act with respect to the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program.\n\nProhibits the Secretary of Health and Human Services (HHS) from accepting a bid from an entity for an area unless it: (1) meets state licensure requirements for the area for all items in the submitted bid for a product category, and (2) has obtained a bid surety bond of between $50,000 and $100,000 for each such area.\n\nPrescribes requirements for the treatment of losing bidders and successful bidders that do not accept a contract."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -134,5 +138,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:12-05:00"
+  "updated_at": "2015-09-01T10:21:06-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5809:@@@L&summ2=m&"
 }

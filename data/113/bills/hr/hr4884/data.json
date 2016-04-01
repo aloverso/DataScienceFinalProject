@@ -35,7 +35,7 @@
   }, 
   "introduced_at": "2014-06-17", 
   "number": "4884", 
-  "official_title": "To For the relief of Zenon Kolenda and Orysya Bilyanska Kolenda.", 
+  "official_title": "For the relief of Zenon Kolenda and Orysya Bilyanska Kolenda.", 
   "popular_title": null, 
   "related_bills": [], 
   "short_title": null, 
@@ -62,9 +62,10 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
-      "title": "To For the relief of Zenon Kolenda and Orysya Bilyanska Kolenda.", 
+      "title": "For the relief of Zenon Kolenda and Orysya Bilyanska Kolenda.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:59:27-05:00"
+  "updated_at": "2015-09-01T17:49:52-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4884:@@@L&summ2=m&"
 }

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="615" updated="2015-01-03T08:37:36-05:00">
+  <amends type="hc" number="96" sequence="4"/>
+  <status datetime="2014-04-10T10:21:00-04:00">fail</status>
+  <sponsor id="412416"/>
+  <offered datetime="2014-04-10"/>
+  <description>Amendment in the nature of a substitute comprises the budget proposal of the Republican Study Committee and appears on page H3149 of the Congressional Record of April 10, 2014.</description>
+  <purpose>Amendment in the nature of a substitute.</purpose>
+  <actions>
+    <action datetime="2014-04-10T09:18:00-04:00">
+      <text>Amendment (A004) in the nature of a substitute offered by Mr. Woodall.</text>
+      <reference ref="CR H3149-3164, H3164-3166" label="consideration"/>
+      <reference ref="CR H3149-3161" label="text"/>
+    </action>
+    <vote datetime="2014-04-10T10:21:00-04:00" how="roll" result="fail" roll="175">
+      <text>On agreeing to the Woodall amendment (A004) Failed by recorded vote: 133 - 291 (Roll no. 175).</text>
+    </vote>
+  </actions>
+</amendment>

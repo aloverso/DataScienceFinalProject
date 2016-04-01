@@ -160,7 +160,7 @@
       "type": "short"
     }, 
     {
-      "as": "reported to house", 
+      "as": "reported to senate", 
       "is_for_portion": false, 
       "title": "New Philadelphia, Illinois, Study Act", 
       "type": "short"
@@ -172,5 +172,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:27:08-05:00"
+  "updated_at": "2015-09-01T10:21:54-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1328:@@@L&summ2=m&"
 }

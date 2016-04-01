@@ -171,9 +171,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2013-01-23", 
-    "text": "Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act - Designates certain land in the Mount Baker-Snoqualmie National Forest in the state of Washington, which shall be considered to become a part of the Alpine Lakes Wilderness, as wilderness and as a component of the National Wilderness Preservation System.\n\nAmends the Wild and Scenic Rivers Act to designate the Middle Fork Snoqualmie and Pratt Rivers in Washington as scenic and/or wild rivers."
+    "as": "Reported to House amended", 
+    "date": "2014-12-22", 
+    "text": "Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act - (Sec. 2) Designates certain land in the Mount Baker-Snoqualmie National Forest in the state of Washington, which shall be considered to become a part of the Alpine Lakes Wilderness, as wilderness and as a component of the National Wilderness Preservation System.\n\nDeclares that this Act shall have no effect on overflights of military aircraft or the authority to carry out wildfire prevention activities.\n\n (Sec. 3) Amends the Wild and Scenic Rivers Act to designate segments of the Middle Fork Snoqualmie River as wild and scenic rivers and the entirety of the Pratt River as a wild river. Prohibits acquisition by condemnation of any land or interest in land within the boundaries of such river segments and excludes private or non-federal public property unless the owner of the property has consented in writing to having it included.\n\n(Sec. 4) Prohibits anything in this Act from: (1) establishing a protective perimeter or buffer zone around the boundaries of the wild and scenic river segments or wilderness designated by this Act, or (2) restricting an activity from being conducted outside such boundaries."
   }, 
   "titles": [
     {
@@ -195,5 +195,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:21:31-05:00"
+  "updated_at": "2015-09-01T17:49:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR361:@@@L&summ2=m&"
 }

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="687" updated="2015-01-03T08:38:12-05:00">
+  <amends type="h" number="4435" sequence="24"/>
+  <status datetime="2014-05-21T21:30:00-04:00">pass</status>
+  <sponsor id="400267"/>
+  <offered datetime="2014-05-21"/>
+  <description>Amendments en bloc comprised of amendments numbered 92, 93, 94, 95, 96, 99, 101, 102, 103, 104, 115, 118, 119, 120, 121, 123, 124, 128, 136, 145, and 155 printed in part A of House Report 113-460. See page D545 of the Congressional Record for May 21, 2014, for description of en bloc amendments.</description>
+  <purpose>Amendments en bloc No. 6 consisting of amendments numbered 92, 93, 94, 95, 96, 99, 101, 102, 103, 104, 115, 118, 119, 120, 121, 123, 124, 128, 136, 145, and 155 printed in Part A of House Report 113-460.</purpose>
+  <actions>
+    <action datetime="2014-05-21T21:28:00-04:00">
+      <text>Amendments en bloc (A024) offered by Mr. McKeon.</text>
+      <reference ref="CR H4769-4774" label="consideration"/>
+      <reference ref="CR H4769-4773" label="text as en bloc"/>
+    </action>
+    <vote datetime="2014-05-21T21:30:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the McKeon amendments (A024) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

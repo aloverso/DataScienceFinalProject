@@ -117,9 +117,24 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-11", 
-  "subjects": [], 
-  "subjects_top_term": null, 
-  "summary": null, 
+  "subjects": [
+    "Assault and harassment offenses", 
+    "Child care and development", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Domestic violence and child abuse", 
+    "Employee leave", 
+    "Health care coverage and access", 
+    "Labor and employment", 
+    "Mental health", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-11", 
+    "text": "Paid Sick Leave Act - Requires certain employers, who employ 15 or more employees for each working day during 20 or more workweeks a year, to permit each employee to earn at least 1 hour of paid sick time for every 30 hours worked.\n\nAllows employees to use such time to: (1) meet their own medical needs; (2) care for the medical needs of certain family members ; or (3) seek medical attention, assist a related person, take legal action, or engage in other specified activities relating to domestic violence, sexual assault, or stalking."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -134,5 +149,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:32-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5849:@@@L&summ2=m&"
 }

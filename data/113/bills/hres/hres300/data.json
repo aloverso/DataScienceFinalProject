@@ -137,7 +137,7 @@
     }, 
     {
       "bill_id": "hr2667-113", 
-      "reason": "unknown", 
+      "reason": "action-caused-by", 
       "type": "bill"
     }, 
     {
@@ -181,5 +181,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:14:28-05:00"
+  "updated_at": "2015-09-01T10:18:35-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE300:@@@L&summ2=m&"
 }

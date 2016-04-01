@@ -28,9 +28,13 @@
     }, 
     {
       "acted_at": "2014-05-21T17:02:00-04:00", 
+      "how": "by voice vote", 
       "references": [], 
+      "result": "fail", 
       "text": "On agreeing to the Garamendi amendment (A005) as modified Failed by voice vote.", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
     }
   ], 
   "amendment_id": "hamdt668-113", 
@@ -58,7 +62,7 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "offered", 
-  "status_at": "2014-05-20", 
-  "updated_at": "2015-01-02T13:21:37-05:00"
+  "status": "fail", 
+  "status_at": "2014-05-21T17:02:00-04:00", 
+  "updated_at": "2015-01-03T08:38:02-05:00"
 }

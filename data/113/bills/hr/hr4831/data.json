@@ -98,7 +98,7 @@
   "short_title": "Twenty-First Century Manufacturing Skills and Jobs Act of 2014", 
   "sponsor": {
     "district": "5", 
-    "name": "Kildee, Daniel T", 
+    "name": "Kildee, Daniel T.", 
     "state": "MI", 
     "thomas_id": "02134", 
     "title": "Rep", 
@@ -136,5 +136,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:59:00-05:00"
+  "updated_at": "2015-09-01T17:49:51-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4831:@@@L&summ2=m&"
 }

@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="1093" updated="2015-01-03T08:41:35-05:00">
+  <amends type="h" number="5016" sequence="41"/>
+  <status datetime="2014-07-16T15:21:00-04:00">pass</status>
+  <sponsor id="400032"/>
+  <offered datetime="2014-07-15"/>
+  <description>Amendment to prohibit the use of funds with respect to specified States, to prevent such States from implementing their own State laws with respect to the provision of broadband Internet access service by the State or a municipality or other political subdivision of the State.</description>
+  <purpose>An amendment to prohibit the use of funds with respect to specified States, to prevent such States from implementing their own State laws with respect to the provision of broadband Internet access service by the State or a municipality or other political subdivision of the State.</purpose>
+  <actions>
+    <action datetime="2014-07-15T19:54:00-04:00">
+      <text>Amendment (A041) offered by Mrs. Blackburn.</text>
+      <reference ref="CR H6280-6282" label="consideration"/>
+      <reference ref="CR H6280" label="text"/>
+    </action>
+    <vote datetime="2014-07-16T15:21:00-04:00" how="roll" result="pass" roll="423">
+      <text>On agreeing to the Blackburn amendment (A041) Agreed to by recorded vote: 223 - 200 (Roll no. 423).</text>
+      <reference ref="CR H6329" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

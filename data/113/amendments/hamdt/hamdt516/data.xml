@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="516" updated="2015-01-03T08:36:46-05:00">
+  <amends type="h" number="1900" sequence="5"/>
+  <status datetime="2013-11-21T11:44:00-05:00">fail</status>
+  <sponsor id="400110"/>
+  <offered datetime="2013-11-21"/>
+  <description>Amendment sought to replace the bill with a requirement that GAO complete a study on what, if any, delays are expected by FERC or other Federal, State, or local permitting authorities in issuing permits regarding the siting, construction, expansion, or operation of any natural gas pipeline project.</description>
+  <purpose>An amendment numbered 5 printed in House Report 113-272 to replace the bill with a requirement that GAO complete a study on what, if any, delays are expected by FERC or other federal, state, or local permitting authorities in issuing permits regarding the siting, construction, expansion, or operation of any natural gas pipeline project.</purpose>
+  <actions>
+    <action datetime="2013-11-21T10:42:00-05:00">
+      <text>Amendment (A005) in the nature of a substitute offered by Mr. Dingell.</text>
+      <reference ref="CR H7327-7328, H7331" label="consideration"/>
+      <reference ref="CR H7327" label="text"/>
+    </action>
+    <vote datetime="2013-11-21T11:44:00-05:00" how="roll" result="fail" roll="609">
+      <text>On agreeing to the Dingell amendment (A005) Failed by recorded vote: 175 - 239 (Roll no. 609).</text>
+    </vote>
+  </actions>
+</amendment>

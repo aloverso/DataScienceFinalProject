@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="1152" updated="2015-01-03T08:42:04-05:00">
+  <amends type="hr" number="770" sequence="1"/>
+  <status datetime="2014-12-04T10:54:00-05:00">pass</status>
+  <sponsor id="412409"/>
+  <offered datetime="2014-12-04"/>
+  <description>An amendment to add a section to the resolution amending the amendment referred to in the first section by striking section 3096 and inserting language appropriating funds to the Secretary of the Interior.</description>
+  <purpose>An amendment to add a section to the resolution amending the amendment referred to in the first section by striking section 3096 and inserting language appropriating funds to the Secretary of the Interior.</purpose>
+  <actions>
+    <action datetime="2014-12-04T10:26:00-05:00">
+      <text>Amendment (A001) offered by Mr. Nugent.</text>
+      <reference ref="CR H8383-8384" label="consideration"/>
+      <reference ref="CR H8383" label="text"/>
+    </action>
+    <vote datetime="2014-12-04T10:54:00-05:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Nugent amendment (A001) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

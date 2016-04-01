@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="983" updated="2015-01-03T08:40:40-05:00">
+  <amends type="h" number="4923" sequence="12"/>
+  <status datetime="2014-07-09">offered</status>
+  <sponsor id="412250"/>
+  <offered datetime="2014-07-09"/>
+  <description>An amendment to strike the $2 million in funding for the Office of the Assistant Secretary of the Army for Civil Works and to apply the savings to the spending reduction account.</description>
+  <actions>
+    <action datetime="2014-07-09T15:29:00-04:00">
+      <text>Amendment (A012) offered by Mr. Bilirakis.</text>
+      <reference ref="CR H5993" label="consideration"/>
+      <reference ref="CR H5993" label="text"/>
+    </action>
+    <action datetime="2014-07-09T15:32:00-04:00">
+      <text>By unanimous consent, the Bilirakis amendment was withdrawn.</text>
+      <reference ref="CR H5993" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

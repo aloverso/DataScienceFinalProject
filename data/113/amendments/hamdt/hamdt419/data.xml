@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="419" updated="2015-01-03T08:35:58-05:00">
+  <amends type="h" number="2610" sequence="3"/>
+  <status datetime="2013-07-30T17:17:00-04:00">pass</status>
+  <sponsor id="400234"/>
+  <offered datetime="2013-07-30"/>
+  <description>Amendment directs the existing $14.7 million in DOT funding to the Research and Innovative Technology Administration rather than towards a new Assistant Secretary.</description>
+  <purpose>An amendment technical in nature, to provide funding for the Research and Innovative Technology Administration.</purpose>
+  <actions>
+    <action datetime="2013-07-30T17:16:00-04:00">
+      <text>Amendment (A003) offered by Mr. Latham.</text>
+      <reference ref="CR H5124-5125" label="consideration"/>
+      <reference ref="CR H5124" label="text"/>
+    </action>
+    <vote datetime="2013-07-30T17:17:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Latham amendment (A003) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

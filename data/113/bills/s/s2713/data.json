@@ -68,7 +68,11 @@
     "Public lands and natural resources"
   ], 
   "subjects_top_term": "Public lands and natural resources", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-30", 
+    "text": "Directs the Secretary of Health and Human Services (HHS) to convey specified property (22.98 acres) to the Yukon Kuskokwim Health Corporation located in Bethel, Alaska, for use in connection with health and social services programs.\n\nShields the Corporation from liability for any environmental contamination on the conveyed property. Requires the Secretary to: (1) be accorded access to the conveyed property as may be reasonably necessary to satisfy any retained obligations and liability; and (2) comply with requirements of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 regarding the transfer of U.S. real property on which any hazardous substance was stored for one year or more, disposed of, or known to have been released."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -77,5 +81,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:38:45-05:00"
+  "updated_at": "2015-09-01T10:22:25-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2713:@@@L&summ2=m&"
 }

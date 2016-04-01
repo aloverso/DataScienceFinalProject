@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="583" updated="2015-01-03T08:37:20-05:00">
+  <amends type="h" number="3826" sequence="8"/>
+  <status datetime="2014-03-06T10:47:00-05:00">fail</status>
+  <sponsor id="400425"/>
+  <offered datetime="2014-03-05"/>
+  <description>Amendment sought to add a section setting effective date guidelines which take effect when the Administrator of the EIA certifies that another Federal program, other than one under section 111 of the Clean Air Act, will reduce carbon pollution in at least equivalent quantities, with similar timing and from the same sources as the reductions required under the rules and guidelines nullified by section 4.</description>
+  <purpose>An amendment numbered 8 printed in House Report 113-373 to provide that the bill takes effect when the Administrator of the EIA certifies that another Federal program, other than one under section 111 of the Clean Air Act, will reduce carbon pollution in at least equivalent quantities, with similar timing and from the same sources as the reductions required under the rules and guidelines nullified by section 4.</purpose>
+  <actions>
+    <action datetime="2014-03-05T18:06:00-05:00">
+      <text>Amendment (A008) offered by Mr. Waxman.</text>
+      <reference ref="CR H2194-2195" label="consideration"/>
+      <reference ref="CR H2194" label="text"/>
+    </action>
+    <vote datetime="2014-03-06T10:47:00-05:00" how="roll" result="fail" roll="104">
+      <text>On agreeing to the Waxman amendment (A008) Failed by recorded vote: 178 - 231 (Roll no. 104).</text>
+      <reference ref="CR H2210-2211" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

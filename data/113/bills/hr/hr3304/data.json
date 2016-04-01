@@ -257,14 +257,20 @@
     }, 
     {
       "acted_at": "2013-12-19", 
+      "how": "roll", 
       "references": [
         {
           "reference": "CR S9067-9068", 
           "type": "consideration"
         }
       ], 
+      "result": "pass", 
+      "roll": "284", 
+      "status": "PASSED:BILL", 
       "text": "Senate agreed to the House amendment to the Senate amendment by Yea-Nay Vote. 84 - 15. Record Vote Number: 284.", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "s"
     }, 
     {
       "acted_at": "2013-12-20", 
@@ -1258,7 +1264,7 @@
     "house_passage_result": "pass", 
     "house_passage_result_at": "2013-10-28T16:16:00-04:00", 
     "senate_passage_result": "pass", 
-    "senate_passage_result_at": "2013-11-19", 
+    "senate_passage_result_at": "2013-12-19", 
     "vetoed": false
   }, 
   "introduced_at": "2013-10-22", 
@@ -1508,5 +1514,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:46:05-05:00"
+  "updated_at": "2015-09-01T10:20:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3304:@@@L&summ2=m&"
 }

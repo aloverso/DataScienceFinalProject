@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="622" updated="2015-01-03T08:37:39-05:00">
+  <amends type="h" number="4486" sequence="5"/>
+  <status datetime="2014-04-30T15:40:00-04:00">pass</status>
+  <sponsor id="412519"/>
+  <offered datetime="2014-04-30"/>
+  <description>Amendment reduces and then increases funds for the General Operating Expenses, Veterans Benefits Administration Account by $5 million for the purpose of investing in a VA Claims Digital Scanning Program to help reduce the VA disability claims backlog.</description>
+  <purpose>An amendment to reduce the funds available to the General Operating Expenses, Veterans Benefits Administration Account by $5 million and increase the funds available to the General Operating Expenses, Veterans Benefits Administration Account by the same amount for the purpose of investing in a VA Claims Digital Scanning Program to help reduce the VA disability claims backlog.</purpose>
+  <actions>
+    <action datetime="2014-04-30T15:36:00-04:00">
+      <text>Amendment (A005) offered by Mr. Ruiz.</text>
+      <reference ref="CR H3329-3330" label="consideration"/>
+      <reference ref="CR H3329" label="text"/>
+    </action>
+    <vote datetime="2014-04-30T15:40:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Ruiz amendment (A005) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

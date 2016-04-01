@@ -57,7 +57,7 @@
   "short_title": "Transparency in Military Lending Act of 2013", 
   "sponsor": {
     "district": "5", 
-    "name": "Kildee, Daniel T", 
+    "name": "Kildee, Daniel T.", 
     "state": "MI", 
     "thomas_id": "02134", 
     "title": "Rep", 
@@ -94,5 +94,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:49:22-05:00"
+  "updated_at": "2015-09-01T17:49:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3691:@@@L&summ2=m&"
 }

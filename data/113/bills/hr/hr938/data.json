@@ -1650,7 +1650,7 @@
     }, 
     {
       "district": "4", 
-      "name": "Kennedy, Joseph P. III", 
+      "name": "Kennedy, Joseph P., III", 
       "sponsored_at": "2013-06-10", 
       "state": "MA", 
       "thomas_id": "02172", 
@@ -1659,7 +1659,7 @@
     }, 
     {
       "district": "5", 
-      "name": "Kildee, Daniel T", 
+      "name": "Kildee, Daniel T.", 
       "sponsored_at": "2013-05-17", 
       "state": "MI", 
       "thomas_id": "02134", 
@@ -3252,7 +3252,7 @@
     }, 
     {
       "district": "14", 
-      "name": "Weber, Randy K. Sr.", 
+      "name": "Weber, Randy K., Sr.", 
       "sponsored_at": "2013-04-17", 
       "state": "TX", 
       "thomas_id": "02161", 
@@ -3473,5 +3473,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:26:20-05:00"
+  "updated_at": "2015-09-01T17:49:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR938:@@@L&summ2=m&"
 }

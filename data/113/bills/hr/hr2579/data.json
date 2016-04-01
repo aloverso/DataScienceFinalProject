@@ -488,7 +488,7 @@
   "related_bills": [
     {
       "bill_id": "hres322-113", 
-      "reason": "unknown", 
+      "reason": "caused-action", 
       "type": "bill"
     }, 
     {
@@ -552,5 +552,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:40:02-05:00"
+  "updated_at": "2015-09-01T10:19:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2579:@@@L&summ2=m&"
 }

@@ -68,7 +68,7 @@
   "official_title": "To provide for the establishment of a global affairs strategy and assistance for people of African descent, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "African Descent Act of 2014", 
   "sponsor": {
     "district": "20", 
     "name": "Hastings, Alcee L.", 
@@ -79,10 +79,28 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-10", 
-  "subjects": [], 
-  "subjects_top_term": null, 
-  "summary": null, 
+  "subjects": [
+    "Africa", 
+    "Department of State", 
+    "Executive agency funding and structure", 
+    "Foreign aid and international relief", 
+    "Human rights", 
+    "International affairs", 
+    "Racial and ethnic relations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-10", 
+    "text": "African Descent Act of 2014 - Amends the State Department Basic Authorities Act of 1956 to direct the Secretary of State to establish within the Department of State an Office of Global African Descent Affairs, to be headed by the Director and Special Advisor to the Secretary on Global African Descent Affairs.\n\nIncludes among Office functions: (1) advising the Secretary and directing policies, programs, and funding relating to the human rights and the advancement of people of African descent internationally; (2) managing a fund for people of African descent to invest in solutions to combat racial discrimination and create economic and political opportunities for people of African descent internationally; and (3) compiling an annual report on U.S. government activities relating to people of African descent.\n\nAmends the Foreign Assistance Act of 1961 to include in the annual human rights report for countries in the Americas, Europe, Asia, and the Middle East a description of the status and the people of African descent in each country.\n\nDirects the Administrator of the U.S. Agency for International Development (USAID) to appoint a Senior Advisor to the Administrator on Global African Descent Affairs who shall: (1) advise the Administrator and direct policies, programs, and funding relating to the human rights and advancement of people of African descent internationally; and (2) develop a uniform set of indicators and standards for monitoring and evaluating foreign assistance for people of African descent.\n\nRequires the Director and Special Advisor to the Secretary on Global African Descent Affairs to develop or update annually (for five years) a U.S. global strategy to empower, prevent, and respond to discrimination and violence against people of African descent."
+  }, 
   "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "African Descent Act of 2014", 
+      "type": "short"
+    }, 
     {
       "as": "introduced", 
       "is_for_portion": false, 
@@ -90,5 +108,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:26-05:00"
+  "updated_at": "2015-09-01T17:50:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5837:@@@L&summ2=m&"
 }

@@ -1327,7 +1327,7 @@
     }, 
     {
       "district": "13", 
-      "name": "Jolly, David W.", 
+      "name": "Jolly, David", 
       "sponsored_at": "2014-04-07", 
       "state": "FL", 
       "thomas_id": "02199", 
@@ -2722,7 +2722,7 @@
     }, 
     {
       "district": "14", 
-      "name": "Weber, Randy K. Sr.", 
+      "name": "Weber, Randy K., Sr.", 
       "sponsored_at": "2013-10-23", 
       "state": "TX", 
       "thomas_id": "02161", 
@@ -2833,7 +2833,7 @@
   "short_title": null, 
   "sponsor": {
     "district": "4", 
-    "name": "Kennedy, Joseph P. III", 
+    "name": "Kennedy, Joseph P., III", 
     "state": "MA", 
     "thomas_id": "02172", 
     "title": "Rep", 
@@ -2862,5 +2862,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:43:02-05:00"
+  "updated_at": "2015-09-01T17:49:19-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR2939:@@@L&summ2=m&"
 }

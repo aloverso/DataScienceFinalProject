@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="351" updated="2015-01-03T08:35:24-05:00">
+  <amends type="h" number="2397" sequence="8"/>
+  <status datetime="2013-07-23T15:47:00-04:00">pass</status>
+  <sponsor id="400199"/>
+  <offered datetime="2013-07-23"/>
+  <description>Amendment provides an additional $500,000 for the treatment of post-traumatic stress disorder in active duty soldiers and veterans.</description>
+  <purpose>An amendment numbered 9 printed in House Report 113-170 to increase funding for the Defense Health Program account (intended for PTSD) by $500,000 offset by a similar reduction in the Environment Restoration, Army account.</purpose>
+  <actions>
+    <action datetime="2013-07-23T15:41:00-04:00">
+      <text>Amendment (A008) offered by Ms. Jackson Lee.</text>
+      <reference ref="CR H4913" label="consideration"/>
+      <reference ref="CR H4913" label="text"/>
+    </action>
+    <vote datetime="2013-07-23T15:47:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Jackson Lee amendment (A008) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

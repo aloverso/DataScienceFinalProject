@@ -151,11 +151,18 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Exploring for Geothermal Energy on Federal Lands Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To promote timely exploration for geothermal resources under existing geothermal leases, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:29:53-05:00"
+  "updated_at": "2015-09-01T10:19:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR1363:@@@L&summ2=m&"
 }

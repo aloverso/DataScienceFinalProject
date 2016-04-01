@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="760" updated="2015-01-03T08:38:48-05:00">
+  <amends type="h" number="4660" sequence="71"/>
+  <status datetime="2014-05-29T22:21:00-04:00">pass</status>
+  <sponsor id="412252"/>
+  <offered datetime="2014-05-29"/>
+  <description>An amendment to prohibit use of funds to be used for a loan guarantee for Innovative Technologies in Manufacturing under the heading "Economic Development Administration, Economic Development Assistance Programs".</description>
+  <actions>
+    <action datetime="2014-05-29T22:16:00-04:00">
+      <text>Amendment (A071) offered by Mr. Broun (GA).</text>
+      <reference ref="CR H4994-4995" label="consideration"/>
+      <reference ref="CR H4994" label="text"/>
+    </action>
+    <vote datetime="2014-05-29T22:21:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Broun (GA) amendment (A071) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

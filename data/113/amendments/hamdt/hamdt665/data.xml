@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="665" updated="2015-01-03T08:38:01-05:00">
+  <amends type="h" number="4435" sequence="2"/>
+  <status datetime="2014-05-20">offered</status>
+  <sponsor id="400651"/>
+  <offered datetime="2014-05-20"/>
+  <description>An amendment No. 2 printed in House Report 113-455 to require the Secretary of Defense to establish either a security monitoring duty roster program that would authorize certain DoD personnel to openly carry a firearm on a military installation, or procedure to permit qualified military personnel to openly carry a firearm on a military installation for personal protection.</description>
+  <actions>
+    <action datetime="2014-05-20T20:44:00-04:00">
+      <text>Amendment (A002) offered by Mr. Gohmert.</text>
+      <reference ref="CR H4673-4674" label="consideration"/>
+      <reference ref="CR H4673" label="text"/>
+    </action>
+    <action datetime="2014-05-20T20:50:00-04:00">
+      <text>By unanimous consent, the Gohmert amendment was withdrawn.</text>
+      <reference ref="CR H4674" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

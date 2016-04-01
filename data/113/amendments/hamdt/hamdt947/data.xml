@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="947" updated="2015-01-03T08:40:22-05:00">
+  <amends type="h" number="4413" sequence="1"/>
+  <status datetime="2014-06-23T20:07:00-04:00">pass</status>
+  <sponsor id="400100"/>
+  <offered datetime="2014-06-23"/>
+  <description>Amendment inserts an additional study to the bill of merit provisions that would examine whether or not high-frequency trading increases market volatility.</description>
+  <purpose>An amendment No. 1 printed in House Report 113-476 to add one requirement to the study on high frequency trading: Whether such trading increases market volatility, including short term market swings such as the "flash crash.".</purpose>
+  <actions>
+    <action datetime="2014-06-23T20:05:00-04:00">
+      <text>Amendment (A001) offered by Mr. DeFazio.</text>
+      <reference ref="CR H5629" label="consideration"/>
+      <reference ref="CR H5629" label="text"/>
+    </action>
+    <vote datetime="2014-06-23T20:07:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the DeFazio amendment (A001) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="368" updated="2015-01-03T08:35:32-05:00">
+  <amends type="h" number="2397" sequence="25"/>
+  <status datetime="2013-07-23">offered</status>
+  <sponsor id="412501"/>
+  <offered datetime="2013-07-23"/>
+  <description>An amendment numbered 26 printed in House Report 113-170 to provide $30 million for the purchase of emergency response medical equipment sets for National Guard M997A3 HMMWV ambulances to ensure they carry adequate life-saving equipment.</description>
+  <actions>
+    <action datetime="2013-07-23T17:56:00-04:00">
+      <text>Amendment (A025) offered by Ms. Bonamici.</text>
+      <reference ref="CR H4928-4929" label="consideration"/>
+      <reference ref="CR H4928" label="text"/>
+    </action>
+    <action datetime="2013-07-23T18:00:00-04:00">
+      <text>By unanimous consent, the Bonamici amendment was withdrawn.</text>
+      <reference ref="CR H4929" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

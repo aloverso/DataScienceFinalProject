@@ -55,15 +55,6 @@
     }, 
     {
       "district": null, 
-      "name": "Coons, Christopher A.", 
-      "sponsored_at": "2014-09-10", 
-      "state": "DE", 
-      "thomas_id": "01984", 
-      "title": "Sen", 
-      "withdrawn_at": null
-    }, 
-    {
-      "district": null, 
       "name": "Enzi, Michael B.", 
       "sponsored_at": "2014-07-31", 
       "state": "WY", 
@@ -160,5 +151,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:39:08-05:00"
+  "updated_at": "2015-09-01T17:51:12-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2758:@@@L&summ2=m&"
 }

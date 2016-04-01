@@ -12,13 +12,13 @@
     }, 
     {
       "acted_at": "2014-07-23", 
-      "committee": "Committee on Energy and Natural Resources Subcommittee on National Parks", 
+      "committee": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks", 
       "committees": [
         "SSEG"
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.", 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-493.", 
       "type": "hearings"
     }
   ], 
@@ -68,7 +68,7 @@
   "short_title": "York River Wild and Scenic River Study Act of 2013", 
   "sponsor": {
     "district": null, 
-    "name": "King, Angus S. Jr.", 
+    "name": "King, Angus S., Jr.", 
     "state": "ME", 
     "thomas_id": "02185", 
     "title": "Sen", 
@@ -109,5 +109,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:28:45-05:00"
+  "updated_at": "2015-09-01T17:50:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1520:@@@L&summ2=m&"
 }

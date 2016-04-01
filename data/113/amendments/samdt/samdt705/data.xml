@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="705" updated="2015-01-03T08:03:55-05:00">
+  <amends type="sc" number="8" sequence=""/>
+  <status datetime="2013-03-23">pass</status>
+  <sponsor id="400272"/>
+  <offered datetime="2013-03-22"/>
+  <description>To address the eligibility criteria for certain undocumented immigrant individuals with respect to certain health insurance plans.</description>
+  <actions>
+    <action datetime="2013-03-22">
+      <text>Amendment SA 705 proposed by Senator Murray for Senator Menendez.</text>
+      <reference ref="CR S2296-2301" label="consideration"/>
+      <reference ref="CR S2297" label="text"/>
+    </action>
+    <vote datetime="2013-03-23" how="Voice Vote" result="pass">
+      <text>Amendment SA 705 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -211,8 +211,8 @@
   ], 
   "subjects_top_term": "Energy", 
   "summary": {
-    "as": "Passed Senate without amendment", 
-    "date": "2014-12-10", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "Propane Education and Research Enhancement Act of 2014 - Amends the Propane Education and Research Act of 1996 to direct the Propane Education and Research Council to develop for propane distributors and consumers training programs on strategies to mitigate negative effects of future propane price spikes.\n\nDirects the Secretary of Commerce to use the refiner price to end users of consumer grade propane as published by the Energy Information Administration when preparing the annual analysis of changes in the price of propane relative to other energy sources."
   }, 
   "titles": [
@@ -247,5 +247,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:06:20-05:00"
+  "updated_at": "2015-09-01T10:21:05-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5705:@@@L&summ2=m&"
 }

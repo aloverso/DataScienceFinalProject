@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="828" updated="2015-01-03T08:39:22-05:00">
+  <amends type="h" number="4745" sequence="51"/>
+  <status datetime="2014-06-10T16:11:00-04:00">pass</status>
+  <sponsor id="400641"/>
+  <offered datetime="2014-06-10"/>
+  <description>Amendment to prohibit the use of funds to terminate the status of a unit of general local government as a metropolitan city (as defined in section 102 of the Housing and Community Development Act of 1974) with respect to grants under section 106 of such Act.</description>
+  <purpose>An amendment to prohibit the use of funds to terminate the status of a unit of general local government as a metropolitan city (as defined in section 102 of the Housing and Community Development Act of 1974) with respect to grants under section 106 of such Act.</purpose>
+  <actions>
+    <action datetime="2014-06-10T16:09:00-04:00">
+      <text>Amendment (A051) offered by Mr. Higgins.</text>
+      <reference ref="CR H5219" label="consideration"/>
+      <reference ref="CR H5219" label="text"/>
+    </action>
+    <vote datetime="2014-06-10T16:11:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Higgins amendment (A051) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

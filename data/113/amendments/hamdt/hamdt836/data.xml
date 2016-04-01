@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="836" updated="2015-01-03T08:39:26-05:00">
+  <amends type="h" number="4745" sequence="59"/>
+  <status datetime="2014-06-10">offered</status>
+  <sponsor id="412215"/>
+  <offered datetime="2014-06-10"/>
+  <description>An amendment to insert a new section providing funding for affordable rental housing for extremely low-income families by improving targeting of mortgage interest deductions.</description>
+  <actions>
+    <action datetime="2014-06-10T16:44:00-04:00">
+      <text>Amendment (A059) offered by Mr. Ellison.</text>
+      <reference ref="CR H5224-5225" label="consideration"/>
+      <reference ref="CR H5224" label="text"/>
+    </action>
+    <action datetime="2014-06-10T16:48:00-04:00">
+      <text>By unanimous consent, the Ellison amendment was withdrawn.</text>
+      <reference ref="CR H5225" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

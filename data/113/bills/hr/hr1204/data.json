@@ -439,8 +439,8 @@
   ], 
   "subjects_top_term": "Transportation and public works", 
   "summary": {
-    "as": "Passed Senate amended", 
-    "date": "2014-12-09", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "Aviation Security Stakeholder Participation Act of 2014 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an aviation security advisory committee.\n\nRequires the Assistant Secretary to consult with the Advisory Committee on aviation security matters.\n\nRequires the Advisory Committee to develop, upon the Assistant Secretary's request, recommendations to improve aviation security.\n\nRequires the Assistant Secretary to appoint to the Advisory Committee members representing up to 34 member organizations, including air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees as well as those representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors as well as labor organizations representing them, general aviation, privacy organizations, the travel industry, airport-based businesses, businesses that conduct security operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.\n\nEstablishes within the Advisory Committee: (1) an air cargo security subcommittee; (2) a general aviation subcommittee; (3) an airport perimeter security and access control subcommittee; and (4) a security technology subcommittee. Requires all subcommittees to consider risk-based security approaches in the performance of their functions with respect to transportation security."
   }, 
   "titles": [
@@ -481,5 +481,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:28:33-05:00"
+  "updated_at": "2015-09-01T10:19:17-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR1204:@@@L&summ2=m&"
 }

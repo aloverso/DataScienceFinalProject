@@ -49,6 +49,11 @@
       "type": "bill"
     }, 
     {
+      "bill_id": "hr5771-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
       "bill_id": "s1859-113", 
       "reason": "related", 
       "type": "bill"
@@ -85,5 +90,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:51:28-05:00"
+  "updated_at": "2015-09-01T17:49:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3943:@@@L&summ2=m&"
 }

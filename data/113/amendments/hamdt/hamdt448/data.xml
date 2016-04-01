@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="448" updated="2015-01-03T08:36:12-05:00">
+  <amends type="h" number="367" sequence="1"/>
+  <status datetime="2013-08-02T09:42:00-04:00">pass</status>
+  <sponsor id="412261"/>
+  <offered datetime="2013-08-01"/>
+  <description>Amendment requires the Administration to receive approval from Congress before implementing a carbon tax.</description>
+  <purpose>An amendment numbered 1 printed in Part B of House Report 113-187 to require the Administration to receive approval from Congress before implementing a carbon tax.</purpose>
+  <actions>
+    <action datetime="2013-08-01T19:04:00-04:00">
+      <text>Amendment (A001) offered by Mr. Scalise.</text>
+      <reference ref="CR H5317-5319" label="consideration"/>
+      <reference ref="CR H5317" label="text"/>
+    </action>
+    <vote datetime="2013-08-02T09:42:00-04:00" how="roll" result="pass" roll="437">
+      <text>On agreeing to the Scalise amendment (A001) Agreed to by recorded vote: 237 - 176 (Roll no. 437).</text>
+      <reference ref="CR H5353-5354" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

@@ -258,11 +258,18 @@
       "type": "short"
     }, 
     {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Fish Hatchery Protection Act", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "To prohibit closing or repurposing any propagation fish hatchery or aquatic species propagation program of the Department of the Interior unless such action is expressly authorized by an Act of Congress, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:00:39-05:00"
+  "updated_at": "2015-09-01T10:20:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5026:@@@L&summ2=m&"
 }

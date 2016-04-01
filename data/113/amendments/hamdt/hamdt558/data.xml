@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="558" updated="2015-01-03T08:37:07-05:00">
+  <amends type="h" number="3865" sequence="2"/>
+  <status datetime="2014-02-26T16:46:00-05:00">fail</status>
+  <sponsor id="412308"/>
+  <offered datetime="2014-02-26"/>
+  <description>Amendment to strike the title of H.R. 3865 and insert the following to protect anonymous special interests by prohibiting the Internal Revenue Service from modifying the standard for determining whether an organization is operated exclusively for the promotion of social welfare for purposes of section 501(c)(4) of the Internal Revenue Code of 1986.</description>
+  <actions>
+    <action datetime="2014-02-26T16:30:00-05:00">
+      <text>Amendment (A002) offered by Mr. Polis.</text>
+      <reference ref="CR H1970-1971" label="consideration"/>
+      <reference ref="CR H1970" label="text"/>
+    </action>
+    <vote datetime="2014-02-26T16:46:00-05:00" how="roll" result="fail" roll="70">
+      <text>On agreeing to the Polis amendment (A002) Failed by recorded vote: 177 - 241 (Roll no. 70).</text>
+    </vote>
+  </actions>
+</amendment>

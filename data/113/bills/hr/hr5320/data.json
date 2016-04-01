@@ -293,7 +293,11 @@
     "State and local government operations"
   ], 
   "subjects_top_term": "Finance and financial sector", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Amends the S.A.F.E. Mortgage Licensing Act of 2008 to direct the Attorney General to provide appropriate state officials responsible for regulating financial service providers or related businesses (in addition to state officials responsible for regulating state-licensed loan originators) with access to criminal history information to the extent that criminal history background checks are required under state law for the licensing of such parties."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -302,5 +306,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:03:06-05:00"
+  "updated_at": "2015-09-01T10:20:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5320:@@@L&summ2=m&"
 }

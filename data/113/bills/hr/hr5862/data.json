@@ -51,7 +51,11 @@
   "status_at": "2014-12-11", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-11", 
+    "text": "Improvements in Global Maternal and Newborn Health Outcomes while Maximizing Successes Act or Improvements in Global MOMS Act - Amends the Foreign Assistance Act of 1961 to authorize the President to furnish assistance to reduce newborn mortality and improve maternal health and the health of newborns in developing countries, including HIV/AIDS prevention programs.\n\nDirects the President to implement a comprehensive strategy to reduce mortality and improve the health of mothers and newborns in developing countries that integrates U.S. government efforts on improving maternal and newborn health, including strategies with respect to HIV/AIDS, gender, child survival."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -72,5 +76,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:39-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5862:@@@L&summ2=m&"
 }

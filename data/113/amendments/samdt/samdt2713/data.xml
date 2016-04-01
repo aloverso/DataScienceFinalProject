@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="2713" updated="2015-01-03T08:20:41-05:00">
+  <amends type="s" number="376" sequence=""/>
+  <status datetime="2014-02-03">pass</status>
+  <sponsor id="300080"/>
+  <offered datetime="2014-02-03"/>
+  <description>To reduce the authorization of appropriations amount.</description>
+  <actions>
+    <action datetime="2014-02-03">
+      <text>Amendment SA 2713 proposed by Senator Warren for Senator Pryor.</text>
+      <reference ref="CR S704" label="consideration"/>
+      <reference ref="CR S704" label="text"/>
+    </action>
+    <vote datetime="2014-02-03" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 2713 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

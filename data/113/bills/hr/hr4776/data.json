@@ -51,7 +51,7 @@
   }, 
   "introduced_at": "2014-05-30", 
   "number": "4776", 
-  "official_title": "To prohibit an institution of higher education that participates in a boycott of the Israeli government, economy, or academia from receiving funds from the U.S. federal government.", 
+  "official_title": "To prohibit an institution of higher education that participates in a boycott of the Israeli government, economy, or academia from receiving funds from the U.S. Federal Government.", 
   "popular_title": null, 
   "related_bills": [], 
   "short_title": null, 
@@ -89,9 +89,10 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
-      "title": "To prohibit an institution of higher education that participates in a boycott of the Israeli government, economy, or academia from receiving funds from the U.S. federal government.", 
+      "title": "To prohibit an institution of higher education that participates in a boycott of the Israeli government, economy, or academia from receiving funds from the U.S. Federal Government.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:58:33-05:00"
+  "updated_at": "2015-09-01T17:49:50-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4776:@@@L&summ2=m&"
 }

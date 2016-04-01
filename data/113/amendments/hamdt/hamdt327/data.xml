@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="327" updated="2015-01-03T08:35:12-05:00">
+  <amends type="h" number="5" sequence="10"/>
+  <status datetime="2013-07-18T16:57:00-04:00">pass</status>
+  <sponsor id="412446"/>
+  <offered datetime="2013-07-18"/>
+  <description>Amendment provides Local Education Agencies with the option of entering into partnerships or contracts with other entities to implement programs that serve youth in, or transitioning out of, institutions and correctional facilities, and youth at-risk of dropping out of school.</description>
+  <purpose/>
+  <actions>
+    <action datetime="2013-07-18T16:54:00-04:00">
+      <text>Amendment (A010) offered by Mr. Heck (NV).</text>
+      <reference ref="CR H4706-4707" label="consideration"/>
+      <reference ref="CR H4706" label="text"/>
+    </action>
+    <vote datetime="2013-07-18T16:57:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Heck (NV) amendment (A010) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

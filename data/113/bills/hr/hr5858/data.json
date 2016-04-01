@@ -55,8 +55,20 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-11", 
-  "subjects": [], 
-  "subjects_top_term": null, 
+  "subjects": [
+    "Administrative remedies", 
+    "Crime and law enforcement", 
+    "Department of Justice", 
+    "Intergovernmental relations", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Racial and ethnic relations", 
+    "State and local finance", 
+    "State and local government operations", 
+    "Transportation safety and security", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
   "summary": null, 
   "titles": [
     {
@@ -78,5 +90,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:37-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5858:@@@L&summ2=m&"
 }

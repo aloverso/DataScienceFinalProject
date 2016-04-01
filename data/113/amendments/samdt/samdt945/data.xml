@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="945" updated="2015-01-03T08:05:56-05:00">
+  <amends type="s" number="954" sequence=""/>
+  <status datetime="2013-05-21">pass</status>
+  <sponsor id="300088"/>
+  <offered datetime="2013-05-20"/>
+  <description>To clarify eligibility criteria for agricultural irrigation assistance.</description>
+  <actions>
+    <action datetime="2013-05-21">
+      <text>Amendment SA 945 proposed by Senator Stabenow for Senator Sessions.</text>
+      <reference ref="CR S3637" label="consideration"/>
+    </action>
+    <vote datetime="2013-05-21" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 945 as modified agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S3637" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

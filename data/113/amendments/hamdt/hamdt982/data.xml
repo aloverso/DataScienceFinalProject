@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="982" updated="2015-01-03T08:40:39-05:00">
+  <amends type="h" number="4923" sequence="11"/>
+  <status datetime="2014-07-09T17:42:00-04:00">fail</status>
+  <sponsor id="412397"/>
+  <offered datetime="2014-07-09"/>
+  <description>Amendment sought to reduce funding for Corps of Engineers Expenses by $4 million and apply the savings to the spending reduction account.</description>
+  <purpose>An amendment to reduce Corps of Engineers Expenses by $4 million and to apply the savings to the spending reduction account.</purpose>
+  <actions>
+    <action datetime="2014-07-09T15:21:00-04:00">
+      <text>Amendment (A011) offered by Mr. Gosar.</text>
+      <reference ref="CR H5992-5993, H6006" label="consideration"/>
+      <reference ref="CR H5992" label="text"/>
+    </action>
+    <vote datetime="2014-07-09T17:42:00-04:00" how="roll" result="fail" roll="373">
+      <text>On agreeing to the Gosar amendment (A011) Failed by recorded vote: 104 - 316 (Roll no. 373).</text>
+    </vote>
+  </actions>
+</amendment>

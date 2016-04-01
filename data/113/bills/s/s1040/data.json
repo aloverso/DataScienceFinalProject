@@ -389,7 +389,7 @@
     }, 
     {
       "district": null, 
-      "name": "King, Angus S. Jr.", 
+      "name": "King, Angus S., Jr.", 
       "sponsored_at": "2014-07-28", 
       "state": "ME", 
       "thomas_id": "02185", 
@@ -716,5 +716,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:24:40-05:00"
+  "updated_at": "2015-09-01T17:50:31-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN1040:@@@L&summ2=m&"
 }

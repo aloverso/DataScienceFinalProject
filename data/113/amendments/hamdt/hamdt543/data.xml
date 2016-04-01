@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="543" updated="2015-01-03T08:36:59-05:00">
+  <amends type="h" number="3964" sequence="1"/>
+  <status datetime="2014-02-05T17:46:00-05:00">fail</status>
+  <sponsor id="400290"/>
+  <offered datetime="2014-02-05"/>
+  <description>Amendment sought to remove the subsidy for agricultural loans and to require that interest be repaid on the capital costs of a project.</description>
+  <purpose>An amendment numbered 1 printed in Part B of House Report 113-340 to remove the subsidy to agricultural loans and require that interest be repaid on the capital costs of a project. Currently, agriculture has 40 years to repay capital cost, interest free. Other constituencies, such as municipal entities, are required by law to pay interest.</purpose>
+  <actions>
+    <action datetime="2014-02-05T16:01:00-05:00">
+      <text>Amendment (A001) offered by Mrs. Napolitano.</text>
+      <reference ref="CR H1631-1632, H1641-1642" label="consideration"/>
+      <reference ref="CR H1631" label="text"/>
+    </action>
+    <vote datetime="2014-02-05T17:46:00-05:00" how="roll" result="fail" roll="42">
+      <text>On agreeing to the Napolitano amendment (A001) Failed by recorded vote: 179 - 239 (Roll no. 42).</text>
+    </vote>
+  </actions>
+</amendment>

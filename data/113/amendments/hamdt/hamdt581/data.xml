@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="581" updated="2015-01-03T08:37:19-05:00">
+  <amends type="h" number="3826" sequence="6"/>
+  <status datetime="2014-03-06T10:43:00-05:00">fail</status>
+  <sponsor id="400360"/>
+  <offered datetime="2014-03-05"/>
+  <description>An amendment numbered 6 printed in House Report 113-373 to accept the scientific finding of the EPA that greenhouse gas pollution is "contributing to long-lasting changes in our climate that can have a range of negative effects".</description>
+  <actions>
+    <action datetime="2014-03-05T17:43:00-05:00">
+      <text>Amendment (A006) offered by Ms. Schakowsky.</text>
+      <reference ref="CR H2191-2192" label="consideration"/>
+      <reference ref="CR H2191" label="text"/>
+    </action>
+    <vote datetime="2014-03-06T10:43:00-05:00" how="roll" result="fail" roll="103">
+      <text>On agreeing to the Schakowsky amendment (A006) Failed by recorded vote: 190 - 221 (Roll no. 103).</text>
+      <reference ref="CR H2210" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

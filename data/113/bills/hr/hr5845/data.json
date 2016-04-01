@@ -145,8 +145,38 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-10", 
-  "subjects": [], 
-  "subjects_top_term": null, 
+  "subjects": [
+    "Advisory bodies", 
+    "Child health", 
+    "Child safety and welfare", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Criminal procedure and sentencing", 
+    "Drug therapy", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Elementary and secondary education", 
+    "Family services", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Higher education", 
+    "Internet and video services", 
+    "Juvenile crime and gang violence", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Medical research", 
+    "Mental health", 
+    "Prescription drugs", 
+    "Teaching, teachers, curricula", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' medical care", 
+    "Vocational and technical education", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
   "summary": null, 
   "titles": [
     {
@@ -162,5 +192,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:30-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5845:@@@L&summ2=m&"
 }

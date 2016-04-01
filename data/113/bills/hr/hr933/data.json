@@ -347,7 +347,7 @@
       "acted_at": "2013-03-21T09:20:00-04:00", 
       "references": [
         {
-          "reference": "CR H1725-1794, H1801-1802", 
+          "reference": "CR H1725-1794", 
           "type": "consideration"
         }
       ], 
@@ -379,7 +379,12 @@
     }, 
     {
       "acted_at": "2013-03-21T10:45:00-04:00", 
-      "references": [], 
+      "references": [
+        {
+          "reference": "CR H1801-1802", 
+          "type": "consideration"
+        }
+      ], 
       "text": "Considered as unfinished business.", 
       "type": "action"
     }, 
@@ -1506,5 +1511,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:26:18-05:00"
+  "updated_at": "2015-09-01T17:49:14-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR933:@@@L&summ2=m&"
 }

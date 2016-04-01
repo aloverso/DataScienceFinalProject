@@ -34,9 +34,14 @@
     }, 
     {
       "acted_at": "2013-06-27T14:40:00-04:00", 
+      "how": "roll", 
       "references": [], 
+      "result": "fail", 
+      "roll": 291, 
       "text": "On agreeing to the Grayson amendment (A001) as modified Failed by the Yeas and Nays: 213 - 213 (Roll no. 291).", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
     }
   ], 
   "amendment_id": "hamdt232-113", 
@@ -64,7 +69,7 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "offered", 
-  "status_at": "2013-06-27", 
-  "updated_at": "2015-01-02T13:17:59-05:00"
+  "status": "fail", 
+  "status_at": "2013-06-27T14:40:00-04:00", 
+  "updated_at": "2015-01-03T08:34:24-05:00"
 }

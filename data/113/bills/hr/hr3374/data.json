@@ -533,8 +533,8 @@
   ], 
   "subjects_top_term": "Finance and financial sector", 
   "summary": {
-    "as": "Passed Senate without amendment", 
-    "date": "2014-12-10", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "American Savings Promotion Act - Amends the Revised Statutes of the United States, the Federal Reserve Act, the Federal Deposit Insurance Act, and the Home Owners' Loan Act to authorize covered financial institutions to conduct a contest, known as a \"savings promotion raffle,\" in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or program, where each ticket or entry has an equal chance of being drawn. Subjects such drawing contest to regulations promulgated by the appropriate prudential regulator.\n\n Excludes such \"savings promotion raffle\" from the prohibition against a covered financial institution's dealing in \"lottery\" tickets.\n\nAmends the federal criminal code to exempt: (1) savings promotion raffles conducted by an insured depository institution or an insured credit union from specified prohibitions against interstate and foreign travel or transportation in aid of racketeering enterprises, and (2) any savings promoton raffle from the prohibition against illegal gambling businesses."
   }, 
   "titles": [
@@ -546,6 +546,12 @@
     }, 
     {
       "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "American Savings Promotion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
       "is_for_portion": false, 
       "title": "American Savings Promotion Act", 
       "type": "short"
@@ -563,5 +569,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:46:40-05:00"
+  "updated_at": "2015-09-01T10:20:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3374:@@@L&summ2=m&"
 }

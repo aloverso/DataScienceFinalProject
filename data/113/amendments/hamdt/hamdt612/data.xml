@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="612" updated="2015-01-03T08:37:34-05:00">
+  <amends type="hc" number="96" sequence="1"/>
+  <status datetime="2014-04-09T17:25:00-04:00">fail</status>
+  <sponsor id="412474"/>
+  <offered datetime="2014-04-09"/>
+  <description>Amendment in the nature of a substitute comprises the President's budget proposal and appears on page H3097 of the Congressional Record of April 9, 2014.</description>
+  <purpose>An amendment in the nature of a substitute numbered 1 printed in House Report 113-405 to insert President Obama's budget proposal.</purpose>
+  <actions>
+    <action datetime="2014-04-09T15:22:00-04:00">
+      <text>Amendment (A001) in the nature of a substitute offered by Mr. Mulvaney.</text>
+      <reference ref="CR H3097-3104, H3121-3122" label="consideration"/>
+      <reference ref="CR H3097-3101" label="text"/>
+    </action>
+    <vote datetime="2014-04-09T17:25:00-04:00" how="roll" result="fail" roll="171">
+      <text>On agreeing to the Mulvaney amendment (A001) Failed by recorded vote: 2 - 413 (Roll no. 171).</text>
+    </vote>
+  </actions>
+</amendment>

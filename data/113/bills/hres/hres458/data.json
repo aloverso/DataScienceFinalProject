@@ -130,7 +130,7 @@
   "related_bills": [
     {
       "bill_id": "hconres74-113", 
-      "reason": "unknown", 
+      "reason": "caused-action-by", 
       "type": "bill"
     }, 
     {
@@ -169,5 +169,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:15:47-05:00"
+  "updated_at": "2015-09-01T10:18:39-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE458:@@@L&summ2=m&"
 }

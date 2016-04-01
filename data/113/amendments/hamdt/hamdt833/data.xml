@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="833" updated="2015-01-03T08:39:25-05:00">
+  <amends type="h" number="4745" sequence="56"/>
+  <status datetime="2014-06-10">offered</status>
+  <sponsor id="412269"/>
+  <offered datetime="2014-06-10"/>
+  <description>An amendment No. 23 printed in the Congressional Record to prohibit use of funds to promulgate or enforce rules, orders, or consent agreements or to fund approved projects under TIGER unless the Department implements the recommendations provided in a preliminary GAO report regarding TIGER grants.</description>
+  <actions>
+    <action datetime="2014-06-10T16:33:00-04:00">
+      <text>Amendment (A056) offered by Mr. Cassidy.</text>
+      <reference ref="CR H5222-5223" label="consideration"/>
+      <reference ref="CR H5222" label="text"/>
+    </action>
+    <action datetime="2014-06-10T16:38:00-04:00">
+      <text>Mr. Latham raised a point of order against the Cassidy amendment (A056). Mr. Latham stated that the Cassidy amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.</text>
+    </action>
+  </actions>
+</amendment>

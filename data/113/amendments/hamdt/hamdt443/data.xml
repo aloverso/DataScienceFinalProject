@@ -1,0 +1,14 @@
+<amendment session="113" chamber="h" number="443" updated="2015-01-03T08:36:10-05:00">
+  <amends type="h" number="2610" sequence="27"/>
+  <status datetime="2013-07-30">offered</status>
+  <sponsor id="412252"/>
+  <offered datetime="2013-07-30"/>
+  <description>An amendment to reduce the National Railroad Passenger Corporation Office of Inspector General account by $4,800,000 and to apply the savings to the spending reduction account.</description>
+  <actions>
+    <action datetime="2013-07-30T22:11:00-04:00">
+      <text>Amendment (A027) offered by Mr. Broun (GA).</text>
+      <reference ref="CR H5168-5169" label="consideration"/>
+      <reference ref="CR H5168" label="text"/>
+    </action>
+  </actions>
+</amendment>

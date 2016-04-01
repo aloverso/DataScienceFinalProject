@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="2824" updated="2015-01-03T08:21:36-05:00">
+  <amends type="s" number="1086" sequence=""/>
+  <status datetime="2014-03-12">pass</status>
+  <sponsor id="412330"/>
+  <offered datetime="2014-03-12"/>
+  <description>To require States that elect to combine funding for early childhood education and care to describe the manner in which they use the combined funding.</description>
+  <actions>
+    <action datetime="2014-03-12">
+      <text>Amendment SA 2824 proposed by Senator Harkin for Senator Bennet.</text>
+      <reference ref="CR S1562-1566, S1569" label="consideration"/>
+      <reference ref="CR S1562" label="text"/>
+    </action>
+    <vote datetime="2014-03-12" how="Voice Vote" result="pass">
+      <text>Amendment SA 2824 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

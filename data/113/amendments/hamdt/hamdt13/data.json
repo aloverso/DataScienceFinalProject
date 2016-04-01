@@ -24,9 +24,14 @@
     }, 
     {
       "acted_at": "2013-01-15T18:55:00-05:00", 
+      "how": "roll", 
       "references": [], 
+      "result": "pass", 
+      "roll": 19, 
       "text": "On agreeing to the Fleming amendment (A011) as modified Agreed to by recorded vote: 216 - 205 (Roll no. 19).", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
     }
   ], 
   "amendment_id": "hamdt13-113", 
@@ -59,7 +64,7 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "offered", 
-  "status_at": "2013-01-15", 
-  "updated_at": "2015-01-02T13:16:08-05:00"
+  "status": "pass", 
+  "status_at": "2013-01-15T18:55:00-05:00", 
+  "updated_at": "2015-01-03T08:32:35-05:00"
 }

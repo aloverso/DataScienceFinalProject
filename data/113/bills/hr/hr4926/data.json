@@ -310,8 +310,8 @@
   ], 
   "subjects_top_term": "Transportation and public works", 
   "summary": {
-    "as": "Passed Senate without amendment", 
-    "date": "2014-12-10", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "Designates the segment of Interstate Route 35 between milepost 133 at Forest Lake, Minnesota, and milepost 259 at Duluth, Minnesota, as the \"James L. Oberstar Memorial Highway.\""
   }, 
   "titles": [
@@ -328,5 +328,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:59:48-05:00"
+  "updated_at": "2015-09-01T10:20:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4926:@@@L&summ2=m&"
 }

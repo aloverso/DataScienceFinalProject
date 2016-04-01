@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="748" updated="2015-01-03T08:38:42-05:00">
+  <amends type="h" number="4660" sequence="59"/>
+  <status datetime="2014-05-30T00:23:00-04:00">pass</status>
+  <sponsor id="400343"/>
+  <offered datetime="2014-05-29"/>
+  <description>Amendment prohibits the use of funds to prevent certain States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.</description>
+  <purpose>An amendment numbered 25 printed in the Congressional Record to prohibit the use of funds to prevent certain States from implementing their own State laws that authorize the use, distribution, possession, or cultivation of medical marijuana.</purpose>
+  <actions>
+    <action datetime="2014-05-29T20:42:00-04:00">
+      <text>Amendment (A059) offered by Mr. Rohrabacher.</text>
+      <reference ref="CR H4982-4985, H5008" label="consideration"/>
+      <reference ref="CR H4982" label="text"/>
+    </action>
+    <vote datetime="2014-05-30T00:23:00-04:00" how="roll" result="pass" roll="258">
+      <text>On agreeing to the Rohrabacher amendment (A059) Agreed to by recorded vote: 219 - 189 (Roll no. 258).</text>
+      <reference ref="CR H5008" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

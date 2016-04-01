@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="738" updated="2015-01-03T08:38:37-05:00">
+  <amends type="h" number="4660" sequence="49"/>
+  <status datetime="2014-05-30T00:09:00-04:00">fail</status>
+  <sponsor id="400283"/>
+  <offered datetime="2014-05-29"/>
+  <description>Amendment sought to strike sections 528 and 529 which prohibit the use of funds to be used to transfer or release any detainee who is or was held at Guantanamo Bay, Cuba or to construct any facility in the U.S. to house any detainee held at Guantanamo Bay, Cuba.</description>
+  <purpose>An amendment numbered 13 printed in the Congressional Record to strike sections 528 and 529 which prohibit the use of funds to be used to transfer or release any detainee who is or was held at Guantanamo Bay, Cuba or construct any facility in the U.S. to house any detainee held at Guantanamo Bay, Cuba.</purpose>
+  <actions>
+    <action datetime="2014-05-29T18:53:00-04:00">
+      <text>Amendment (A049) offered by Mr. Moran.</text>
+      <reference ref="CR H4970-4971" label="consideration"/>
+      <reference ref="CR H4970" label="text"/>
+    </action>
+    <vote datetime="2014-05-30T00:09:00-04:00" how="roll" result="fail" roll="254">
+      <text>On agreeing to the Moran amendment (A049) Failed by recorded vote: 169 - 230 (Roll no. 254).</text>
+      <reference ref="CR H5005-5006" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

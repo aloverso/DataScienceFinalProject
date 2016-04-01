@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="712" updated="2015-01-03T08:38:24-05:00">
+  <amends type="h" number="4660" sequence="23"/>
+  <status datetime="2014-05-28T23:38:00-04:00">pass</status>
+  <sponsor id="412271"/>
+  <offered datetime="2014-05-28"/>
+  <description>Amendment reduces funding for Salaries and Expenses, General Administration of the Department of Justice by $1,044,445 and increases funding for Salaries and Expenses, United States Attorneys by $1 million.</description>
+  <purpose>An amendment to reduce funding for Salaries and Expenses, General Administration of the Department of Justice by $1,044,445 and to increase funding for Salaries and Expenses, United States Attorneys by $1 million.</purpose>
+  <actions>
+    <action datetime="2014-05-28T23:25:00-04:00">
+      <text>Amendment (A023) offered by Mr. Coffman.</text>
+      <reference ref="CR H4903-7904" label="consideration"/>
+      <reference ref="CR H4903" label="text"/>
+    </action>
+    <vote datetime="2014-05-28T23:38:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Coffman amendment (A023) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="577" updated="2015-01-03T08:37:17-05:00">
+  <amends type="h" number="3826" sequence="2"/>
+  <status datetime="2014-03-06T10:39:00-05:00">fail</status>
+  <sponsor id="400062"/>
+  <offered datetime="2014-03-05"/>
+  <description>Amendment sought to allow the EPA to consider all pollution control technologies being used in the United States or elsewhere when setting new power plant emission standards.</description>
+  <purpose>An amendment numbered 2 printed in House Report 113-373 to allow the EPA to consider all pollution control technologies being used in the United States or elsewhere when setting new power plant emission standards.</purpose>
+  <actions>
+    <action datetime="2014-03-05T17:12:00-05:00">
+      <text>Amendment (A002) offered by Mrs. Capps.</text>
+      <reference ref="CR H2188-2189" label="consideration"/>
+      <reference ref="CR H2188" label="text"/>
+    </action>
+    <vote datetime="2014-03-06T10:39:00-05:00" how="roll" result="fail" roll="102">
+      <text>On agreeing to the Capps amendment (A002) Failed by recorded vote: 184 - 228 (Roll no. 102).</text>
+      <reference ref="CR H2209-2210" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

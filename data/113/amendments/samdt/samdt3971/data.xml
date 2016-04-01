@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="3971" updated="2015-01-03T08:31:11-05:00">
+  <amends type="sr" number="531" sequence=""/>
+  <status datetime="2014-12-03">pass</status>
+  <sponsor id="300043"/>
+  <offered datetime="2014-12-03"/>
+  <description>To amend the resolving clause.</description>
+  <actions>
+    <action datetime="2014-12-03">
+      <text>Amendment SA 3971 proposed by Senator Blumenthal for Senator Feinstein.</text>
+      <reference ref="CR S6307" label="consideration"/>
+      <reference ref="CR S6307" label="text"/>
+    </action>
+    <vote datetime="2014-12-03" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3971 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="575" updated="2015-01-03T08:37:15-05:00">
+  <amends type="h" number="899" sequence="3"/>
+  <status datetime="2014-02-28T11:05:00-05:00">fail</status>
+  <sponsor id="400199"/>
+  <offered datetime="2014-02-28"/>
+  <description>Amendment sought to add a section to the bill to clarify that the requirements of UMRA, as amended, do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</description>
+  <purpose>An amendment numbered 3 printed in House Report 113-362 to add Section 14 to the bill to clarify that the requirements of UMRA as amended by this Act do not apply if a cost-benefit analysis demonstrates that the benefits of the regulatory action exceed its costs.</purpose>
+  <actions>
+    <action datetime="2014-02-28T10:17:00-05:00">
+      <text>Amendment (A003) offered by Ms. Jackson Lee.</text>
+      <reference ref="CR H2079-2081, H2082-2083" label="consideration"/>
+      <reference ref="CR H2079" label="text"/>
+    </action>
+    <vote datetime="2014-02-28T11:05:00-05:00" how="roll" result="fail" roll="88">
+      <text>On agreeing to the Jackson Lee amendment (A003) Failed by recorded vote: 180 - 232 (Roll no. 88).</text>
+    </vote>
+  </actions>
+</amendment>

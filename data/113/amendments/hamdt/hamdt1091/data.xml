@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="1091" updated="2015-01-03T08:41:34-05:00">
+  <amends type="h" number="5016" sequence="39"/>
+  <status datetime="2014-07-16T15:14:00-04:00">fail</status>
+  <sponsor id="400032"/>
+  <offered datetime="2014-07-15"/>
+  <description>Amendment sought to reduce funds made available in the bill by 1 percent except for specified accounts.</description>
+  <purpose>An amendment to reduce funds made available in the bill by 1 percent except for specified accounts.</purpose>
+  <actions>
+    <action datetime="2014-07-15T19:34:00-04:00">
+      <text>Amendment (A039) offered by Mrs. Blackburn.</text>
+      <reference ref="CR H6278-6279" label="consideration"/>
+      <reference ref="CR H6278" label="text"/>
+    </action>
+    <vote datetime="2014-07-16T15:14:00-04:00" how="roll" result="fail" roll="421">
+      <text>On agreeing to the Blackburn amendment (A039) Failed by recorded vote: 168 - 256 (Roll no. 421).</text>
+      <reference ref="CR H6327-6328" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="710" updated="2015-01-03T08:38:23-05:00">
+  <amends type="h" number="4660" sequence="21"/>
+  <status datetime="2014-05-28T23:20:00-04:00">pass</status>
+  <sponsor id="412487"/>
+  <offered datetime="2014-05-28"/>
+  <description>Amendment reduces funding for Salaries and Expenses, General Administration of the Department of Justice by $1.5 million and increases funding for Salaries and Expenses of the International Trade Commission by a similar amount.</description>
+  <purpose>An amendment to reduce funding for Salaries and Expenses, General Administration of the Department of Justice by $1.5 million and to increase funding for Salaries and Expenses of the International Trade Commission by a similar amount.</purpose>
+  <actions>
+    <action datetime="2014-05-28T23:16:00-04:00">
+      <text>Amendment (A021) offered by Mr. McKinley.</text>
+      <reference ref="CR H4902" label="consideration"/>
+      <reference ref="CR H4902" label="text"/>
+    </action>
+    <vote datetime="2014-05-28T23:20:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the McKinley amendment (A021) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

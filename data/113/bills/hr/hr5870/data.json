@@ -51,7 +51,11 @@
   "status_at": "2014-12-11", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-11", 
+    "text": "Prohibits the use of funds appropriated for FY2015 or any ensuing fiscal year for negotiating a trade agreement that includes a waiver of Buy American Act requirements."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -60,5 +64,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:43-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5870:@@@L&summ2=m&"
 }

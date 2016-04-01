@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="503" updated="2015-01-03T08:36:39-05:00">
+  <amends type="h" number="1965" sequence="7"/>
+  <status datetime="2013-11-20T14:12:00-05:00">fail</status>
+  <sponsor id="412308"/>
+  <offered datetime="2013-11-19"/>
+  <description>Amendment sought to require the National Academy of Sciences to study and report to Congress regarding the impact of flooding on oil and gas facilities and the resulting instances of leaking and spills from tanks, wells, and pipelines.</description>
+  <purpose>An amendment numbered 7 printed in Part A of House Report 113-271 to require National Academy of Sciences to study and report to Congress about the impact of flooding on oil and gas facilities and the resulting instances of leaking and spills from tanks, wells, and pipelines.</purpose>
+  <actions>
+    <action datetime="2013-11-19T16:06:00-05:00">
+      <text>Amendment (A007) offered by Mr. Polis.</text>
+      <reference ref="CR H7229-7230" label="consideration"/>
+      <reference ref="CR H7229" label="text"/>
+    </action>
+    <vote datetime="2013-11-20T14:12:00-05:00" how="roll" result="fail" roll="597">
+      <text>On agreeing to the Polis amendment (A007) Failed by recorded vote: 202 - 221 (Roll no. 597).</text>
+      <reference ref="CR H7277" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

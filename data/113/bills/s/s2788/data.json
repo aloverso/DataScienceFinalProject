@@ -100,7 +100,11 @@
     "Vocational and technical education"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-10", 
+    "text": "Middle School Technical Education Program Act or the Middle School STEP Act - Directs the Secretary of Education to:\n\n create a pilot program for career and technical education exploration programs, and award grants to eligible partnerships (local educational agencies, area career and technical education schools, educational service agencies, and other organizations) to develop a middle school career and technical education exploration program that transition to career and technical education programs of study."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -121,5 +125,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:39:23-05:00"
+  "updated_at": "2015-09-01T10:22:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2788:@@@L&summ2=m&"
 }

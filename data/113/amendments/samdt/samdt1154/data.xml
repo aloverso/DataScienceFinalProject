@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="1154" updated="2015-01-03T08:07:40-05:00">
+  <amends type="h" number="588" sequence=""/>
+  <status datetime="2013-06-03">pass</status>
+  <sponsor id="300100"/>
+  <offered datetime="2013-06-03"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2013-06-03">
+      <text>Amendment SA 1154 proposed by Senator Stabenow for Senator Wyden.</text>
+      <reference ref="CR S3912" label="consideration"/>
+      <reference ref="CR S3912" label="text"/>
+    </action>
+    <vote datetime="2013-06-03" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 1154 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

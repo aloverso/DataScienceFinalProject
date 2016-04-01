@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="789" updated="2015-01-03T08:39:03-05:00">
+  <amends type="h" number="4745" sequence="12"/>
+  <status datetime="2014-06-10T14:02:00-04:00">fail</status>
+  <sponsor id="400651"/>
+  <offered datetime="2014-06-09"/>
+  <description>Amendment sought to reduce funding for the Public Housing Capital Fund by $7.1 million; to reduce funding for the Public Housing Operating Fund by $17.6 million and to apply the total savings of $24.7 million to the spending reduction account.</description>
+  <purpose>An amendment to reduce funding for the Public Housing Capital Fund by $7.1 million; to reduce funding for the Public Housing Operating Fund by $17.6 million and to apply the total savings of $24.7 million to the spending reduction account.</purpose>
+  <actions>
+    <action datetime="2014-06-09T19:54:00-04:00">
+      <text>Amendment (A012) offered by Mr. Gohmert.</text>
+      <reference ref="CR H5155-5156" label="consideration"/>
+      <reference ref="CR H5155" label="text"/>
+    </action>
+    <vote datetime="2014-06-10T14:02:00-04:00" how="roll" result="fail" roll="276">
+      <text>On agreeing to the Gohmert amendment (A012) Failed by recorded vote: 160 - 266 (Roll no. 276).</text>
+      <reference ref="CR H5204" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

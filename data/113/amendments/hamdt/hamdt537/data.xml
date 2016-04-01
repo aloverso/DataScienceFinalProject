@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="537" updated="2015-01-03T08:36:56-05:00">
+  <amends type="h" number="3590" sequence="5"/>
+  <status datetime="2014-02-05T14:21:00-05:00">fail</status>
+  <sponsor id="400100"/>
+  <offered datetime="2014-02-04"/>
+  <description>Amendment sought to strike the National Environmental Policy Act waivers in the bill.</description>
+  <purpose>An amendment numbered 6 printed in House Report 113-339 to strike the National Environmental Policy Act waivers in the bill.</purpose>
+  <actions>
+    <action datetime="2014-02-04T15:27:00-05:00">
+      <text>Amendment (A005) offered by Mr. DeFazio.</text>
+      <reference ref="CR H1578-1579" label="consideration"/>
+      <reference ref="CR H1578" label="text"/>
+    </action>
+    <vote datetime="2014-02-05T14:21:00-05:00" how="roll" result="fail" roll="38">
+      <text>On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 185 - 237 (Roll no. 38).</text>
+      <reference ref="CR H1611-1612" label="consideration"/>
+    </vote>
+  </actions>
+</amendment>

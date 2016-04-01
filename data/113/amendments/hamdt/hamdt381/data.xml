@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="381" updated="2015-01-03T08:35:39-05:00">
+  <amends type="h" number="2397" sequence="38"/>
+  <status datetime="2013-07-23T21:15:00-04:00">pass</status>
+  <sponsor id="400077"/>
+  <offered datetime="2013-07-23"/>
+  <description>Amendment prohibits the use of funds from the Working Capital Fund to be used to implement furloughs of Department of Defense employees.</description>
+  <purpose/>
+  <actions>
+    <action datetime="2013-07-23T21:04:00-04:00">
+      <text>Amendment (A038) offered by Mr. Cole.</text>
+      <reference ref="CR H4948-4949" label="consideration"/>
+      <reference ref="CR H4948" label="text"/>
+    </action>
+    <vote datetime="2013-07-23T21:15:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Cole amendment (A038) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

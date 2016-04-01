@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="978" updated="2015-01-03T08:40:37-05:00">
+  <amends type="h" number="4923" sequence="7"/>
+  <status datetime="2014-07-09">offered</status>
+  <sponsor id="412400"/>
+  <offered datetime="2014-07-09"/>
+  <description>An amendment to redirect $18.8 million in funding within the Mississippi River and Tributaries account.</description>
+  <actions>
+    <action datetime="2014-07-09T14:54:00-04:00">
+      <text>Amendment (A007) offered by Mr. Crawford.</text>
+      <reference ref="CR H5988" label="consideration"/>
+      <reference ref="CR H5988" label="text"/>
+    </action>
+    <action datetime="2014-07-09T14:57:00-04:00">
+      <text>By unanimous consent, the Crawford amendment was withdrawn.</text>
+      <reference ref="CR H5988" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

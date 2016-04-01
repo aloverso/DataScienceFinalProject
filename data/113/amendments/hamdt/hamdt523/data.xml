@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="523" updated="2015-01-03T08:36:50-05:00">
+  <amends type="h" number="3309" sequence="4"/>
+  <status datetime="2013-12-05T12:51:00-05:00">fail</status>
+  <sponsor id="412503"/>
+  <offered datetime="2013-12-05"/>
+  <description>Amendment sought to strike section 5 entitled "Customer-Suit Exemption" which inserts a new provision into the patent code requiring a court to grant a motion to stay a pattern infringement suit against certain "covered customers".</description>
+  <purpose>An amendment numbered 4 printed in Part A of House Report 113-283 to strike section 5, the "Customer-suit exception" provision.</purpose>
+  <actions>
+    <action datetime="2013-12-05T11:10:00-05:00">
+      <text>Amendment (A004) offered by Mr. Massie.</text>
+      <reference ref="CR H7539-7540, H7553" label="consideration"/>
+      <reference ref="CR H7539" label="text"/>
+    </action>
+    <vote datetime="2013-12-05T12:51:00-05:00" how="roll" result="fail" roll="625">
+      <text>On agreeing to the Massie amendment (A004) Failed by recorded vote: 119 - 296 (Roll no. 625).</text>
+    </vote>
+  </actions>
+</amendment>

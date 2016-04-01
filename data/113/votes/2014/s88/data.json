@@ -7,7 +7,7 @@
   "bill": {
     "congress": 113, 
     "number": 4152, 
-    "title": "Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014", 
+    "title": "No short title on file", 
     "type": "hr"
   }, 
   "category": "amendment", 
@@ -15,7 +15,7 @@
   "congress": 113, 
   "date": "2014-03-27T12:01:00-04:00", 
   "number": 88, 
-  "question": "On the Amendment S.Amdt. 2867 to H.R. 4152 (Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014)", 
+  "question": "On the Amendment S.Amdt. 2867 to H.R. 4152 (No short title on file)", 
   "record_modified": "2014-03-27T12:36:00-04:00", 
   "requires": "1/2", 
   "result": "Amendment Agreed to", 
@@ -24,7 +24,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00088.xml", 
   "subject": "Menendez Amdt. No. 2867", 
   "type": "On the Amendment", 
-  "updated_at": "2014-09-11T18:19:18-04:00", 
+  "updated_at": "2014-06-18T11:24:01-04:00", 
   "vote_id": "s88-113.2014", 
   "votes": {
     "Nay": [

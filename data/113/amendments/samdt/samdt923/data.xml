@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="923" updated="2015-01-03T08:05:45-05:00">
+  <amends type="s" number="954" sequence=""/>
+  <status datetime="2013-05-23">fail</status>
+  <sponsor id="300043"/>
+  <offered datetime="2013-05-20"/>
+  <description>To prohibit the payment by the Federal Crop Insurance Corporation of any portion of the premium for a policy or plan of insurance for tobacco.</description>
+  <actions>
+    <action datetime="2013-05-23">
+      <text>Amendment SA 923 proposed by Senator Feinstein.</text>
+      <reference ref="CR S3805-3809, S3816-3817" label="consideration"/>
+      <reference ref="CR S3805" label="text"/>
+    </action>
+    <vote datetime="2013-05-23" how="roll" result="fail" roll="137">
+      <text>Amendment SA 923, under the order of 5/23/13, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 137.</text>
+    </vote>
+  </actions>
+</amendment>

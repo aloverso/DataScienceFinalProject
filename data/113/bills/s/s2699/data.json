@@ -71,7 +71,7 @@
   "short_title": null, 
   "sponsor": {
     "district": null, 
-    "name": "King, Angus S. Jr.", 
+    "name": "King, Angus S., Jr.", 
     "state": "ME", 
     "thomas_id": "02185", 
     "title": "Sen", 
@@ -101,5 +101,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:38:38-05:00"
+  "updated_at": "2015-09-01T17:51:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2699:@@@L&summ2=m&"
 }

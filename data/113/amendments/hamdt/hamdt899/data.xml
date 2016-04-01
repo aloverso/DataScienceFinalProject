@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="899" updated="2015-01-03T08:39:58-05:00">
+  <amends type="h" number="4870" sequence="33"/>
+  <status datetime="2014-06-18T19:36:00-04:00">pass</status>
+  <sponsor id="412276"/>
+  <offered datetime="2014-06-18"/>
+  <description>Amendment prohibits use of funds to enter into a contract with any offeror or any of its principals if the offeror certifies that the offeror or any of its principals has been convicted of, or had a civil judgement rendered against it, for certain specified violations; are presently indicted for or otherwise criminally or civilly charged by a government entity with, commission of any of the certain specified charges; or within a three year period preceding this offer, has been notified of any delinquent Federal taxes in an amount that exceeds $3,000 for which the liability remains unsatisfied.</description>
+  <purpose>An amendment to prohibit use of funds to enter into a contract with any offeror that has been convicted of misconduct such as theft, forgery, bribery, or violating Federal criminal tax laws.</purpose>
+  <actions>
+    <action datetime="2014-06-18T19:34:00-04:00">
+      <text>Amendment (A033) offered by Mr. Grayson.</text>
+      <reference ref="CR H5483" label="consideration"/>
+      <reference ref="CR H5483" label="text"/>
+    </action>
+    <vote datetime="2014-06-18T19:36:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Grayson amendment (A033) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

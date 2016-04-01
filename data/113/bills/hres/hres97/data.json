@@ -181,7 +181,7 @@
   }, 
   "introduced_at": "2013-03-05", 
   "number": "97", 
-  "official_title": "Expressing the sense of the House of Representatives that the Federal Government should take all appropriate measures to ensure that citizens continue to be provided with paper-based information, products and services, and public notices while providing, where appropriate, the ability for all citizens to opt-in to electronic delivery if they so chose.", 
+  "official_title": "Expressing the sense of the House of Representatives that the Federal Government should take all appropriate measures to ensure that citizens continue to be provided with paper-based information, products and services, and public notices while providing, where appropriate, the ability for all citizens to opt-in to electronic delivery if they so choose.", 
   "popular_title": null, 
   "related_bills": [], 
   "short_title": null, 
@@ -213,9 +213,10 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
-      "title": "Expressing the sense of the House of Representatives that the Federal Government should take all appropriate measures to ensure that citizens continue to be provided with paper-based information, products and services, and public notices while providing, where appropriate, the ability for all citizens to opt-in to electronic delivery if they so chose.", 
+      "title": "Expressing the sense of the House of Representatives that the Federal Government should take all appropriate measures to ensure that citizens continue to be provided with paper-based information, products and services, and public notices while providing, where appropriate, the ability for all citizens to opt-in to electronic delivery if they so choose.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:12:47-05:00"
+  "updated_at": "2015-09-01T17:48:57-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE97:@@@L&summ2=m&"
 }

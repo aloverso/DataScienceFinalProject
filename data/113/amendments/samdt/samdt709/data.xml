@@ -1,0 +1,16 @@
+<amendment session="113" chamber="s" number="709" updated="2015-01-03T08:03:58-05:00">
+  <amends type="sc" number="8" sequence=""/>
+  <status datetime="2013-03-23">pass</status>
+  <sponsor id="400576"/>
+  <offered datetime="2013-03-22"/>
+  <description>To eliminate program duplication, fragmentation, and overlap within the 15 "financial literacy" programs under 13 departments and agencies identified by the 2012 report of the Government Accountability Office, entitled "Opportunities to Reduce Duplication, Overlap and Fragmentation, Achieve Savings, and Enhance Revenue".</description>
+  <actions>
+    <action datetime="2013-03-23">
+      <text>Amendment SA 709 proposed by Senator Murray for Senator Coburn.</text>
+      <reference ref="CR S2311-2319" label="consideration"/>
+    </action>
+    <vote datetime="2013-03-23" how="roll" result="pass" roll="89">
+      <text>Amendment SA 709 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 89.</text>
+    </vote>
+  </actions>
+</amendment>

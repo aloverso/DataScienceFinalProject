@@ -211,6 +211,12 @@
     }, 
     {
       "acted_at": "2014-05-30T11:54:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-30T11:54:00-04:00", 
       "how": "roll", 
       "references": [], 
       "result": "pass", 
@@ -221,12 +227,6 @@
       "type": "vote", 
       "vote_type": "vote", 
       "where": "h"
-    }, 
-    {
-      "acted_at": "2014-05-30T11:54:00-04:00", 
-      "references": [], 
-      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
-      "type": "action"
     }, 
     {
       "acted_at": "2014-05-30T11:55:00-04:00", 
@@ -549,5 +549,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:57:45-05:00"
+  "updated_at": "2015-09-01T17:49:49-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR4681:@@@L&summ2=m&"
 }

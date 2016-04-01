@@ -68,7 +68,11 @@
     "Property rights"
   ], 
   "subjects_top_term": "Finance and financial sector", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-10", 
+    "text": "Taxpayer Protections Against Abusive Seizures Act - Requires notice of a right to request a court hearing to each person whose property is seized or restrained because of an alleged violation of the prohibition against structuring transactions to evade reporting requirements.\n\nRequires the seized or restrained property to be returned, if the person requests a court hearing within 14 days after receiving such notice, unless within 14 days of that request the court holds an adversarial hearing and finds probable cause to believe that such a violation exists."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -83,5 +87,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:24-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5833:@@@L&summ2=m&"
 }

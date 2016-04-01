@@ -7,7 +7,7 @@
   "bill": {
     "congress": 113, 
     "number": 3979, 
-    "title": "Emergency Unemployment Compensation Extension Act of 2014", 
+    "title": "Protecting Volunteer Firefighters and Emergency Responders Act of 2014", 
     "type": "hr"
   }, 
   "category": "procedural", 
@@ -15,7 +15,7 @@
   "congress": 113, 
   "date": "2014-04-02T16:32:00-04:00", 
   "number": 97, 
-  "question": "On the Motion to Table S.Amdt. 2878 to S.Amdt. 2877 to H.R. 3979 (Emergency Unemployment Compensation Extension Act of 2014)", 
+  "question": "On the Motion to Table S.Amdt. 2878 to S.Amdt. 2877 to H.R. 3979 (Protecting Volunteer Firefighters and Emergency Responders Act of 2014)", 
   "record_modified": "2014-04-02T17:09:00-04:00", 
   "requires": "1/2", 
   "result": "Motion to Table Failed", 
@@ -23,8 +23,8 @@
   "session": "2014", 
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00097.xml", 
   "subject": "Motion to Table Reid Amdt. No. 2878", 
-  "type": "On the Motion to Table S.Amdt. 2878 to S.Amdt. 2877 to H.R. 3979 (Emergency Unemployment Compensation Extension Act of 2014)", 
-  "updated_at": "2014-09-11T18:19:14-04:00", 
+  "type": "On the Motion to Table S.Amdt. 2878 to S.Amdt. 2877 to H.R. 3979 (Protecting Volunteer Firefighters and Emergency Responders Act of 2014)", 
+  "updated_at": "2014-06-18T11:24:01-04:00", 
   "vote_id": "s97-113.2014", 
   "votes": {
     "Nay": [

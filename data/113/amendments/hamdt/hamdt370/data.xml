@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="370" updated="2015-01-03T08:35:33-05:00">
+  <amends type="h" number="2397" sequence="27"/>
+  <status datetime="2013-07-23T19:32:00-04:00">pass</status>
+  <sponsor id="400439"/>
+  <offered datetime="2013-07-23"/>
+  <description>Amendments en bloc comprised of amendments numbered 31, 68, and 85 printed in House Report 113-170 which appear on page H4936 of the Congressional Record of Tuesday, July 23, 2013.</description>
+  <purpose>Consisting of numbers 31, 68, and 85 printed in House Report 113-170.</purpose>
+  <actions>
+    <action datetime="2013-07-23T19:27:00-04:00">
+      <text>Amendments en bloc (A027) offered by Mr. Young (FL).</text>
+      <reference ref="CR H4936-4937" label="consideration"/>
+      <reference ref="CR H4936-4937" label="text en bloc"/>
+    </action>
+    <vote datetime="2013-07-23T19:32:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Young (FL) amendments (A027) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -68,8 +68,18 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-10", 
-  "subjects": [], 
-  "subjects_top_term": null, 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Child safety and welfare", 
+    "Computer security and identity theft", 
+    "Consumer Financial Protection Bureau", 
+    "Consumer credit", 
+    "Crime victims", 
+    "Finance and financial sector", 
+    "Fraud offenses and financial crimes", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
   "summary": null, 
   "titles": [
     {
@@ -79,5 +89,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:29-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5843:@@@L&summ2=m&"
 }

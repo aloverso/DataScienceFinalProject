@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="1116" updated="2015-01-03T08:41:46-05:00">
+  <amends type="h" number="4984" sequence="1"/>
+  <status datetime="2014-07-24T13:07:00-04:00">pass</status>
+  <sponsor id="400224"/>
+  <offered datetime="2014-07-24"/>
+  <description>Amendment clarifies the information provided to first-time borrowers; clarifies that borrowers must accept their loans annually after the completion of the other counseling requirements; requires that the Secretary of Education, acting through the Director of the Institute of Education Sciences, must conduct a longitudinal study of the impact and effectiveness of the student loan counseling required under this act; and makes other technical corrections.</description>
+  <purpose>An amendment No. 1 printed in part B of House Report 113-546 to clarify the information provided to first-time borrowers; clarify that borrowers must accept their loans annually after the completion of the other counseling requirements; require that the Secretary of Education, acting through the Director of the Institute of Education Sciences, must conduct a longitudinal study of the impact and effectiveness of the student loan counseling required under this act; and other minor technical edits.</purpose>
+  <actions>
+    <action datetime="2014-07-24T13:03:00-04:00">
+      <text>Amendment (A001) offered by Mr. Kline.</text>
+      <reference ref="CR H6763" label="consideration"/>
+      <reference ref="CR H6763" label="text"/>
+    </action>
+    <vote datetime="2014-07-24T13:07:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Kline amendment (A001) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

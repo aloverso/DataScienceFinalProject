@@ -149,9 +149,9 @@
   ], 
   "subjects_top_term": "Native Americans", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-07-09", 
-    "text": "Blackfoot River Land Exchange Act of 2014 - Extinguishes all claims and all right, title, and interest in and to specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone and Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.\n\nRequires the non-Indian land to be held in trust for the Tribes.\n\nDirects the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7, which is to use the proceeds from the sale of such land to compensate: (1) each non-Indian landowner for his or her loss of land resulting from this Act's implementation at fair market value, and (2) itself for any expenses it incurs in carrying out this Act.\n\nAuthorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain after it meets those priorities in any manner it determines to be appropriate."
+    "as": "Reported to House without amendment", 
+    "date": "2014-12-01", 
+    "text": "Blackfoot River Land Exchange Act of 2014 - (Sec. 4) Extinguishes all claims and all right, title, and interest in specified Indian and non-Indian land as part of the settlement of disputes within the Fort Hall Indian Reservation of the Shoshone-Bannock Indian Tribes in Idaho resulting from the realignment of the Blackfoot River by the Corps of Engineers in 1964.\n\n(Sec. 5) Requires the non-Indian land to be held in trust by the United States for the Tribes.\n\n(Sec. 6) Directs the Secretary of the Interior to transfer the Indian land to the Blackfoot River Flood Control District No. 7 for use or sale. Requires any proceeds from the sale of the land to be used to compensate: (1) each non-Indian landowner at fair market value for his or her loss of land resulting from this Act's implementation, and (2) the Blackfoot River Flood Control District No. 7 for any expenses it incurs in carrying out this Act.\n\nAuthorizes the Blackfoot River Flood Control District No. 7 to dispose of the land or proceeds that remain in any manner it determines to be appropriate."
   }, 
   "titles": [
     {
@@ -173,5 +173,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:00:50-05:00"
+  "updated_at": "2015-09-01T17:49:56-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5049:@@@L&summ2=m&"
 }

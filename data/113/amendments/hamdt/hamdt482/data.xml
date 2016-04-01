@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="482" updated="2015-01-03T08:36:29-05:00">
+  <amends type="h" number="3080" sequence="2"/>
+  <status datetime="2013-10-23T17:53:00-04:00">fail</status>
+  <sponsor id="400100"/>
+  <offered datetime="2013-10-23"/>
+  <description>Amendment sought to delay the application of environmental "streamlining" provisions in the bill until the Secretary certifies that there is sufficient funding to reduce the current backlog of authorized Corps projects to less than $20 billion.</description>
+  <purpose>An amendment numbered 2 printed in House Report 113-251 to delay the application of environmental `streamlining' provisions in the bill until the Secretary certifies that there is sufficient funding to reduce the current backlog of authorized Corps projects to less than $20 billion; more than $40 billion in projects have already been authorized using existing environmental review processes, but have yet to receive funding for construction.</purpose>
+  <actions>
+    <action datetime="2013-10-23T15:55:00-04:00">
+      <text>Amendment (A002) offered by Mr. DeFazio.</text>
+      <reference ref="CR H6740-6741, H6755" label="consideration"/>
+      <reference ref="CR H6740" label="text"/>
+    </action>
+    <vote datetime="2013-10-23T17:53:00-04:00" how="roll" result="fail" roll="556">
+      <text>On agreeing to the DeFazio amendment (A002) Failed by recorded vote: 183 - 236 (Roll no. 556).</text>
+    </vote>
+  </actions>
+</amendment>

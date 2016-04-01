@@ -20,6 +20,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Veterans' Affairs.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-23", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -33,6 +40,15 @@
       ], 
       "committee": "House Veterans' Affairs", 
       "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
     }
   ], 
   "congress": "113", 
@@ -106,5 +122,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:07-05:00"
+  "updated_at": "2015-09-01T17:50:09-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5798:@@@L&summ2=m&"
 }

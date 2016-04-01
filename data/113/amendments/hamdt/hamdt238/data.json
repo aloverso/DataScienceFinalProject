@@ -23,9 +23,14 @@
     }, 
     {
       "acted_at": "2013-06-27T18:37:00-04:00", 
+      "how": "roll", 
       "references": [], 
+      "result": "pass", 
+      "roll": 297, 
       "text": "On agreeing to the Cassidy amendment (A005) as modified Agreed to by recorded vote: 238 - 185 (Roll no. 297).", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
     }
   ], 
   "amendment_id": "hamdt238-113", 
@@ -53,7 +58,7 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "offered", 
-  "status_at": "2013-06-27", 
-  "updated_at": "2015-01-02T13:18:02-05:00"
+  "status": "pass", 
+  "status_at": "2013-06-27T18:37:00-04:00", 
+  "updated_at": "2015-01-03T08:34:27-05:00"
 }

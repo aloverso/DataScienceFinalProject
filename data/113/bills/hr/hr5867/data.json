@@ -51,7 +51,11 @@
   "status_at": "2014-12-11", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-11", 
+    "text": "Authorizes the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for the project numbered 12478-003 (Gibson Dam, Montana), to extend for six years the time period during which the licensee is required to commence construction.\n\nCommences such time period upon expiration of the previous extension issued by FERC before enactment of this Act."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -60,5 +64,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:41-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5867:@@@L&summ2=m&"
 }

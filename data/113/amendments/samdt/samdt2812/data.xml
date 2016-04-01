@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="2812" updated="2015-01-03T08:21:30-05:00">
+  <amends type="s" number="1086" sequence=""/>
+  <status datetime="2014-03-12">pass</status>
+  <sponsor id="300041"/>
+  <offered datetime="2014-03-11"/>
+  <description>To require the Secretary of Health and Human Services, in conjunction with the Secretary of Education, to conduct a review of Federal early learning and care programs and make recommendations for streamlining the various programs.</description>
+  <actions>
+    <action datetime="2014-03-12">
+      <text>Amendment SA 2812 proposed by Senator Enzi.</text>
+      <reference ref="CR S1553-1555, S1556" label="consideration"/>
+      <reference ref="CR S1554" label="text"/>
+    </action>
+    <vote datetime="2014-03-12" how="roll" result="pass" roll="72">
+      <text>Amendment SA 2812 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 72.</text>
+    </vote>
+  </actions>
+</amendment>

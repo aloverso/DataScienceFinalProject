@@ -187,7 +187,7 @@
       "type": "bill"
     }
   ], 
-  "short_title": "Trinity County Land Exchange Act of 2014'.", 
+  "short_title": "Trinity County Land Exchange Act of 2014", 
   "sponsor": {
     "district": "2", 
     "name": "Huffman, Jared", 
@@ -207,9 +207,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Reported to House amended", 
-    "date": "2014-11-12", 
-    "text": "Trinity County Land Exchange Act of 2014 - Provides for the exchange of approximately 47 acres of land known as the Sky Ranch Parcel and owned by the Trinity Public Utilities District of Trinity County, California, for approximately 100 acres of land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County.\n\nIntends for such land exchange to be an equal value exchange. Provides for cash equalization if the parcels are not of equal value.\n\n Requires the Bureau of Land Management (BLM) to administer the Sky Ranch parcel as public land, except that public recreation and public access to and for recreation shall be the highest and best use of such parcel."
+    "as": "Passed House amended", 
+    "date": "2014-11-13", 
+    "text": "Trinity County Land Exchange Act of 2014 - Provides for the exchange of approximately 47 acres of land known as the Sky Ranch Parcel and owned by the Trinity Public Utilities District of Trinity County, California, for approximately 100 acres of land in the Shasta-Trinity National Forest near the Weaverville Airport in Trinity County.\n\nIntends for such land exchange to be an equal value exchange. Provides for cash equalization if the parcels are not of equal value. Requires any cash equalization payment received under this Act to be deposited into the fund established under the Sisk Act and the deposited amounts to be used for the improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System.\n\nRequires the Bureau of Land Management (BLM) to administer the Sky Ranch parcel as public land, except that public recreation and public access to and for recreation shall be the highest and best use of such parcel."
   }, 
   "titles": [
     {
@@ -227,7 +227,7 @@
     {
       "as": "passed house", 
       "is_for_portion": false, 
-      "title": "Trinity County Land Exchange Act of 2014'.", 
+      "title": "Trinity County Land Exchange Act of 2014", 
       "type": "short"
     }, 
     {
@@ -237,5 +237,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:46:16-05:00"
+  "updated_at": "2015-09-01T17:49:20-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3326:@@@L&summ2=m&"
 }

@@ -644,8 +644,8 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Introduced", 
-    "date": "2014-09-18", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "Designates the facility of the United States Postal Service located at 801 West Ocean Avenue in Lompoc, California, as the \"Federal Correctional Officer Scott J. Williams Memorial Post Office Building.\""
   }, 
   "titles": [
@@ -656,5 +656,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:05:09-05:00"
+  "updated_at": "2015-09-01T10:21:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5562:@@@L&summ2=m&"
 }

@@ -330,8 +330,8 @@
   ], 
   "subjects_top_term": "Government operations and politics", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2014-12-10", 
+    "as": "Public Law", 
+    "date": "2014-12-18", 
     "text": "(This measure has not been amended since it was reported to the Senate on September 16, 2014. The summary of that version is repeated here.)\n\nDHS OIG Mandates Revision Act of 2014 - Repeals requirements that the Department of Homeland Security (DHS) Inspector General: (1) conduct an annual evaluation of the Cargo Inspection Targeting System pursuant to the Coast Guard and Maritime Transportation Act of 2004, (2) conduct an annual review of Coast Guard Performance pursuant to the Homeland Security Act of 2002 (HSA), and (3) conduct an annual review of grants to states and high-risk urban areas under HSA."
   }, 
   "titles": [
@@ -366,5 +366,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:38:14-05:00"
+  "updated_at": "2015-09-01T10:22:24-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2651:@@@L&summ2=m&"
 }

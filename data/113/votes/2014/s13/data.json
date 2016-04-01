@@ -2,7 +2,7 @@
   "bill": {
     "congress": 113, 
     "number": 3547, 
-    "title": "Making consolidated appropriations for the fiscal year ending September 30, 2014, and for other purposes.", 
+    "title": "An act making consolidated appropriations for the fiscal year ending September 30, 2014, and for other purposes.", 
     "type": "hr"
   }, 
   "category": "passage", 
@@ -19,7 +19,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00013.xml", 
   "subject": "Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3547", 
   "type": "On the Motion (Motion to Concur in the House Amendment to the Senate Amendment to H.R. 3547)", 
-  "updated_at": "2014-09-11T18:19:56-04:00", 
+  "updated_at": "2014-06-18T11:24:06-04:00", 
   "vote_id": "s13-113.2014", 
   "votes": {
     "Nay": [

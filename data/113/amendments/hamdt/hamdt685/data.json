@@ -17,9 +17,13 @@
     }, 
     {
       "acted_at": "2014-05-21T21:24:00-04:00", 
+      "how": "by voice vote", 
       "references": [], 
+      "result": "pass", 
       "text": "On agreeing to the McKeon amendments (A022) Agreed to by voice vote.", 
-      "type": "action"
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
     }
   ], 
   "amendment_id": "hamdt685-113", 
@@ -47,7 +51,7 @@
     "title": "Rep", 
     "type": "person"
   }, 
-  "status": "offered", 
-  "status_at": "2014-05-21", 
-  "updated_at": "2015-01-02T13:21:46-05:00"
+  "status": "pass", 
+  "status_at": "2014-05-21T21:24:00-04:00", 
+  "updated_at": "2015-01-03T08:38:11-05:00"
 }

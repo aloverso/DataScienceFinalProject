@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="635" updated="2015-01-03T08:37:46-05:00">
+  <amends type="h" number="4486" sequence="18"/>
+  <status datetime="2014-04-30T18:10:00-04:00">pass</status>
+  <sponsor id="412397"/>
+  <offered datetime="2014-04-30"/>
+  <description>Amendment increases funds for the Department of Veterans Affairs Information Technology Systems by $3,215,910 and reduces funds for Department of Veterans Affairs General Administration by a similar amount in order to redirect funds towards veterans' services.</description>
+  <purpose>An amendment to increase funds for the Department of Veterans Affairs Information Technology Systems by $3,215,910 and to reduce funds for Department of Veterans Affairs General Administration by the same amount.</purpose>
+  <actions>
+    <action datetime="2014-04-30T18:06:00-04:00">
+      <text>Amendment (A018) offered by Mr. Gosar.</text>
+      <reference ref="CR H3351-3352" label="consideration"/>
+      <reference ref="CR H3351" label="text"/>
+    </action>
+    <vote datetime="2014-04-30T18:10:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Gosar amendment (A018) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

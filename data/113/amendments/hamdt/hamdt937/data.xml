@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="937" updated="2015-01-03T08:40:17-05:00">
+  <amends type="h" number="4870" sequence="71"/>
+  <status datetime="2014-06-19T21:58:00-04:00">pass</status>
+  <sponsor id="400655"/>
+  <offered datetime="2014-06-19"/>
+  <description>An amendment to prohibit the use of funds to use to enter into a contract for the planning, design, refurbishing, or construction of a biofuels refinery unless such planning, design, refurbishing, or construction is specifically authorized by law.</description>
+  <actions>
+    <action datetime="2014-06-19T21:54:00-04:00">
+      <text>Amendment (A071) offered by Mr. Conaway.</text>
+      <reference ref="CR H5547-5548" label="consideration"/>
+      <reference ref="CR H5547" label="text"/>
+    </action>
+    <vote datetime="2014-06-19T21:58:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Conaway amendment (A071) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

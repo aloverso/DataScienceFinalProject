@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="589" updated="2015-01-03T08:37:23-05:00">
+  <amends type="h" number="4138" sequence="1"/>
+  <status datetime="2014-03-12T16:22:00-04:00">fail</status>
+  <sponsor id="400080"/>
+  <offered datetime="2014-03-12"/>
+  <description>Amendment sought to exclude from the bill's scope any executive actions taken to combat discrimination or to protect civil rights.</description>
+  <purpose>An amendment numbered 1 printed in Part A of House Report 113-378 to exclude from the bill's scope any executive actions taken to combat discrimination or to protect civil rights.</purpose>
+  <actions>
+    <action datetime="2014-03-12T15:15:00-04:00">
+      <text>Amendment (A001) offered by Mr. Conyers.</text>
+      <reference ref="CR H2330-2331, H2335-2336" label="consideration"/>
+      <reference ref="CR H2330" label="text"/>
+    </action>
+    <vote datetime="2014-03-12T16:22:00-04:00" how="roll" result="fail" roll="120">
+      <text>On agreeing to the Conyers amendment (A001) Failed by recorded vote: 188 - 227 (Roll no. 120).</text>
+    </vote>
+  </actions>
+</amendment>

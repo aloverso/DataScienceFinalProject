@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="907" updated="2015-01-03T08:05:37-05:00">
+  <amends type="s" number="601" sequence=""/>
+  <status datetime="2013-05-14">pass</status>
+  <sponsor id="400050"/>
+  <offered datetime="2013-05-13"/>
+  <description>To provide for future project authorizations.</description>
+  <actions>
+    <action datetime="2013-05-14">
+      <text>Amendment SA 907 proposed by Senator Boxer for Senator Brown.</text>
+      <reference ref="CR S3401-3408" label="consideration"/>
+      <reference ref="CR S3407-3408" label="text"/>
+    </action>
+    <vote datetime="2013-05-14" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 907 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

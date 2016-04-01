@@ -38,7 +38,7 @@
   "official_title": "To revise the Uniform Crime Reports, and the National Incident-Based Reporting System, to direct the Director of the Federal Bureau of Investigation to include information in those reports pertaining to law enforcement-involved justifiable homicides, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Justifiable Homicide Accuracy in Reporting Act of 2014", 
   "sponsor": {
     "district": "18", 
     "name": "Jackson Lee, Sheila", 
@@ -49,10 +49,25 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2015-01-02", 
-  "subjects": [], 
-  "subjects_top_term": null, 
-  "summary": null, 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Law enforcement officers", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2015-01-02", 
+    "text": "Justifiable Homicide Accuracy in Reporting Act of 2014 - Requires the Director of the Federal Bureau of Investigation (FBI) to revise the Uniform Crime Reports and the National Incident-Based Reporting System to include information pertaining to law enforcement-involved justifiable homicides."
+  }, 
   "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Justifiable Homicide Accuracy in Reporting Act of 2014", 
+      "type": "short"
+    }, 
     {
       "as": "introduced", 
       "is_for_portion": false, 
@@ -60,5 +75,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:52-05:00"
+  "updated_at": "2015-09-01T17:50:16-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5889:@@@L&summ2=m&"
 }

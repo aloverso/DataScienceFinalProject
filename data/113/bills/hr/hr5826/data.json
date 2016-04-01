@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Transportation and Infrastructure.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-12-11", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Transportation and Infrastructure", 
       "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
     }
   ], 
   "congress": "113", 
@@ -63,7 +79,11 @@
     "Water quality"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-10", 
+    "text": "Water Quality Investment Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to reauthorize the sewer overflow control grants program through FY2019.\n\nRequires a project that receives a grant to be carried out under the same requirements as a project that receives assistance from a state water pollution control revolving fund, unless the state determines the requirements are inconsistent with treating sewer overflow."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -78,5 +98,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:21-05:00"
+  "updated_at": "2015-09-01T17:50:11-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5826:@@@L&summ2=m&"
 }

@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="922" updated="2015-01-03T08:40:09-05:00">
+  <amends type="h" number="4870" sequence="56"/>
+  <status datetime="2014-06-19T23:00:00-04:00">fail</status>
+  <sponsor id="400237"/>
+  <offered datetime="2014-06-19"/>
+  <description>An amendment No. 34 printed in the Congressional Record to prohibit use of funds to be obligated or expended pursuant to the Authorization for Use of Military of Force after December 31, 2014.</description>
+  <actions>
+    <action datetime="2014-06-19T20:01:00-04:00">
+      <text>Amendment (A056) offered by Ms. Lee (CA).</text>
+      <reference ref="CR H5534-5535, H5554" label="consideration"/>
+      <reference ref="CR H5534" label="text"/>
+    </action>
+    <vote datetime="2014-06-19T23:00:00-04:00" how="roll" result="fail" roll="330">
+      <text>On agreeing to the Lee (CA) amendment (A056) Failed by recorded vote: 157 - 260 (Roll no. 330).</text>
+    </vote>
+  </actions>
+</amendment>

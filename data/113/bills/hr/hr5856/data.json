@@ -49,8 +49,15 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-11", 
-  "subjects": [], 
-  "subjects_top_term": null, 
+  "subjects": [
+    "Aviation and airports", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Homeland security", 
+    "Intelligence activities, surveillance, classified information", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Emergency management", 
   "summary": null, 
   "titles": [
     {
@@ -66,5 +73,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:36-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5856:@@@L&summ2=m&"
 }

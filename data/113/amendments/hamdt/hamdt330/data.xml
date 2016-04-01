@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="330" updated="2015-01-03T08:35:13-05:00">
+  <amends type="h" number="5" sequence="13"/>
+  <status datetime="2013-07-18T17:29:00-04:00">pass</status>
+  <sponsor id="400661"/>
+  <offered datetime="2013-07-18"/>
+  <description>Amendment delays implementation of new Title II formula until the Secretary of Education determines that the implementation will not reduce funding for schools serving high percentages of students in poverty.</description>
+  <purpose/>
+  <actions>
+    <action datetime="2013-07-18T17:20:00-04:00">
+      <text>Amendment (A013) offered by Ms. Moore.</text>
+      <reference ref="CR H4710-4711" label="consideration"/>
+      <reference ref="CR H4710" label="text"/>
+    </action>
+    <vote datetime="2013-07-18T17:29:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Moore amendment (A013) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

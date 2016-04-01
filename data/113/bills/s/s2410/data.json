@@ -1,6 +1,286 @@
 {
   "actions": [
     {
+      "acted_at": "2014-02-26", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 3.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-02-27", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-05", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 7.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-06", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-11", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 5.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-12", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 7.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-13", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 3.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-26", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 6.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-03-27", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 5.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 3.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 2.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-02", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 7.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-03", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 5.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 4.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 6.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 7.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 4.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 2.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-10", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 7.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-29", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-04-30", 
+      "committee": "Committee on Armed Services", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Senate Committee on Armed Services. Hearings held prior to introduction and/or referral. Hearings printed: S.Hrg. 113-465, pt. 1.", 
+      "type": "hearings"
+    }, 
+    {
       "acted_at": "2014-06-02", 
       "committees": [
         "SSAS"
@@ -1643,7 +1923,8 @@
     {
       "activity": [
         "origin", 
-        "reporting"
+        "reporting", 
+        "hearings"
       ], 
       "committee": "Senate Armed Services", 
       "committee_id": "SSAS"
@@ -1653,7 +1934,8 @@
   "cosponsors": [], 
   "enacted_as": null, 
   "history": {
-    "active": false, 
+    "active": true, 
+    "active_at": "2014-02-26", 
     "awaiting_signature": false, 
     "enacted": false, 
     "vetoed": false
@@ -1946,5 +2228,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:36:14-05:00"
+  "updated_at": "2015-09-01T17:50:59-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2410:@@@L&summ2=m&"
 }

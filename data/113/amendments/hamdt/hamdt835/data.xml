@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="835" updated="2015-01-03T08:39:26-05:00">
+  <amends type="h" number="4745" sequence="58"/>
+  <status datetime="2014-06-10T16:43:00-04:00">pass</status>
+  <sponsor id="412525"/>
+  <offered datetime="2014-06-10"/>
+  <description>Amendment to prohibit use of funds to promulgate, implement, or enforce any regulations that would mandate GPS tracking or event data recorders in light-duty noncommercial passenger motor vehicles.</description>
+  <purpose>An amendment to prohibit use of funds to promulgate, implement, or enforce any regulations that would mandate GPS tracking or event data recorders in light-duty noncommercial passenger motor vehicles.</purpose>
+  <actions>
+    <action datetime="2014-06-10T16:42:00-04:00">
+      <text>Amendment (A058) offered by Mr. Yoho.</text>
+      <reference ref="CR H5223" label="consideration"/>
+      <reference ref="CR H5223" label="text"/>
+    </action>
+    <vote datetime="2014-06-10T16:43:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Yoho amendment (A058) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

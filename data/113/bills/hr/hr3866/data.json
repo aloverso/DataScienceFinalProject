@@ -53,7 +53,13 @@
   "number": "3866", 
   "official_title": "To prohibit an increase in the number of flag and general officers.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr3547-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "9", 
@@ -88,5 +94,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:50:50-05:00"
+  "updated_at": "2015-09-01T17:49:26-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR3866:@@@L&summ2=m&"
 }

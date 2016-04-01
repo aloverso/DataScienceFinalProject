@@ -304,7 +304,11 @@
   "status_at": "2014-12-11", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-11", 
+    "text": "Eliminate So-Called Right-to-Work Legislation Nationwide Act of 2013 - Amends the National Labor Relations Act to repeal the disclaimer that nothing in the law shall be construed as authorizing the execution or application of agreements requiring membership in a labor organization as a condition of employment in any state or territory in which such execution or application is prohibited by state or territorial law.\n\n(Preempts contrary state or territorial law to allow the execution or application of agreements requiring union membership.)"
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -319,5 +323,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:48-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5880:@@@L&summ2=m&"
 }

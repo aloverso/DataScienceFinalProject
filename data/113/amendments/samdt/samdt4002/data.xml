@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="4002" updated="2015-01-03T08:31:26-05:00">
+  <amends type="h" number="2952" sequence=""/>
+  <status datetime="2014-12-10">pass</status>
+  <sponsor id="300019"/>
+  <offered datetime="2014-12-10"/>
+  <description>To amend the title.</description>
+  <actions>
+    <action datetime="2014-12-10">
+      <text>Amendment SA 4002 proposed by Senator Boxer for Senator Carper.</text>
+      <reference ref="CR S6487" label="consideration"/>
+      <reference ref="CR S6487" label="text"/>
+    </action>
+    <vote datetime="2014-12-10" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 4002 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

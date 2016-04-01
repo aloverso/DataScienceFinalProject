@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="360" updated="2015-01-03T08:35:28-05:00">
+  <amends type="h" number="2397" sequence="17"/>
+  <status datetime="2013-07-23T16:53:00-04:00">pass</status>
+  <sponsor id="412446"/>
+  <offered datetime="2013-07-23"/>
+  <description>Amendment provides $15 million for the Israeli Iron Dome short-range defense system to initiate co-production of missile interceptors in the United States. The amendment is offset by a reduction in funds for applied research in joint munitions technology by $5 million and a reduction in funds for applied research in chemical and biological defense programs by $10 million.</description>
+  <purpose>An amendment numbered 18 printed in House Report 113-170 to transfer $15,000,000 to Defense-Wide RDTE for producing the Iron Dome short-range rocket defense program in the United States, including for infrastructure, tooling, transferring data, special test equipment, and related components.</purpose>
+  <actions>
+    <action datetime="2013-07-23T16:49:00-04:00">
+      <text>Amendment (A017) offered by Mr. Heck (NV).</text>
+      <reference ref="CR H4921" label="consideration"/>
+      <reference ref="CR H4921" label="text"/>
+    </action>
+    <vote datetime="2013-07-23T16:53:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Heck (NV) amendment (A017) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

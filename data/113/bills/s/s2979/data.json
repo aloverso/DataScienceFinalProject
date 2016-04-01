@@ -68,7 +68,11 @@
     "Veterans' medical care"
   ], 
   "subjects_top_term": "Armed forces and national security", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-04", 
+    "text": "Extends from 5 to 10 years after discharge or release from active duty after January 28, 2003, a combat veteran's eligibility for veterans' hospital care, medical services, and nursing home care for illnesses that have not been medically proven to be attributable to such veteran's service."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -77,5 +81,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:40:58-05:00"
+  "updated_at": "2015-09-01T10:22:28-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2979:@@@L&summ2=m&"
 }

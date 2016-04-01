@@ -98,7 +98,11 @@
     "Visas and passports"
   ], 
   "subjects_top_term": "Emergency management", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "FTO Reform Act of 2014 - Amends the Immigration and Nationality Act to: (1) revise the list of relevant committees to which the Secretary of State must provide prior notice with respect to the designation of a foreign terrorist organization (FTO) to include the Senate Homeland Security and Governmental Affairs Committee and the House Homeland Security and Foreign Affairs Committees; and (2) include the Secretary of Homeland Security (DHS) among the officials the Secretary of State must consult in making such designation.\n\nDirects the Secretary of Homeland Security to transmit recommendations to the Secretary of State regarding an FTO designation, including an assessment of the threat to national security due to terrorist activity or terrorism carried out by the organization.\n\nRequires the Secretary of Homeland Security to report on:\n\n DHS activities relating to FTO designations and an accounting of the effects each such designation has on DHS operations; the number of individuals denied entry into the United States due to their support for an FTO and an identification of such FTOs; the number of individuals removed from the United States due to their support for an FTO and an identification of such FTOs; a list of all revocations of otherwise ineligible nonimmigrant visas considered by DHS; and a list of all individuals with respect to whom a revocation was granted, their associations with an FTO, and an identification of such FTOs."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -113,5 +117,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:03:20-05:00"
+  "updated_at": "2015-09-01T10:20:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5348:@@@L&summ2=m&"
 }

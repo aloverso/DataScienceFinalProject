@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="841" updated="2015-01-03T08:39:29-05:00">
+  <amends type="h" number="4745" sequence="64"/>
+  <status datetime="2014-06-10T17:29:00-04:00">pass</status>
+  <sponsor id="400151"/>
+  <offered datetime="2014-06-10"/>
+  <description>Amendment prohibits the use of funds to subsidize Amtrak Food and Beverage Service.</description>
+  <purpose>An amendment to prohibit the use of funds to subsidize Amtrak Food and Beverage Service.</purpose>
+  <actions>
+    <action datetime="2014-06-10T17:19:00-04:00">
+      <text>Amendment (A064) offered by Mr. Gingrey (GA).</text>
+      <reference ref="CR H5228-5229" label="consideration"/>
+      <reference ref="CR H5228" label="text"/>
+    </action>
+    <vote datetime="2014-06-10T17:29:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Gingrey (GA) amendment (A064) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

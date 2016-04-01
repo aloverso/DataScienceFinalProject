@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="510" updated="2015-01-03T08:36:43-05:00">
+  <amends type="h" number="2728" sequence="5"/>
+  <status datetime="2013-11-20T17:12:00-05:00">fail</status>
+  <sponsor id="400100"/>
+  <offered datetime="2013-11-20"/>
+  <description>An amendment numbered 4 printed in Part B of House Report 113-271 to prohibit the export of natural gas produced from public lands.</description>
+  <actions>
+    <action datetime="2013-11-20T16:17:00-05:00">
+      <text>Amendment (A005) offered by Mr. DeFazio.</text>
+      <reference ref="CR H7292-7293, H7295" label="consideration"/>
+      <reference ref="CR H7292" label="text"/>
+    </action>
+    <vote datetime="2013-11-20T17:12:00-05:00" how="roll" result="fail" roll="602">
+      <text>On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 142 - 276 (Roll no. 602).</text>
+    </vote>
+  </actions>
+</amendment>

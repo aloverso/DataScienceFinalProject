@@ -73,8 +73,7 @@
       ], 
       "committee": "Senate Commerce, Science, and Transportation", 
       "committee_id": "SSCM", 
-      "subcommittee": "Subcommittee on Consumer Protection, Product Safety, and Insurance", 
-      "subcommittee_id": "20"
+      "subcommittee": "Subcommittee on Consumer Protection, Product Safety, and Insurance"
     }
   ], 
   "congress": "113", 
@@ -223,5 +222,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:23:37-05:00"
+  "updated_at": "2015-09-01T10:21:47-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN921:@@@L&summ2=m&"
 }

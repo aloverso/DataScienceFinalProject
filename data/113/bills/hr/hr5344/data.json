@@ -101,7 +101,11 @@
     "Firearms and explosives"
   ], 
   "subjects_top_term": "Crime and law enforcement", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Responsible Body Armor Possession Act - Amends the federal criminal code to prohibit the purchase, ownership, or possession of enhanced body armor, except: (1) by or under the authority of the United States or any state or political subdivision, or (2) enhanced body armor that was lawfully possessed before the effective date of this Act.\n\nDefines \"enhanced body armor\" to mean body armor, including a helmet or shield, the ballistic resistance of which meets or exceeds the ballistic performance of Type III armor, determined using National Institute of Justice Standard-0101.06."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -116,5 +120,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:03:18-05:00"
+  "updated_at": "2015-09-01T10:20:58-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5344:@@@L&summ2=m&"
 }

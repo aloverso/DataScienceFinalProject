@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="467" updated="2015-01-03T08:36:21-05:00">
+  <amends type="h" number="761" sequence="5"/>
+  <status datetime="2013-09-18T15:29:00-04:00">pass</status>
+  <sponsor id="400313"/>
+  <offered datetime="2013-09-18"/>
+  <description>An amendment numbered 5 printed in House Report 113-214 to clarify the intention of the bill that it will not impact Secretarial Order 3324, as it relates to oil/gas and potash.</description>
+  <actions>
+    <action datetime="2013-09-18T15:22:00-04:00">
+      <text>Amendment (A005) offered by Mr. Pearce.</text>
+      <reference ref="CR H5617-5618" label="consideration"/>
+      <reference ref="CR H5617" label="text"/>
+    </action>
+    <vote datetime="2013-09-18T15:29:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Pearce amendment (A005) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

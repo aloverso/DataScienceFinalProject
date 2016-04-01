@@ -18,7 +18,7 @@
       ], 
       "in_committee": null, 
       "references": [], 
-      "text": "Committee on Indian Affairs. Hearings held.", 
+      "text": "Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 113-509.", 
       "type": "hearings"
     }, 
     {
@@ -151,5 +151,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:33:05-05:00"
+  "updated_at": "2015-09-01T17:50:44-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN2041:@@@L&summ2=m&"
 }

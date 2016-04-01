@@ -7,7 +7,7 @@
   "bill": {
     "congress": 113, 
     "number": 3979, 
-    "title": "Emergency Unemployment Compensation Extension Act of 2014", 
+    "title": "Protecting Volunteer Firefighters and Emergency Responders Act of 2014", 
     "type": "hr"
   }, 
   "category": "cloture", 
@@ -15,7 +15,7 @@
   "congress": 113, 
   "date": "2014-04-02T10:01:00-04:00", 
   "number": 96, 
-  "question": "On the Cloture Motion S.Amdt. 2874 to H.R. 3979 (Emergency Unemployment Compensation Extension Act of 2014)", 
+  "question": "On the Cloture Motion S.Amdt. 2874 to H.R. 3979 (Protecting Volunteer Firefighters and Emergency Responders Act of 2014)", 
   "record_modified": "2014-04-02T10:38:00-04:00", 
   "requires": "3/5", 
   "result": "Cloture Motion Agreed to", 
@@ -24,7 +24,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1132/vote_113_2_00096.xml", 
   "subject": "Motion to Invoke Cloture on Amdt. No. 2874 to H.R. 3979", 
   "type": "On the Cloture Motion", 
-  "updated_at": "2014-09-11T18:19:14-04:00", 
+  "updated_at": "2014-06-18T11:24:01-04:00", 
   "vote_id": "s96-113.2014", 
   "votes": {
     "Nay": [

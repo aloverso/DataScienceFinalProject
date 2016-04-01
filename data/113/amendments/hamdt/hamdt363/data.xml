@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="363" updated="2015-01-03T08:35:30-05:00">
+  <amends type="h" number="2397" sequence="20"/>
+  <status datetime="2013-07-23T17:17:00-04:00">pass</status>
+  <sponsor id="412219"/>
+  <offered datetime="2013-07-23"/>
+  <description>Amendment designates $4.5 million within the peer-reviewed Psychological Health/Traumatic Brain Injury Research account for a 3-year study to evaluate the therapeutic service dog training program currently operating at the National Intrepid Center of Excellence and Walter Reed National Military Medical Center.</description>
+  <purpose>An amendment numbered 21 printed in House Report 113-170 to designate funding to study the Therapeutic Service Dog Training Program, which was directed in House Report 113-102 accompanying the FY14 NDAA.</purpose>
+  <actions>
+    <action datetime="2013-07-23T17:12:00-04:00">
+      <text>Amendment (A020) offered by Ms. Shea-Porter.</text>
+      <reference ref="CR H4924" label="consideration"/>
+      <reference ref="CR H4924" label="text"/>
+    </action>
+    <vote datetime="2013-07-23T17:17:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Shea-Porter amendment (A020) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -128,7 +128,7 @@
   "related_bills": [
     {
       "bill_id": "hres292-113", 
-      "reason": "unknown", 
+      "reason": "action-caused-by", 
       "type": "bill"
     }, 
     {
@@ -143,7 +143,7 @@
     }, 
     {
       "bill_id": "hr1541-113", 
-      "reason": "unknown", 
+      "reason": "action-caused-by", 
       "type": "bill"
     }, 
     {
@@ -158,12 +158,12 @@
     }, 
     {
       "bill_id": "hr2579-113", 
-      "reason": "unknown", 
+      "reason": "action-caused-by", 
       "type": "bill"
     }, 
     {
       "bill_id": "hr2711-113", 
-      "reason": "unknown", 
+      "reason": "action-caused-by", 
       "type": "bill"
     }, 
     {
@@ -202,5 +202,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T11:14:39-05:00"
+  "updated_at": "2015-09-01T10:18:36-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HE322:@@@L&summ2=m&"
 }

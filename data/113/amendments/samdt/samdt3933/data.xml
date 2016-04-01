@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="3933" updated="2015-01-03T08:30:52-05:00">
+  <amends type="s" number="2673" sequence=""/>
+  <status datetime="2014-09-18">pass</status>
+  <sponsor id="300011"/>
+  <offered datetime="2014-09-18"/>
+  <description>To designate Israel as a program country under the Visa Waiver Program if Israel complies with the generally applicable requirements.</description>
+  <actions>
+    <action datetime="2014-09-18">
+      <text>Amendment SA 3933 proposed by Senator Pryor for Senator Boxer.</text>
+    </action>
+    <vote datetime="2014-09-18" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 3933 agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S5874" label="consideration"/>
+      <reference ref="CR S5874" label="text"/>
+    </vote>
+  </actions>
+</amendment>

@@ -174,7 +174,11 @@
     "Virgin Islands"
   ], 
   "subjects_top_term": "Energy", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-12-08", 
+    "text": "Requires the Department of the Interior to establish within the Empowering Insular Communities activity a team of technical, policy, and financial experts to: (1) develop an energy action plan addressing the energy needs of each of the insular areas (American Samoa, the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands) and Freely Associated States (Micronesia, the Marshall Islands, and Palau); and (2) assist each of the insular areas and Freely Associated States in implementing the plan.\n\nRequires the plan to include: (1) recommendations to reduce reliance and expenditures on fuel shipped to the insular areas and Freely Associated States from ports outside the United States, to develop and utilize domestic fuel energy sources, and to improve performance of energy infrastructure and overall energy efficiency; (2) a schedule for implementation of the recommendations and identification and prioritization of specific projects; (3) a financial and engineering plan for implementing and sustaining projects; and (4) benchmarks for measuring progress toward implementation.\n\nRequires Interior to approve the plan before it is implemented.\n\nExtends the federal immigration law transition period for the Northern Mariana Islands through December 31, 2019, including the annual reduction of nonimmigrant workers who may be admitted during such period."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -183,5 +187,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:09-05:00"
+  "updated_at": "2015-09-01T17:50:10-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5803:@@@L&summ2=m&"
 }

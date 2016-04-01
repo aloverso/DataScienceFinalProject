@@ -1,0 +1,19 @@
+<amendment session="113" chamber="h" number="1009" updated="2015-01-03T08:40:53-05:00">
+  <amends type="h" number="4923" sequence="38"/>
+  <status datetime="2014-07-09">offered</status>
+  <sponsor id="400130"/>
+  <offered datetime="2014-07-09"/>
+  <description>An amendment which transfers $1 within the Northern Border Regional Commission account.</description>
+  <actions>
+    <action datetime="2014-07-09T20:21:00-04:00">
+      <text>Amendment (A038) offered by Mr. Fattah.</text>
+      <reference ref="CR H6030" label="consideration"/>
+      <reference ref="CR H6030" label="text"/>
+    </action>
+    <action datetime="2014-07-09T20:23:00-04:00">
+      <text>By unanimous consent, the Fattah amendment was withdrawn.</text>
+      <reference ref="consideration"/>
+      <reference ref="CR H6030"/>
+    </action>
+  </actions>
+</amendment>

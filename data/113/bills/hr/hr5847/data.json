@@ -49,8 +49,14 @@
   }, 
   "status": "REFERRED", 
   "status_at": "2014-12-10", 
-  "subjects": [], 
-  "subjects_top_term": null, 
+  "subjects": [
+    "Intergovernmental relations", 
+    "Judicial procedure and administration", 
+    "Law", 
+    "Property rights", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Law", 
   "summary": {
     "as": "Introduced", 
     "date": "2014-12-10", 
@@ -70,5 +76,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:07:31-05:00"
+  "updated_at": "2015-09-01T10:21:07-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5847:@@@L&summ2=m&"
 }

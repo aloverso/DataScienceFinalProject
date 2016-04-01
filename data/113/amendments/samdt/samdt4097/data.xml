@@ -1,0 +1,16 @@
+<amendment session="113" chamber="s" number="4097" updated="2015-01-03T08:32:14-05:00">
+  <amends type="s" number="1353" sequence=""/>
+  <status datetime="2014-12-11">pass</status>
+  <sponsor id="300084"/>
+  <offered datetime="2014-12-11"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2014-12-11">
+      <text>Amendment SA 4097 proposed by Senator King for Senator Rockefeller.</text>
+      <reference ref="CR S6669" label="consideration"/>
+    </action>
+    <vote datetime="2014-12-11" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 4097 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

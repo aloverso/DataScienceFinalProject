@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="955" updated="2015-01-03T08:40:26-05:00">
+  <amends type="h" number="3301" sequence="1"/>
+  <status datetime="2014-06-24T17:44:00-04:00">fail</status>
+  <sponsor id="400308"/>
+  <offered datetime="2014-06-24"/>
+  <description>Amendment sought to ensure that the complete length of cross-border projects would be subject to full environmental review under the National Environmental Policy Act (NEPA).</description>
+  <purpose>An amendment No. 1 printed in part B of House Report to ensure that the complete length of cross- border projects would be subject to full environmental review under the National Environmental Policy Act (NEPA).</purpose>
+  <actions>
+    <action datetime="2014-06-24T15:40:00-04:00">
+      <text>Amendment (A001) offered by Mr. Pallone.</text>
+      <reference ref="CR H5673-5674, H5684" label="consideration"/>
+      <reference ref="CR H5673" label="text"/>
+    </action>
+    <vote datetime="2014-06-24T17:44:00-04:00" how="roll" result="fail" roll="350">
+      <text>On agreeing to the Pallone amendment (A001) Failed by recorded vote: 176 - 233 (Roll no. 350).</text>
+    </vote>
+  </actions>
+</amendment>

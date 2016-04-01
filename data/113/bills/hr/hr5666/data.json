@@ -67,7 +67,7 @@
   "short_title": null, 
   "sponsor": {
     "district": "14", 
-    "name": "Weber, Randy K. Sr.", 
+    "name": "Weber, Randy K., Sr.", 
     "state": "TX", 
     "thomas_id": "02161", 
     "title": "Rep", 
@@ -88,7 +88,11 @@
     "Trade agreements and negotiations"
   ], 
   "subjects_top_term": "Science, technology, communications", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-09-18", 
+    "text": "Authorizes the U.S.-Israel Science and Technology Foundation, created pursuant to the 1994 Memorandum of Understanding between the U.S. Department of Commerce and the Israeli Ministry of Industry and Trade (now the Ministry of Economy), to facilitate research and development and technology partnerships among U.S. and Israeli researchers, and business and industrial entities for purposes of advancing technologies, leading to commercialization and domestic manufacturing, and creating benefits for both nations.\n\nInstructs the Department of Commerce, through the Deputy Secretary's office and in conjunction with Israel's Ministry of Economy's Chief Scientist, to ensure that the U.S.-Israel Science and Technology Foundation maintains its role as the facilitator of the reauthorized 1994 Memorandum of Understanding to create and execute joint research and development agreements between Israel and U.S. entities, including U.S. federal agencies, states, cities, businesses, academic institutions, and scientific foundations."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -97,5 +101,6 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2015-01-03T12:06:01-05:00"
+  "updated_at": "2015-09-01T17:50:01-04:00", 
+  "url": "http://thomas.loc.gov/cgi-bin/bdquery/z?d113:HR5666:@@@L&summ2=m&"
 }
