@@ -1,0 +1,37 @@
+<roll where="senate" session="1" year="1790" roll="81" source="keithpoole"
+  datetime="1790-08-09" updated="2015-07-26T10:18:48-04:00"
+  aye="4" nay="15" nv="6" present="0">
+  <category>unknown</category>
+  <type>TO AGREE TO THE RESOLUTION THAT ON THE FINAL QUESTION, WHEN THE ADVICE AND CONSENT OF THE SENATE IS REQUESTED, ANY MEM- BER SHALL HAVE A RIGHT TO ENTER HIS PROTEST OR DISSENT ON THE JOURNAL, WITH REASON IN SUPPORT OF SUCH DISSENT.</type>
+  <question>TO AGREE TO THE RESOLUTION THAT ON THE FINAL QUESTION, WHEN THE ADVICE AND CONSENT OF THE SENATE IS REQUESTED, ANY MEM- BER SHALL HAVE A RIGHT TO ENTER HIS PROTEST OR DISSENT ON THE JOURNAL, WITH REASON IN SUPPORT OF SUCH DISSENT.</question>
+  <required>unknown</required>
+  <result>unknown</result>
+  <option key="+">Yea</option>
+  <option key="-">Nay</option>
+  <option key="0">Not Voting</option>
+  <voter id="402128" vote="+" value="Yea" state="SC"/>
+  <voter id="404262" vote="+" value="Yea" state="RI"/>
+  <voter id="406704" vote="+" value="Yea" state="VA"/>
+  <voter id="407953" vote="+" value="Yea" state="PA"/>
+  <voter id="402332" vote="-" value="Nay" state="MD"/>
+  <voter id="403156" vote="-" value="Nay" state="MA"/>
+  <voter id="403838" vote="-" value="Nay" state="CT"/>
+  <voter id="404057" vote="-" value="Nay" state="GA"/>
+  <voter id="404870" vote="-" value="Nay" state="GA"/>
+  <voter id="405237" vote="-" value="Nay" state="NC"/>
+  <voter id="405370" vote="-" value="Nay" state="MD"/>
+  <voter id="412129" vote="-" value="Nay" state="SC"/>
+  <voter id="406093" vote="-" value="Nay" state="NC"/>
+  <voter id="406372" vote="-" value="Nay" state="NY"/>
+  <voter id="406576" vote="-" value="Nay" state="NH"/>
+  <voter id="409071" vote="-" value="Nay" state="DE"/>
+  <voter id="409661" vote="-" value="Nay" state="NY"/>
+  <voter id="410271" vote="-" value="Nay" state="RI"/>
+  <voter id="411787" vote="-" value="Nay" state="NH"/>
+  <voter id="401222" vote="0" value="Not Voting" state="DE"/>
+  <voter id="403846" vote="0" value="Not Voting" state="NJ"/>
+  <voter id="406077" vote="0" value="Not Voting" state="CT"/>
+  <voter id="407058" vote="0" value="Not Voting" state="PA"/>
+  <voter id="410466" vote="0" value="Not Voting" state="MA"/>
+  <voter id="411238" vote="0" value="Not Voting" state="VA"/>
+</roll>

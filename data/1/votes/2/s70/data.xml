@@ -1,0 +1,37 @@
+<roll where="senate" session="1" year="1790" roll="70" source="keithpoole"
+  datetime="1790-07-21" updated="2015-07-26T10:18:48-04:00"
+  aye="14" nay="12" nv="0" present="0">
+  <category>unknown</category>
+  <type>On Passage</type>
+  <question>TO PASS THE DEBT BILL.</question>
+  <required>unknown</required>
+  <result>unknown</result>
+  <option key="+">Yea</option>
+  <option key="-">Nay</option>
+  <voter id="402128" vote="+" value="Yea" state="SC"/>
+  <voter id="402332" vote="+" value="Yea" state="MD"/>
+  <voter id="403156" vote="+" value="Yea" state="MA"/>
+  <voter id="403838" vote="+" value="Yea" state="CT"/>
+  <voter id="403846" vote="+" value="Yea" state="NJ"/>
+  <voter id="412129" vote="+" value="Yea" state="SC"/>
+  <voter id="406077" vote="+" value="Yea" state="CT"/>
+  <voter id="406372" vote="+" value="Yea" state="NY"/>
+  <voter id="406576" vote="+" value="Yea" state="NH"/>
+  <voter id="407953" vote="+" value="Yea" state="PA"/>
+  <voter id="408510" vote="+" value="Yea" state="NJ"/>
+  <voter id="409071" vote="+" value="Yea" state="DE"/>
+  <voter id="409661" vote="+" value="Yea" state="NY"/>
+  <voter id="410466" vote="+" value="Yea" state="MA"/>
+  <voter id="401222" vote="-" value="Nay" state="DE"/>
+  <voter id="404057" vote="-" value="Nay" state="GA"/>
+  <voter id="404262" vote="-" value="Nay" state="RI"/>
+  <voter id="404870" vote="-" value="Nay" state="GA"/>
+  <voter id="405237" vote="-" value="Nay" state="NC"/>
+  <voter id="405370" vote="-" value="Nay" state="MD"/>
+  <voter id="406093" vote="-" value="Nay" state="NC"/>
+  <voter id="406704" vote="-" value="Nay" state="VA"/>
+  <voter id="407058" vote="-" value="Nay" state="PA"/>
+  <voter id="410271" vote="-" value="Nay" state="RI"/>
+  <voter id="411238" vote="-" value="Nay" state="VA"/>
+  <voter id="411787" vote="-" value="Nay" state="NH"/>
+</roll>

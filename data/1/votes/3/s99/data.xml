@@ -1,0 +1,38 @@
+<roll where="senate" session="1" year="1791" roll="99" source="keithpoole"
+  datetime="1791-03-03" updated="2015-07-26T10:18:48-04:00"
+  aye="14" nay="9" nv="3" present="0">
+  <category>unknown</category>
+  <type>On Passage</type>
+  <question>TO PASS THE AMENDED BILL, (1 STAT 216, APP. 3-3-1791), IN ADDITION TO AN ACT TO ESTABLISH THE SALARIES OF THE EXECUT- IVE OFFICERS OF THE GOVERNMENT, WITH THEIR ASSISTANTS AND CLERKS, WHICH BILL INCREASES THE SALARY OF THE CHIEF CLERK OF THE AUDITOR $200 A YEAR, AND THAT OF THE SECRETARY OF THE TREASURY $400, A YEAR AND ALLOWS TO THE CLERKS EMPLOYED IN THE GOVERNMENT THEIR REASONABLE AND NECESSARY EXPENSES INCURRED BY THE REMOVAL OF CONGRESS FROM N.Y. TO PHILADELPHIA.</question>
+  <required>unknown</required>
+  <result>unknown</result>
+  <option key="+">Yea</option>
+  <option key="-">Nay</option>
+  <option key="0">Not Voting</option>
+  <voter id="402128" vote="+" value="Yea" state="SC"/>
+  <voter id="402332" vote="+" value="Yea" state="MD"/>
+  <voter id="403444" vote="+" value="Yea" state="NJ"/>
+  <voter id="405237" vote="+" value="Yea" state="NC"/>
+  <voter id="405370" vote="+" value="Yea" state="MD"/>
+  <voter id="412129" vote="+" value="Yea" state="SC"/>
+  <voter id="406093" vote="+" value="Yea" state="NC"/>
+  <voter id="406372" vote="+" value="Yea" state="NY"/>
+  <voter id="406576" vote="+" value="Yea" state="NH"/>
+  <voter id="406704" vote="+" value="Yea" state="VA"/>
+  <voter id="407829" vote="+" value="Yea" state="VA"/>
+  <voter id="407953" vote="+" value="Yea" state="PA"/>
+  <voter id="409071" vote="+" value="Yea" state="DE"/>
+  <voter id="409661" vote="+" value="Yea" state="NY"/>
+  <voter id="401222" vote="-" value="Nay" state="DE"/>
+  <voter id="403156" vote="-" value="Nay" state="MA"/>
+  <voter id="403838" vote="-" value="Nay" state="CT"/>
+  <voter id="403846" vote="-" value="Nay" state="NJ"/>
+  <voter id="404262" vote="-" value="Nay" state="RI"/>
+  <voter id="406077" vote="-" value="Nay" state="CT"/>
+  <voter id="410271" vote="-" value="Nay" state="RI"/>
+  <voter id="410466" vote="-" value="Nay" state="MA"/>
+  <voter id="411787" vote="-" value="Nay" state="NH"/>
+  <voter id="404057" vote="0" value="Not Voting" state="GA"/>
+  <voter id="404870" vote="0" value="Not Voting" state="GA"/>
+  <voter id="407058" vote="0" value="Not Voting" state="PA"/>
+</roll>

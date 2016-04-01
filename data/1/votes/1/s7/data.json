@@ -1,0 +1,180 @@
+{
+  "bill": null, 
+  "category": "unknown", 
+  "chamber": "s", 
+  "congress": 1, 
+  "date": "1789-08-25", 
+  "date_unparsed": "AUG. 25, 1789", 
+  "number": 7, 
+  "presidents_position": null, 
+  "question": "TO RECEDE FROM DISAGREEMENT TO A HOUSE AMENDMENT TO THE BILL (1 STAT 65, APP. 9-2-1789), TO ESTABLISH A TREASURY DEPT.; SAID AMENDMENT PROVIDES THAT IN THE ABSENCE OF A SECRETARY OF THE TREASURY, THE ASSISTANT SHALL HAVE CHARGE OF THE OFFICE.  (VICE PRESIDENT VOTING IN THE AFFIRMATIVE).", 
+  "requires": "unknown", 
+  "result": "unknown", 
+  "session": "1", 
+  "source_url": "http://www.voteview.com", 
+  "type": "TO RECEDE FROM DISAGREEMENT TO A HOUSE AMENDMENT TO THE BILL (1 STAT 65, APP. 9-2-1789), TO ESTABLISH A TREASURY DEPT.; SAID AMENDMENT PROVIDES THAT IN THE ABSENCE OF A SECRETARY OF THE TREASURY, THE ASSISTANT SHALL HAVE CHARGE OF THE OFFICE.  (VICE PRESIDENT VOTING IN THE AFFIRMATIVE).", 
+  "updated_at": "2015-07-26T10:18:48-04:00", 
+  "vote_id": "s7-1.1", 
+  "votes": {
+    "Nay": [
+      {
+        "display_name": "BUTLER", 
+        "id": "B001186", 
+        "party": "Pro-Administration", 
+        "state": "SC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "DALTON", 
+        "id": "D000013", 
+        "party": "Pro-Administration", 
+        "state": "MA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "FEW", 
+        "id": "F000100", 
+        "party": "Anti-Administration", 
+        "state": "GA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "GUNN", 
+        "id": "G000526", 
+        "party": "Anti-Administration", 
+        "state": "GA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "IZARD", 
+        "id": "I000053", 
+        "party": "Pro-Administration", 
+        "state": "SC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "JOHNSON", 
+        "id": "J000182", 
+        "party": "Pro-Administration", 
+        "state": "CT", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "LANGDON", 
+        "id": "L000067", 
+        "party": "Pro-Administration", 
+        "state": "NH", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "LEE", 
+        "id": "L000201", 
+        "party": "Anti-Administration", 
+        "state": "VA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "MACLAY", 
+        "id": "M000031", 
+        "party": "Anti-Administration", 
+        "state": "PA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "WINGATE", 
+        "id": "W000633", 
+        "party": "Anti-Administration", 
+        "state": "NH", 
+        "voteview_votecode_extra": null
+      }
+    ], 
+    "Not Voting": [
+      {
+        "display_name": "GRAYSON", 
+        "id": "G000403", 
+        "party": "Anti-Administration", 
+        "state": "VA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "STRONG", 
+        "id": "S001009", 
+        "party": "Pro-Administration", 
+        "state": "MA", 
+        "voteview_votecode_extra": null
+      }
+    ], 
+    "Yea": [
+      {
+        "display_name": "BASSETT", 
+        "id": "B000226", 
+        "party": "Anti-Administration", 
+        "state": "DE", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "CARROLL", 
+        "id": "C000185", 
+        "party": "Pro-Administration", 
+        "state": "MD", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "ELLSWORTH", 
+        "id": "E000147", 
+        "party": "Pro-Administration", 
+        "state": "CT", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "ELMER", 
+        "id": "E000155", 
+        "party": "Pro-Administration", 
+        "state": "NJ", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "HENRY", 
+        "id": "H000508", 
+        "party": "Pro-Administration", 
+        "state": "MD", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "KING", 
+        "id": "K000212", 
+        "party": "Pro-Administration", 
+        "state": "NY", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "MORRIS", 
+        "id": "M000985", 
+        "party": "Pro-Administration", 
+        "state": "PA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "PATERSON", 
+        "id": "P000102", 
+        "party": "Pro-Administration", 
+        "state": "NJ", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "READ", 
+        "id": "R000091", 
+        "party": "Pro-Administration", 
+        "state": "DE", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "SCHUYLER", 
+        "id": "S000154", 
+        "party": "Pro-Administration", 
+        "state": "NY", 
+        "voteview_votecode_extra": null
+      }
+    ]
+  }
+}

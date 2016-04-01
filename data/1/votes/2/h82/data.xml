@@ -1,0 +1,77 @@
+<roll where="house" session="1" year="1790" roll="82" source="keithpoole"
+  datetime="1790-07-29" updated="2015-07-26T10:18:48-04:00"
+  aye="33" nay="27" nv="5" present="0">
+  <category>unknown</category>
+  <type>TO ADHERE TO THE AMENDMENT TO THE PUBLIC DEBT BILL; THAT INTEREST SHALL COMMENCE ON THE UNPAID PART OF STATE OBLIGATIONS ASSUMED BY THE FEDERAL GOVERNMENT, AT SEVEN YEARS.  (P. 1713).</type>
+  <question>TO ADHERE TO THE AMENDMENT TO THE PUBLIC DEBT BILL; THAT INTEREST SHALL COMMENCE ON THE UNPAID PART OF STATE OBLIGATIONS ASSUMED BY THE FEDERAL GOVERNMENT, AT SEVEN YEARS.  (P. 1713).</question>
+  <required>unknown</required>
+  <result>unknown</result>
+  <option key="+">Yea</option>
+  <option key="-">Nay</option>
+  <option key="0">Not Voting</option>
+  <voter id="400951" vote="+" value="Yea" state="NC"/>
+  <voter id="401086" vote="+" value="Yea" state="GA"/>
+  <voter id="401881" vote="+" value="Yea" state="VA"/>
+  <voter id="402032" vote="+" value="Yea" state="SC"/>
+  <voter id="402174" vote="+" value="Yea" state="NJ"/>
+  <voter id="402334" vote="+" value="Yea" state="MD"/>
+  <voter id="402671" vote="+" value="Yea" state="PA"/>
+  <voter id="404133" vote="+" value="Yea" state="PA"/>
+  <voter id="404179" vote="+" value="Yea" state="NY"/>
+  <voter id="404389" vote="+" value="Yea" state="MD"/>
+  <voter id="404647" vote="+" value="Yea" state="MA"/>
+  <voter id="404811" vote="+" value="Yea" state="VA"/>
+  <voter id="404845" vote="+" value="Yea" state="MA"/>
+  <voter id="405172" vote="+" value="Yea" state="PA"/>
+  <voter id="405432" vote="+" value="Yea" state="PA"/>
+  <voter id="405761" vote="+" value="Yea" state="SC"/>
+  <voter id="405835" vote="+" value="Yea" state="CT"/>
+  <voter id="406703" vote="+" value="Yea" state="VA"/>
+  <voter id="406749" vote="+" value="Yea" state="MA"/>
+  <voter id="406856" vote="+" value="Yea" state="NH"/>
+  <voter id="408032" vote="+" value="Yea" state="PA"/>
+  <voter id="408502" vote="+" value="Yea" state="MA"/>
+  <voter id="409691" vote="+" value="Yea" state="PA"/>
+  <voter id="409727" vote="+" value="Yea" state="MA"/>
+  <voter id="409845" vote="+" value="Yea" state="CT"/>
+  <voter id="409941" vote="+" value="Yea" state="NJ"/>
+  <voter id="410107" vote="+" value="Yea" state="SC"/>
+  <voter id="410420" vote="+" value="Yea" state="MD"/>
+  <voter id="410723" vote="+" value="Yea" state="MA"/>
+  <voter id="410972" vote="+" value="Yea" state="SC"/>
+  <voter id="411159" vote="+" value="Yea" state="DE"/>
+  <voter id="411707" vote="+" value="Yea" state="NC"/>
+  <voter id="411931" vote="+" value="Yea" state="PA"/>
+  <voter id="400829" vote="-" value="Nay" state="MA"/>
+  <voter id="401379" vote="-" value="Nay" state="NY"/>
+  <voter id="401537" vote="-" value="Nay" state="NC"/>
+  <voter id="402753" vote="-" value="Nay" state="VA"/>
+  <voter id="402834" vote="-" value="Nay" state="MD"/>
+  <voter id="404246" vote="-" value="Nay" state="NH"/>
+  <voter id="404507" vote="-" value="Nay" state="MA"/>
+  <voter id="404577" vote="-" value="Nay" state="NH"/>
+  <voter id="405217" vote="-" value="Nay" state="NY"/>
+  <voter id="405923" vote="-" value="Nay" state="GA"/>
+  <voter id="406626" vote="-" value="Nay" state="NY"/>
+  <voter id="407071" vote="-" value="Nay" state="VA"/>
+  <voter id="407252" vote="-" value="Nay" state="GA"/>
+  <voter id="407863" vote="-" value="Nay" state="VA"/>
+  <voter id="408429" vote="-" value="Nay" state="VA"/>
+  <voter id="408475" vote="-" value="Nay" state="VA"/>
+  <voter id="409657" vote="-" value="Nay" state="NJ"/>
+  <voter id="409746" vote="-" value="Nay" state="MD"/>
+  <voter id="409758" vote="-" value="Nay" state="NC"/>
+  <voter id="409906" vote="-" value="Nay" state="NY"/>
+  <voter id="410099" vote="-" value="Nay" state="MD"/>
+  <voter id="410296" vote="-" value="Nay" state="NC"/>
+  <voter id="410501" vote="-" value="Nay" state="CT"/>
+  <voter id="410527" vote="-" value="Nay" state="SC"/>
+  <voter id="410958" vote="-" value="Nay" state="CT"/>
+  <voter id="411095" vote="-" value="Nay" state="NY"/>
+  <voter id="411514" vote="-" value="Nay" state="VA"/>
+  <voter id="401623" vote="0" value="Not Voting" state="NJ"/>
+  <voter id="401631" vote="0" value="Not Voting" state="RI"/>
+  <voter id="404548" vote="0" value="Not Voting" state="VA"/>
+  <voter id="408029" vote="0" value="Not Voting" state="PA"/>
+  <voter id="411192" vote="0" value="Not Voting" state="CT"/>
+</roll>

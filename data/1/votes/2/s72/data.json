@@ -1,0 +1,208 @@
+{
+  "bill": null, 
+  "category": "unknown", 
+  "chamber": "s", 
+  "congress": 1, 
+  "date": "1790-07-28", 
+  "date_unparsed": "JULY 28, 1790", 
+  "number": 72, 
+  "presidents_position": null, 
+  "question": "TO DISAGREE TO THE THIRD HOUSE AMENDMENT TO THE DEBT BILL; TO ENTITLE THE SUBSCRIBER TO AN INTEREST OF SIX PER CENT ON HIS DEFERRED CERTIFICATE AFTER 1797, RATHER THAN 1800. (VICE PRESIDENT VOTING IN THE NEGATIVE.).", 
+  "requires": "unknown", 
+  "result": "unknown", 
+  "session": "2", 
+  "source_url": "http://www.voteview.com", 
+  "type": "TO DISAGREE TO THE THIRD HOUSE AMENDMENT TO THE DEBT BILL; TO ENTITLE THE SUBSCRIBER TO AN INTEREST OF SIX PER CENT ON HIS DEFERRED CERTIFICATE AFTER 1797, RATHER THAN 1800. (VICE PRESIDENT VOTING IN THE NEGATIVE.).", 
+  "updated_at": "2015-07-26T10:18:48-04:00", 
+  "vote_id": "s72-1.2", 
+  "votes": {
+    "Nay": [
+      {
+        "display_name": "BUTLER", 
+        "id": "B001186", 
+        "party": "Pro-Administration", 
+        "state": "SC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "DALTON", 
+        "id": "D000013", 
+        "party": "Pro-Administration", 
+        "state": "MA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "ELMER", 
+        "id": "E000155", 
+        "party": "Pro-Administration", 
+        "state": "NJ", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "GUNN", 
+        "id": "G000526", 
+        "party": "Anti-Administration", 
+        "state": "GA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "HENRY", 
+        "id": "H000508", 
+        "party": "Pro-Administration", 
+        "state": "MD", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "IZARD", 
+        "id": "I000053", 
+        "party": "Pro-Administration", 
+        "state": "SC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "KING", 
+        "id": "K000212", 
+        "party": "Pro-Administration", 
+        "state": "NY", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "LANGDON", 
+        "id": "L000067", 
+        "party": "Pro-Administration", 
+        "state": "NH", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "MORRIS", 
+        "id": "M000985", 
+        "party": "Pro-Administration", 
+        "state": "PA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "PATERSON", 
+        "id": "P000102", 
+        "party": "Pro-Administration", 
+        "state": "NJ", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "SCHUYLER", 
+        "id": "S000154", 
+        "party": "Pro-Administration", 
+        "state": "NY", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "WALKER", 
+        "id": "W000059", 
+        "party": "Pro-Administration", 
+        "state": "VA", 
+        "voteview_votecode_extra": null
+      }
+    ], 
+    "Not Voting": [
+      {
+        "display_name": "JOHNSON", 
+        "id": "J000182", 
+        "party": "Pro-Administration", 
+        "state": "CT", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "MACLAY", 
+        "id": "M000031", 
+        "party": "Anti-Administration", 
+        "state": "PA", 
+        "voteview_votecode_extra": null
+      }
+    ], 
+    "Yea": [
+      {
+        "display_name": "BASSETT", 
+        "id": "B000226", 
+        "party": "Anti-Administration", 
+        "state": "DE", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "CARROLL", 
+        "id": "C000185", 
+        "party": "Pro-Administration", 
+        "state": "MD", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "ELLSWORTH", 
+        "id": "E000147", 
+        "party": "Pro-Administration", 
+        "state": "CT", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "FEW", 
+        "id": "F000100", 
+        "party": "Anti-Administration", 
+        "state": "GA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "FOSTER", 
+        "id": "F000313", 
+        "party": "Pro-Administration", 
+        "state": "RI", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "HAWKINS", 
+        "id": "H000368", 
+        "party": "Pro-Administration", 
+        "state": "NC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "JOHNSTON", 
+        "id": "J000198", 
+        "party": "Pro-Administration", 
+        "state": "NC", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "LEE", 
+        "id": "L000201", 
+        "party": "Anti-Administration", 
+        "state": "VA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "READ", 
+        "id": "R000091", 
+        "party": "Pro-Administration", 
+        "state": "DE", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "STANTON", 
+        "id": "S000805", 
+        "party": "Anti-Administration", 
+        "state": "RI", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "STRONG", 
+        "id": "S001009", 
+        "party": "Pro-Administration", 
+        "state": "MA", 
+        "voteview_votecode_extra": null
+      }, 
+      {
+        "display_name": "WINGATE", 
+        "id": "W000633", 
+        "party": "Anti-Administration", 
+        "state": "NH", 
+        "voteview_votecode_extra": null
+      }
+    ]
+  }
+}
