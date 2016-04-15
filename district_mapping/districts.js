@@ -1,10 +1,10 @@
 var mapVisualization = function() {
-  var width = 600;
-  var height = 500;
+  var width = 500;
+  var height = 600;
 
   var projection = d3.geo.mercator()
-    .translate([300, 300])
-    .scale(100);
+    .translate([1100, 700])
+    .scale(600);
 
   var path = d3.geo.path()
     .projection(projection);
@@ -17,34 +17,26 @@ var mapVisualization = function() {
   var g = svg.append("g");
   
   queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/mbostock/topojson/master/examples/world-110m.json")
-    .defer(d3.tsv, "https://raw.githubusercontent.com/KoGor/Maps.GeoInfo/master/world-country-names.tsv")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/dist01.json")
     .await(ready);
   
-  function ready (error, world, names) {
-    var countries = topojson.object(world, world.objects.countries).geometries;
+  function ready (error, counties) {
+    var counties = topojson.object(counties, counties.objects.out).geometries;
     var i = -1;
-    var n = countries.length;
+    var n = counties.length;
 
-    countries.forEach(function(d) {
-      var filtered = names.filter(function(n) { return d.id == n.id; });
-      if (filtered[0] != undefined) {
-        d.name = filtered[0].name;
-      }
-    });
-
-    var country = svg.selectAll(".country").data(countries);
-    country.enter()
+    var county = svg.selectAll(".county").data(counties);
+    county.enter()
       .insert("path")
-      .attr("class", "country")
-      .attr("title", function(d,i) { return d.name; })
+      .attr("class", "county")
+      /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     
-    svg.append("text")
+    /*svg.append("text")
     .attr("class", "regionName")
     .attr("text-anchor", "end")
     .attr("x", width)
     .attr("y", height-30)
-    .text("");
+    .text("");*/
   }
 }
