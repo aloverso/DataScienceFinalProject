@@ -18,9 +18,10 @@ var mapVisualization = function() {
   
   queue()
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/dist01.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/reps-by-district.json")
     .await(ready);
   
-  function ready (error, counties) {
+  function ready (error, counties, names) {
     var counties = topojson.object(counties, counties.objects.out).geometries;
     var i = -1;
     var n = counties.length;

@@ -7,7 +7,9 @@ def create_table():
     state, district, and session of Congress.
     """
     table = {}
-    congress = pd.read_csv('legislators.csv', low_memory=False)
+    with open('states_hash.json', 'r') as state_file:
+        states_hash = json.load(state_file)
+    congress = pd.read_csv('../legislators.csv', low_memory=False)
     sessions = []
     for session_name in congress:
         if 'c' in session_name:
@@ -25,7 +27,7 @@ def create_table():
                           current['vote_id']):
             cong_name = sessions[session]
             name = member[0] + ' ' + member[1]
-            state = member[2]
+            state = states_hash[member[2]]
             dist = int(member[3])
             vote_id = member[4]
             if state in table[session]:
@@ -35,7 +37,7 @@ def create_table():
                     table[session][state][dist] = [[name, vote_id]]
             else:
                 table[session][state] = {dist: [[name, vote_id]]}
-    with open('data.json', 'w') as f:
+    with open('reps-by-district.json', 'w') as f:
         json.dump(table, f, ensure_ascii=False)
 
 if __name__ == "__main__":
