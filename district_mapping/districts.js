@@ -29,10 +29,12 @@ var mapVisualization = function() {
     county.enter()
       .insert("path")
       .attr("class", "county")
+      .attr("state", function(d,i) { return d.properties.state; })
+      .attr("dist", function(d,i) { return d.properties.district; })
       /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     
-    /*svg.append("text")
+    /*svg.append("text")']
     .attr("class", "regionName")
     .attr("text-anchor", "end")
     .attr("x", width)
