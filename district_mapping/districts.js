@@ -22,24 +22,17 @@ var mapVisualization = function() {
     .await(ready);
   
   function ready (error, counties, names) {
-    console.log(counties);
     var counties = topojson.object(counties, counties.objects.out).geometries;
     
-    // to determine whether the correct states were being loaded
-    var state_names = {};
-    var state_count = 0;
-    var name_count = Object.keys(names['table'][2]).length;
-    console.log(names);
-    
     counties.forEach(function(d) {
-      state_count += (+!state_names[d.properties.state]);
-      state_names[d.properties.state] = true;
-      console.log(d.properties.state);
-      console.log(d.properties.district);
       filter = names['table'][2][d.properties.state][d.properties.district];
       if (filter != undefined) {
-        d.properties.name = filter[0][0];
-        console.log(d.properties.name);
+        d.properties.names = [];
+        d.properties.ids = [];
+        filter.forEach(function(f) {
+          d.properties.names.push(f[0]);
+          d.properties.ids.push(f[1]);
+        });
       }
     });
 
@@ -49,7 +42,7 @@ var mapVisualization = function() {
       .attr("class", "county")
       .attr("state", function(d,i) { return d.properties.state; })
       .attr("dist", function(d,i) { return d.properties.district; })
-      /*.attr("names", function(d,i) { return */
+      .attr("names", function(d,i) { return d.properties.names; })
       /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     
