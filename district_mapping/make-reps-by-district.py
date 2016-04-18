@@ -12,7 +12,7 @@ def create_table():
     congress = pd.read_csv('../legislators.csv', low_memory=False)
     sessions = []
     for session_name in congress:
-        if 'c' in session_name:
+        if 'c' in session_name and len(session_name) < 5:
             sessions.append(session_name)
     #states = congress['state'].unique()
     #districts = range(1,60)
@@ -25,7 +25,7 @@ def create_table():
                           current['state'],\
                           current['district'],\
                           current['vote_id']):
-            cong_name = sessions[session]
+            #cong_name = sessions[session]
             name = member[0] + ' ' + member[1]
             state = states_hash[member[2]]
             dist = int(member[3])
@@ -37,6 +37,8 @@ def create_table():
                     table[session][state][dist] = [[name, vote_id]]
             else:
                 table[session][state] = {dist: [[name, vote_id]]}
+    # in order to use JSON, the JSON must be constructed from a dictionary
+    table = {"table": table}
     with open('reps-by-district.json', 'w') as f:
         json.dump(table, f, ensure_ascii=False)
 

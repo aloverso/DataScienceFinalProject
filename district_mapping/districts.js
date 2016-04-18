@@ -25,6 +25,18 @@ var mapVisualization = function() {
     var counties = topojson.object(counties, counties.objects.out).geometries;
     var i = -1;
     var n = counties.length;
+    
+    counties.forEach(function(d) {
+      //console.log(names);
+      //var filtered = names.filter(function(n) { return d.properties.state == n[1]; });
+      console.log(names);
+      d.name = names[1][d.properties.state][d.properties.district];
+      console.log(d.name);
+      /*
+      if (filtered[0] != undefined) {
+        d.name = filtered[0].name;
+      }*/
+    });
 
     var county = svg.selectAll(".county").data(counties);
     county.enter()
@@ -32,6 +44,7 @@ var mapVisualization = function() {
       .attr("class", "county")
       .attr("state", function(d,i) { return d.properties.state; })
       .attr("dist", function(d,i) { return d.properties.district; })
+      /*.attr("names", function(d,i) { return */
       /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     
