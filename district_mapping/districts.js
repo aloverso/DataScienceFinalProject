@@ -23,19 +23,23 @@ var mapVisualization = function() {
   
   function ready (error, counties, names) {
     var counties = topojson.object(counties, counties.objects.out).geometries;
-    var i = -1;
-    var n = counties.length;
+    
+    // to determine whether the correct states were being loaded
+    var state_names = {};
+    var state_count = 0;
+    var name_count = Object.keys(names['table'][2]).length;
+    console.log(names);
     
     counties.forEach(function(d) {
-      //console.log(names);
-      //var filtered = names.filter(function(n) { return d.properties.state == n[1]; });
-      console.log(names);
-      d.name = names[1][d.properties.state][d.properties.district];
-      console.log(d.name);
-      /*
-      if (filtered[0] != undefined) {
-        d.name = filtered[0].name;
-      }*/
+      state_count += (+!state_names[d.properties.state]);
+      state_names[d.properties.state] = true;
+      console.log(d.properties.state);
+      console.log(d.properties.district);
+      filter = names['table'][2][d.properties.state][d.properties.district];
+      if (filter != undefined) {
+        d.properties.name = filter[0][0];
+        console.log(d.properties.name);
+      }
     });
 
     var county = svg.selectAll(".county").data(counties);
