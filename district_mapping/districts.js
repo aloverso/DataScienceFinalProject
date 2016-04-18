@@ -17,11 +17,12 @@ var mapVisualization = function() {
   var g = svg.append("g");
   
   queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/dist01.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/districts003.json")
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/reps-by-district.json")
     .await(ready);
   
   function ready (error, counties, names) {
+    console.log(counties);
     var counties = topojson.object(counties, counties.objects.out).geometries;
     
     // to determine whether the correct states were being loaded
