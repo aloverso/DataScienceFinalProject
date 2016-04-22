@@ -17,32 +17,42 @@ var mapVisualization = function() {
   var g = svg.append("g");
   
   queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/districts003.json")
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/reps-by-district.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_maps/districts017.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_mapping/reps-by-district.json")
     .await(ready);
   
   function ready (error, counties, names) {
     var counties = topojson.object(counties, counties.objects.out).geometries;
     
     counties.forEach(function(d) {
-      filter = names['table'][2][d.properties.state][d.properties.district];
+      filter = names['table'][17][d.properties.state];
       if (filter != undefined) {
-        d.properties.names = [];
-        d.properties.ids = [];
-        filter.forEach(function(f) {
-          d.properties.names.push(f[0]);
-          d.properties.ids.push(f[1]);
+        filter = filter[d.properties.district];
+        if (filter != undefined) {
+          d.properties.names = [];
+          d.properties.ids = [];
+          filter.forEach(function(f) {
+            d.properties.names.push(f[0]);
+            d.properties.ids.push(f[1]);
         });
+        }
       }
     });
 
     var county = svg.selectAll(".county").data(counties);
     county.enter()
       .insert("path")
-      .attr("class", "county")
+      //.attr("class", "county")
       .attr("state", function(d,i) { return d.properties.state; })
       .attr("dist", function(d,i) { return d.properties.district; })
       .attr("names", function(d,i) { return d.properties.names; })
+      .attr("class", function(d, i) { 
+        if (d.properties.names != undefined) {
+          if (d.properties.names[0] == "J") { console.log(d.properties.names[0][0]); }
+          return "county " + d.properties.names[0][0];
+        }
+        return "county no-rep";
+      })
       /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     

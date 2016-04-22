@@ -4,3 +4,11 @@
   stroke-width: 0.5px;
   stroke-linejoin: round;
 }
+
+.J {
+  fill: blue;
+}
+
+.no-rep {
+  fill: #000;
+}
