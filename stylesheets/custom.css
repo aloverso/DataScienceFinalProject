@@ -1,3 +1,8 @@
 .date {
   text-align: right;
 }
+
+code {
+  font-family: "Consolas", "Inconsolata", "Droid Mono", "Monospace";
+  font-size: 12pt;
+}
