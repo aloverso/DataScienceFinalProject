@@ -468,7 +468,7 @@ dragit.object.activate = function(d, i) {
 
     if(play_button) {
       d3.select(el).append("button")
-                   .style({"height": "25px", "width": "25px"})
+                   .style({"height": "25px", "width": "30px"})
                    .text("▶")
                    .attr("class", "stop")
                    .on("click", function() {
@@ -489,7 +489,7 @@ dragit.object.activate = function(d, i) {
                   .attr("class", "slider-time")
                   .property("min", dragit.time.min)
                   .property("max", dragit.time.max)
-                //  .attr("step", 1)
+                 .attr("step", 1)
                   .on("input", function() {
                     dragit.time.previous = dragit.time.current;
                     dragit.time.current = parseInt(this.value)-dragit.time.min;
