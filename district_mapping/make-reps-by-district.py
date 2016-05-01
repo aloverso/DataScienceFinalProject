@@ -34,8 +34,8 @@ def create_table():
 
             person = congress[(congress['vote_id'] == vote_id)]
             incumbency_len = 0
-            for i in range(session,0):
-                if person[sessions[i]] == 1:
+            for i in range(session,0,-1):
+                if int(person[sessions[i]]) == 1:
                     incumbency_len += 2
                 else:
                     break

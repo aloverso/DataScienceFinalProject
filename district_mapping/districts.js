@@ -18,7 +18,7 @@ var mapVisualization = function() {
   
   queue()
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_maps/districts060.json")
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_mapping/reps-by-district.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/district-mapping/district_mapping/reps-by-district.json")
     .await(ready);
   
   function ready (error, counties, names) {
@@ -34,6 +34,7 @@ var mapVisualization = function() {
           filter.forEach(function(f) {
             d.properties.names.push(f[0]);
             d.properties.ids.push(f[1]);
+            console.log(f[2]);
         });
         }
       }
@@ -46,11 +47,11 @@ var mapVisualization = function() {
       .attr("state", function(d,i) { return d.properties.state; })
       .attr("dist", function(d,i) { return d.properties.district; })
       .attr("names", function(d,i) { return d.properties.names; })
-      .attr("class", function(d, i) { 
-        if (d.properties.names != undefined) {
-          return "county " + d.properties.names[0][0];
+      .attr("class", function(d, i) {
+        if (d.properties.names == undefined) {
+          return "county no-rep";
         }
-        return "county no-rep";
+        return "county";
       })
       .attr("d", path);
     
