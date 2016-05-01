@@ -3,7 +3,7 @@ var mapVisualization = function() {
   var height = 600;
 
   var projection = d3.geo.mercator()
-    .translate([1100, 700])
+    .translate([1700, 700])
     .scale(600);
 
   var path = d3.geo.path()
@@ -17,7 +17,7 @@ var mapVisualization = function() {
   var g = svg.append("g");
   
   queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_maps/districts017.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_maps/districts060.json")
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/district_mapping/reps-by-district.json")
     .await(ready);
   
@@ -48,12 +48,10 @@ var mapVisualization = function() {
       .attr("names", function(d,i) { return d.properties.names; })
       .attr("class", function(d, i) { 
         if (d.properties.names != undefined) {
-          if (d.properties.names[0] == "J") { console.log(d.properties.names[0][0]); }
           return "county " + d.properties.names[0][0];
         }
         return "county no-rep";
       })
-      /*.attr("title", function(d,i) { return d.name; })*/
       .attr("d", path);
     
     /*svg.append("text")']
