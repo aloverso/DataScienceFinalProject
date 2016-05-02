@@ -5,6 +5,11 @@
   stroke-linejoin: round;
 }
 
+.regionName {
+  font-size: 15px;
+  font-family: monospace;
+}
+
 /*.no-rep {
   fill: #000;
 }

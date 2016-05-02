@@ -68,6 +68,9 @@ var mapVisualization = function() {
         }
         return "district";
       })
+      .attr("onmouseover", function(d) { return "highlight(\""+d.properties.state+"\", \""+d.properties.district+"\")"; })
+      .attr("onmouseout", function(d) {
+        return "unhighlight(\""+d.properties.state+"\", \""+d.properties.district+"\", \""+colorScale(Math.max(d.properties.incumbencies))+"\")"; })
       .attr("d", path);
     
     svg.append("text")
