@@ -1,11 +1,11 @@
-.county {
+.district {
   fill: #ccc;
   stroke: #fff;
   stroke-width: 0.5px;
   stroke-linejoin: round;
 }
 
-.no-rep {
+/*.no-rep {
   fill: #000;
 }
 
@@ -15,4 +15,4 @@ path[dist="0"] {
 
 path[dist="-1"] {
   fill: red;
-}
+}*/
