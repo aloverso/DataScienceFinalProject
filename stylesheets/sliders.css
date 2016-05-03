@@ -1,15 +1,10 @@
-body {
-  margin: 25px;
-  font-family: Arial;
-}
-
 p {
 letter-spacing: .25px;
 line-height: 1.5;
 }
 
 .slider-time {
-  width: 800px !important;
+  width: 500px !important;
   color: #aaaaaa;
   height: 10px;
 }

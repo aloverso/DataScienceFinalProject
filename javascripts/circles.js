@@ -27,16 +27,16 @@ var circles = function () {
     }
 
   
-   var margin = {top: 20, right: 20, bottom: 100, left: 20},
-        width = $(window).width() - margin.right - margin.left,
-        height = $(window).height() - margin.top - margin.bottom;
+   var margin = {top: 200, right: 20, bottom: 50, left: 200},
+      width = $(window).width() - margin.right - .333*$(window).width(),
+      height = $(window).height() - margin.top - margin.bottom;
 
     
     var nb_points = 5; // max number of parties
 
     dragit.time = {min: 0, max: 113, step: 1, current: 1};
     
-    dragit.time.current = 0;
+    dragit.time.current = 112;
     
     var timecube = d3.range(nb_points).map(function(d, i) {
             return d3.range(dragit.time.max).map(function(e, j) { 
@@ -51,8 +51,8 @@ var circles = function () {
         });
     })
 
-    var radius = 180; // radius of 2 major parties circles
-    var sradius = 50; // radius of smaller parties circles
+    var radius = width/10; // radius of 2 major parties circles
+    var sradius = width/40; // radius of smaller parties circles
     var dur = 500; // duration of transition
 
     //var dist = json["1"][0].vals.num + json["1"][1].vals.num;
@@ -60,7 +60,7 @@ var circles = function () {
 
     var s = sradius + 20; // x and y of smaller circles
     var lx = 2*s + radius*2 + 100; // x coordinate, center of larger circles
-    var ly = 800/2; // y coordinate, larger circles
+    var ly = height - radius*2; // y coordinate, larger circles
 
     // create svg
     var svg = d3.select("#maincircles")
@@ -85,8 +85,8 @@ var circles = function () {
           return (100*d[0].unification)+"%";
       })
       .style("stop-color", function(d,i) {
-          if (d[0].party != "None") {
-            return partycolors[d[0].party];
+          if (d[dragit.time.current].party != "None") {
+            return partycolors[d[dragit.time.current].party];
           }
           else {
             return "rgba(0,0,0,0)";
@@ -109,8 +109,8 @@ var circles = function () {
       .attr("class","backcolor")
       .attr("offset", "100%")
       .style("stop-color", function(d) {
-          if (d[0].party != "None") {
-            return partycolors[d[0].party];
+          if (d[dragit.time.current].party != "None") {
+            return partycolors[d[dragit.time.current].party];
           }
           else {
             return "rgba(0,0,0,0)";
@@ -140,10 +140,10 @@ var circles = function () {
           })
         .attr('cx', function(d,i) {
           if (i===0) {
-            return lx - (1-d[0].majority)*dist/2;;
+            return lx - (1-d[dragit.time.current].majority)*dist/2;;
           }
           else if (i===1) {
-              return lx + (1-d[0].majority)*dist/2;
+              return lx + (1-d[dragit.time.current].majority)*dist/2;
           }
           else {
             return s;
@@ -167,10 +167,10 @@ var circles = function () {
             .append("circle");
         circles.attr('cx', function(d,i) {
             if (i===0) {
-            return lx - (1-d[0].majority)*dist/2;;
+            return lx - (1-d[dragit.time.current].majority)*dist/2;;
             }
             else if (i===1) {
-                return lx + (1-d[0].majority)*dist/2;
+                return lx + (1-d[dragit.time.current].majority)*dist/2;
             }
             else {
               return s;
@@ -200,12 +200,12 @@ var circles = function () {
       .data([1])
       .enter().append('text')
       .text(function(d,i) {
-        return sessionyears(1)
+        return sessionyears(dragit.time.current+1)
       })
       .attr('x',lx-radius)
-      .attr('y',ly-radius-20)
+      .attr('y',ly-radius-80)
       .style('font-family','serif')
-      .style('font-size','250px')
+      .style('font-size','150px')
       .style('font-weight','bold')
       .style('fill','#aaaaaa')
       .attr('opacity','.6')
@@ -216,9 +216,9 @@ var circles = function () {
       .data(timecube)
       .enter().append('text')
       .text(function(d,i) {
-        console.log(d[0].party);
-        if (d[0].party != 'None') {
-          return d[0].party;
+        console.log(d[dragit.time.current].party);
+        if (d[dragit.time.current].party != 'None') {
+          return d[dragit.time.current].party;
         }
       })
       .attr('x',function(d,i) {
@@ -249,9 +249,9 @@ var circles = function () {
       })
       .style('font-size',function(d,i) {
         if (i>=2) {
-          return "20px";
+          return "16px";
         } else {
-          return '40px';
+          return '26px';
         }
       })
       .style('font-weight','bold')
@@ -390,8 +390,8 @@ var circles = function () {
       dragit.utils.slider("#slidercircles", true);
 
       // change the bounds on slider to years, not sessions
-      d3.select('#max-time').html("2013");
-      d3.select('#min-time').html("1789");
+      // d3.select('.max-time').html("2013");
+      // d3.select('.min-time').html("1789");
     }
     
     init();

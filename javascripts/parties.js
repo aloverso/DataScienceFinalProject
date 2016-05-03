@@ -40,15 +40,15 @@ var parties = function () {
       'States Rights':"rgba(150,150,150,.8)", 'Adams Democrat':"rgba(150,150,150,.8)", 'Union':"rgba(150,150,150,.8)", 'Nullifier':"rgba(150,150,150,.8)", 'Ind. Democrat':"rgba(150,150,150,.8)", 'Liberty':"rgba(150,150,150,.8)", 'Conservative':"rgba(150,150,150,.8)", 'Constitutional Unionist':"rgba(150,150,150,.8)", 'Readjuster Democrat':"rgba(150,150,150,.8)", 'Progressive Republican':"rgba(150,150,150,.8)", 'Law and Order':"rgba(150,150,150,.8)", 'Progressive':"rgba(150,150,150,.8)", 'Crawford Republican':"rgba(150,150,150,.8)", 'Democratic Republican':"rgba(150,150,150,.8)", 'Independent':"rgba(150,150,150,.8)", 'Readjuster':"rgba(150,150,150,.8)", 'American Labor':"rgba(150,150,150,.8)", 'Jacksonian':"rgba(150,150,150,.8)", 'Jackson Republican':"rgba(150,150,150,.8)", 'Conservative Republican':"rgba(150,150,150,.8)", 'Union Labor':"rgba(150,150,150,.8)", 'Ind. Republican':"rgba(150,150,150,.8)", 'Free Soil':"rgba(150,150,150,.8)", 'Socialist':"rgba(150,150,150,.8)", 'Anti Jackson':"rgba(150,150,150,.8)", 'Democrat-Liberal':"rgba(150,150,150,.8)", 'Liberal Republican':"rgba(150,150,150,.8)", 'Independent Democrat':"rgba(150,150,150,.8)", 'Farmer-Labor':"rgba(150,150,150,.8)", 'Prohibitionist':"rgba(150,150,150,.8)", 'Silver Republican':"rgba(150,150,150,.8)", 'Anti-Lecompton Democrat':"rgba(150,150,150,.8)", 'National Greenbacker':"rgba(150,150,150,.8)", 'Republican-Conservative':"rgba(150,150,150,.8)", 'Anti-Jacksonian':"rgba(150,150,150,.8)", 'Unconditional Unionist':"rgba(150,150,150,.8)", 'Ind. Whig':"rgba(150,150,150,.8)"
     }
 
-   var margin = {top: 20, right: 20, bottom: 100, left: 20},
-      width = $(window).width() - margin.right - margin.left,
+   var margin = {top: 200, right: 20, bottom: 50, left: 200},
+      width = $(window).width() - margin.right - .333*$(window).width(),
       height = $(window).height() - margin.top - margin.bottom;
 
     var nb_points = 550; // max number
 
     dragit.time = {min: 0, max: 113, step: 1, current: 1};
     
-    dragit.time.current = 1;
+    dragit.time.current = 0;
     
     var timecube = d3.range(nb_points).map(function(d, i) {
             return d3.range(dragit.time.max).map(function(e, j) { 
@@ -62,7 +62,7 @@ var parties = function () {
         });
     })
 
-    var radius = 10; // radius of the seat circles
+    var radius = 8; // radius of the seat circles
     var starter = 4; // which row to start on, makes it an arc instead of half-circle
 
     var r = (radius*2+5)*starter; // radius from center of arc
@@ -72,7 +72,8 @@ var parties = function () {
     var row2 = starter;
     var angle2 = 0;
 
-    var center = 640; // (x,y) of the arc
+    var centery = height - height/20; // (x,y) of the arc
+    var centerx = radius*2*25 ;
     var div = 60; // keep this the same, empirically determined. gets next angle for row
     var dur = 1; // duration of transitions (keep same)
 
@@ -120,14 +121,14 @@ var parties = function () {
       for (var i=0; i<num; i++) {
         if (ang <= 181) {
           angs.push(ang);
-          var ret = center + rad*Math.cos(ang*0.0174533);
+          var ret = centerx + rad*Math.cos(ang*0.0174533);
           ang = ang + div/rown;
         } else {
           ang = 0;
           angs.push(ang);
           rad = rad+radius*2+5;
           rown= rown + 1;
-          var ret = center + rad*Math.cos(ang*0.0174533);
+          var ret = centerx + rad*Math.cos(ang*0.0174533);
           ang = ang + div/rown;
         }
       }
@@ -175,8 +176,8 @@ var parties = function () {
       return ret;
     }
 
-    var parties = sortbyparty(0);
-    var assigned_angs = getPositions(0, parties);
+    var parties = sortbyparty(dragit.time.current);
+    var assigned_angs = getPositions(dragit.time.current, parties);
     var assigned_angs2 = jQuery.extend(true, {}, assigned_angs); // deep clone
 
     // create circles for each data point on the arc
@@ -188,7 +189,7 @@ var parties = function () {
       .attr('cx',function(d,i) {        
         if (angle <= 181) {
           d.angle = angle;
-          var ret = center + r*Math.cos(angle*0.0174533);
+          var ret = centerx + r*Math.cos(angle*0.0174533);
           angle = angle + div/row;
           return ret;
         } else {
@@ -196,7 +197,7 @@ var parties = function () {
           d.angle = angle;
           r = r+radius*2+5;
           row = row + 1;
-          var ret = center + r*Math.cos(angle*0.0174533);
+          var ret = centerx + r*Math.cos(angle*0.0174533);
           angle = angle + div/row;
           return ret;
         }
@@ -204,27 +205,27 @@ var parties = function () {
       .attr('cy',function(d,i){
         // same exact as cx, but new variables and Math.sin
         if (angle2 <= 181) {
-          var ret = center - r2*Math.sin(angle2*0.0174533);
+          var ret = centery - r2*Math.sin(angle2*0.0174533);
           angle2 = angle2 + div/row2;
           return ret;
         } else {
           angle2 = 0;
           r2 = r2+radius*2+5;
           row2 = row2 + 1;
-          var ret = center - r2*Math.sin(angle2*0.0174533);
+          var ret = centery - r2*Math.sin(angle2*0.0174533);
           angle2 = angle2 + div/row2;
           return ret;
         }
       })
       .attr('fill', function(d) {
-        if (d[0].party != 'None') {
+        if (d[dragit.time.current].party != 'None') {
           var person = assigned_angs[d.angle].splice(0,1)[0];
           return partycolors[person.party];
         }
       })
       // if None, don't display
       .style('display',function(d,i) {
-        if (d[0].party == 'None') {
+        if (d[dragit.time.current].party == 'None') {
           return 'none';
         } else {
           return 'block';
@@ -233,7 +234,7 @@ var parties = function () {
       // make the mouseover text
       .append('title')
       .text(function(d) {
-        if (d[0].party != 'None') {
+        if (d[dragit.time.current].party != 'None') {
           person = assigned_angs2[d.angle].splice(0,1)[0];
           return makeText(person.firstname, person.lastname, person.state, person.type, person.party);
         }
@@ -247,12 +248,12 @@ var parties = function () {
         .data([1])
         .enter().append('text')
         .text(function(d,i) {
-          return sessionyears(1);
+          return sessionyears(dragit.time.current+1);
         })
         .attr('x',80)
-        .attr('y',180)
+        .attr('y',100)
         .style('font-family','serif')
-        .style('font-size','250px')
+        .style('font-size','150px')
         .style('font-weight','bold')
         .style('fill','#aaaaaa')
         .attr('opacity','.6')
@@ -263,10 +264,10 @@ var parties = function () {
         .data([1])
         .enter().append('text')
         .text(function(d,i) {
-          return data[(parseInt(0)+1).toString()].length;
+          return data[(parseInt(dragit.time.current)+1).toString()].length;
         })
-        .attr('x',center)
-        .attr('y',center)
+        .attr('x',centerx)
+        .attr('y',centery)
         .style('font-family','serif')
         .style('font-size','60px')
         .style('font-weight','bold')
@@ -383,8 +384,9 @@ var parties = function () {
         dragit.utils.slider("#slider", true);
 
         // make the slider show years not sessions
-        d3.select('#max-time').html("2013");
-        d3.select('#min-time').html("1789");
+        // d3.select('.max-time').html("2013");
+        // d3.select('.min-time').html("1789");
+        // // d3.select('#slider-time').style('width','10px');
       }
     
       init();
