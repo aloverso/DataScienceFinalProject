@@ -6,6 +6,7 @@ def create_table():
     Creates a look up table to retrieve a Congress person's name given their
     state, district, and session of Congress.
     """
+
     table = {}
     with open('states_hash.json', 'r') as state_file:
         states_hash = json.load(state_file)
@@ -30,14 +31,27 @@ def create_table():
             state = states_hash[member[2]]
             dist = int(member[3])
             vote_id = member[4]
+
+            person = congress[(congress['vote_id'] == vote_id)]
+            incumbency_len = 0
+            for i in range(session,0,-1):
+                if int(person[sessions[i]]) == 1:
+                    incumbency_len += 2
+                else:
+                    break
+
+
             if state in table[session]:
                 if dist in table[session][state]:
-                    table[session][state][dist].append([name, vote_id])
+                    table[session][state][dist].append(\
+                            [name, vote_id, incumbency_len])
                 else:
-                    table[session][state][dist] = [[name, vote_id]]
+                    table[session][state][dist] =\
+                            [[name, vote_id, incumbency_len]]
             else:
-                table[session][state] = {dist: [[name, vote_id]]}
-    # in order to use JSON, the JSON must be constructed from a dictionary
+                table[session][state] = {dist: [[name, vote_id, incumbency_len]]}
+
+    # in order to use JSON, the JSON must be constructed from a dictionary base
     table = {"table": table}
     with open('reps-by-district.json', 'w') as f:
         json.dump(table, f, ensure_ascii=False)

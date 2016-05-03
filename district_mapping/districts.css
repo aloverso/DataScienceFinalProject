@@ -1,6 +1,28 @@
-.county {
+.district {
   fill: #ccc;
   stroke: #fff;
   stroke-width: 0.5px;
   stroke-linejoin: round;
 }
+
+.regionName {
+  font-size: 16pt;
+  color: blue;
+  font-family: 'Lato', sans-serif;
+}
+
+tspan {
+  font-size: 14pt;
+}
+
+/*.no-rep {
+  fill: #000;
+}
+
+path[dist="0"] {
+  fill: red;
+}
+
+path[dist="-1"] {
+  fill: red;
+}*/
