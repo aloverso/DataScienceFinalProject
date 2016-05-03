@@ -8,12 +8,13 @@
         <script src="d3/nv.d3.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
         <script src="d3/dragit.js" charset="utf-8"></script>
+        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
         <style>
             body {
                 margin: 25px;
                 font-family: Arial;
             }
-
 
             p {
                 
@@ -22,7 +23,109 @@
             }
 
             .slider-time {
-              width: 500px !important;
+              width: 800px !important;
+              color: #aaaaaa;
+              height: 10px;
+            }
+
+            .stop {
+              background-color: white;
+              border-color: #aaaaaa;
+              border-radius: 5px;
+              color: #222222;
+            }
+
+            .playing {
+              background-color: white;
+              border-color: #aaaaaa;
+              border-radius: 5px;
+              color: #222222;
+            }
+
+            input[type=range] {
+              -webkit-appearance: none;
+              width: 100%;
+              margin: 7.15px 0;
+            }
+            input[type=range]:focus {
+              outline: none;
+            }
+            input[type=range]::-webkit-slider-runnable-track {
+              width: 100%;
+              height: 3.7px;
+              cursor: pointer;
+              box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+              background: #969696;
+              border-radius: 3.7px;
+              border: 0px solid #010101;
+            }
+            input[type=range]::-webkit-slider-thumb {
+              box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+              border: 0px solid #000000;
+              height: 18px;
+              width: 18px;
+              border-radius: 50px;
+              background: #ffffff;
+              cursor: pointer;
+              -webkit-appearance: none;
+              margin-top: -7.15px;
+            }
+            input[type=range]:focus::-webkit-slider-runnable-track {
+              background: #9e9e9e;
+            }
+            input[type=range]::-moz-range-track {
+              width: 100%;
+              height: 3.7px;
+              cursor: pointer;
+              box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+              background: #969696;
+              border-radius: 3.7px;
+              border: 0px solid #010101;
+            }
+            input[type=range]::-moz-range-thumb {
+              box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+              border: 0px solid #000000;
+              height: 18px;
+              width: 18px;
+              border-radius: 50px;
+              background: #ffffff;
+              cursor: pointer;
+            }
+            input[type=range]::-ms-track {
+              width: 100%;
+              height: 3.7px;
+              cursor: pointer;
+              background: transparent;
+              border-color: transparent;
+              color: transparent;
+            }
+            input[type=range]::-ms-fill-lower {
+              background: #8e8e8e;
+              border: 0px solid #010101;
+              border-radius: 7.4px;
+              box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+            }
+            input[type=range]::-ms-fill-upper {
+              background: #969696;
+              border: 0px solid #010101;
+              border-radius: 7.4px;
+              box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+            }
+            input[type=range]::-ms-thumb {
+              box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+              border: 0px solid #000000;
+              height: 18px;
+              width: 18px;
+              border-radius: 50px;
+              background: #ffffff;
+              cursor: pointer;
+              height: 3.7px;
+            }
+            input[type=range]:focus::-ms-fill-lower {
+              background: #969696;
+            }
+            input[type=range]:focus::-ms-fill-upper {
+              background: #9e9e9e;
             }
 
         </style>
@@ -33,22 +136,21 @@
 
         <p style="clear:both"></p>
         <div id="slider"></div>
-
-        <div class="label" id="left"></div>
-        <div class="label" id="right"></div>
-        <div id="year"></div>
-
         
         <script type="text/javascript">
 
           $.getJSON('https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/timecubedata.json', function(json) {
 
-            var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
+            function sessionyears(session) {
+              return 1789 + 2*(+session-1);
+            }
+
+            // var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
 
             var numparties = {"1": 4, "2": 4, "3": 2, "4": 2, "5": 2, "6": 2, "7": 2, "8": 2, "9": 2, "10": 3, "11": 3, "12": 3, "13": 3, "14": 3, "15": 4, "16": 5, "17": 5, "18": 4, "19": 4, "20": 4, "21": 3, "22": 5, "23": 5, "24": 3, "25": 2, "26": 2, "27": 2, "28": 2, "29": 2, "30": 2, "31": 3, "32": 3, "33": 4, "34": 4, "35": 2, "36": 2, "37": 3, "38": 2, "39": 2, "40": 2, "41": 2, "42": 2, "43": 2, "44": 2, "45": 2, "46": 2, "47": 2, "48": 2, "49": 2, "50": 2, "51": 2, "52": 2, "53": 2, "54": 2, "55": 3, "56": 2, "57": 2, "58": 2, "59": 2, "60": 2, "61": 2, "62": 2, "63": 2, "64": 2, "65": 2, "66": 2, "67": 2, "68": 2, "69": 2, "70": 2, "71": 2, "72": 2, "73": 2, "74": 2, "75": 2, "76": 2, "77": 2, "78": 2, "79": 2, "80": 2, "81": 2, "82": 2, "83": 2, "84": 2, "85": 2, "86": 2, "87": 2, "88": 2, "89": 2, "90": 2, "91": 2, "92": 2, "93": 2, "94": 2, "95": 2, "96": 2, "97": 2, "98": 2, "99": 2, "100": 2, "101": 2, "102": 2, "103": 2, "104": 2, "105": 2, "106": 2, "107": 2, "108": 2, "109": 2, "110": 2, "111": 2, "112": 2, "113": 2}
 
             var partycolors = {
-              "Adams":"rgba(97,156,49,.6)",
+              "Adams":"rgba(175,105,51,.6)",
               "American":"rgba(116,18,79,.6)",
               "Anti Jacksonian":"rgba(111,0,115,.6)",
               "Anti Masonic":"rgba(236,0,72,.6)",
@@ -56,12 +158,13 @@
               "Democrat":"rgba(0,0,100,.6)",
               "Federalist":"rgba(100,100,0,.6)",
               "Ind. Republican-Democrat":"rgba(255,174,17,.6)",
-              "Jackson":"rgba(175,105,51,.6)",
+              "Jackson":"rgba(97,156,49,.6)",
               "Populist":"rgba(203,245,103,.6)",
               "Pro-Administration":"rgba(162,51,75,.6)",
               "Republican":"rgba(100,0,0,.6)",
               "Unionist":"rgba(37,116,90,.6)",
-              "Whig":"rgba(0,100,0,.6)"
+              "Whig":"rgba(0,100,0,.6)",
+              "None":"rgba(0,0,0,0)"
             }
 
             var w = $(window).width()-50;
@@ -141,14 +244,23 @@
            // .attr("fill", function(d,i) {
            //      return "url(#grad"+i+")";
            //  });
+
+          // var m = 0;
+          // for (var i=1; i<114; i++) {
+          //   if (json[i].length > m) {
+          //     m = json[i].length;
+          //   }
+          // }
+          // console.log(m);
           
            //DRAGIT
 
-           var margin = {top: 20, right: 20, bottom: 20, left: 20},
-                width = 900 - margin.right - margin.left,
-                height = 700 - margin.top - margin.bottom;
+           var margin = {top: 20, right: 20, bottom: 100, left: 20},
+                width = $(window).width() - margin.right - margin.left,
+                height = $(window).height() - margin.top - margin.bottom;
+
             
-            var nb_points = 2; // max number of parties
+            var nb_points = 5; // max number of parties
 
             dragit.time = {min: 0, max: 113, step: 1, current: 1};
             
@@ -169,14 +281,19 @@
                 });
             })
 
-            console.log(timecube);  
+            // console.log(timecube);  
 
 
-            var radius = 100;
+            var radius = 180;
+            var sradius = 50;
             var dur = 500;
             //var dist = json["1"][0].vals.num + json["1"][1].vals.num;
             var dist = radius*2;
             console.log(dist);
+
+            var s = sradius + 20;
+            var lx = 2*s + radius*2 + 100;
+            var ly = h/2;
 
             // var xScale = d3.scale.linear().domain([0, dragit.time.max]).range([margin.left, width]);
            
@@ -210,7 +327,12 @@
                   return (100*d[0].unification)+"%";
               })
               .style("stop-color", function(d,i) {
-                  return partycolors[d[0].party];
+                  if (d[0].party != "None") {
+                    return partycolors[d[0].party];
+                  }
+                  else {
+                    return "rgba(0,0,0,0)";
+                  }
               });
 
             var grad2 = svg.select("defs")
@@ -228,8 +350,12 @@
               .attr("class","backcolor")
               .attr("offset", "100%")
               .style("stop-color", function(d) {
-                console.log(d[0].party)
-                  return partycolors[d[0].party];
+                  if (d[0].party != "None") {
+                    return partycolors[d[0].party];
+                  }
+                  else {
+                    return "rgba(0,0,0,0)";
+                  }
               });
 
             svg.select("defs").selectAll(".lg")
@@ -242,22 +368,37 @@
                 .enter()
                 .append("circle")
                 .call(dragit.object.activate)
-                .attr('r',radius)
+                .attr('r',function(d,i) {
+                  if (i>=2) {
+                    return sradius;
+                  }
+                  return radius;
+                })
                 .attr('fill', function(d,i) {
                       return "url(#grad2"+i+")";
                   })
                 .attr('cx', function(d,i) {
-                  console.log('holla');
-                  console.log(d[0].majority);
-                  console.log(i)
+                  // console.log('holla');
+                  // console.log(d[0].majority);
+                  // console.log(i)
                   if (i===0) {
-                    return 400 - (1-d[0].majority)*dist/2;;
+                    return lx - (1-d[0].majority)*dist/2;;
+                  }
+                  else if (i===1) {
+                      return lx + (1-d[0].majority)*dist/2;
                   }
                   else {
-                      return 400 + (1-d[0].majority)*dist/2;
+                    return s;
                   }
                 })
-                .attr('cy', 400)
+                .attr('cy', function(d,i) {
+                  if (i>=2) {
+                    return s+((i-2)*(sradius*2 + 10));
+                  }
+                  else {
+                    return ly;
+                  }
+                })
                 .style('opacity',.5)
                 // .attr("transform", function(d) {
                 //     return "translate("+xScale(d[dragit.time.current].x)+", "+yScale(d[dragit.time.current].y)+")";
@@ -269,22 +410,97 @@
                     .enter()
                     .append("circle");
                 circles.attr('cx', function(d,i) {
-                    console.log('holla');
-                    console.log(d[0].majority);
-                    console.log(i)
+                    // console.log('holla');
                     if (i===0) {
-                      return 400 - (1-d[0].majority)*dist/2;;
+                    return lx - (1-d[0].majority)*dist/2;;
+                    }
+                    else if (i===1) {
+                        return lx + (1-d[0].majority)*dist/2;
                     }
                     else {
-                        return 400 + (1-d[0].majority)*dist/2;
+                      return s;
                     }
                   })
-                 .attr("cy", 400)
-                 .attr("r", radius)
+                 .attr("cy", function(d,i) {
+                    if (i>=2) {
+                      return s+((i-2)*(sradius*2+10));
+                    }
+                    else {
+                      return ly;
+                    }
+                  })
+                 .attr('r',function(d,i) {
+                  if (i>=2) {
+                    return sradius;
+                  }
+                  return radius;
+                })
                  .attr("fill", function(d,i) {
                       return "url(#grad"+i+")";
                   })
-                 .attr('class', 'fillcircle');
+                 .attr('class','fillcircle');
+
+            svg.selectAll('#yearlabel')
+              .data([1])
+              .enter().append('text')
+              .text(function(d,i) {
+                return sessionyears(1)
+              })
+              .attr('x',lx-radius)
+              .attr('y',ly-radius-20)
+              .style('font-family','serif')
+              .style('font-size','250px')
+              .style('font-weight','bold')
+              .style('fill','#aaaaaa')
+              .attr('opacity','.6')
+              .attr('id','yearlabel');
+
+            svg.selectAll('.partylabels')
+              .data(timecube)
+              .enter().append('text')
+              .text(function(d,i) {
+                console.log(d[0].party);
+                if (d[0].party != 'None') {
+                  return d[0].party;
+                }
+              })
+              .attr('x',function(d,i) {
+                if (i>=2) {
+                  return s + sradius + 20;
+                } else {
+                  if (i===0) {
+                    return lx - radius;
+                  } else {
+                    return lx + radius;
+                  }
+                }
+              })
+              .attr('y',function(d,i) {
+                if (i>=2) {
+                  return s+((i-2)*(sradius*2+10));
+                } else {
+                  return ly + radius + 40;
+                }
+              })
+              .style('font-family','Lato')
+              .style('text-anchor',function(d,i) {
+                if (i>=2) {
+                  return 'left';
+                } else {
+                  return 'middle';
+                }
+              })
+              .style('font-size',function(d,i) {
+                if (i>=2) {
+                  return "20px";
+                } else {
+                  return '40px';
+                }
+              })
+              .style('font-weight','bold')
+              .style('fill','#555555')
+              .attr('opacity','.8')
+              .attr('class','partylabel');
 
             // gPoints.append("circle")
             //     .attr('r',10)
@@ -303,17 +519,7 @@
                 if (dragit.time.current >= 113) {
                   dragit.time.current = 112;
                 }
-                // gPoints.transition().duration(dur)
-                //     .ease("linear")
-                    // .style('opacity', function(d) {
-                    //     console.log(100 - d[dragit.time.current].t*5);
-                    //     return (100 - d[dragit.time.current].t*5)/100.0;
-                    // });
-                    //console.log(json[dragit.time.current+1][0].vals.num);
                     dist = radius*2;
-
-                    
-
 
                     // dist = json[dragit.time.current+1][0].vals.num + json[dragit.time.current+1][1].vals.num;
                     svg.selectAll('.fillcircle').transition().duration(dur).ease('linear')
@@ -322,28 +528,74 @@
                       //     return d[dragit.time.current].num;
                       // })
                       .attr('cx', function(d,i) {
-                        //console.log(d[dragit.time.current]);
-                        if (i===0 || i===2) {  // this is bad code right here
-                          //console.log(400 - (1-d[dragit.time.current].majority)*dist/2);
-                          return 400 - (1-d[dragit.time.current].majority)*dist/2;;
+                        if (i===0) {
+                          return lx - (1-d[dragit.time.current].majority)*dist/2;;
+                        }
+                        else if (i===1) {
+                            return lx + (1-d[dragit.time.current].majority)*dist/2;
                         }
                         else {
-                            return 400 + (1-d[dragit.time.current].majority)*dist/2;
+                          return s;
                         }
-                      });
+                      })
+                      .each('end', function() {
+                         d3.select(this)
+                         .transition()
+                         .style('display', function(d) {
+                          if (d[dragit.time.current].party === 'None') {
+                            return "none";
+                          }
+                          else {
+                            return 'block';
+                          }
+                          });
+                       });
+
 
                     svg.selectAll('.points')
                       .transition().duration(dur).ease('linear')
                        .attr('cx', function(d,i) {
                         //console.log(d[dragit.time.current]);
-                        if (i===0 || i===2) {  // this is bad code right here
+                        if (i===0) { 
                           //console.log(400 - (1-d[dragit.time.current].majority)*dist/2);
-                          return 400 - (1-d[dragit.time.current].majority)*dist/2;;
+                          return lx - (1-d[dragit.time.current].majority)*dist/2;;
+                        }
+                        else if (i===1) {
+                          return lx + (1-d[dragit.time.current].majority)*dist/2;
                         }
                         else {
-                            return 400 + (1-d[dragit.time.current].majority)*dist/2;
+                          return s;
                         }
-                      });
+                      })
+                       // .style('stroke',function(d,i) {
+                       //    if (i<2) {
+                       //      return partycolors[d[dragit.time.current].party];
+                       //    } else {
+                       //      return 'rgba(0,0,0,0)';
+                       //    }
+                       // })
+                       // .style('stroke-width',function(d,i) {
+                       //  if (i<2) {
+                       //    if (i===0 && json[dragit.time.current][i].vals.num > json[dragit.time.current][1].vals.num) {
+                       //      return '10px';
+                       //    } else if (i===1 && json[dragit.time.current][i].vals.num > json[dragit.time.current][0].vals.num)
+                       //    return '10px';
+                       //  } else {
+                       //    return '0px';
+                       //  }
+                       // })
+                       .each('end', function() {
+                         d3.select(this)
+                         .transition()
+                         .style('display', function(d) {
+                          if (d[dragit.time.current].party === 'None') {
+                            return "none";
+                          }
+                          else {
+                            return 'block';
+                          }
+                          });
+                       });
                        // .each('end', function() {
                     //     d3.select(this)
                     //     .transition()
@@ -370,6 +622,20 @@
                           return partycolors[d[dragit.time.current].party];
                       });
 
+                      svg.selectAll('#yearlabel').transition().duration(dur).ease('linear')
+                      .text(function(d) {
+                        return sessionyears((parseInt(dragit.time.current)+1));
+                      });
+
+                      svg.selectAll('.partylabel').transition().duration(dur).ease('linear')
+                        .text(function(d,i) {
+                          if (d[dragit.time.current].party != 'None') {
+                            return d[dragit.time.current].party;
+                            } else {
+                              return '';
+                            }
+                          });
+
 
                     // UPDATE THE FILL CIRCLE BASED ON LINEAR GRADIENT
                     // svg.selectAll('.circle2')
@@ -378,23 +644,19 @@
                     //   return "url(#grad"+i+")";
                     // });
 
+                    // d3.selectAll('.label')
+                    // .data(timecube)
+                    // .html(function(d) {
+                    //   //console.log(d[dragit.time.current]);
+                    //   return d[dragit.time.current].party;
+                    // });
+                    //  d3.select('#year')
+                    //   .data(timecube)
+                    //   .html(function(d) {
+                    //     console.log((parseInt(dragit.time.current)+1).toString());
 
-
-
-
-                    d3.selectAll('.label')
-                    .data(timecube)
-                    .html(function(d) {
-                      //console.log(d[dragit.time.current]);
-                      return d[dragit.time.current].party;
-                    });
-                     d3.select('#year')
-                      .data(timecube)
-                      .html(function(d) {
-                        console.log((parseInt(dragit.time.current)+1).toString());
-
-                        return sessionyears[(parseInt(dragit.time.current)+1).toString()];
-                      });
+                    //     return sessionyears[(parseInt(dragit.time.current)+1).toString()];
+                    //   });
             }
 
             function init() {
@@ -411,6 +673,9 @@
               dragit.playback.loop = true;
               dragit.playback.speed =  dur;
               dragit.utils.slider("#slider", true);
+
+              $('#max-time').html("2013");
+              $('#min-time').html("1789");
             }
             
             init();
@@ -419,4 +684,4 @@
 
         </script>
     </body>
-</html>     
+</html>     `
