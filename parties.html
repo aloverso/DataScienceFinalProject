@@ -9,38 +9,126 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
         <script src="d3/dragit.js" charset="utf-8"></script>
         <script src="data.js"></script>
+        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <style>
-            body {
-                margin: 25px;
-                font-family: Arial;
-            }
+          body {
+              margin: 25px;
+              font-family: Arial;
+          }
 
 
-            p {
-                
-                letter-spacing: .25px;
-                line-height: 1.5;
-            }
+          p {
+              
+              letter-spacing: .25px;
+              line-height: 1.5;
+          }
 
-            .slider-time {
-              width: 800px !important;
-              color: #aaaaaa;
-              height: 10px;
-            }
+          .slider-time {
+            width: 800px !important;
+            color: #000;
+            height: 10px;
+          }
 
-            .stop {
-              background-color: white;
-              border-color: #aaaaaa;
-              border-radius: 5px;
-              color: #222222;
-            }
+          .stop {
+            background-color: white;
+            border-color: #aaaaaa;
+            border-radius: 5px;
+            color: #222222;
+          }
 
-            .playing {
-              background-color: white;
-              border-color: #aaaaaa;
-              border-radius: 5px;
-              color: #222222;
-            }
+          .playing {
+            background-color: white;
+            border-color: #aaaaaa;
+            border-radius: 5px;
+            color: #222222;
+          }
+
+          input[type=range] {
+            -webkit-appearance: none;
+            width: 100%;
+            margin: 7.15px 0;
+          }
+          input[type=range]:focus {
+            outline: none;
+          }
+          input[type=range]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 3.7px;
+            cursor: pointer;
+            box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+            background: #969696;
+            border-radius: 3.7px;
+            border: 0px solid #010101;
+          }
+          input[type=range]::-webkit-slider-thumb {
+            box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+            border: 0px solid #000000;
+            height: 18px;
+            width: 18px;
+            border-radius: 50px;
+            background: #ffffff;
+            cursor: pointer;
+            -webkit-appearance: none;
+            margin-top: -7.15px;
+          }
+          input[type=range]:focus::-webkit-slider-runnable-track {
+            background: #9e9e9e;
+          }
+          input[type=range]::-moz-range-track {
+            width: 100%;
+            height: 3.7px;
+            cursor: pointer;
+            box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+            background: #969696;
+            border-radius: 3.7px;
+            border: 0px solid #010101;
+          }
+          input[type=range]::-moz-range-thumb {
+            box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+            border: 0px solid #000000;
+            height: 18px;
+            width: 18px;
+            border-radius: 50px;
+            background: #ffffff;
+            cursor: pointer;
+          }
+          input[type=range]::-ms-track {
+            width: 100%;
+            height: 3.7px;
+            cursor: pointer;
+            background: transparent;
+            border-color: transparent;
+            color: transparent;
+          }
+          input[type=range]::-ms-fill-lower {
+            background: #8e8e8e;
+            border: 0px solid #010101;
+            border-radius: 7.4px;
+            box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+          }
+          input[type=range]::-ms-fill-upper {
+            background: #969696;
+            border: 0px solid #010101;
+            border-radius: 7.4px;
+            box-shadow: 0px 0px 0.7px #000000, 0px 0px 0px #0d0d0d;
+          }
+          input[type=range]::-ms-thumb {
+            box-shadow: 0px 0px 3.3px #000000, 0px 0px 0px #0d0d0d;
+            border: 0px solid #000000;
+            height: 18px;
+            width: 18px;
+            border-radius: 50px;
+            background: #ffffff;
+            cursor: pointer;
+            height: 3.7px;
+          }
+          input[type=range]:focus::-ms-fill-lower {
+            background: #969696;
+          }
+          input[type=range]:focus::-ms-fill-upper {
+            background: #9e9e9e;
+          }
+
 
         </style>
     </head>
@@ -64,52 +152,34 @@
             }
           }
 
-           // console.log('wut');
+            // var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
 
-
-          // $.getJSON('https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/membershiptimecube.json', function(json) {
-
-
-            // console.log(timecube);
-
-            var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
+            function sessionyears(session) {
+              return 1789 + 2*(+session-1);
+            }
 
             var numparties = {"1": 4, "2": 4, "3": 2, "4": 2, "5": 2, "6": 2, "7": 2, "8": 2, "9": 2, "10": 3, "11": 3, "12": 3, "13": 3, "14": 3, "15": 4, "16": 5, "17": 5, "18": 4, "19": 4, "20": 4, "21": 3, "22": 5, "23": 5, "24": 3, "25": 2, "26": 2, "27": 2, "28": 2, "29": 2, "30": 2, "31": 3, "32": 3, "33": 4, "34": 4, "35": 2, "36": 2, "37": 3, "38": 2, "39": 2, "40": 2, "41": 2, "42": 2, "43": 2, "44": 2, "45": 2, "46": 2, "47": 2, "48": 2, "49": 2, "50": 2, "51": 2, "52": 2, "53": 2, "54": 2, "55": 3, "56": 2, "57": 2, "58": 2, "59": 2, "60": 2, "61": 2, "62": 2, "63": 2, "64": 2, "65": 2, "66": 2, "67": 2, "68": 2, "69": 2, "70": 2, "71": 2, "72": 2, "73": 2, "74": 2, "75": 2, "76": 2, "77": 2, "78": 2, "79": 2, "80": 2, "81": 2, "82": 2, "83": 2, "84": 2, "85": 2, "86": 2, "87": 2, "88": 2, "89": 2, "90": 2, "91": 2, "92": 2, "93": 2, "94": 2, "95": 2, "96": 2, "97": 2, "98": 2, "99": 2, "100": 2, "101": 2, "102": 2, "103": 2, "104": 2, "105": 2, "106": 2, "107": 2, "108": 2, "109": 2, "110": 2, "111": 2, "112": 2, "113": 2}
 
             var partycolors = {
-              "Adams":"rgba(175,105,51,.6)",
-              "American":"rgba(116,18,79,.6)",
-              "Anti Jacksonian":"rgba(111,0,115,.6)",
-              "Anti Masonic":"rgba(236,0,72,.6)",
-              "Anti-Administration":"rgba(216,216,0,.6)",
-              "Democrat":"rgba(0,0,100,.6)",
-              "Federalist":"rgba(100,100,0,.6)",
-              "Ind. Republican-Democrat":"rgba(255,174,17,.6)",
-              "Jackson":"rgba(97,156,49,.6)",
-              "Populist":"rgba(203,245,103,.6)",
-              "Pro-Administration":"rgba(162,51,75,.6)",
-              "Republican":"rgba(100,0,0,.6)",
-              "Unionist":"rgba(37,116,90,.6)",
-              "Whig":"rgba(0,100,0,.6)",
-              "NaN":"rgba(150,150,150,.6)",
+              "Adams":"rgba(175,105,51,.8)",
+              "American":"rgba(116,18,79,.8)",
+              "Anti Jacksonian":"rgba(111,0,115,.8)",
+              "Anti Masonic":"rgba(236,0,72,.8)",
+              "Anti-Administration":"rgba(216,216,0,.8)",
+              "Democrat":"rgba(0,0,100,.8)",
+              "Federalist":"rgba(100,100,0,.8)",
+              "Ind. Republican-Democrat":"rgba(255,174,17,.8)",
+              "Jackson":"rgba(97,156,49,.8)",
+              "Populist":"rgba(203,245,103,.8)",
+              "Pro-Administration":"rgba(162,51,75,.8)",
+              "Republican":"rgba(100,0,0,.8)",
+              "Unionist":"rgba(37,116,90,.8)",
+              "Whig":"rgba(0,100,0,.8)",
+              "NaN":"rgba(180,180,180,.8)",
               "None":"rgba(0,0,0,0)",
 
-              'States Rights':"rgba(150,150,150,.6)", 'Adams Democrat':"rgba(150,150,150,.6)", 'Union':"rgba(150,150,150,.6)", 'Nullifier':"rgba(150,150,150,.6)", 'Ind. Democrat':"rgba(150,150,150,.6)", 'Liberty':"rgba(150,150,150,.6)", 'Conservative':"rgba(150,150,150,.6)", 'Constitutional Unionist':"rgba(150,150,150,.6)", 'Readjuster Democrat':"rgba(150,150,150,.6)", 'Progressive Republican':"rgba(150,150,150,.6)", 'Law and Order':"rgba(150,150,150,.6)", 'Progressive':"rgba(150,150,150,.6)", 'Crawford Republican':"rgba(150,150,150,.6)", 'Democratic Republican':"rgba(150,150,150,.6)", 'Independent':"rgba(150,150,150,.6)", 'Readjuster':"rgba(150,150,150,.6)", 'American Labor':"rgba(150,150,150,.6)", 'Jacksonian':"rgba(150,150,150,.6)", 'Jackson Republican':"rgba(150,150,150,.6)", 'Conservative Republican':"rgba(150,150,150,.6)", 'Union Labor':"rgba(150,150,150,.6)", 'Ind. Republican':"rgba(150,150,150,.6)", 'Free Soil':"rgba(150,150,150,.6)", 'Socialist':"rgba(150,150,150,.6)", 'Anti Jackson':"rgba(150,150,150,.6)", 'Democrat-Liberal':"rgba(150,150,150,.6)", 'Liberal Republican':"rgba(150,150,150,.6)", 'Independent Democrat':"rgba(150,150,150,.6)", 'Farmer-Labor':"rgba(150,150,150,.6)", 'Prohibitionist':"rgba(150,150,150,.6)", 'Silver Republican':"rgba(150,150,150,.6)", 'Anti-Lecompton Democrat':"rgba(150,150,150,.6)", 'National Greenbacker':"rgba(150,150,150,.6)", 'Republican-Conservative':"rgba(150,150,150,.6)", 'Anti-Jacksonian':"rgba(150,150,150,.6)", 'Unconditional Unionist':"rgba(150,150,150,.6)", 'Ind. Whig':"rgba(150,150,150,.6)"
+              'States Rights':"rgba(150,150,150,.8)", 'Adams Democrat':"rgba(150,150,150,.8)", 'Union':"rgba(150,150,150,.8)", 'Nullifier':"rgba(150,150,150,.8)", 'Ind. Democrat':"rgba(150,150,150,.8)", 'Liberty':"rgba(150,150,150,.8)", 'Conservative':"rgba(150,150,150,.8)", 'Constitutional Unionist':"rgba(150,150,150,.8)", 'Readjuster Democrat':"rgba(150,150,150,.8)", 'Progressive Republican':"rgba(150,150,150,.8)", 'Law and Order':"rgba(150,150,150,.8)", 'Progressive':"rgba(150,150,150,.8)", 'Crawford Republican':"rgba(150,150,150,.8)", 'Democratic Republican':"rgba(150,150,150,.8)", 'Independent':"rgba(150,150,150,.8)", 'Readjuster':"rgba(150,150,150,.8)", 'American Labor':"rgba(150,150,150,.8)", 'Jacksonian':"rgba(150,150,150,.8)", 'Jackson Republican':"rgba(150,150,150,.8)", 'Conservative Republican':"rgba(150,150,150,.8)", 'Union Labor':"rgba(150,150,150,.8)", 'Ind. Republican':"rgba(150,150,150,.8)", 'Free Soil':"rgba(150,150,150,.8)", 'Socialist':"rgba(150,150,150,.8)", 'Anti Jackson':"rgba(150,150,150,.8)", 'Democrat-Liberal':"rgba(150,150,150,.8)", 'Liberal Republican':"rgba(150,150,150,.8)", 'Independent Democrat':"rgba(150,150,150,.8)", 'Farmer-Labor':"rgba(150,150,150,.8)", 'Prohibitionist':"rgba(150,150,150,.8)", 'Silver Republican':"rgba(150,150,150,.8)", 'Anti-Lecompton Democrat':"rgba(150,150,150,.8)", 'National Greenbacker':"rgba(150,150,150,.8)", 'Republican-Conservative':"rgba(150,150,150,.8)", 'Anti-Jacksonian':"rgba(150,150,150,.8)", 'Unconditional Unionist':"rgba(150,150,150,.8)", 'Ind. Whig':"rgba(150,150,150,.8)"
             }
-
-            // var w = $(window).width()-50;
-            // var h = $(window).height()-50;
-
-            // var svg = d3.select("#main")
-            //             .append("svg")
-            //             .attr("width", w)
-            //             .attr("height", h);
-
-            // var x = [];
-
-            // for (var i=0; i<535; i++) {
-            //   x.push(i);
-            // }
 
            var margin = {top: 20, right: 20, bottom: 100, left: 20},
               width = $(window).width() - margin.right - margin.left,
@@ -124,11 +194,7 @@
             
             var timecube = d3.range(nb_points).map(function(d, i) {
                     return d3.range(dragit.time.max).map(function(e, j) { 
-                        //console.log(e);
-                        // console.log(i);
                         if (i < data[e+1].length) {
-                          // console.log(data[e+1])
-                          // var vals = json[e+1][i]['vals'];
                           return {'party':data[e+1][i]['party'], 't': j, 'state': data[e+1][i]['state'], 'type': data[e+1][i]['type'], 'firstname':data[e+1][i]['firstname'], 'lastname':data[e+1][i]['lastname']};
                         }
                         // doesn't exist
@@ -138,35 +204,19 @@
                 });
             })
 
-            // console.log(timecube);  
-
             var radius = 10;
             var starter = 4;
 
             var r = (radius*2+5)*starter;
             var row = starter;
             var angle = 0;
-
             var r2 = (radius*2+5)*starter;
             var row2 = starter;
             var angle2 = 0;
-            var center = 600;
+
+            var center = 640;
             var div = 60;
             var dur = 1;
-
-            var drow = 1;
-            var drow2 = 1;
-
-            var r3 = (radius*2+5)*starter;
-            var row3 = starter;
-            var angle3 = 0;
-            var drow3 = 1;
-
-            // var rowinfo = getnumrows(0);
-            // var numrows = rowinfo[0]
-            // var numrows2 = rowinfo[0];
-            // var distinrow = rowinfo[1];
-            // var distinrow2 = rowinfo[0];
 
             var svg = d3.select("#main")
                 .append("svg")
@@ -176,6 +226,7 @@
               if (pt == "Democrat") { pt = "D"}
               if (pt == "Republican") { pt = "R"}
               if (pt == "Independent") { pt = "I"}
+              if (pt.toString() == "NaN") { pt = "None"}
               return fn + " " + ln + ", " + pt + "-" + st + " ("+type+")";
             }
 
@@ -192,7 +243,6 @@
               return [].concat.apply([], masterlist); // flatten list
             }
 
-
             function getPositions(t, parties) {
               var rad = (radius*2+5)*starter;
               var rown = starter;
@@ -200,10 +250,8 @@
 
               var angs = [];
 
-              console.log(t);
-              console.log(t+1);
-              console.log(data[t+1]);
               var num = data[(parseInt(t)+1).toString()].length;
+              console.log(num);
 
               // get all angles of points
               for (var i=0; i<num; i++) {
@@ -221,11 +269,8 @@
                 }
               }
 
-
               // sort angles
               angs = angs.sort(function(a, b){return a-b});
-              console.log(angs);
-
 
               assigned_angs = {};
               // lists of people for an angle
@@ -235,7 +280,6 @@
               // assign people to angles
               for (var i=0; i<num; i++) {
                 if (!(angs[i] in assigned_angs)) {
-                  console.log('waht');
                   assigned_angs[angs[i]] = [];
                 }
                 assigned_angs[angs[i]].push(all_people[i]);
@@ -243,39 +287,8 @@
               return assigned_angs;
             }
 
-            // function getnumrows(t) {
-            //   var n = 0;
-            //   for (var j=0; j<data[t+1].length; j++) {
-            //     if (data[t+1][j].party === 'None') {
-            //       break;
-            //     } else {
-            //       n += 1;
-            //     }
-            //   }
-            //   var angle = 0;
-            //   var r = (radius*2+5)*starter;
-            //   var row = starter;
-            //   var distinrow = 1;
-            //   for (var i=0; i<n; i++) {
-            //     if (angle <= 181) {
-            //       var ret = center + r*Math.cos(angle*0.0174533);
-            //       angle = angle + div/row;
-            //       distinrow += 1;
-            //     } else {
-            //       angle = 0;
-            //       r = r+radius*2+5;
-            //       row = row + 1;
-            //       var ret = center + r*Math.cos(angle*0.0174533);
-            //       angle = angle + div/row;
-            //       distinrow = 1;
-            //     }
-            //   }
-            //   return [row, distinrow];
-            // }
-
             function sortbyparty(t) {
               parties = {}
-              // console.log(t+1);
               for (var i=0; i<data[(parseInt(t)+1).toString()].length; i++) {
                 var o = data[(parseInt(t)+1).toString()][i];
                 o.done = false;
@@ -285,31 +298,24 @@
                 }
                 parties[o.party].push(o);
               }
-              // console.log(parties);
 
               var partiessize = {};
               var tot = 0.0;
 
               Object.keys(parties).forEach(function(x) {
-                // console.log(parties[x].length);
                 partiessize[x] = parties[x].length;
                 tot += parties[x].length;
               });
 
-              pssort = sortObjAlpha(partiessize);
-
-              console.log(pssort);
-              console.log(partiessize);              
+              pssort = sortObjAlpha(partiessize);            
 
               var partiesprop = {};
-
               var prev = 0;
 
               pssort.forEach(function(x) {
                 partiesprop[x] = partiessize[x]/tot * 180 + prev;
                 prev = partiesprop[x];
               });
-              console.log(partiesprop);
 
               return [parties, partiesprop];
             }
@@ -324,96 +330,48 @@
               return ret;
             }
 
-            function countdone(p) {
-              var count =0;
-              Object.keys(p).forEach(function(x) {
-                for (var i=0; i<p[x].length; i++) {
-                  // console.log(p[x][i]);
-                  if (p[x][i].done) { count += 1; }
-                }
-              });
-              return count;
-            }
-
-            // console.log(sortObjAlpha({'a':1,'e':2,'b':3,'x':4,'c':5}));
+            // function countdone(p) {
+            //   var count =0;
+            //   Object.keys(p).forEach(function(x) {
+            //     for (var i=0; i<p[x].length; i++) {
+            //       if (p[x][i].done) { count += 1; }
+            //     }
+            //   });
+            //   return count;
+            // }
 
             var pinfo = sortbyparty(0);
             var parties = pinfo[0];
             var partiesprop = pinfo[1];
             var anglevals = Object.values(partiesprop).sort();
             anglevals = anglevals.sort(function(a, b){return a-b});
-            console.log(countdone(parties));
 
-            // console.log(getPositions(0,parties));
             var assigned_angs = getPositions(0, parties);
             var assigned_angs2 = jQuery.extend(true, {}, assigned_angs);
 
-            function findVal(v, vals) {
-              // vals[vals.length-1] += 1;
-              // console.log(vals);
-              // if (v>=180) { v = 180; }
-              for (var i=vals.length-1; i>0; i--) {
-                if (v <= vals[i] && v > vals[i-1]) {
-                  return vals[i];
-                }
-              }
-              console.log([v,'HOLLLLLLLA']);
-
-              return vals[0];
-            }
-
-            // console.log(findVal(50,anglevals));
+            // function findVal(v, vals) {
+            //   for (var i=vals.length-1; i>0; i--) {
+            //     if (v <= vals[i] && v > vals[i-1]) {
+            //       return vals[i];
+            //     }
+            //   }
+            //   return vals[0];
+            // }
 
             svg.selectAll('circle')
               .data(timecube)
               .enter().append('circle')
               .attr('r',radius)
-              .attr('cx',function(d,i) {
-                // console.log(row);
-                // console.log(drow);
-                // if (row < numrows) {
-                //   var ret = center + r*Math.cos(angle*0.0174533);
-                //   r = r+ radius*2 + 5;
-                //   row += 1;
-                //   angle = drow * div/row;
-                //   return ret;
-                // } else if (row === numrows && distinrow > 0) {
-                //   console.log('hella');
-                //   var ret = center + r*Math.cos(angle*0.0174533);
-                //   r = (radius*2+5)*starter;
-
-                //   distinrow -= 1;
-                //   if (distinrow === 0) {
-                //     numrows -= 1;
-                //   }
-                //   drow += 1;
-                //   row = starter;
-                //   angle = drow * div/row;
-                //   return ret;
-                // } else if (row === numrows) {
-                //   var ret = center + r*Math.cos(angle*0.0174533);
-                //   r = (radius*2+5)*starter;
-                //   drow += 1;
-                //   row = starter;
-                //   angle = drow * div/row;
-                //   return ret;
-                // }
-
-                // console.log(angle);
-                d.firstname = 'HOLLA';
-                // console.log(d.angle);
-                // var party = partiesprop.getKeyByValue(findVal(angle,anglevals));
+              .attr('class','datacircles')
+              .attr('cx',function(d,i) {        
                 if (angle <= 181) {
-                  // if (angle > 180) {angle = 180}
                   d.angle = angle;
-                  // console.log(d.angle);
                   var ret = center + r*Math.cos(angle*0.0174533);
                   angle = angle + div/row;
                   return ret;
                 } else {
                   angle = 0;
                   d.angle = angle;
-                  // console.log(d.angle);
                   r = r+radius*2+5;
                   row = row + 1;
                   var ret = center + r*Math.cos(angle*0.0174533);
@@ -422,38 +380,7 @@
                 }
               })
               .attr('cy',function(d,i){
-                // if (row2 < numrows2) {
-                //   var ret = center - r2*Math.sin(angle2*0.0174533);
-                //   r2 = r2+ radius*2 + 5;
-                //   row2 += 1;
-                //   angle2 = drow2 * div/row2;
-                //   return ret;
-                // } else if (row2 === numrows2 && distinrow2 > 0) {
-                //   console.log('hella');
-                //   var ret = center - r2*Math.sin(angle2*0.0174533);
-                //   r2 = (radius*2+5)*starter;
-
-                //   distinrow2 -= 1;
-                //   if (distinrow2 === 0) {
-                //     numrows2 -= 1;
-                //   }
-                //   drow2 += 1;
-                //   row2 = starter;
-                //   angle2 = drow2 * div/row2;
-                //   return ret;
-                // } else if (row2 === numrows2) {
-                //   var ret = center - r2*Math.sin(angle2*0.0174533);
-                //   r2 = (radius*2+5)*starter;
-                //   drow2 += 1;
-                //   row2 = starter;
-                //   angle2 = drow2 * div/row2;
-                //   return ret;
-                // } else {
-                //   console.log("WHGAT");
-                // }
-                // console.log(d.angle);
                 if (angle2 <= 181) {
-                  // if (angle2 > 180) {angle2 = 180}
                   var ret = center - r2*Math.sin(angle2*0.0174533);
                   angle2 = angle2 + div/row2;
                   return ret;
@@ -468,67 +395,8 @@
               })
               .attr('fill', function(d) {
                 if (d[0].party != 'None') {
-
-                  // var posslist = assigned_angs[d.angle];
                   var person = assigned_angs[d.angle].splice(0,1)[0];
                   return partycolors[person.party];
-                  // if (posslist.length === 1) {
-                  //   var person = assigned_angs[d.angle].splice(0,1);
-                  //   return 
-                  // }
-                  
-                // var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-                // // console.log(party);
-                // // console.log(countdone(parties));
-
-                // for (var i=0; i<parties[party].length; i++) {
-                //   if (parties[party][i].done) { 
-                //   continue; }
-                //   else {
-                //     // if (party==='Federalist') {console.log(parties)}
-                //     parties[party][i].done = true;
-                //     return partycolors[party];
-                //   }
-                // }
-                // var names = sortObjAlpha(partiesprop);
-                // var nextparty = names[names.indexOf(party)+1];
-                // while (nextparty) {
-                //   // console.log([party,nextparty, d.angle]);
-                //   for (var i=0; i<parties[nextparty].length; i++) {
-                //     if (parties[nextparty][i].done) { continue; }
-                //     else {
-                //       parties[nextparty][i].done = true;
-                //       return partycolors[nextparty];
-                //     }
-                //   }
-
-                //   nextparty = names[names.indexOf(nextparty)+1];
-                //   // console.log(nextparty);
-                //   if (nextparty==undefined) { console.log('holla'); nextparty = names[0]; }
-                // }
-                // console.log("OHNO");
-                //   console.log(d.angle);
-                // if (nextparty) {
-                //   for (var i=0; i<parties[nextparty].length; i++) {
-                //     if (parties[nextparty][i].done) { 
-                //     continue; }
-                //     else {
-                //       parties[nextparty][i].done = true;
-                //       return partycolors[nextparty];
-                //     }
-                //   }
-                // }
-                // var nextnextparty = names[names.indexOf(nextparty)+1];
-                // if (nextnextparty) {
-                //   for (var i=0; i<parties[nextnextparty].length; i++) {
-                //     if (parties[nextnextparty][i].done) { 
-                //     continue; }
-                //     else {
-                //       parties[nextnextparty][i].done = true;
-                //       return partycolors[nextnextparty];
-                //     }
-                //   }
-                // }
                 }
               })
               .style('display',function(d,i) {
@@ -544,35 +412,82 @@
                   person = assigned_angs2[d.angle].splice(0,1)[0];
                   return makeText(person.firstname, person.lastname, person.state, person.type, person.party);
                 }
-                // var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-
-                // for (var i=0; i<parties[party].length; i++) {
-                //   var o = parties[party][i];
-                //   if (o.done2) { continue; }
-                //   else {
-                //     o.done2 = true;
-                //     // console.log(makeText(o.firstname, o.lastname, o.state, o.type, o.party));
-                //     return makeText(o.firstname, o.lastname, o.state, o.type, o.party);
-                //   }
-                // }
-                // var names = sortObjAlpha(partiesprop);
-                // var nextparty = names[names.indexOf(party)+1];
-                //  while (nextparty) {
-                //   for (var i=0; i<parties[nextparty].length; i++) {
-                //     var o = parties[nextparty][i];
-                //     if (parties[nextparty][i].done2) { continue; }
-                //     else {
-                //       parties[nextparty][i].done2 = true;
-                //       // console.log(makeText(o.firstname, o.lastname, o.state, o.type, o.party));
-                //       return makeText(o.firstname, o.lastname, o.state, o.type, o.party);
-                //     }
-                //   }
-                //   nextparty = names[names.indexOf(nextparty)+1];
               });
+              
+              var currentparties = sortObjAlpha(parties);
+
+              svg.selectAll('#yearlabel')
+                .data([1])
+                .enter().append('text')
+                .text(function(d,i) {
+                  return sessionyears(1);
+                })
+                .attr('x',80)
+                .attr('y',180)
+                .style('font-family','serif')
+                .style('font-size','250px')
+                .style('font-weight','bold')
+                .style('fill','#aaaaaa')
+                .attr('opacity','.6')
+                .attr('id','yearlabel');
+
+              svg.selectAll('#countlabel')
+                .data([1])
+                .enter().append('text')
+                .text(function(d,i) {
+                  return data[(parseInt(0)+1).toString()].length;
+                })
+                .attr('x',center)
+                .attr('y',center)
+                .style('font-family','serif')
+                .style('font-size','60px')
+                .style('font-weight','bold')
+                .style('fill','#777777')
+                .style('text-anchor','middle')
+                .attr('opacity','.9')
+                .attr('id','countlabel');
+
+              function makePartyLabels(cparties) {
+
+                svg.selectAll('.partylabels')
+                .data(cparties)
+                .enter().append('text')
+                .text(function(d,i) {
+                  if (d.toString() == 'NaN') { return 'None'; }
+                  return d;
+                })
+                .attr('x', 1090)
+                .attr('y',function(d,i) {
+                  return 80 + i*30;
+                })
+                .style('font-family','Lato')
+                .style('font-size','20px')
+                .style('font-weight','bold')
+                .style('fill','#555555')
+                .attr('opacity','.6')
+                .attr('class','partylabels');
+
+                svg.selectAll('.partylabelcircles')
+                .data(cparties)
+                .enter().append('circle')
+                .attr('cx', 1070)
+                .attr('cy',function(d,i) {
+                  return 73 + i*30;
+                })
+                .attr('r',10)
+                .style('fill',function(d) {
+                  return partycolors[d];
+                })
+                .attr('opacity','.8')
+                .attr('class','partylabelcircles');
+              }
+
+              makePartyLabels(currentparties);
+
+              
 
               function update(v, t) {
                 dragit.time.current = v || dragit.time.current;
-                // console.log(dragit.time.current);
                 if (dragit.time.current >= 113) {
                   dragit.time.current = 112;
                 }
@@ -584,120 +499,14 @@
                 anglevals = anglevals.sort(function(a, b){return a-b});
 
                 var assigned_angs = getPositions(dragit.time.current, parties);
-                var assigned_angs2 = jQuery.extend(true, {}, assigned_angs);
-                // console.log(anglevals);
+                var assigned_angs2 = jQuery.extend(true, {}, assigned_angs); // deep copy
 
-                svg.selectAll('circle').transition().duration(dur).ease('linear')
+                svg.selectAll('.datacircles').transition().duration(dur).ease('linear')
                   .attr('fill', function(d,i) {
                     if (d[dragit.time.current].party != 'None') {
-                      // var posslist = assigned_angs[d.angle];
                       var person = assigned_angs[d.angle].splice(0,1)[0];
                       return partycolors[person.party];
-                  
-                      // var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-                      // // console.log(party);
-                      // // console.log(countdone(parties));
-                      // var c = 0;
-                      // for (var i=0; i<parties[party].length; i++) {
-                      //   if (parties[party][i].done) { 
-                      //     c += 1;  
-                      //     continue;
-                      //   }
-                      //   else {
-                      //     // if (party==='Federalist') {console.log(parties)}
-                      //     parties[party][i].done = true;
-                      //     console.log(partycolors[party]);
-                      //     return partycolors[party];
-                      //   }
-                      // }
-                      // var names = sortObjAlpha(partiesprop);
-                      // var nextparty = names[names.indexOf(party)+1];
-                      // if (nextparty==undefined) { 
-                      //   // var c = 0;
-                      //   // for (var i=0; i<parties[party].length; i++) {
-                      //   //   console.log(parties[party][i]);
-                      //   //   if (parties[party][i].done) { c += 1; }
-                      //   // }
-                      //   // console.log(c);
-                      //   // console.log(party);
-                      //   // console.log("hall");
-                      //   nextparty = names[names.indexOf(party)-1]; 
-                      // }
-                      // while (nextparty) {
-                      //   // console.log([party,nextparty, d.angle]);
-                      //   for (var i=0; i<parties[nextparty].length; i++) {
-                      //     if (parties[nextparty][i].done) { continue; }
-                      //     else {
-                      //       parties[nextparty][i].done = true;
-                      //       console.log(nextparty);
-                      //       return partycolors[nextparty];
-                      //     }
-                      //   }
-
-                      //   nextparty = names[names.indexOf(nextparty)+1];
-                      //   // console.log(nextparty);
-                      //   if (nextparty==undefined) { 
-                      //     console.log('holla'); 
-                      //     nextparty = names[names.indexOf(party)-1]; 
-                      //   }
-                      // }
-                      // console.log("OHNO");
-                      // console.log(d.angle);
-                      // if (nextparty) {
-                      //   for (var i=0; i<parties[nextparty].length; i++) {
-                      //     if (parties[nextparty][i].done) { 
-                      //     continue; }
-                      //     else {
-                      //       parties[nextparty][i].done = true;
-                      //       return partycolors[nextparty];
-                      //     }
-                      //   }
-                      // }
-                      // var nextnextparty = names[names.indexOf(nextparty)+1];
-                      // if (nextnextparty) {
-                      //   for (var i=0; i<parties[nextnextparty].length; i++) {
-                      //     if (parties[nextnextparty][i].done) { 
-                      //     continue; }
-                      //     else {
-                      //       parties[nextnextparty][i].done = true;
-                      //       return partycolors[nextnextparty];
-                      //     }
-                      //   }
-                      // }
-                      }
-                    // // console.log(d.angle);
-                    // // var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-                    // // return partycolors[party];
-                    // var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-
-                    // for (var i=0; i<parties[party].length; i++) {
-                    //   if (parties[party][i].done) { 
-                    //   continue; }
-                    //   else {
-                    //     parties[party][i].done = true;
-                    //     return partycolors[party];
-                    //   }
-                    // }
-                    // var names = sortObjAlpha(partiesprop);
-                    // var nextparty = names[names.indexOf(party)+1];
-                    // while (nextparty) {
-                    //   for (var i=0; i<parties[nextparty].length; i++) {
-                    //     if (parties[nextparty][i].done) { 
-                    //     continue; }
-                    //     else {
-                    //       parties[nextparty][i].done = true;
-                    //       return partycolors[nextparty];
-                    //     }
-                    //   }
-                    //   nextparty = names[names.indexOf(nextparty)+1];
-                    // }
-
-
-                    
-                    // if (d[0].party != 'None') {
-                    //   console.log("OHNO");
-                    //  console.log(d.angle);
-                    // }
+                    }
                   })
                   .style('display',function(d,i) {
                     if (d[dragit.time.current].party == 'None') {
@@ -710,135 +519,45 @@
                   .text(function(d,i) {
 
                     if (d[dragit.time.current].party != 'None') {
-                      // var posslist = assigned_angs[d.angle];
                       var person = assigned_angs2[d.angle].splice(0,1)[0];
                       return makeText(person.firstname, person.lastname, person.state, person.type, person.party);
                     }
-                    // return makeText(d[dragit.time.current].firstname, d[dragit.time.current].lastname, d[dragit.time.current].state, d[dragit.time.current].type, d[dragit.time.current].party);
-                   //  var party = partiesprop.getKeyByValue(findVal(d.angle,anglevals));
-
-                   // for (var i=0; i<parties[party].length; i++) {
-                   //    var o = parties[party][i];
-                   //    if (o.done2) { continue; }
-                   //    else {
-                   //      o.done2 = true;
-                   //      return makeText(o.firstname, o.lastname, o.state, o.type, o.party);
-                   //    }
-                   //  }
-                   //  var names = sortObjAlpha(partiesprop);
-                   //  var nextparty = names[names.indexOf(party)+1];
-                   //   while (nextparty) {
-                   //    for (var i=0; i<parties[nextparty].length; i++) {
-                   //      var o = parties[nextparty][i];
-                   //      if (parties[nextparty][i].done2) { continue; }
-                   //      else {
-                   //        parties[nextparty][i].done2s = true;
-                   //        return makeText(o.firstname, o.lastname, o.state, o.type, o.party);
-                   //      }
-                   //    }
-                   //    nextparty = names[names.indexOf(nextparty)+1];
-                   //  }
                   });
+
+                svg.selectAll('#yearlabel').transition().duration(dur).ease('linear')
+                  .text(function(d) {
+                    return sessionyears((parseInt(dragit.time.current)+1));
+                  });
+
+                svg.selectAll('#countlabel').transition().duration(dur).ease('linear')
+                .text(function(d) {
+                  var num = data[(parseInt(dragit.time.current)+1).toString()].length;
+                  // if (num > 535) { num = 535; }
+                  return num;
+                });
+
+                svg.selectAll('.partylabels').remove();
+                svg.selectAll('.partylabelcircles').remove();
+
+                var currentparties = sortObjAlpha(parties);
+
+                makePartyLabels(currentparties);
+
               }
 
-               function init() {
+              function init() {
                 dragit.init("svg");
-                // dragit.data = timecube.map(function(d, i) { 
-                //   return d.map(function(e, i) {
-                //       return [xScale(e.x), yScale(e.y)]; 
-                //   }) 
-                // });
-
                 dragit.data = timecube;
-                
                 dragit.evt.register("update", update);
                 dragit.playback.loop = true;
-                dragit.playback.speed =  dur;
+                dragit.playback.speed =  500;
                 dragit.utils.slider("#slider", true);
+
+                $('#max-time').html("2013");
+                $('#min-time').html("1789");
               }
             
               init();
-
-
-              // svg.selectAll('holla')
-              // .data(x2)
-              // .enter().append('circle')
-              // .attr('r',radius)
-              // .attr('fill','red')
-              // .attr('cx', function(d,i) {
-              //   if (angle <= 181) {
-              //     var ret = center + r*Math.cos(angle*0.0174533);
-              //     angle = angle + div/row;
-              //     return ret;
-              //   } else {
-              //     angle = 0;
-              //     r = r+radius*2+5;
-              //     row = row + 1;
-              //     var ret = center + r*Math.cos(angle*0.0174533);
-              //     angle = angle + div/row;
-              //     return ret;
-              //   }
-              // })
-              // .attr('cy', function(d,i) {
-              //   if (angle2 <= 181) {
-              //     var ret = center - r2*Math.sin(angle2*0.0174533);
-              //     angle2 = angle2 + div/row2;
-              //     return ret;
-              //   } else {
-              //     angle2 = 0;
-              //     r2 = r2+radius*2+5;
-              //     row2 = row2 + 1;
-              //     var ret = center - r2*Math.sin(angle2*0.0174533);
-              //     angle2 = angle2 + div/row2;
-              //     return ret;
-              //   }
-              // });
-
-            // function getNewAngle(a, r) {
-            //   var newa = a + 222.5;
-            //   if (newa <= 180) {
-            //     newr = r + 1
-            //     return [newa,newr];
-            //   } else if (newa > 180 && newa < 360) {
-            //     return getNewAngle(newa, r);
-            //   } else {
-            //     newr = r + 1;
-            //     newa = newa - 360;
-            //     return [newa,newr];
-            //   }
-            // }
-
-            // for (var i=0; i<200; i++) {
-            //   x.push(i);
-            // }
-
-
-            // var r = radius*3;
-            // var angle = 0;
-
-            // var r2 = radius*2+5;
-            // var angle2 = 0;
-            // var center = 400;
-            // var div = radius*10;
-
-            // svg.selectAll('circle')
-            //   .data(x)
-            //   .enter().append('circle')
-            //   .attr('r',radius)
-            //   .attr('cx',function(d,i) {
-            //     var res = getNewAngle(angle, r);
-            //     angle = res[0];
-            //     r = res[1];
-            //     return center + r*Math.cos(angle*0.0174533);
-            //   })
-            //   .attr('cy',function(d,i){
-            //     var res = getNewAngle(angle2, r2);
-            //     angle2 = res[0];
-            //     r2 = res[1];
-            //     return center + r2*Math.sin(angle2*0.0174533);
-            //   });
-
-            //   var x2 = [1,2,3,4,5,6,7];
 
         </script>
     </body>
