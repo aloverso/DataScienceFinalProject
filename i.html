@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>American Congress Info</title>
+    <link href='https://fonts.googleapis.com/css?family=Noto+Serif' rel='stylesheet' type='text/css'>
+    <!-- link rel="stylesheet" href="stylesheets/normalize.css">
+    <link rel="stylesheet" href="stylesheets/skeleton.css">
+     -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+    <link rel="stylesheet" href="stylesheets/custom.css">
+    <meta name="viewport" content="width=device-width">
+
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/topojson.v0.min.js"></script>
+    <script src="d3/nv.d3.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="d3/dragit.js" charset="utf-8"></script>
+    <script src="data.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="./stylesheets/sliders.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#" class="brand-logo">Congress Through Time</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="about.html">About</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+    </nav>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col s4">
+          <h3>Why care about Congress?</h3>
+          <p>In the past five years, just 1 in 5 Americans have approved of the way Congress is handling its role.  We investigate how Congress has changed over time and what trends present itself in these visuals.</p>
+
+          <p>To the right, see how the political landscape has changed since America's founding, and how parties have evolved over the years.</p>
+        </div>
+
+        <div class="col s8">
+          <div id="main"></div>
+          <p style="clear:both"></p>
+          <div id="slider"></div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+
+        <div class="col s4">
+          <h3>Partisanship and Party Unity</h3>
+          <p>This interactive graphic shows the relationship between partisanship and party agreement.  Each circle represents a party, and their fill represents the percentage of agreement between the parties on votes.</p>
+          <p>Playing the visualization though the years shows the user that as the unification goes up, agreement tends to go down.  It serves as a visual cue for the parties ideologically drifting apart, and shows the trend over time.  For example, the most current data (2013) is very partisan, with high unity ratings and a low agreement percentage.</p>
+        </div> 
+
+        <div class="col s8">
+          <div id="maincircles"></div>
+          <p style="clear;both"></p>
+          <div id="slidercircles"></div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+
+        <div class="col s4">
+          <h3>Congressional Incumbency</h3>
+          <p>Here, the coloring of districts represents how long the representative for that district has been in office, with darker colors meaning longer time.  In general, incumbency is linked to voter apathy.  Once a congressperson is elected into office, they do not need to spend as much time and energy trying to be re-elected.  Incumbency tends to increase over time - however, there are pockets of congressional sessions where many incumbents have been ousted, most recently by the Tea Party wing in the 2010 elections.</p>
+        </div> 
+        <div class="col s8">
+          <div class="map"></div>
+          <p style="clear:both"></p>
+          <div id="sliderdistricts"></div>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row">
+
+        <div class="col s4">
+          <h3>Congressional Responsivenesss</h3>
+          <p>Intro text here ALSKfdjlasdj lasdjflajsdlf alsjdf asjdf alsdf lksadf kjasdfaskdjf lsajdflkajsd flsj dflsjad;lfkjasldjflsadf l asd;lfk lsdajf asldkjf lasdf jlasdjf;sa</p>
+        </div> 
+
+        <div class="col s8">
+          svg4
+          <div id="svg4"></div>
+        </div>
+      </div>
+
+    </div>
+      
+    <script src="javascripts/scale.fix.js"></script>
+    <script src="https://d3js.org/d3-queue.v2.min.js"></script>
+    <script src="./javascripts/d3_helpers.js"></script>
+    <script src="./javascripts/districts.js" type="text/javascript"></script>
+    <script src="./javascripts/parties.js" type="text/javascript"></script>
+    <script src="./javascripts/circles.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        circles();
+        parties();
+        // mapVisualization();
+    </script>
+
+    <script type="text/javascript">
+       $('.max-time').each(function(i,e) {
+          $(this).html("2013");
+        });
+        $('.min-time').each(function(i,e) {
+          $(this).html("1789");
+        });
+        </script>
+    
+  </body>
+</html>

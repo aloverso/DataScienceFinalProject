@@ -482,7 +482,7 @@ dragit.object.activate = function(d, i) {
     }
 
     d3.select(el).append("span")
-                 .attr("id", "min-time")
+                 .attr("class", "min-time")
                  .style('margin','10px')
                  .text(dragit.time.min);
 
@@ -499,7 +499,7 @@ dragit.object.activate = function(d, i) {
                   })
 
     d3.select(el).append("span")
-                 .attr("id", "max-time")
+                 .attr("class", "max-time")
                  .style('margin','10px')
                  .text(dragit.time.max);
 
@@ -512,7 +512,7 @@ dragit.object.activate = function(d, i) {
   }
 
   dragit.utils.sliderUpdate = function(el) {
-    d3.select(el).select("#max-time")
+    d3.select(el).select(".max-time")
                  .text(dragit.time.max);
 
     d3.select(el).select(".slider-time")

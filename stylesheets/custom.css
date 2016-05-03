@@ -6,3 +6,23 @@ code {
   font-family: "Consolas", "Inconsolata", "Droid Mono", "Monospace";
   font-size: 12pt;
 }
+
+
+.container {
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.brand-logo {
+	margin-left: 100px;
+	font-family: "Noto Serif";
+}
+
+#nav-mobile {
+	margin-right: 100px;
+}
+
+h2, h3, h4 {
+	font-family: "Noto Serif";
+}
