@@ -159,7 +159,6 @@
               return 1789 + 2*(+session-1);
             }
 
-            
             // colors for parties
             // major parties have colors, all "minor" parties are grey
             var partycolors = {
@@ -293,39 +292,19 @@
             }
 
             // get the party information for a time
-            // parties has party name as key, number of people as value
+            // parties has party name as key, list of people objects as value
             // partiesprop has the angle
             function sortbyparty(t) {
               parties = {}
               for (var i=0; i<data[(parseInt(t)+1).toString()].length; i++) {
                 var o = data[(parseInt(t)+1).toString()][i];
-                o.done = false;
-                o.done2 = false;
                 if (!(o.party in parties)) {
                   parties[o.party] = [];
                 }
                 parties[o.party].push(o);
               }
 
-              var partiessize = {};
-              var tot = 0.0;
-
-              Object.keys(parties).forEach(function(x) {
-                partiessize[x] = parties[x].length;
-                tot += parties[x].length;
-              });
-
-              pssort = sortObjAlpha(partiessize);            
-
-              var partiesprop = {};
-              var prev = 0;
-
-              pssort.forEach(function(x) {
-                partiesprop[x] = partiessize[x]/tot * 180 + prev;
-                prev = partiesprop[x];
-              });
-
-              return [parties, partiesprop];
+              return parties;
             }
 
             function sortObjAlpha(o) {
@@ -338,34 +317,11 @@
               return ret;
             }
 
-            // function countdone(p) {
-            //   var count =0;
-            //   Object.keys(p).forEach(function(x) {
-            //     for (var i=0; i<p[x].length; i++) {
-            //       if (p[x][i].done) { count += 1; }
-            //     }
-            //   });
-            //   return count;
-            // }
-
-            var pinfo = sortbyparty(0);
-            var parties = pinfo[0];
-            var partiesprop = pinfo[1];
-            var anglevals = Object.values(partiesprop).sort();
-            anglevals = anglevals.sort(function(a, b){return a-b});
-
+            var parties = sortbyparty(0);
             var assigned_angs = getPositions(0, parties);
-            var assigned_angs2 = jQuery.extend(true, {}, assigned_angs);
+            var assigned_angs2 = jQuery.extend(true, {}, assigned_angs); // deep clone
 
-            // function findVal(v, vals) {
-            //   for (var i=vals.length-1; i>0; i--) {
-            //     if (v <= vals[i] && v > vals[i-1]) {
-            //       return vals[i];
-            //     }
-            //   }
-            //   return vals[0];
-            // }
-
+            // create circles for each data point on the arc
             svg.selectAll('circle')
               .data(timecube)
               .enter().append('circle')
@@ -388,6 +344,7 @@
                 }
               })
               .attr('cy',function(d,i){
+                // same exact as cx, but new variables and Math.sin
                 if (angle2 <= 181) {
                   var ret = center - r2*Math.sin(angle2*0.0174533);
                   angle2 = angle2 + div/row2;
@@ -407,6 +364,7 @@
                   return partycolors[person.party];
                 }
               })
+              // if None, don't display
               .style('display',function(d,i) {
                 if (d[0].party == 'None') {
                   return 'none';
@@ -414,6 +372,7 @@
                   return 'block';
                 }
               })
+              // make the mouseover text
               .append('title')
               .text(function(d) {
                 if (d[0].party != 'None') {
@@ -421,9 +380,11 @@
                   return makeText(person.firstname, person.lastname, person.state, person.type, person.party);
                 }
               });
-              
+                
+              // list of current parties, alhphabetically sorted
               var currentparties = sortObjAlpha(parties);
 
+              // make large lavel for year
               svg.selectAll('#yearlabel')
                 .data([1])
                 .enter().append('text')
@@ -439,6 +400,7 @@
                 .attr('opacity','.6')
                 .attr('id','yearlabel');
 
+              // make smaller label for number of legislators
               svg.selectAll('#countlabel')
                 .data([1])
                 .enter().append('text')
@@ -455,6 +417,7 @@
                 .attr('opacity','.9')
                 .attr('id','countlabel');
 
+              // makes the legend of what color is what party
               function makePartyLabels(cparties) {
 
                 svg.selectAll('.partylabels')
@@ -492,23 +455,18 @@
 
               makePartyLabels(currentparties);
 
-              
-
+              // update function for dragit
               function update(v, t) {
                 dragit.time.current = v || dragit.time.current;
                 if (dragit.time.current >= 113) {
                   dragit.time.current = 112;
                 }
 
-                var pinfo = sortbyparty(dragit.time.current);
-                var parties = pinfo[0];
-                var partiesprop = pinfo[1];
-                var anglevals = Object.values(partiesprop).sort();
-                anglevals = anglevals.sort(function(a, b){return a-b});
-
+                var parties = sortbyparty(dragit.time.current);
                 var assigned_angs = getPositions(dragit.time.current, parties);
                 var assigned_angs2 = jQuery.extend(true, {}, assigned_angs); // deep copy
 
+                // update the fills of the seat circles
                 svg.selectAll('.datacircles').transition().duration(dur).ease('linear')
                   .attr('fill', function(d,i) {
                     if (d[dragit.time.current].party != 'None') {
@@ -523,6 +481,7 @@
                       return 'block';
                     }
                   })
+                // update the mouseover texts
                 svg.selectAll('title').transition().duration(dur).ease('linear')
                   .text(function(d,i) {
 
@@ -532,11 +491,13 @@
                     }
                   });
 
+                // update the year
                 svg.selectAll('#yearlabel').transition().duration(dur).ease('linear')
                   .text(function(d) {
                     return sessionyears((parseInt(dragit.time.current)+1));
                   });
 
+                // update the legislator count
                 svg.selectAll('#countlabel').transition().duration(dur).ease('linear')
                 .text(function(d) {
                   var num = data[(parseInt(dragit.time.current)+1).toString()].length;
@@ -544,6 +505,7 @@
                   return num;
                 });
 
+                // remove all the legend labels and remake
                 svg.selectAll('.partylabels').remove();
                 svg.selectAll('.partylabelcircles').remove();
 
@@ -553,6 +515,7 @@
 
               }
 
+              // initialize for dragit
               function init() {
                 dragit.init("svg");
                 dragit.data = timecube;
@@ -561,8 +524,9 @@
                 dragit.playback.speed =  500;
                 dragit.utils.slider("#slider", true);
 
-                $('#max-time').html("2013");
-                $('#min-time').html("1789");
+                // make the slider show years not sessions
+                d3.select('#max-time').html("2013");
+                d3.select('#min-time').html("1789");
               }
             
               init();

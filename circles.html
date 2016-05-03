@@ -139,16 +139,15 @@
         
         <script type="text/javascript">
 
+          // TIMECUBEDATA is the data source for this visualization
           $.getJSON('https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/timecubedata.json', function(json) {
 
+            // get the starting year of a session
             function sessionyears(session) {
               return 1789 + 2*(+session-1);
             }
 
-            // var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
-
-            var numparties = {"1": 4, "2": 4, "3": 2, "4": 2, "5": 2, "6": 2, "7": 2, "8": 2, "9": 2, "10": 3, "11": 3, "12": 3, "13": 3, "14": 3, "15": 4, "16": 5, "17": 5, "18": 4, "19": 4, "20": 4, "21": 3, "22": 5, "23": 5, "24": 3, "25": 2, "26": 2, "27": 2, "28": 2, "29": 2, "30": 2, "31": 3, "32": 3, "33": 4, "34": 4, "35": 2, "36": 2, "37": 3, "38": 2, "39": 2, "40": 2, "41": 2, "42": 2, "43": 2, "44": 2, "45": 2, "46": 2, "47": 2, "48": 2, "49": 2, "50": 2, "51": 2, "52": 2, "53": 2, "54": 2, "55": 3, "56": 2, "57": 2, "58": 2, "59": 2, "60": 2, "61": 2, "62": 2, "63": 2, "64": 2, "65": 2, "66": 2, "67": 2, "68": 2, "69": 2, "70": 2, "71": 2, "72": 2, "73": 2, "74": 2, "75": 2, "76": 2, "77": 2, "78": 2, "79": 2, "80": 2, "81": 2, "82": 2, "83": 2, "84": 2, "85": 2, "86": 2, "87": 2, "88": 2, "89": 2, "90": 2, "91": 2, "92": 2, "93": 2, "94": 2, "95": 2, "96": 2, "97": 2, "98": 2, "99": 2, "100": 2, "101": 2, "102": 2, "103": 2, "104": 2, "105": 2, "106": 2, "107": 2, "108": 2, "109": 2, "110": 2, "111": 2, "112": 2, "113": 2}
-
+            // map parties to colors
             var partycolors = {
               "Adams":"rgba(175,105,51,.6)",
               "American":"rgba(116,18,79,.6)",
@@ -167,94 +166,7 @@
               "None":"rgba(0,0,0,0)"
             }
 
-            var w = $(window).width()-50;
-            var h = $(window).height()-50;
-
-            // d3.select("svg").remove();
-
-           //  var svg = d3.select("#main")
-           //              .append("svg")
-           //              .attr("width", w)
-           //              .attr("height", h);
-
-           //  var dataset = [ {
-           //      "party": "Democrat",
-           //      "vals" : {
-           //          "num" : 260,
-           //          "unification": 0.7,
-           //          "majority": 0.13
-           //      }
-           //  },
-           //  {
-           //      "party": "Republican",
-           //      "vals" : {
-           //          "num" : 286,
-           //          "unification": 0.71,
-           //          "majority": 0.13
-           //      }
-           //  } ];
-
-           //  var dist = dataset[0].vals.num/2 + dataset[1].vals.num/2;
-
           
-
-
-           //  var circles = svg.selectAll("circle")
-           //      .data(dataset)
-           //      .enter()
-           //      .append("circle");
-           //  circles.attr("cx", function(d, i) {
-           //      if (i==0) {
-           //          return 200;
-           //      }
-           //      else {
-           //          return 200 + (1-d.vals.majority)*dist;
-           //      }
-           //  })
-           // .attr("cy", h/2)
-           // .attr("r", function(d) {
-           //      return d.vals.num/2;
-           // })
-           // .attr("fill", function(d) {
-           //      if (d.party === "Democrat")
-           //      {
-           //          return "rgba(0,0,100,.6)";
-           //      }
-           //      else {
-           //          return "rgba(100,0,0,.6)";
-           //      }
-           // });
-
-           // var circles = svg.selectAll(".circle2")
-           //      .data(dataset)
-           //      .enter()
-           //      .append("circle");
-           //  circles.attr("cx", function(d, i) {
-           //      if (i==0) {
-           //          return 200;
-           //      }
-           //      else {
-           //          return 200 + (1-d.vals.majority)*dist;
-           //      }
-           //  })
-           // .attr("cy", h/2)
-           // .attr("r", function(d) {
-           //      return d.vals.num/2;
-           // })
-           // .attr("fill", function(d,i) {
-           //      return "url(#grad"+i+")";
-           //  });
-
-          // var m = 0;
-          // for (var i=1; i<114; i++) {
-          //   if (json[i].length > m) {
-          //     m = json[i].length;
-          //   }
-          // }
-          // console.log(m);
-          
-           //DRAGIT
-
            var margin = {top: 20, right: 20, bottom: 100, left: 20},
                 width = $(window).width() - margin.right - margin.left,
                 height = $(window).height() - margin.top - margin.bottom;
@@ -264,12 +176,10 @@
 
             dragit.time = {min: 0, max: 113, step: 1, current: 1};
             
-            dragit.time.current = 1;
+            dragit.time.current = 0;
             
             var timecube = d3.range(nb_points).map(function(d, i) {
                     return d3.range(dragit.time.max).map(function(e, j) { 
-                        //console.log(e);
-                        // console.log(i);
                         if (i < json[e+1].length) {
                           var vals = json[e+1][i]['vals'];
                           return {'party':json[e+1][i]['party'], 't': j, 'num': vals.num, 'unification': vals.unification, 'majority':vals.majority};
@@ -281,35 +191,23 @@
                 });
             })
 
-            // console.log(timecube);  
+            var radius = 180; // radius of 2 major parties circles
+            var sradius = 50; // radius of smaller parties circles
+            var dur = 500; // duration of transition
 
-
-            var radius = 180;
-            var sradius = 50;
-            var dur = 500;
             //var dist = json["1"][0].vals.num + json["1"][1].vals.num;
-            var dist = radius*2;
-            console.log(dist);
+            var dist = radius*2; // distance between centers (initial)
 
-            var s = sradius + 20;
-            var lx = 2*s + radius*2 + 100;
-            var ly = h/2;
+            var s = sradius + 20; // x and y of smaller circles
+            var lx = 2*s + radius*2 + 100; // x coordinate, center of larger circles
+            var ly = 800/2; // y coordinate, larger circles
 
-            // var xScale = d3.scale.linear().domain([0, dragit.time.max]).range([margin.left, width]);
-           
-            // var yScale = d3.scale.linear()
-            //     .domain([0, d3.max(timecube, function(d) { 
-            //         return d3.max(d, function(e) { 
-            //             return e.y; 
-            //             });
-            //         })
-            //     ])
-            //     .range([margin.top, height]);
-
+            // create svg
             var svg = d3.select("#main")
                 .append("svg")
                 .attr({width: width, height: height})
 
+            // lg are the linear gradients that define the fill percent of the circles
             var grad = svg.append("defs")
               .selectAll("lg")
               .data(timecube).enter().append("linearGradient")
@@ -335,6 +233,7 @@
                   }
               });
 
+            // lg2 are linear gradients that are always 100%, define background color of circles
             var grad2 = svg.select("defs")
               .selectAll("lg2")
               .data(timecube).enter().append("linearGradient")
@@ -358,11 +257,13 @@
                   }
               });
 
+            // if the fill isn't 100% it needs to have a stop component
             svg.select("defs").selectAll(".lg")
                 .append("stop")
                 .attr("offset", "0%")
                 .style("stop-color", "rgba(0, 0, 0, 0.0)");
 
+            // "points" are the actual background circles themselves
             var gPoints = svg.selectAll(".points")
                 .data(timecube)
                 .enter()
@@ -378,9 +279,6 @@
                       return "url(#grad2"+i+")";
                   })
                 .attr('cx', function(d,i) {
-                  // console.log('holla');
-                  // console.log(d[0].majority);
-                  // console.log(i)
                   if (i===0) {
                     return lx - (1-d[0].majority)*dist/2;;
                   }
@@ -400,17 +298,14 @@
                   }
                 })
                 .style('opacity',.5)
-                // .attr("transform", function(d) {
-                //     return "translate("+xScale(d[dragit.time.current].x)+", "+yScale(d[dragit.time.current].y)+")";
-                // })
                 .attr("class", "points");
 
+                // fillcircle is the fill of the circle, party unification measure
                  var circles = svg.selectAll(".fillcircle")
                     .data(timecube)
                     .enter()
                     .append("circle");
                 circles.attr('cx', function(d,i) {
-                    // console.log('holla');
                     if (i===0) {
                     return lx - (1-d[0].majority)*dist/2;;
                     }
@@ -440,6 +335,7 @@
                   })
                  .attr('class','fillcircle');
 
+            // large label of what year it is
             svg.selectAll('#yearlabel')
               .data([1])
               .enter().append('text')
@@ -455,6 +351,7 @@
               .attr('opacity','.6')
               .attr('id','yearlabel');
 
+            // label the names of the parties
             svg.selectAll('.partylabels')
               .data(timecube)
               .enter().append('text')
@@ -502,26 +399,20 @@
               .attr('opacity','.8')
               .attr('class','partylabel');
 
-            // gPoints.append("circle")
-            //     .attr('r',10)
-            //     .attr('fill','blue')
-            //     .attr('x', function(d,i) {
-            //       console.log('holla');
-            //       console.log(d[0]);
-            //       console.log(i)
-            //       return 100+100*i;
-            //     })
-            //     .attr('y', 100);
-
+            // update function for dragit
             function update(v, t) {
                 dragit.time.current = v || dragit.time.current;
                 console.log(dragit.time.current);
                 if (dragit.time.current >= 113) {
                   dragit.time.current = 112;
                 }
+
+                    var time = parseInt(dragit.time.current) + 1;
                     dist = radius*2;
 
                     // dist = json[dragit.time.current+1][0].vals.num + json[dragit.time.current+1][1].vals.num;
+
+                    // update the x coordinates of the circles based on majority agreement
                     svg.selectAll('.fillcircle').transition().duration(dur).ease('linear')
                       // .attr('r',function(d) {
                       //     //console.log(d[dragit.time.current].num);
@@ -529,20 +420,21 @@
                       // })
                       .attr('cx', function(d,i) {
                         if (i===0) {
-                          return lx - (1-d[dragit.time.current].majority)*dist/2;;
+                          return lx - (1-d[time].majority)*dist/2;;
                         }
                         else if (i===1) {
-                            return lx + (1-d[dragit.time.current].majority)*dist/2;
+                            return lx + (1-d[time].majority)*dist/2;
                         }
                         else {
                           return s;
                         }
                       })
+                      // hide all circles that aren't for this party list
                       .each('end', function() {
                          d3.select(this)
                          .transition()
                          .style('display', function(d) {
-                          if (d[dragit.time.current].party === 'None') {
+                          if (d[time].party === 'None') {
                             return "none";
                           }
                           else {
@@ -551,122 +443,85 @@
                           });
                        });
 
-
+                    // update x coor of circles backgrounds in the same way
                     svg.selectAll('.points')
                       .transition().duration(dur).ease('linear')
                        .attr('cx', function(d,i) {
-                        //console.log(d[dragit.time.current]);
                         if (i===0) { 
-                          //console.log(400 - (1-d[dragit.time.current].majority)*dist/2);
-                          return lx - (1-d[dragit.time.current].majority)*dist/2;;
+                          return lx - (1-d[time].majority)*dist/2;;
                         }
                         else if (i===1) {
-                          return lx + (1-d[dragit.time.current].majority)*dist/2;
+                          return lx + (1-d[time].majority)*dist/2;
                         }
                         else {
                           return s;
                         }
                       })
-                       // .style('stroke',function(d,i) {
-                       //    if (i<2) {
-                       //      return partycolors[d[dragit.time.current].party];
-                       //    } else {
-                       //      return 'rgba(0,0,0,0)';
-                       //    }
-                       // })
-                       // .style('stroke-width',function(d,i) {
-                       //  if (i<2) {
-                       //    if (i===0 && json[dragit.time.current][i].vals.num > json[dragit.time.current][1].vals.num) {
-                       //      return '10px';
-                       //    } else if (i===1 && json[dragit.time.current][i].vals.num > json[dragit.time.current][0].vals.num)
-                       //    return '10px';
-                       //  } else {
-                       //    return '0px';
-                       //  }
-                       // })
+                      .style('stroke',function(d,i) {
+                          if (i<2) {
+                            return partycolors[d[dragit.time.current].party];
+                          } else {
+                            return 'rgba(0,0,0,0)';
+                          }
+                       })
+                       .style('stroke-width',function(d,i) {
+                        if (i<2) {
+                          if (i===0 && json[dragit.time.current][i].vals.num > json[dragit.time.current][1].vals.num) {
+                            return '10px';
+                          } else if (i===1 && json[dragit.time.current][i].vals.num > json[dragit.time.current][0].vals.num)
+                          return '10px';
+                        } else {
+                          return '0px';
+                        }
+                       })
                        .each('end', function() {
                          d3.select(this)
                          .transition()
                          .style('display', function(d) {
-                          if (d[dragit.time.current].party === 'None') {
+                          if (d[time].party === 'None') {
                             return "none";
                           }
                           else {
                             return 'block';
                           }
                           });
-                       });
-                       // .each('end', function() {
-                    //     d3.select(this)
-                    //     .transition()
-
-                    //    })
-                    //    .transition().duration(1)
-                    //   .attr('fill', function(d) {
-                    //     console.log(partycolors[d[dragit.time.current].party]);
-                    //     return partycolors[d[dragit.time.current].party];
-                    // });
-                    
+                       });                    
 
                     // UPDATE THE LINEAR GRADIENT
                     svg.selectAll('.realstop').transition().duration(dur).ease('linear')
                       .attr("offset", function(d) {
-                        return (100*d[dragit.time.current].unification)+"%";
+                        return (100*d[time].unification)+"%";
                       })
                       .style("stop-color", function(d) {
-                          return partycolors[d[dragit.time.current].party];
+                          return partycolors[d[time].party];
                       });
 
+                    // change background color for new parties
                     svg.selectAll('.backcolor').transition().duration(dur).ease('linear')
                       .style("stop-color", function(d) {
-                          return partycolors[d[dragit.time.current].party];
+                          return partycolors[d[time].party];
                       });
 
+                      // update year label
                       svg.selectAll('#yearlabel').transition().duration(dur).ease('linear')
                       .text(function(d) {
-                        return sessionyears((parseInt(dragit.time.current)+1));
+                        return sessionyears(time);
                       });
 
+                      // update parties labels
                       svg.selectAll('.partylabel').transition().duration(dur).ease('linear')
                         .text(function(d,i) {
-                          if (d[dragit.time.current].party != 'None') {
-                            return d[dragit.time.current].party;
+                          if (d[time].party != 'None') {
+                            return d[time].party;
                             } else {
                               return '';
                             }
                           });
-
-
-                    // UPDATE THE FILL CIRCLE BASED ON LINEAR GRADIENT
-                    // svg.selectAll('.circle2')
-                    // .attr("fill", function(d,i) {
-                      
-                    //   return "url(#grad"+i+")";
-                    // });
-
-                    // d3.selectAll('.label')
-                    // .data(timecube)
-                    // .html(function(d) {
-                    //   //console.log(d[dragit.time.current]);
-                    //   return d[dragit.time.current].party;
-                    // });
-                    //  d3.select('#year')
-                    //   .data(timecube)
-                    //   .html(function(d) {
-                    //     console.log((parseInt(dragit.time.current)+1).toString());
-
-                    //     return sessionyears[(parseInt(dragit.time.current)+1).toString()];
-                    //   });
             }
 
+            // initialize for dragit
             function init() {
               dragit.init("svg");
-              // dragit.data = timecube.map(function(d, i) { 
-              //   return d.map(function(e, i) {
-              //       return [xScale(e.x), yScale(e.y)]; 
-              //   }) 
-              // });
-
               dragit.data = timecube;
               
               dragit.evt.register("update", update);
@@ -674,8 +529,9 @@
               dragit.playback.speed =  dur;
               dragit.utils.slider("#slider", true);
 
-              $('#max-time').html("2013");
-              $('#min-time').html("1789");
+              // change the bounds on slider to years, not sessions
+              d3.select('#max-time').html("2013");
+              d3.select('#min-time').html("1789");
             }
             
             init();
