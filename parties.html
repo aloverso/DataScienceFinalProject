@@ -141,8 +141,10 @@
         
         <script type="text/javascript">
 
+          // get values list of an object
           Object.values = obj => Object.keys(obj).map(key => obj[key]);
 
+          // given a value in an object, get the corresponding key
           Object.prototype.getKeyByValue = function( value ) {
             for( var prop in this ) {
               if( this.hasOwnProperty( prop ) ) {
@@ -152,14 +154,14 @@
             }
           }
 
-            // var sessionyears = {'24': 1835, '25': 1837, '26': 1839, '27': 1841, '20': 1827, '21': 1829, '22': 1831, '23': 1833, '28': 1843, '29': 1845, '4': 1795, '8': 1803, '59': 1905, '58': 1903, '55': 1897, '54': 1895, '57': 1901, '56': 1899, '51': 1889, '50': 1887, '53': 1893, '52': 1891, '88': 1963, '89': 1965, '111': 2009, '110': 2007, '113': 2013, '112': 2011, '82': 1951, '83': 1953, '80': 1947, '81': 1949, '86': 1959, '87': 1961, '84': 1955, '85': 1957, '3': 1793, '7': 1801, '108': 2003, '109': 2005, '102': 1991, '103': 1993, '100': 1987, '101': 1989, '106': 1999, '107': 2001, '104': 1995, '105': 1997, '39': 1865, '38': 1863, '33': 1853, '32': 1851, '31': 1849, '30': 1847, '37': 1861, '36': 1859, '35': 1857, '34': 1855, '60': 1907, '61': 1909, '62': 1911, '63': 1913, '64': 1915, '65': 1917, '66': 1919, '67': 1921, '68': 1923, '69': 1925, '2': 1791, '6': 1799, '99': 1985, '98': 1983, '91': 1969, '90': 1967, '93': 1973, '92': 1971, '95': 1977, '94': 1975, '97': 1981, '96': 1979, '11': 1809, '10': 1807, '13': 1813, '12': 1811, '15': 1817, '14': 1815, '17': 1821, '16': 1819, '19': 1825, '18': 1823, '48': 1883, '49': 1885, '46': 1879, '47': 1881, '44': 1875, '45': 1877, '42': 1871, '43': 1873, '40': 1867, '41': 1869, '1': 1789, '5': 1797, '9': 1805, '77': 1941, '76': 1939, '75': 1937, '74': 1935, '73': 1933, '72': 1931, '71': 1929, '70': 1927, '79': 1945, '78': 1943};
-
+            // get the starting year for a session
             function sessionyears(session) {
               return 1789 + 2*(+session-1);
             }
 
-            var numparties = {"1": 4, "2": 4, "3": 2, "4": 2, "5": 2, "6": 2, "7": 2, "8": 2, "9": 2, "10": 3, "11": 3, "12": 3, "13": 3, "14": 3, "15": 4, "16": 5, "17": 5, "18": 4, "19": 4, "20": 4, "21": 3, "22": 5, "23": 5, "24": 3, "25": 2, "26": 2, "27": 2, "28": 2, "29": 2, "30": 2, "31": 3, "32": 3, "33": 4, "34": 4, "35": 2, "36": 2, "37": 3, "38": 2, "39": 2, "40": 2, "41": 2, "42": 2, "43": 2, "44": 2, "45": 2, "46": 2, "47": 2, "48": 2, "49": 2, "50": 2, "51": 2, "52": 2, "53": 2, "54": 2, "55": 3, "56": 2, "57": 2, "58": 2, "59": 2, "60": 2, "61": 2, "62": 2, "63": 2, "64": 2, "65": 2, "66": 2, "67": 2, "68": 2, "69": 2, "70": 2, "71": 2, "72": 2, "73": 2, "74": 2, "75": 2, "76": 2, "77": 2, "78": 2, "79": 2, "80": 2, "81": 2, "82": 2, "83": 2, "84": 2, "85": 2, "86": 2, "87": 2, "88": 2, "89": 2, "90": 2, "91": 2, "92": 2, "93": 2, "94": 2, "95": 2, "96": 2, "97": 2, "98": 2, "99": 2, "100": 2, "101": 2, "102": 2, "103": 2, "104": 2, "105": 2, "106": 2, "107": 2, "108": 2, "109": 2, "110": 2, "111": 2, "112": 2, "113": 2}
-
+            
+            // colors for parties
+            // major parties have colors, all "minor" parties are grey
             var partycolors = {
               "Adams":"rgba(175,105,51,.8)",
               "American":"rgba(116,18,79,.8)",
@@ -185,7 +187,6 @@
               width = $(window).width() - margin.right - margin.left,
               height = $(window).height() - margin.top - margin.bottom;
 
-            
             var nb_points = 550; // max number
 
             dragit.time = {min: 0, max: 113, step: 1, current: 1};
@@ -204,24 +205,26 @@
                 });
             })
 
-            var radius = 10;
-            var starter = 4;
+            var radius = 10; // radius of the seat circles
+            var starter = 4; // which row to start on, makes it an arc instead of half-circle
 
-            var r = (radius*2+5)*starter;
-            var row = starter;
-            var angle = 0;
-            var r2 = (radius*2+5)*starter;
+            var r = (radius*2+5)*starter; // radius from center of arc
+            var row = starter; // row number
+            var angle = 0; // angle from x-axis, in degrees
+            var r2 = (radius*2+5)*starter; // all the same, need two of each var
             var row2 = starter;
             var angle2 = 0;
 
-            var center = 640;
-            var div = 60;
-            var dur = 1;
+            var center = 640; // (x,y) of the arc
+            var div = 60; // keep this the same, empirically determined. gets next angle for row
+            var dur = 1; // duration of transitions (keep same)
 
+            // make svg
             var svg = d3.select("#main")
                 .append("svg")
                 .attr({width: width, height: height})
 
+            // formats a string for the descriptor of a legislator
             function makeText(fn,ln,st,type,pt) {
               if (pt == "Democrat") { pt = "D"}
               if (pt == "Republican") { pt = "R"}
@@ -243,12 +246,15 @@
               return [].concat.apply([], masterlist); // flatten list
             }
 
+            // given a time and the parties
+            // cycles through and finds the angles of all seats
+            // sorts them and assigns sorted angles to party members alphabetically
             function getPositions(t, parties) {
-              var rad = (radius*2+5)*starter;
+              var rad = (radius*2+5)*starter; // same as above, need own variables
               var rown = starter;
               var ang = 0;
 
-              var angs = [];
+              var angs = []; // list of all angles of seats
 
               var num = data[(parseInt(t)+1).toString()].length;
               console.log(num);
@@ -272,8 +278,7 @@
               // sort angles
               angs = angs.sort(function(a, b){return a-b});
 
-              assigned_angs = {};
-              // lists of people for an angle
+              assigned_angs = {}; // lists of people for an angle
 
               all_people = flattenParties(parties);
 
@@ -287,6 +292,9 @@
               return assigned_angs;
             }
 
+            // get the party information for a time
+            // parties has party name as key, number of people as value
+            // partiesprop has the angle
             function sortbyparty(t) {
               parties = {}
               for (var i=0; i<data[(parseInt(t)+1).toString()].length; i++) {
