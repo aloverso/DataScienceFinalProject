@@ -446,7 +446,7 @@ dragit.object.activate = function(d, i) {
 
     if(!dragit.playback.playing) {
       dragit.playback.playing = true;
-      d3.select(vars.playback.el).select("button").text("| |").attr("class", "playing")
+      d3.select(vars.playback.el).select("button").text("| |").attr("class", "playing").style('font-weight','bold')
 
       if(dragit.time.current==dragit.time.max)
         dragit.time.current;
@@ -468,7 +468,8 @@ dragit.object.activate = function(d, i) {
 
     if(play_button) {
       d3.select(el).append("button")
-                   .style({"height": "25px", "width": "25px"})
+                   .style({"height": "25px", "width": "30px"})
+                   .style('margin','10px')
                    .text("▶")
                    .attr("class", "stop")
                    .on("click", function() {
@@ -482,6 +483,7 @@ dragit.object.activate = function(d, i) {
 
     d3.select(el).append("span")
                  .attr("id", "min-time")
+                 .style('margin','10px')
                  .text(dragit.time.min);
 
     d3.select(el).append("input")
@@ -489,7 +491,7 @@ dragit.object.activate = function(d, i) {
                   .attr("class", "slider-time")
                   .property("min", dragit.time.min)
                   .property("max", dragit.time.max)
-                //  .attr("step", 1)
+                 .attr("step", 1)
                   .on("input", function() {
                     dragit.time.previous = dragit.time.current;
                     dragit.time.current = parseInt(this.value)-dragit.time.min;
@@ -498,6 +500,7 @@ dragit.object.activate = function(d, i) {
 
     d3.select(el).append("span")
                  .attr("id", "max-time")
+                 .style('margin','10px')
                  .text(dragit.time.max);
 
     d3.select(".slider-time").property("value", dragit.time.current+dragit.time.min)
