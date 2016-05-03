@@ -1,7 +1,7 @@
 var queue = d3_queue.queue;
 
-var colors = ["#fcfbfd","#efedf5","#dadaeb","#bcbddc","#9e9ac8","#807dba","#6a51a3","#54278f","#3f007d"];
-var buckets = 9;
+//var colors = ["#fcfbfd","#efedf5","#dadaeb","#bcbddc","#9e9ac8","#807dba","#6a51a3","#54278f","#3f007d"];
+//var buckets = 9;
 
 function highlight(state, dist, nameIncs) {
   if (nameIncs == "undefined")

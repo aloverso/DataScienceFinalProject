@@ -1,6 +1,7 @@
 var circles = function () {
   // TIMECUBEDATA is the data source for this visualization
-  $.getJSON('https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/timecubedata.json', function(json) {
+  //$.getJSON('https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/timecubedata.json', function(json) {
+  queue().defer(d3.json, 'https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/master/timecubedata.json').await( function (err, json) {
 
     // get the starting year of a session
     function sessionyears(session) {
