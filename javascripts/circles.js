@@ -37,7 +37,7 @@ var circles = function () {
 
     dragit.time = {min: 0, max: 113, step: 1, current: 1};
     
-    dragit.time.current = 112;
+    dragit.time.current = 0;
     
     var timecube = d3.range(nb_points).map(function(d, i) {
             return d3.range(dragit.time.max).map(function(e, j) { 

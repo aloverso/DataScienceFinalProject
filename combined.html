@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
+        <!--<meta charset="utf-8">-->
         <title>Combined visualizations</title>
         <link href="d3/nv.d3.css" rel="stylesheet">
         <script src="data.js"></script>
@@ -16,10 +16,8 @@
         <div id="main"></div>
         <p style="clear:both"></p>
         <div id="slider"></div>
-        
-        <div class="map"></div>
-        <p style="clear:both"></p>
-        <div id="sliderdistricts"></div>
+      
+        <iframe src="./districts.html" width="800" height="1000" frameBorder="0"></iframe>
         
         <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
         <script src="http://d3js.org/topojson.v0.min.js"></script>
@@ -32,7 +30,6 @@
         <script src="./javascripts/parties.js" type="text/javascript"></script>
         <script src="./javascripts/circles.js" type="text/javascript"></script>
         <script type="text/javascript">
-            mapVisualization();
             circles();
             parties();
         </script>

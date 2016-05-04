@@ -20,14 +20,18 @@ var mapVisualization = function() {
 
   var g = svg.append("g");
   
-  queue()
+  //d3.json(fieldSeparator, "text/plain; charset=ISO-8859-1");
+  
+  /*queue()
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts001.json")
     .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/reps-by-district.json")
-    .await(ready);
+    .await(ready);*/
   
   var maxOfficeTime = 0;
   
-  function ready (error, counties, names) {
+  //function ready (error, counties, names) {
+  d3.json("https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts001.json", function(error, counties) {
+    d3.json("https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/reps-by-district.json", function(err2, names) {
     var nb_points = 50; // max number
 
     dragit.time = {min: 0, max: 113, step: 1, current: 1};
@@ -126,9 +130,9 @@ var mapVisualization = function() {
       var p2 = "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts"+pad(prev1,3)+".json";
       var p = "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts"+t+".json";
 
-      //d3.json(p, function(error, json) {
+      d3.json(p, function(error, json) {
       //queue().defer(d3.json, p).await( function (err, json) {
-      $.getJSON(p, function(json) {
+      //$.getJSON(p, function(json) {
       
           if (error) return console.warn(error);
           var districts = topojson.object(json, json.objects.out).geometries;
@@ -218,5 +222,5 @@ var mapVisualization = function() {
     }
   
     init();
-  }
+  }); });
 }
