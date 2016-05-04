@@ -31,22 +31,27 @@
         margin-right: 100px;
       }
 
-      h2, h3, h4 {
+      h2, h3, h4,h5 {
         font-family: "Noto Serif";
       }
 
-      .active {
-        border-width: 3px;
-        border-left: #aaaaaa;
-        border-right: #ffffff;
-        border-top: #aaaaaa;
-        border-bottom: #aaaaaa;
-        border-style: solid;
+      .about {
+        background: #eeeeee;
+        padding: 20px;
       }
 
-      .post {
-        margin: 10px;
+      .bio {
+        background: #fff;
         padding: 20px;
+        margin: 20px;
+        border-radius: 10px;
+      }
+
+      .pic {
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
       }
 
     </style>
@@ -67,160 +72,85 @@
 
     <div class="container">
       <div class="row">
-        <div class="col s3">
+        <div class="row">
+          <div class="col s9">
+            <h4>Introduction</h4>
+            <p>This project was created by three Olin Students for the <a href="https://sites.google.com/site/datascience16/">Spring 2016 Data Science course</a> taught by Paul Ruvolo.  We decided to analyze Congress over time because of the important role Congress plays in legislative functions, and understanding how it has chnaged.  We want our data to be accessible to everyone because statistics indicate fewer than one in five Americans approve of Congress.  We hope that more information can lead to more interest and informed decisions about voting for Congresspeople.</p>
 
-          <div class="post active" id="post1">
-            <h3>Visual Progress</h3>
-            <h5>22 April 2016</h5>
+           
+            <h4>Data</h4>
+            <p>All of our data came from <a href="https://www.govtrack.us/">GovTrack</a>, a site that provides free analytics and data on the US Congress.  We downloaded over 100GB of data from their free servers, in the form of individual JSON files pertaining to a single vote within a session of a legislative branch.  We used Python to parse the data and compile it into a single CSV file for each session of Congress.</p>
+
+            <p>All the data we used for this project can be found in <a href="https://github.com/dinopants174/DataScienceFinalProject">our GitHub repo</a>.  It is licensed free and open source under the GNU General Public License, and we encourage visitors to use the data as they see fit to continue the spirit of the project.
+
+            <p>The data exists in comma-separated value (CSV) format.  We have 226 CSV files, one for each branch of Congress for each of its 113 sessions.  The 114th session of Congress was in term at the time of creation of this project, so we chose not to include it for incomplete data.  The files are named <code>[session][branch].csv</code> where [session] is the session number, 1-113, and [branch] is the branch of Congress, either "house" or "senate".  Additionally, we created a <code>legislators.csv</code> file which contains a row for each legislator and columns of information about them.</p>
+
+            <p>Within the CSV files, each row pertains to a vote taken during that session.  These are reduced to votes we decided were important and relevant to this project: votes on bills, amendments, or passages.  Other types of votes, such as nominations, were not included because we decided they were not relevant to our goals.</p>
+
+            <p>The columns in the CSV files are as follows:
+              <ul>
+                <li><b>Legislator IDS</b>: These cross-reference to the "vote_id" column of the <code>legislators.csv</code>, and is a unique ID identifying that legislator.  The contents of this column are the legislator's vote: either "Yea", "Nay", "Not Voting", or NaN if no data exists.</li>
+                <li><b>date</b>: The date of the vote</li>
+                <li><b>isAmendment</b>: A boolean value indicating whether the vote is an amendment</li>
+                <li><b>requires</b>: The votes required to pass - most are simple majority, some are two-thirds</li>
+                <li><b>result</b>: Text indicating whether the vote passed</li>
+                <li><b>title</b>: Title of the bill in numerical format</li>
+                <li><b>Subjects</b>: These columns are all subjects of bills present in that session, and the contents are boolean values indicating whether a bill pertained to a subject.  This data only exists in the 93rd session and later.</li>
+                <li><b>billTitle</b>: A short title, if it exists</li>
+                <li><b>committee</b>: The bill's committe of origin, if applicable, else NaN</li>
+                <li><b>officialTitle</b>: The official title of the bill</li>
+                <li><b>sponsor</b>: The bill's sponsor, if known</li>
+
+              </ul>
+            </p>
+
+            <h4>Code</h4>
+            <p>The data processing for this project was done in Python, primarily using the <code>pandas</code> package.  The frontend visualization was done using <a href="https://d3js.org/">d3</a> with JavaScript.</p>
+
+            <p>We also wish to include some notes about how the visualizations were created:</p>
+
+            <h5>Party Evolution</h5>
+            <p>This graphic shows the changing political landscape of Congress through political party membership.  The seats of the combined house and senate are displayed in an arc mimicing the seating at the State of the Union address.  The seats are grouped and colored according to party, and mousing over a seat will tell the viewer specific information about that legislator.  All non-major parties are colored grey, due to the overwhelming number of non-major parties.  We defined a non-major party for a session of Congress as one whose party membership does not exceed 5% of the total Congressional session.</p>
+
+            <h5>Partisanship and Party Agreement</h5>
+            <p>This visual shows how party agreement and unification changes with time.  The circles represent a party, and their fill shows how unified the party was during that session of Congress.  We measured party unification by considering how every member of the party votes on all votes in that session.  The unification is the percentage of times in which 90% or more of the party voted the same way.  Additionally, the overlap of the circles represents agreement between parties.  We measured this by creating the "average" member of each party, who votes with the majority of their party on each vote.  The party agreement is the number of times the average member of the parties would vote the same way.  This graphic focuses on the two largest parties in any given session, but includes the unification metric of all other major parties present in that session, where the definition of a major party is given above.</p>
+
+
+
           </div>
-
-          <div class="post" id="post2">
-            <h3>How We Obtained Data</h3>
-            <h5>4 April 2016</h5>
-          </div>
-        </div>
-
-        <div id="text1" class="col s9">
-          <p>We've spent this sprint working on generating summative graphics that will show interesting features about Congress over spans of time. We settled on six main visualizations that we were excited about producing, that we think will show interesting results, and that we can produce with our data.</p>
-        <ul>
-          <li>compare difference in average party member (Anne)</li>
-          <li>incumbency over time (Pratool)</li>
-          <li>party evolution (Zoher)</li>
-          <li>congressional efficacy (Pratool)</li>
-          <li>partisanship over time (Anne)</li>
-          <li>count by subject (Zoher)</li>
-        </ul>
-        <p>We've made varying levels of progress on these, and will talk in depth about the ones we've advanced furthest with.</p>
-        <p><b>Partisanship</b><br></p>
-          
-          <p>The two measures we decided to track are partisanship between multiple parties, and within a single party (called "unification").  To find this, we looped through each session of congress and created a list, one element for each vote that took place in both the house and senate in that congress.  The elements were a dictionary containing the name of a party and the number of people in that party who voted Yea and Nay on that bill.  For example:</p>
-        
-          <code>[{"Republican":[90,10], "Democrat":[5,95]}, ....]</code><br><br>
-        
-        <p>This example list shows that for the first vote in this session of Congress, 90 Republicans voted in favor and 10 voted against, whereas 5 Democrats voted in favor and 95 voted against.  This list would contain all "major" parties present in that session of congress - a distinction we bestow if at least 5% of legislators belonged to that party.</p>
-
-<p>From there, we we were able to create two measures for each session: party agreement and party unification.  To compute party agreement, we calculated the "average" member of each party, who votes are the way the majority of their party voted in each vote.  In the above example, the "average" Democrat voted Nay on the first vote.
-
-<p>We then compared the average party member from all parties on each vote, and counted the number of times the majority of parties agreed with each other on a vote.  We say "majority of parties" because in older sessions, there were more than two parties at a time and we need a measure of agreement between them.  We divide this count to get a single number: the percentage of bills in a session of congress that parties agreed upon.
-
-<p>The next measure is party unification, or how often the party is unified or divided.  We considered a "unified" party to be 90% of party members voting the same way on a bill.  We counted the number of times this happened per session, and divided by number of votes to get the percentage of votes on which a party was unified, which we consider a measure of partisanship.
-
-<p>We spent a lot of time trying to visualize this data.  For example, here is a screenshot of a d3 area plot that shows party unification over time:
-
-  <a href="./pictures/areaplot.png"><img src="./pictures/areaplot.png" width="100%"/></a>
-
-<p>However, we were dissatisifed with this representation - it's jumbled, spiky, and hard to read, and doesn't immediately present a picture about party unification.  We want to show that partisanship is increasing but a lot of the spikes in this graph don't display that easily.
-
-<p>A simple line plot shows some interesting information:
-
-<a href="./pictures/partisanshipgraph.png"><img src="./pictures/partisanshipgraph.png"/></a>
-
-<p>This gets closer at what we want to show.  It just has Democrats and Republicans (which is okay - that's what most people today know and care about) and shows how as party unification has increased over the part 40ish years, the party agreement has dropped way down.  This gets towards our persuasive point about partisanship.
-
-<p>However, this graph is ugly.  It's hard to look at and its spikes make it seem more like a stock market diagram than something the average person wants to try to understand.  It's a lot to take in at once and there's a lot of noise.
-
-<p>We spent a long time thinking about how we could display this information in a way that was informative and visually pleasing.  After looking through the d3 library, we were inspired by <a href="http://romsson.github.io/dragit/example/nations.html">this visualization of the Wealth and Health of Nations</a>.
-
-<p>The visualization we're working on right now will follow it's method of using a draggable slider bar to show the year.  Dragging the slider allows the user to see trends over time without being overwhelmed with all the information at once.  Here's a screenshot of what the visualization will look like:
-
-<a href="./pictures/partisanshipcircles.png"><img src="./pictures/partisanshipcircles.png"/></a>
-
-<p>This is a representation of the most recent session of Congress, 113.  Each circle is a party (blue for Democrats, red for Republicans) and the size of the circle indicates the number of legislators belonging to that party.  The circle's fill is the party unification metric: here, it is 70% for Democrats and 71% for Republicans.  And the overlap of the circles indicates the measure of agreement for that session: in 113, the parties agreed on 13% of bills.</p>
-
-<p>This is obviously just the start of the visualization: it needs labels and other ways to show what it means.  Additionally, we're in the process of implementing the draggable slider and animating changes between sessions of Congress.</p>
-        
-        <p><b>Subjects</b><br></p>
-
-<p>As we talked about in our first story, we had data that showed what subjects concerned each session of Congress. In total, we have 35 sessions of Congress with this data from <a href="https://www.govtrack.us/">GovTrack</a>. Our goal with this visualization is to determine how responsive Congress is and by pairing it with the incumbency and partisanship visualizations, we can show the responsiveness of Congress as a factor of incumbency and partisanship.</p>
-
-<p>So our first order of business is that in these 35 sessions of Congress, there are hundreds of subjects that bills within these sessions addressed. We needed a way to determine what was the most important subject to that session of Congress and one obvious way to do that would be to look at the subjects that appear the greatest amount of times among all of these sessions. Using this method, we found that the subject 'Government operations and politics' appears the greatest number of times, in over 12,000 bills. But this subject isn't meaningful to us and doesn't tell us what Congress cares that is relevant to that session.</p>
-
-<p>So we instead decided to use tfidf, which is short for term frequency-inverse document frequency, and is a numerical statistic that would weight the subjects that appear most often only within a given session of Congress more heavily. This means that if in the 93rd Congress, there were a lot of bills concerning 'Medical care, personnel, and facilities' and this subject does not appear that often in the remaining 34 sessions of Congress, tfidf would give this subject a high score.</p>
-
-<p>For those of you familiar with tfidf, we are basically treating each session of Congress as a massive document where the number of bills containing a subject is the number of times that subject appears in this document and performing our tfidf calculation on the corpus of all of these documents. You can just skip the following 3 paragraphs.</p>
-
-<p>So we've found a method that might work. How did we implement it? We start with data for each session in our .csv files, as we discussed in our first story, that looks like this:</p>
-
-<a href="./pictures/starting_tfidf_explained.png"><img src="./pictures/starting_tfidf_explained.png"/></a>
-
-<p>where each column is a subject and the rows are each bills with a 1 if that bill pertains to that subject and a 0 otherwise. For the tf part of tfidf we simply go through each session of Congress and for each subject in that session, count the number of bills that pertain to that subject.</p>
-
-<p>Now for the idf part, we look at each subject and count how many times it appears in each session of Congress. We then take the log of our total number of sessions divided by the number of sessions the given subject appears in.</p>
-
-<p>Now if we compute the product of our tf value and our idf value for each subject in each session of Congress, we can find the value with the highest score and consider that the most pertinent subject to that specific session of Congress.</p>
-
-<p>But we're still not done. If we take our highest tfidf scorers and we plot the number of bills they appear in per session of Congress, we get this plot:</p>
-
-<a href="./pictures/no_subject_filtering.png"><img src="./pictures/no_subject_filtering.png" width="100%"/></a>
-
-<p>Now we have definitely been partially successful here. We can see that in 2005, which is the 109th Congress and the year that Hurricane Katrina devastated that the Gulf coast, hurricane aftermath legislation was the highest tfidf scorer. Bills relating to narcotic traffic began to rise in the 1980s and entered full swing in the 1990s as the war on drugs continued. However, looking at this plot, narcotic traffic is almost overshadowed by a subject like 'Congressional Reporting Requirements', which also doesn't tell us anything.</p>
-
-<p>So what happened? If we look at 'Congressional Reporting Requirements', we see that it did not appear in any sessions of Congress before 1983 or after 2010 which means that, based off the way we calculate idf, its idf score wasn't low enough to reduce its tf score, which exceeds 1000 in 1995. This basically boils down to different subjects that are all used to self-reference our government being used over time.</p>
-
-<p>We tried a variety of approaches like grouping sessions of Congress that use similar subjects (a quick example would be the 93rd to 98th Congresses, which contain 'Bill consideration (Rule)' as a subject) and then perform tfidf on those groups, which did not fix the problem. In the end, we chose to just eliminate all subjects that contain the following terms: 'Congress', 'Government', 'Bill', 'Advisory', and 'Executive'. We feel that removing these terms will not bias our data as all that we are doing is removing the subjects Congress uses to refer to itself and the government.</p>
-
-<p>Now if we redo our analysis after removing these subjects, we get the plot below:</p>
-
-<a href="./pictures/subject_filtering.png"><img src="./pictures/subject_filtering.png" width="100%"/></a>
-<p>This is right now a static plot rendered using matplotlib and seaborn but we plan to make this fully interactive so that the user can see how many bills for a given subject appear in each Congress, which Congress contributed which subject with the corresponding highest tfidf score, and pinpoint historical moments that show the level of Congressional response, from Hurricane Katrina in 2005 to the war in Iraq in 2003.</p>
-        
-        <p><b>Incumbency over time</b></p>
-        
-<p>To show incumbency over time, I used the data we gathered in the previous phase. This data included each member of congress and their corresponding state and/or district for each congressional session. I drew out possibilities for the visualization and settled on one in which the member of congress would be shown on the map of the US. This required me to download the district maps for each of the congressional sessions. The maps were in a GeoJSON format, which has a lot of redundancy, and also had a very high level of precision (everything was mapped to approximately the nearest 6 meters). I reduced this to the nearest 600 meters and converted it to a format that was much more useful for the web, called TopoJSON. This compressed more than 500 megabytes of map data to less than 50 megabytes! I was then able to link each of the districts from the map data to its corresponding member of congress. However, some of the districts had been moved and congress people resituated over time due to gerrymandering. I took this into account by linking each district to multiple congress people.</p>
-        
-        <a href="./pictures/incumbency.png"><img src="./pictures/incumbency.png" width="100%"></a>
-
-<p>At this point, I am able to display the map of each of the congressional districts for each session of congress. However, the map lacks interactivity and there is no useful visual indication of each district's congressperson. In the screenshot of the 17th congressional districts (chosen arbitrarily) below, I blacked out districts where a representative in the house was not found or not linked properly. All the blue districts are those in which the first letter of the first name of the representative starts with a "J" &mdash; purely to determine whether my code was working or not.</p>
-        
-        <a href="./pictures/congress-17-highlight.png"><img src="./pictures/congress-17-highlight.png" width="100%"></a>
-        </div>
-
-        <div id="text2" class="col s9" style="display: none">
-        <p>Going into this project, we knew that a lot of the data about bills brought up in Congress were on the official government websites Congress.gov and Senate.gov. These websites also included information on all of the Congress people elected into office. However, after a bit of research, we found that there was a website, called <a href="http://govtrack.us/">GovTrack</a>, that was not officially affiliated with the U.S. government in which the data was much more easily accessible.</p>
-      
-        <p>Upon looking further into govtrack, we found that they actual offer <a href="https://www.govtrack.us/developers/data">all their data free to the public</a>, and provided easy ways to direct-download their files, and a large amount of documentation on their GitHub repository.</p>
-
-        <p>Although incredibly helpful, the GovTrack data revealed itself on further investigation to be less convenient than it appeared.  The data comes in the form of over 100GB of individual json files for each bill, amendment, and vote to ever happen in Congress.  What we want is not individual files for each vote, but rather a CSV file per session of congress containing a row for each vote and its information.</p>
-        
-        <img src="./pictures/directorystructure.png" alt="directory structure for our files from govtrack">
-        
-        <p>This required a lot of parsing through the data to get it in the format we wanted.  It didn't help that a lot of the data in govtrack's files is missing or inconsistent.  Affirmative votes could be labeled as "Yea" or "Aye" depending on the year, not all fields exist for all congresses, and almost all the information we care about (even the result of the vote!) is marked as unknown for the early years of congress.</p>
-
-<p>Additionally, we downloaded over 100GB of files onto our external hard drive (a process that took several slow internet connections and several days), but the majority of that data is information that we don't care about.  We've decided to only track "passage" votes and amendments, which pass bills or amend them.  But our data also contains other types of votes, such as nominations or clotures, which are not relevant to our explorations of the data.</p>
-
-<p>Therefore, a large part of what we have spent time on so far is downloading files and creating a script that turns them into CSV files.  As we ran this script through more sessions of congress, we continued to find esoteric errors where data was randomly stored in a different format or a json file was missing a key.</p>
-
-<p>The entire process was very slow, because we have so much data.  Additionally, because the data is not stored locally but instead on our external hard drive, just reading and writing thousands of files when creating each CSV file took a long time.</p>
-
-<p>Once we created all the CSV files, the next step was to go through each individual bill for deeper information.  For most votes, they had a corresponding json file in a separate folder that gave us deeper information about it: the subject, the title, the sponsor, etc.  In particular, storing the subjects for each bill was an unwieldy process.  A bill can have any number of subjects that it covers, from one to over a hundred.  We didn't want to store these in a list in a single column of the CSV, because then we would be, for example, unable to select all bill that had to do with a certain subject without looping through all bills and parsing its list of subjects.  So to combat this, we decided to first do a cursory search through all the bills in a session of congress.  Then, we create a column in our CSV for each subject and populate each row with 1s and 0s for the subjects if a given bill pertains to that subject.</p>
-
-<p>We used the same process when getting our data on legislators.  Govtrack's data on legislators was already more organized, and came in a CSV file for us, with data on every congressperson ever, their date of birth, party, and more.  However, it did not actually tell us when they served in congress.  To solve this, we cross-referenced each voter in each session of congress with their row in the legislators data file, and then created columns for each session of congress, and marked a boolean value for each legislator corresponding to whether or not they were present in that session of congress.  From this, we can easily see data about people per session as well as how many sessions a single person was in.</p>
-
-<p>As of writing this, we are completing the creating of our final CSV files that include subjects and detailed data.  When this is completed, we can consider ourselves done with data collection for now.  We've been setting up a SQL server and will upload all our CSV files there, and then have easy access to our data going into the next stage of exploration and planning what we specifically want to visualize and create for our final deliverable.</p>
         </div>
       </div>
+      </div>
 
-    </div>
+      <div class="about row">
+          <div class="col s4">
+            <div class="bio">
+              <img class="pic" src="images/pratool.png">
+              <h5 style="text-align: center"><a href="http://www.pratool.com/">Pratool Gadtaula</a></h5>
+              <p>Pratool</p>
+            </div>
+          </div>
+
+          <div class="col s4">
+            <div class="bio">
+              <img class="pic" src="images/zoher.png">
+              <h5 style="text-align: center"><a href="http://zoherghadyali.me/">Zoher Ghadyali</a></h5>
+              <p>Zoher</p>
+            </div>
+          </div>
+
+          <div class="col s4">
+            <div class="bio">
+              <img class="pic" src="images/anne.png">
+              <h5 style="text-align: center"><a href="http://anneloverso.com/">Anne LoVerso</a></h5>
+              <p>Anne is a junior at Olin College, studying engineering with a concentration in computing.</p>
+            </div>
+          </div>
+
+      </div>
+      
       
     <script src="javascripts/scale.fix.js"></script>
 
-    <script type="text/javascript">
-
-      $('.post').click(function(event) {
-        if (this.id === "post2" && $('#post1').attr('class') === "post active") {
-          $('#post2').attr('class', 'post active');
-          $('#post1').attr('class', 'post');
-          $('#text2').css('display','block');
-          $('#text1').css('display','none');
-        } else if (this.id === "post1" && $('#post2').attr('class') === "post active") {
-          $('#post1').attr('class', 'post active');
-          $('#post2').attr('class', 'post');
-          $('#text1').css('display','block');
-          $('#text2').css('display','none');
-        }
-      })
-
-    </script>
-    
   </body>
 </html>

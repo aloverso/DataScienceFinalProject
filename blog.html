@@ -76,7 +76,7 @@
 
           <div class="post" id="post2">
             <h3>How We Obtained Data</h3>
-            <h5>22 April 2016</h5>
+            <h5>4 April 2016</h5>
           </div>
         </div>
 
@@ -107,13 +107,13 @@
 
 <p>We spent a lot of time trying to visualize this data.  For example, here is a screenshot of a d3 area plot that shows party unification over time:
 
-  <a href="./pictures/areaplot.png"><img src="./pictures/areaplot.png" width="100%"/></a>
+  <a href="./images/areaplot.png"><img src="./images/areaplot.png" width="100%"/></a>
 
 <p>However, we were dissatisifed with this representation - it's jumbled, spiky, and hard to read, and doesn't immediately present a picture about party unification.  We want to show that partisanship is increasing but a lot of the spikes in this graph don't display that easily.
 
 <p>A simple line plot shows some interesting information:
 
-<a href="./pictures/partisanshipgraph.png"><img src="./pictures/partisanshipgraph.png"/></a>
+<a href="./images/partisanshipgraph.png"><img src="./images/partisanshipgraph.png"/></a>
 
 <p>This gets closer at what we want to show.  It just has Democrats and Republicans (which is okay - that's what most people today know and care about) and shows how as party unification has increased over the part 40ish years, the party agreement has dropped way down.  This gets towards our persuasive point about partisanship.
 
@@ -123,7 +123,7 @@
 
 <p>The visualization we're working on right now will follow it's method of using a draggable slider bar to show the year.  Dragging the slider allows the user to see trends over time without being overwhelmed with all the information at once.  Here's a screenshot of what the visualization will look like:
 
-<a href="./pictures/partisanshipcircles.png"><img src="./pictures/partisanshipcircles.png"/></a>
+<a href="./images/partisanshipcircles.png"><img src="./images/partisanshipcircles.png"/></a>
 
 <p>This is a representation of the most recent session of Congress, 113.  Each circle is a party (blue for Democrats, red for Republicans) and the size of the circle indicates the number of legislators belonging to that party.  The circle's fill is the party unification metric: here, it is 70% for Democrats and 71% for Republicans.  And the overlap of the circles indicates the measure of agreement for that session: in 113, the parties agreed on 13% of bills.</p>
 
@@ -141,7 +141,7 @@
 
 <p>So we've found a method that might work. How did we implement it? We start with data for each session in our .csv files, as we discussed in our first story, that looks like this:</p>
 
-<a href="./pictures/starting_tfidf_explained.png"><img src="./pictures/starting_tfidf_explained.png"/></a>
+<a href="./images/starting_tfidf_explained.png"><img src="./images/starting_tfidf_explained.png"/></a>
 
 <p>where each column is a subject and the rows are each bills with a 1 if that bill pertains to that subject and a 0 otherwise. For the tf part of tfidf we simply go through each session of Congress and for each subject in that session, count the number of bills that pertain to that subject.</p>
 
@@ -151,7 +151,7 @@
 
 <p>But we're still not done. If we take our highest tfidf scorers and we plot the number of bills they appear in per session of Congress, we get this plot:</p>
 
-<a href="./pictures/no_subject_filtering.png"><img src="./pictures/no_subject_filtering.png" width="100%"/></a>
+<a href="./images/no_subject_filtering.png"><img src="./images/no_subject_filtering.png" width="100%"/></a>
 
 <p>Now we have definitely been partially successful here. We can see that in 2005, which is the 109th Congress and the year that Hurricane Katrina devastated that the Gulf coast, hurricane aftermath legislation was the highest tfidf scorer. Bills relating to narcotic traffic began to rise in the 1980s and entered full swing in the 1990s as the war on drugs continued. However, looking at this plot, narcotic traffic is almost overshadowed by a subject like 'Congressional Reporting Requirements', which also doesn't tell us anything.</p>
 
@@ -161,18 +161,18 @@
 
 <p>Now if we redo our analysis after removing these subjects, we get the plot below:</p>
 
-<a href="./pictures/subject_filtering.png"><img src="./pictures/subject_filtering.png" width="100%"/></a>
+<a href="./images/subject_filtering.png"><img src="./images/subject_filtering.png" width="100%"/></a>
 <p>This is right now a static plot rendered using matplotlib and seaborn but we plan to make this fully interactive so that the user can see how many bills for a given subject appear in each Congress, which Congress contributed which subject with the corresponding highest tfidf score, and pinpoint historical moments that show the level of Congressional response, from Hurricane Katrina in 2005 to the war in Iraq in 2003.</p>
         
         <p><b>Incumbency over time</b></p>
         
 <p>To show incumbency over time, I used the data we gathered in the previous phase. This data included each member of congress and their corresponding state and/or district for each congressional session. I drew out possibilities for the visualization and settled on one in which the member of congress would be shown on the map of the US. This required me to download the district maps for each of the congressional sessions. The maps were in a GeoJSON format, which has a lot of redundancy, and also had a very high level of precision (everything was mapped to approximately the nearest 6 meters). I reduced this to the nearest 600 meters and converted it to a format that was much more useful for the web, called TopoJSON. This compressed more than 500 megabytes of map data to less than 50 megabytes! I was then able to link each of the districts from the map data to its corresponding member of congress. However, some of the districts had been moved and congress people resituated over time due to gerrymandering. I took this into account by linking each district to multiple congress people.</p>
         
-        <a href="./pictures/incumbency.png"><img src="./pictures/incumbency.png" width="100%"></a>
+        <a href="./images/incumbency.png"><img src="./images/incumbency.png" width="100%"></a>
 
 <p>At this point, I am able to display the map of each of the congressional districts for each session of congress. However, the map lacks interactivity and there is no useful visual indication of each district's congressperson. In the screenshot of the 17th congressional districts (chosen arbitrarily) below, I blacked out districts where a representative in the house was not found or not linked properly. All the blue districts are those in which the first letter of the first name of the representative starts with a "J" &mdash; purely to determine whether my code was working or not.</p>
         
-        <a href="./pictures/congress-17-highlight.png"><img src="./pictures/congress-17-highlight.png" width="100%"></a>
+        <a href="./images/congress-17-highlight.png"><img src="./images/congress-17-highlight.png" width="100%"></a>
         </div>
 
         <div id="text2" class="col s9" style="display: none">
@@ -182,7 +182,7 @@
 
         <p>Although incredibly helpful, the GovTrack data revealed itself on further investigation to be less convenient than it appeared.  The data comes in the form of over 100GB of individual json files for each bill, amendment, and vote to ever happen in Congress.  What we want is not individual files for each vote, but rather a CSV file per session of congress containing a row for each vote and its information.</p>
         
-        <img src="./pictures/directorystructure.png" alt="directory structure for our files from govtrack">
+        <img src="./images/directorystructure.png" alt="directory structure for our files from govtrack">
         
         <p>This required a lot of parsing through the data to get it in the format we wanted.  It didn't help that a lot of the data in govtrack's files is missing or inconsistent.  Affirmative votes could be labeled as "Yea" or "Aye" depending on the year, not all fields exist for all congresses, and almost all the information we care about (even the result of the vote!) is marked as unknown for the early years of congress.</p>
 
