@@ -1,7 +1,7 @@
 var mapVisualization = function() {
 
   var width = 600;
-  var height = 700;
+  var height = 520;
   
   var colors = ["#fcfbfd","#efedf5","#dadaeb","#bcbddc","#9e9ac8","#807dba","#6a51a3","#54278f","#3f007d"];
   var buckets = 9;
@@ -100,7 +100,7 @@ var mapVisualization = function() {
       .attr("d", path);
     
     svg.append("g")
-      .attr("transform", "translate("+(width/2)+", "+(height-250)+")")
+      .attr("transform", "translate("+(width/2)+", "+(height-75)+")")
       .append("text")
       .attr("class", "regionName")
       .attr("text-anchor", "middle")
