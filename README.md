@@ -23,3 +23,8 @@ Column | Contains
 `committee` | The bill's committe of origin, if applicable, else NaN
 `officialTitle` | The official title of the bill
 `sponsor` | The bill's sponsor, if known
+
+## Running Code
+The Python 2.x code written in this repository often requires the use of `pandas`, `matplotlib`, `seaborn`, and `numpy` packages.
+
+All of the web browser visualizations use D3.js.
