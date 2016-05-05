@@ -20,16 +20,8 @@ var mapVisualization = function() {
 
   var g = svg.append("g");
   
-  //d3.json(fieldSeparator, "text/plain; charset=ISO-8859-1");
-  
-  /*queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts001.json")
-    .defer(d3.json, "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/reps-by-district.json")
-    .await(ready);*/
-  
   var maxOfficeTime = 0;
   
-  //function ready (error, counties, names) {
   d3.json("https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts001.json", function(error, counties) {
     d3.json("https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/reps-by-district.json", function(err2, names) {
     var nb_points = 50; // max number
@@ -131,9 +123,6 @@ var mapVisualization = function() {
       var p = "https://raw.githubusercontent.com/dinopants174/DataScienceFinalProject/gh-pages/district_maps/districts"+t+".json";
 
       d3.json(p, function(error, json) {
-      //queue().defer(d3.json, p).await( function (err, json) {
-      //$.getJSON(p, function(json) {
-      
           if (error) return console.warn(error);
           var districts = topojson.object(json, json.objects.out).geometries;
 
