@@ -28,8 +28,8 @@ var subjectsVisualization = function(){
             'Welfare reform': {className: 'welfref', color: '#9edae5'}
           };
 
-          var svg_width = 700;
-          var svg_height = 600;
+          var svg_width = 750;
+          var svg_height = 650;
           var padding = 50;
           var svg = d3.select("body")
             .append("svg")
