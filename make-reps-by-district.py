@@ -11,7 +11,7 @@ def create_table():
     table = {}
     with open('states_hash.json', 'r') as state_file:
         states_hash = json.load(state_file)
-    congress = pd.read_csv('./legislators.csv', low_memory=False)
+    congress = pd.read_csv('./data/legislators.csv', low_memory=False)
     sessions = []
     for session_name in congress:
         if 'c' in session_name and len(session_name) < 5:
