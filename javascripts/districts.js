@@ -1,7 +1,8 @@
 var mapVisualization = function() {
 
   var width = 600;
-  var height = 520;
+  var height = 570;
+  var margin_bottom = 100;
   
   var colors = ["#fcfbfd","#efedf5","#dadaeb","#bcbddc","#9e9ac8","#807dba","#6a51a3","#54278f","#3f007d"];
   var buckets = 9;
@@ -92,7 +93,7 @@ var mapVisualization = function() {
       .attr("d", path);
     
     svg.append("g")
-      .attr("transform", "translate("+(width/2)+", "+(height-75)+")")
+      .attr("transform", "translate("+(width/2)+", "+(height-margin_bottom)+")")
       .append("text")
       .attr("class", "regionName")
       .attr("text-anchor", "middle")
@@ -182,16 +183,10 @@ var mapVisualization = function() {
             .attr("d", path);
       });
 
-    
-      // svg.selectAll('#district1').remove(); 
       svg.selectAll('#district' + prev1).transition().duration(500).ease('linear')
       .remove();
 
       svg.selectAll('#district' + prev2).remove();
-
-      // if (time < prev1) {
-      //   svg.selectAll('#district' + prev1).remove();
-      // }
 
       prev2 = prev1;
       prev1 = time;
