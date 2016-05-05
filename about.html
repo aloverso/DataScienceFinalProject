@@ -5,11 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>American Congress Info</title>
     <link href='https://fonts.googleapis.com/css?family=Noto+Serif' rel='stylesheet' type='text/css'>
-    <!-- link rel="stylesheet" href="stylesheets/normalize.css">
-    <link rel="stylesheet" href="stylesheets/skeleton.css">
-     -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
-    <!-- <link rel="stylesheet" href="stylesheets/custom.css"> -->
     <meta name="viewport" content="width=device-width">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
@@ -53,6 +49,14 @@
         margin-left: auto;
         margin-right: auto;
       }
+      
+      tr:nth-child(even) {
+        background-color: #eee;
+      }
+      
+      td {
+        padding: 15px;
+      }
 
     </style>
 
@@ -88,20 +92,52 @@
             <p>Within the CSV files, each row pertains to a vote taken during that session.  These are reduced to votes we decided were important and relevant to this project: votes on bills, amendments, or passages.  Other types of votes, such as nominations, were not included because we decided they were not relevant to our goals.</p>
 
             <p>The columns in the CSV files are as follows:
-              <ul>
-                <li><b>Legislator IDS</b>: These cross-reference to the "vote_id" column of the <code>legislators.csv</code>, and is a unique ID identifying that legislator.  The contents of this column are the legislator's vote: either "Yea", "Nay", "Not Voting", or NaN if no data exists.</li>
-                <li><b>date</b>: The date of the vote</li>
-                <li><b>isAmendment</b>: A boolean value indicating whether the vote is an amendment</li>
-                <li><b>requires</b>: The votes required to pass - most are simple majority, some are two-thirds</li>
-                <li><b>result</b>: Text indicating whether the vote passed</li>
-                <li><b>title</b>: Title of the bill in numerical format</li>
-                <li><b>Subjects</b>: These columns are all subjects of bills present in that session, and the contents are boolean values indicating whether a bill pertained to a subject.  This data only exists in the 93rd session and later.</li>
-                <li><b>billTitle</b>: A short title, if it exists</li>
-                <li><b>committee</b>: The bill's committe of origin, if applicable, else NaN</li>
-                <li><b>officialTitle</b>: The official title of the bill</li>
-                <li><b>sponsor</b>: The bill's sponsor, if known</li>
-
-              </ul>
+              <table class="datainfo">
+                <tr>
+                  <td><b>Legislator IDs</b></td>
+                  <td>These cross-reference to the "vote_id" column of the <code>legislators.csv</code>, and is a unique ID identifying that legislator.  The contents of this column are the legislator's vote: either "Yea", "Nay", "Not Voting", or NaN if no data exists.</td>
+                </tr>
+                <tr>
+                  <td><b>date</b></td>
+                  <td>The date of the vote</td>
+                </tr>
+                <tr>
+                  <td><b>isAmendment</b></td>
+                  <td>A boolean value indicating whether the vote is an amendment</td>
+                </tr>
+                <tr>
+                  <td><b>requires</b></td>
+                  <td>The votes required to pass - most are simple majority, some are two-thirds</td>
+                </tr>
+                <tr>
+                  <td><b>result</b></td>
+                  <td>Text indicating whether the vote passed</td>
+                </tr>
+                <tr>
+                  <td><b>title</b></td>
+                  <td>Title of the bill in numerical format</td>
+                </tr>
+                <tr>
+                  <td><b>Subjects</b></td>
+                  <td>These columns are all subjects of bills present in that session, and the contents are boolean values indicating whether a bill pertained to a subject.  This data only exists in the 93rd session and later.</td>
+                </tr>
+                <tr>
+                  <td><b>billTitle</b></td>
+                  <td>A short title, if it exists</td>
+                </tr>
+                <tr>
+                  <td><b>committee</b></td>
+                  <td>The bill's committe of origin, if applicable, else NaN</td>
+                </tr>
+                <tr>
+                  <td><b>officialTitle</b></td>
+                  <td>The official title of the bill</td>
+                </tr>
+                <tr>
+                  <td><b>sponsor</b></td>
+                  <td>The bill's sponsor, if known</td>
+                </tr>
+              </table>
             </p>
 
             <h4>Code</h4>
