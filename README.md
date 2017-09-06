@@ -1,5 +1,5 @@
 # Data Science Spring 2016 Final Project
-This is the base repository for our Data Science Final Project. The members of this team are Pratool Gadtaula, Zoher Ghadyali, and Anne Loverso and our project is to tell a data-driven story about Congress.
+This is the base repository for our Data Science Final Project. The members of this team are Pratool Gadtaula, Zoher Ghadyali, and Anne LoVerso and our project is to tell a data-driven story about Congress.
 
 ## Data
 All the data we used for this project can be found in our GitHub repo. It is licensed free and open source under the GNU General Public License, and we encourage visitors to use the data as they see fit to continue the spirit of the project.
